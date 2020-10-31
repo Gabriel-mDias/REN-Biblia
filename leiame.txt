@@ -1,7 +1,7 @@
 ========================Requisitos
 
 openjdk8 - Outras versões podem causar problemas. Para usar ela ao lado de uma versão mais recente, alterne com o comando $ sudo update-alternatives --config java
-Unitex/Gramlab - Disponível em https://unitexgramlab.org/pt (Versão utilizada no trabalho foi a 3.1)
+Unitex/Gramlab - Disponível em https://unitexgramlab.org/pt (Versão utilizada no trabalho foi a 3.1).
 
 ========================Alterações para cada ambiente
 
@@ -15,7 +15,7 @@ Utilize o comando:
     make grafo=*nome do grafo ou cascata*
 
     Exemplo: 
-    make grafo=CascataNEs.csc       //Esse é o comando atual, considerando a cascata disponível
+    make grafo=CascataNEs.csc       //Esse é o comando atual, considerando a cascata disponível.
 
 A fim de obter os fatos do corpus da bíblia. O Resultado final está contido no arquivo fatos-biblia.pl.
 
@@ -24,3 +24,13 @@ A fim de obter os fatos do corpus da bíblia. O Resultado final está contido no
  - O tratamento com caracteres especiais está básico, apenas substituindo um acentuado pela sua versão sem acento. Isso pode gerar confusão, mas inicialmente não parece estar ocorrendo algo do tipo.
 
  - A execução pode ser demorada, em algumas maquinas com baixos recursos, pode passar dos 10min. Esse problema é devido ao extenso conjunto de textos que é a Bíblia. 
+
+ - As entradas devem estar em utf-8.
+
+ - Na pasta Entrada, estão os arquivos da bíblia sem anotações.
+
+ - Na pasta Entrada1, estão os arquivos etiquetados pela cascata.
+ 
+ - Na pasta Saida1, estão os arquivos mesclados com os fatos.
+
+ - Alguns txt como entrada-prolog.txt, fatos.txt e etc. são temporários e o próprio script os eliminam.
