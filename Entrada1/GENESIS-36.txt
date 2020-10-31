@@ -1,0 +1,43 @@
+
+1 Estas são as gerações de Esaú (este é Edom):
+2<PESSOA> Esaú</PESSOA> tomou dentre as filhas de<PESSOA> Canaã</PESSOA> suas mulheres:{S} Ada, filha de Elom o heteu, e Aolíbama, filha de<PESSOA> Ana</PESSOA>, filha de Zibeão o heveu,
+3 e Basemate, filha de<PESSOA> Ismael</PESSOA>, irmã de Nebaiote.
+4<PESSOA> Ada</PESSOA> teve de<PESSOA> Esaú</PESSOA> a Elifaz, e Basemate teve a Reuel;{S} e Aolíbama teve a Jeús, Jalão e Corá;{S} estes são os filhos de<PESSOA> Esaú</PESSOA>, que lhe nasceram na terra de<PESSOA> Canaã</PESSOA>.
+6 Depois Esaú tomou suas mulheres, seus filhos, suas filhas e todas as almas de sua casa, seu gado, todos os seus animais e todos os seus bens, que havia adquirido na terra de<PESSOA> Canaã</PESSOA>, e foi-se para outra terra, apartando-se de seu <PESSOA>irmão Jacó</PESSOA>.
+7 Porque os seus bens eram abundantes demais para habitarem juntos;{S} e a terra de suas peregrinações não os podia sustentar por causa do seu gado.
+8 Portanto Esaú habitou no monte de Seir;S<PESSOA> Esaú</PESSOA> é Edom.
+9 Estas, pois, são as gerações de<PESSOA> Esaú</PESSOA>, pai dos edomeus, no monte de Seir:
+<VALOR>10</VALOR> Estes são os nomes dos filhos de Esaú:{S} <PESSOA>Elifaz</PESSOA>, filho de<PESSOA>  Ada </PESSOA>, mulher de<PESSOA> Esaú</PESSOA>;{S} <PESSOA>Reuel</PESSOA>, filho de<PESSOA> Basemate</PESSOA>, mulher de<PESSOA> Esaú</PESSOA>.
+11 E os filhos de Elifaz foram:{S} Temã, Omar, Zefô, Gatã e Quenaz.
+12 Timna era concubina de <PESSOA>Elifaz</PESSOA>, filho de<PESSOA>  Esaú </PESSOA>, e teve de Elifaz a Amaleque.{S} São esses os filhos de<PESSOA> Ada</PESSOA>, mulher de<PESSOA> Esaú</PESSOA>.
+13 Foram estes os filhos de Reuel:{S} Naate e Zerá, Sama e Mizá.{S} Foram esses os filhos de Basemate, mulher de<PESSOA> Esaú</PESSOA>.
+<VALOR>14</VALOR> Estes foram os filhos de Aolíbama, filha de<PESSOA> Ana</PESSOA>, filha de Zibeão, mulher de Esaú: ela teve de <PESSOA> Esaú Jeús </PESSOA>,<PESSOA> Jalão</PESSOA> e<PESSOA> Corá</PESSOA>.
+15 São estes os chefes dos filhos de Esaú: dos filhos de Elifaz, o primogênito de<PESSOA> Esaú</PESSOA>, os <PESSOA>chefes Temã</PESSOA>,<PESSOA> Omar</PESSOA>,<PESSOA> Zefô</PESSOA>,<PESSOA> Quenaz</PESSOA>,
+16 Corá, Gatã e Amaleque.{S} São esses os chefes que nasceram a Elifaz na terra de Edom;{S} esses são os filhos de<PESSOA> Ada</PESSOA>.
+<VALOR>17</VALOR> Estes são os filhos de <PESSOA>Reuel</PESSOA>, filho de<PESSOA> Esaú</PESSOA>: os <PESSOA>chefes Naate</PESSOA>,<PESSOA> Zerá</PESSOA>,<PESSOA> Sama</PESSOA> e<PESSOA> Mizá</PESSOA>;{S} esses são os chefes que nasceram a Reuel na terra de Edom;{S} esses são os filhos de Basemate, mulher de<PESSOA> Esaú</PESSOA>.
+<VALOR>18</VALOR> Estes são os filhos de Aolíbama, mulher de Esaú: os <PESSOA>chefes Jeús</PESSOA>,<PESSOA> Jalão</PESSOA> e<PESSOA> Corá</PESSOA>;{S} esses são os chefes que nasceram a líbama, filha de<PESSOA> Ana</PESSOA>, mulher de<PESSOA> Esaú</PESSOA>.
+<VALOR>19</VALOR> Esses são os filhos de<PESSOA> Esaú</PESSOA>, e esses seus príncipes: ele é Edom.
+20 São estes os filhos de Seir, o horeu, moradores da terra:{S} Lotã, Sobal, Zibeão, Anás,
+21 Disom, Eser e Disã;{S} esses são os chefes dos horeus, filhos de Seir, na terra de Edom.
+<VALOR>22</VALOR> Os filhos de Lotã foram:{S} Hori e Hemã;{S} e a irmã de Lotã era Timna.
+<VALOR>23</VALOR> Estes são os filhos de Sobal:{S} Alvã, Manaate, Ebal, Sefô e Onão.
+<VALOR>24</VALOR> Estes são os filhos de Zibeão:{S} Aías e Anás;{S} este é o Anás que achou as fontes termais no deserto, quando apascentava os jumentos de Zibeão, seu pai.
+25 São estes os filhos de Ana:{S} Disom e Aolíbama, filha de<PESSOA> Ana</PESSOA>.
+26 São estes os filhos de Disom:{S} Hendã, Esbã, Itrã e Querã.
+<VALOR>27</VALOR> Estes são os filhos de Eser:{S} Bilã, Zaavã e Acã.
+<VALOR>28</VALOR> Estes são os filhos de Disã:{S} Uz e Arã.
+<VALOR>29</VALOR> Estes são os chefes dos horeus:{S} Lotã, Sobal, Zibeão, Anás,
+30 Disom, Eser e Disã;{S} esses são os chefes dos horeus que governaram na terra de Seir.
+31 São estes os reis que reinaram na terra de Edom, antes que reinasse rei algum sobre os filhos de<PESSOA> Israel</PESSOA>.
+32 Reinou, pois, em<LOCAL> Edom Belá</LOCAL>, filho de Beor;{S} e o nome da sua cidade era Dinabá.
+33 Morreu Belá;{S} e <PESSOA>Jobabe</PESSOA>, filho de<PESSOA> Zerá de Bozra</PESSOA>, reinou em seu lugar.
+34 Morreu Jobabe;{S} e Husão, da terra dos temanitas, reinou em seu lugar.
+35 Morreu Husão;{S} e em seu lugar reinou <PESSOA>Hadade</PESSOA>, filho de<PESSOA> Bedade</PESSOA>, que feriu a Midiã no campo de Moabe;{S} e o nome da sua cidade era Avite.
+36 Morreu Hadade;{S} e Sâmela de Masreca reinou em seu lugar.
+37 Morreu Sâmela;{S} e <PESSOA>Saul de Reobote</PESSOA> junto ao rio reinou em seu lugar.
+38 Morreu Saul;{S} e Baal-<PESSOA>Hanã</PESSOA>, filho de<PESSOA> Acbor</PESSOA>, reinou em seu lugar.
+39 Morreu Baal-<PESSOA>Hanã</PESSOA>, filho de<PESSOA> Acbor</PESSOA>;{S} e Hadar reinou em seu lugar;{S} e o nome da sua cidade era Paú;{S} e o nome de sua mulher era Meetabel, filha de Matrede, filha de Me-Zaabe.
+<VALOR>40</VALOR> Estes são os nomes dos chefes dos filhos de<PESSOA> Esaú</PESSOA>, segundo as suas famílias, segundo os seus lugares, pelos seus nomes: os <PESSOA>chefes Timna</PESSOA>,<PESSOA> Alva</PESSOA>,<PESSOA> Jetete</PESSOA>,
+41 Aolíbama, Elá, Pinom,
+42 Quenaz, Temã, Mibzar,
+43 Magdiel e Irão;{S} esses são os chefes de Edom, segundo as suas habitações, na terra ,da sua possessão.{S} Este é<PESSOA> Esaú</PESSOA>, pai dos edomeus.

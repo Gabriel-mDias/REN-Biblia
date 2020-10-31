@@ -1,0 +1,3 @@
+is_pessoa(Davi).
+is_pessoa(Jessé).
+is_father(Jessé,Davi).

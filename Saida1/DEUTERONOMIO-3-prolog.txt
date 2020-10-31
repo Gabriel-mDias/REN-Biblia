@@ -1,0 +1,3 @@
+is_pessoa(Jair).
+is_pessoa(Manassés).
+is_father(Manassés,Jair).

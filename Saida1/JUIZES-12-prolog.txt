@@ -1,0 +1,6 @@
+is_pessoa(Israel Abdom).
+is_pessoa(Hilel).
+is_pessoa(Abdom).
+is_pessoa(Hilel).
+is_father(Hilel,Israel Abdom).
+is_father(Hilel,Abdom).

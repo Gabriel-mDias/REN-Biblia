@@ -1,0 +1,8 @@
+
+1 Na minha angústia clamei ao <PESSOA>Senhor</PESSOA>, e ele me ouviu.
+2 <PESSOA>Senhor</PESSOA>, livra-me dos lábios mentirosos e da língua enganadora.
+3 Que te será dado, ou que te será acrescentado, língua enganadora?
+<VALOR>4</VALOR> Flechas agudas do valente, com brasas vivas de zimbro!
+5 Ai de mim, que peregrino em<LOCAL> Meseque</LOCAL>, e habito entre as tendas de Quedar!
+6 Há muito que eu habito com aqueles que odeiam a paz.
+7 Eu sou pela paz;{S} mas quando falo, eles são pela guerra.

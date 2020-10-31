@@ -1,0 +1,9 @@
+is_pessoa(Simão).
+is_pessoa(João).
+is_pessoa(Simão).
+is_pessoa(João).
+is_pessoa(Simão).
+is_pessoa(João).
+is_father(João,Simão).
+is_father(João,Simão).
+is_father(João,Simão).

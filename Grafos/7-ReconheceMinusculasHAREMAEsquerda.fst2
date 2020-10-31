@@ -1,0 +1,21 @@
+0000000001
+-1 7-ReconheceMinusculasHAREMAEsquerda
+: 1 1 
+: 8 2 
+: 3 3 
+: 9 4 
+: 4 5 
+: 7 4 6 4 5 4 4 5 2 6 
+t 
+f 
+%<E>
+%<E>/{
+%<E>/,.PESSOA}
+%<PALAVRAS_MINUSCULAS_HAREM>
+%<FIRST>
+%<PREPOSICAO>
+%<ABREVIACOES>
+%da
+%$[0
+%$]
+f

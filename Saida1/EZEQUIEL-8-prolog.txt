@@ -1,0 +1,3 @@
+is_pessoa(Jaazanias).
+is_pessoa(Safã).
+is_father(Safã,Jaazanias).

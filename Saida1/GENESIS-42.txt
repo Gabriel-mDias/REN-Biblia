@@ -1,0 +1,39 @@
+
+1 <PESSOA>Ora</PESSOA>,<PESSOA> Jacó</PESSOA> soube que havia trigo no<LOCAL> Egito</LOCAL>, e disse a seus filhos:{S} Por que estais olhando uns para os outros?
+2 Disse mais:{S} Tenho ouvido que há trigo no<LOCAL> Egito</LOCAL>;{S} descei até lá, e de lá comprai-o para nós, a fim de que vivamos e não morramos.
+3 Então desceram os dez irmãos de<PESSOA> José</PESSOA>, para comprarem trigo no<LOCAL> Egito</LOCAL>.
+4 Mas a Benjamim, irmão de<PESSOA> José</PESSOA>, não enviou<PESSOA> Jacó</PESSOA> com os seus irmãos, pois disse:{S} Para que, porventura, não lhe suceda algum desastre.
+5 Assim entre os que iam lá, foram os filhos de<PESSOA> Israel</PESSOA> para comprar, porque havia fome na terra de<PESSOA> Canaã</PESSOA>.
+6<PESSOA> José</PESSOA> era o governador da terra;{S} era ele quem vendia a todo o povo da terra;{S} e vindo os irmãos de<PESSOA> José</PESSOA>, prostraram-se diante dele com o rosto em terra.
+7<PESSOA> José</PESSOA>, vendo seus irmãos, reconheceu-os;{S} mas portou-se como estranho para com eles, falou-lhes asperamente e perguntou-lhes:{S} de onde vindes?{S} Responderam eles:{S} Da terra de<PESSOA> Canaã</PESSOA>, para comprarmos mantimento.
+8<PESSOA> José</PESSOA>, pois, reconheceu seus irmãos, mas eles não o reconheceram.
+9 Lembrou-se então<PESSOA> José</PESSOA> dos sonhos que tivera a respeito deles, e disse-lhes:{S} Vós sois espias, e viestes para ver a nudez da terra.
+10 Responderam-lhe eles:{S} Não, senhor meu;{S} mas teus servos vieram comprar mantimento.
+<VALOR>11</VALOR> Nós somos todos filhos de um mesmo homem;{S} somos homens de retidão;{S} os teus servos não são espias.
+12 Replicou-lhes:{S} Não;{S} antes viestes para ver a nudez da terra.
+13 Mas eles disseram:{S} Nós, teus servos, somos doze irmãos, filhos de um homem da terra de<PESSOA> Canaã</PESSOA>;{S} o mais novo está hoje com nosso pai, e outro já não existe.
+14 Respondeu-lhe José:{S} É assim como vos disse;{S} sois espias.
+15 Nisto sereis provados:{S} Pela vida de Faraó, não saireis de aqui, a menos que venha para cá vosso irmão mais novo.
+16 Enviai um dentre vós, que traga vosso irmão, mas vós ficareis presos, a fim de serem provadas as vossas palavras, se há verdade convosco;{S} e se não, pela vida de Faraó, vós sois espias.
+17 E meteu-os juntos na prisão por três dias.
+18 Ao terceiro dia disse-lhes José:{S} Fazei isso, e vivereis;{S} porque eu temo a Deus.
+19 Se sois homens de retidão, que fique um dos irmãos preso na casa da vossa prisão;{S} mas ide vós, levai trigo para a fome de vossas casas,
+20 e trazei-me o vosso irmão mais novo;{S} assim serão verificadas vossas palavras, e não morrereis.{S} E eles assim fizeram.
+21 Então disseram uns aos outros:{S} Nós, na verdade, somos culpados no tocante a nosso irmão, porquanto vimos a angústia da sua alma, quando nos rogava, e não o quisemos atender;{S} é por isso que vem sobre nós esta angústia.
+22 Respondeu-lhes Rúben:{S} Não vos dizia eu:{S} Não pequeis contra o menino;{S} Mas não quisestes ouvir;{S} por isso agora é requerido de nós o seu sangue.
+23 E eles não sabiam que<PESSOA> José</PESSOA> os entendia, porque havia intérprete entre eles.
+24 Nisto José se retirou deles e chorou.{S} Depois tornou a eles, falou-lhes, e tomou a Simeão dentre eles, e o amarrou perante os seus olhos.
+25 Então ordenou<PESSOA> José</PESSOA> que lhes enchessem de trigo os sacos, que lhes restituíssem o dinheiro a cada um no seu saco, e lhes dessem provisões para o caminho.{S} E assim lhes foi feito.
+<VALOR>26</VALOR> Eles, pois, carregaram o trigo sobre os seus jumentos, e partiram de ali.
+27 Quando um deles abriu o saco, para dar forragem ao seu jumento na estalagem, viu o seu dinheiro, pois estava na boca do saco.
+28 E disse a seus irmãos:{S} Meu dinheiro foi-me devolvido;{S} ei-lo aqui no saco.{S} Então lhes desfaleceu o coração e, tremendo, viravam-se uns para os outros, dizendo:{S} Que é isto que<PESSOA> Deus</PESSOA> nos tem feito?
+29 Depois vieram para<PESSOA> Jacó</PESSOA>, seu pai, na terra de<PESSOA> Canaã</PESSOA>, e contaram-lhe tudo o que lhes acontecera, dizendo:
+30 O homem, o senhor da terra, falou-nos asperamente, e tratou-nos como espias da terra;{S}
+31 mas dissemos-lhe:{S} Somos homens de retidão;{S} não somos espias;{S}
+32 somos doze irmãos, filhos de nosso pai;{S} um já não existe e o mais novo está hoje com nosso pai na terra de<PESSOA> Canaã</PESSOA>.
+33 Respondeu-nos o homem, o senhor da terra:{S} Nisto conhecerei que vós sois homens de retidão:{S} Deixai comigo um de vossos irmãos, levai trigo para a fome de vossas casas, e parti,
+34 e trazei-me vosso irmão mais novo;{S} assim saberei que não sois espias, mas homens de retidão;{S} então vos entregarei o vosso irmão e negociareis na terra.
+35 E aconteceu que, despejando eles os sacos, eis que o pacote de dinheiro de cada um estava no seu saco;{S} quando eles e seu pai viram os seus pacotes de dinheiro, tiveram medo.
+36 Então Jacó, seu pai, disse-lhes:{S} Tendes-me desfilhado;S<PESSOA> José</PESSOA> já não existe, e não existe<PESSOA> Simeão</PESSOA>, e haveis de levar Benjamim!{S} Todas estas coisas vieram sobre mim.
+37 Mas Rúben falou a seu pai, dizendo:{S} Mata os meus dois filhos, se eu to não tornar a trazer;{S} entrega-o em minha mão, e to tornarei a trazer.
+38 Ele porém disse:{S} Não descerá meu filho convosco;{S} porquanto o seu irmão é morto, e só ele ficou.{S} Se lhe suceder algum desastre pelo caminho em que fordes, fareis descer minhas cãs com tristeza ao Seol.

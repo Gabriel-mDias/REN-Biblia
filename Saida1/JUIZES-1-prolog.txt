@@ -1,0 +1,3 @@
+is_pessoa(Otniel).
+is_pessoa(Quenaz).
+is_father(Quenaz,Otniel).

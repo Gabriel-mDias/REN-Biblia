@@ -1,0 +1,15 @@
+is_pessoa(Azarias).
+is_pessoa(Jeroão).
+is_pessoa(Ismael).
+is_pessoa(Jeoanã).
+is_pessoa(Azarias).
+is_pessoa(Obede).
+is_pessoa(Maaséias).
+is_pessoa(Adaías).
+is_pessoa(Elisafaté).
+is_pessoa(Zicri).
+is_father(Jeroão,Azarias).
+is_father(Jeoanã,Ismael).
+is_father(Obede,Azarias).
+is_father(Adaías,Maaséias).
+is_father(Zicri,Elisafaté).

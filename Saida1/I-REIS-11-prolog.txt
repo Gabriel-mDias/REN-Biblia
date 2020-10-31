@@ -1,0 +1,6 @@
+is_pessoa(Rezom).
+is_pessoa(Eliadá).
+is_pessoa(Jeroboão).
+is_pessoa(Nebate).
+is_father(Eliadá,Rezom).
+is_father(Nebate,Jeroboão).

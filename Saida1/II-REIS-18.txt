@@ -1,0 +1,70 @@
+
+1 Ora, sucedeu que, no terceiro ano de
+is_father( Elá,  Oséias ).
+is_pessoa(  Oséias ).
+is_pessoa( Elá).
+, rei de<PESSOA> Israel</PESSOA>, começou a reinar 
+is_father( Acaz,Ezequias).
+is_pessoa(Ezequias).
+is_pessoa( Acaz).
+, rei de<PESSOA> Judá</PESSOA>.
+2 Tinha <VALOR>vinte e cinco anos</VALOR> quando começou a reinar, e reinou <VALOR>vinte e nove anos</VALOR> em<LOCAL> Jerusalém</LOCAL>.{S} O nome de sua mãe era Abi, filha de<PESSOA> Zacarias</PESSOA>.
+3 Ele fez o que era reto aos olhos do <PESSOA>Senhor</PESSOA>, conforme tudo o que fizera<PESSOA> Davi</PESSOA>, seu pai.
+4 Tirou os altos, quebrou as colunas, e deitou abaixo a Asera;{S} e despedaçou a serpente de bronze que<PESSOA> Moisés</PESSOA> fizera (porquanto até aquele dia os filhos de<PESSOA> Israel</PESSOA> lhe queimavam incenso), e chamou-lhe Neüstã.
+5 Confiou no<LOCAL> Senhor Deus de Israel</LOCAL>, de modo que depois dele não houve seu semelhante entre todos os reis de<PESSOA> Judá</PESSOA>, nem entre os que foram antes dele.
+6 Porque se apegou ao <PESSOA>Senhor</PESSOA>;{S} não se apartou de o seguir, e guardou os mandamentos que o <PESSOA>Senhor</PESSOA> ordenara a Moisés.
+7 Assim o <PESSOA>Senhor</PESSOA> era com ele;{S} para onde quer que saísse prosperava.{S} Rebelou-se contra o rei da<ORGANIZACAO> Assíria</ORGANIZACAO>, e recusou servi-lo.
+8 Feriu os filisteus até<LOCAL> Gaza</LOCAL> e os seus termos, desde a torre dos atalaias até a cidade fortificada.
+9 No quarto ano do <PESSOA>rei Ezequias</PESSOA> que era o sétimo ano de
+is_father( Elá,  Oséias ).
+is_pessoa(  Oséias ).
+is_pessoa( Elá).
+, rei de<PESSOA> Israel</PESSOA>,<PESSOA> Salmanasar</PESSOA>, rei da<ORGANIZACAO> Assíria</ORGANIZACAO>, subiu contra Samária, e a cercou
+10 e, ao fim de <VALOR>três anos</VALOR>, tomou-a.{S} No ano sexto de Ezequias, que era o ano nono de<PESSOA> Oséias</PESSOA>, rei de<PESSOA> Israel</PESSOA>,<PESSOA> Samária</PESSOA> foi tomada.
+11 Depois o rei da<ORGANIZACAO> Assíria</ORGANIZACAO> levou<PESSOA> Israel</PESSOA> cativo para a Assíria, e os colocou em<LOCAL> Hala</LOCAL>, e junto ao Habor, rio de<LOCAL> Gozã</LOCAL>, e nas cidades dos medos;{S}
+12 porquanto não obedeceram à voz do senhor seu<PESSOA> Deus</PESSOA>, mas violaram o seu pacto, nada ouvindo nem fazendo de tudo quanto<PESSOA> Moisés</PESSOA>, servo do <PESSOA>Senhor</PESSOA>, tinha ordenado.
+13 No ano décimo quarto do <PESSOA>rei Ezequias</PESSOA>, subiu Senaqueribe, rei da<ORGANIZACAO> Assíria</ORGANIZACAO>, contra todas as cidades fortificadas de<PESSOA> Judá</PESSOA>, e as tomou.
+14 Pelo que Ezequias, rei de<PESSOA> Judá</PESSOA>, enviou ao rei da<ORGANIZACAO> Assíria</ORGANIZACAO>, a Laquis, dizendo:{S} Pequei;{S} retira-te de mim;{S} tudo o que me impuseres suportarei.{S} Então o rei da<ORGANIZACAO> Assíria</ORGANIZACAO> impôs a Ezequias, rei de<PESSOA> Judá</PESSOA>, trezentos talentos de prata e trinta talentos de ouro.
+15 Assim deu Ezequias toda a prata que se achou na casa do <PESSOA>Senhor</PESSOA> e nos tesouros da casa do rei.
+16 Foi nesse tempo que Ezequias, rei de<PESSOA> Judá</PESSOA>, cortou das portas do templo do <PESSOA>Senhor</PESSOA>, e dos umbrais, o ouro de que ele mesmo os cobrira, e o deu ao rei da<ORGANIZACAO> Assíria</ORGANIZACAO>.
+17 Contudo este enviou de Laquis Tartã, Rabe-Sáris e Rabsaqué, com um grande exército, ao <PESSOA>rei Ezequias</PESSOA>, a Jerusalém;{S} e subiram, e vieram a Jerusalém.{S} E, tendo chegado, pararam ao pé do aqueduto da piscina superior, que está junto ao caminho do campo do lavandeiro.
+18 Havendo eles chamado o rei, saíram-lhes ao encontro 
+is_father( Hilquias,Eliaquim).
+is_pessoa(Eliaquim).
+is_pessoa( Hilquias).
+, o mordomo, e Sebna, o escrivão, e 
+is_father( Asafe,Joá).
+is_pessoa(Joá).
+is_pessoa( Asafe).
+, o cronista.
+19 E Rabsaqué lhes disse:{S} Dizei a Ezequias:{S} Assim diz o grande rei, o rei da<ORGANIZACAO> Assíria</ORGANIZACAO>:{S} Que confiança é essa em que te estribas?
+20 Dizes (são, porém, palavras vãs):{S} Há conselho e poder para a guerra.{S} Em quem, pois, agora confias, que contra mim te revoltas?
+21 Estás confiando nesse bordão de cana quebrada, que é o Egito;{S} o qual, se alguém nele se apoiar, entrar-lhe-á pela mão e a traspassará;{S} assim é Faraó, rei do<PESSOA> Egito</PESSOA> para com todos os que nele confiam.
+22 Se, porém, me disserdes:{S} No<LOCAL> Senhor</LOCAL> nosso<PESSOA> Deus</PESSOA> confiamos;{S} porventura não é esse aquele cujos altos e altares Ezequias tirou dizendo a Judá e a Jerusalém:{S} Perante, este altar adorareis em<LOCAL> Jerusalém</LOCAL>?
+23 Ora pois faze uma aposta com o meu senhor, o rei da<ORGANIZACAO> Assíria</ORGANIZACAO>: dar-te-ei dois mil cavalos, se tu puderes dar cavaleiros para eles.
+24 Como, então, poderias repelir um só príncipe dos menores servos de meu senhor, quando estás confiando no<LOCAL> Egito</LOCAL> para obteres carros e cavaleiros?
+25 Porventura teria eu subido sem o <PESSOA>Senhor</PESSOA> contra este lugar para o destruir?{S} Foi o <PESSOA>Senhor</PESSOA> que me disse: sobe contra esta terra e a destrói.
+26 Então disseram 
+is_father( Hilquias,Eliaquim).
+is_pessoa(Eliaquim).
+is_pessoa( Hilquias).
+, e Sebna, e Joá, a Rabsaqué:{S} Rogamos-te que fales aos teus servos em aramaico, porque bem o entendemos;{S} e não nos fales na língua judaica, aos ouvidos do povo que está em cima do muro.
+27 Rabsaqué, porém, lhes disse:{S} Porventura mandou-me meu senhor para falar estas palavras a teu senhor e a ti, e não aos homens que estão sentados em cima do muro que juntamente convosco hão de comer o seu excremento e beber a sua urina ?
+28 Então pondo-se em pé, Rabsaqué clamou em alta voz, na língua judaica, dizendo:{S} Ouvi a palavra do grande rei, do rei da<ORGANIZACAO> Assíria</ORGANIZACAO>.
+29 Assim diz o rei:{S} Não vos engane Ezequias;{S} porque não vos poderá livrar da minha mão;{S}
+30 nem tampouco vos faça Ezequias confiar no<LOCAL> Senhor</LOCAL>, dizendo:{S} Certamente nos livrará o <PESSOA>Senhor</PESSOA>, e esta cidade não será entregue na mão do rei da<ORGANIZACAO> Assíria</ORGANIZACAO>.
+31 Não deis ouvidos a Ezequias;{S} pois assim diz o rei da<ORGANIZACAO> Assíria</ORGANIZACAO>:{S} Fazei paz comigo, e saí a mim;{S} e coma cada um da sua vide e da sua figueira, e beba cada um a água da sua cisterna;{S}
+32 até que eu venha, e vos leve para uma terra semelhante à vossa, terra de trigo e de mosto, terra de pão e de vinhas, terra de azeite de oliveiras e de mel;{S} para que vivais e não morrais.{S} Não deis ouvidos a Ezequias, quando vos envenena, dizendo:{S} O <PESSOA>Senhor</PESSOA> nos livrará.
+33 Porventura os deuses das nações puderam livrar, cada um a sua terra, das mãos do rei da<ORGANIZACAO> Assíria</ORGANIZACAO>?
+36 Que é feito dos deuses de Hamate e de Arpade?{S} Que é feito dos deuses de Sefarvaim, de Hena e de Iva? porventura livraram Samária da minha mão?
+35 Dentre todos os deuses das terras, quais são os que livraram a sua terra da minha mão, para que o <PESSOA>Senhor</PESSOA> livre<PESSOA> Jerusalém</PESSOA> da minha mão?
+36 O povo, porém, ficou calado, e não lhe respondeu uma só palavra, porque o rei ordenara, dizendo:{S} Não lhe respondais.
+37 Então 
+is_father( Hilquias,Eliaquim).
+is_pessoa(Eliaquim).
+is_pessoa( Hilquias).
+, o mordomo, e Sebna, o escrivão, e 
+is_father( Asafe,Joá).
+is_pessoa(Joá).
+is_pessoa( Asafe).
+, o cronista, vieram a Ezequias com as vestes rasgadas, e lhe fizeram saber as palavras de Rabsaqué.

@@ -1,0 +1,39 @@
+0000000002
+-1 3-ReconheceAcoesHumAEsquerda
+: 6 1 5 1 4 1 3 1 2 1 1 1 
+: 13 2 
+: -2 3 
+: 14 4 
+: 8 5 
+: 7 6 
+: 12 5 11 5 10 5 9 7 7 6 
+t 
+f 
+-2 Nao-Pessoa
+: 19 1 7 0 
+: 7 2 
+: 14 3 
+: 15 4 
+t 
+f 
+%<E>
+%diz
+%disse
+%afirma
+%aconselha
+%explicou
+%afirmou
+%<FIRST>
+%<E>/{
+%<E>/,.PESSOA}
+%<PREPOSICAO>
+%<ABREVIACOES>
+%da
+%$![0
+%$]
+%<A>
+%<PALAVRAS_MINUSCULAS_HAREM>
+%$![1
+%$[2
+%$[3
+f

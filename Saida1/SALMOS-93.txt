@@ -1,0 +1,6 @@
+
+1 O <PESSOA>Senhor</PESSOA> reina;{S} está vestido de majestade.{S} O <PESSOA>Senhor</PESSOA> se revestiu, cingiu-se de fortaleza;{S} o mundo também está estabelecido, de modo que não pode ser abalado.
+2 O teu trono está firme desde a antigüidade;{S} desde a eternidade tu existes.
+<VALOR>3</VALOR> Os rios levantaram, ó <PESSOA>Senhor</PESSOA>, os rios levantaram o seu ruído, os rios levantam o seu fragor.
+4 Mais que o ruído das grandes águas, mais que as vagas estrondosas do mar, poderoso é o <PESSOA>Senhor</PESSOA> nas alturas.
+5 Mui fiéis são os teus testemunhos;{S} a santidade convém à tua casa, <PESSOA>Senhor</PESSOA>, para sempre.

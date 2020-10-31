@@ -1,0 +1,6 @@
+is_pessoa(Absalão).
+is_pessoa(Maacá).
+is_pessoa(Adonias).
+is_pessoa(Hagite).
+is_father(Maacá,Absalão).
+is_father(Hagite,Adonias).

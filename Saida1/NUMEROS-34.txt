@@ -1,0 +1,70 @@
+
+1 Disse mais o <PESSOA>Senhor</PESSOA> a Moisés:
+2 Dá ordem aos filhos de<PESSOA> Israel</PESSOA>, e dize-lhes:{S} Quando entrardes na terra de<PESSOA> Canaã</PESSOA>, terra esta que vos há de cair em herança, por toda a sua extensão,
+3 a banda do sul será desde o deserto de Zim, ao longo de Edom;{S} e o limite do sul se estenderá da extremidade do Mar Salgado, para o oriente;{S}
+4 e este limite irá rodeando para o sul da subida de Acrabim, e continuará até<LOCAL> Zim</LOCAL>;{S} e, saindo ao sul de Cades-Barnéia, seguirá para Hazar-Hadar, e continuará até<LOCAL> Azmom</LOCAL>;{S}
+5 e daí irá rodeando até o ribeiro do<PESSOA> Egito</PESSOA>, e terminará na praia do mar.
+6 Para o ocidente, o Mar Grande vos será por limite;{S} o próprio mar será o vosso limite ocidental.
+7 Este será o vosso limite setentrional: desde o Mar Grande marcareis para vós até o Monte Hor;{S}
+8 desde o monte Hor marcareis até a entrada de Hamate;{S} daí ele se estenderá até<LOCAL> Zedade</LOCAL>;{S}
+9 de ali continuará até<LOCAL> Zifrom</LOCAL>, e irá terminar em<LOCAL> Hazar</LOCAL>-Enã.{S} Este será o vosso limite setentrional.
+10 Marcareis o vosso limite oriental desde Hazar-Enã até<LOCAL> Sefã</LOCAL>;{S}
+11 este limite descerá de Sefã até<LOCAL> Ribla</LOCAL>, ao oriente de Aim;{S} depois irá descendo ao longo da borda do mar de Quinerete ao oriente;{S}
+12 descerá ainda para o Jordão, e irá terminar no<LOCAL> Mar Salgado</LOCAL>.{S} Esta será a vossa terra, segundo os seus limites em redor.
+13<PESSOA> Moisés</PESSOA>, pois, deu ordem aos filhos de<PESSOA> Israel</PESSOA>, dizendo:{S} Esta é a terra que herdareis por sortes, a qual o <PESSOA>Senhor</PESSOA> mandou que se desse às nove tribos e à meia tribo;{S}
+14 porque a tribo dos filhos de Rúben, segundo as casas de seus pais, e a tribo dos filhos de Gade, segundo as casas de seus pais, como também a meia tribo de Manassés, já receberam a sua herança;{S}
+15 isto é, duas tribos e meia já receberam a sua herança aquém do<PESSOA> Jordão</PESSOA>, na altura de<PESSOA> Jericó</PESSOA>, do lado oriental.
+16 Disse mais o <PESSOA>Senhor</PESSOA> a Moisés:
+<VALOR>17</VALOR> Estes são os nomes dos homens que vos repartirão a terra por herança:{S} Eleazar, o sacerdote, e<PESSOA> Josué</PESSOA>, filho de em um;{S}
+18 também tomareis de cada tribo um príncipe, para repartir a terra em herança.
+19 E estes são os nomes dos homens:{S} Da tribo de<PESSOA> Judá</PESSOA>,
+is_father( Jefoné,  Calebe ).
+is_pessoa(  Calebe ).
+is_pessoa( Jefoné).
+:
+20 da tribo dos filhos de<PESSOA> Simeão</PESSOA>,
+is_father( Amiúde,  Semuel ).
+is_pessoa(  Semuel ).
+is_pessoa( Amiúde).
+;{S}
+21 da tribo de Benjamim, 
+is_father( Quislom,Elidá).
+is_pessoa(Elidá).
+is_pessoa( Quislom).
+;{S}
+22 da tribo dos filhos de Dã o 
+is_father( Jógli, príncipe Buqui ).
+is_pessoa( príncipe Buqui ).
+is_pessoa( Jógli).
+;{S}
+23 dos filhos de José: da tribo dos filhos de Manassés o 
+is_father( Éfode, príncipe Haniel ).
+is_pessoa( príncipe Haniel ).
+is_pessoa( Éfode).
+;{S}
+24 da tribo dos filhos de Efraim o 
+is_father( Siftã, príncipe Quemuel ).
+is_pessoa( príncipe Quemuel ).
+is_pessoa( Siftã).
+;{S}
+25 da tribo dos filhos de Zebulom o 
+is_father( Parnaque, príncipe Elizafã ).
+is_pessoa( príncipe Elizafã ).
+is_pessoa( Parnaque).
+;{S}
+26 da tribo dos filhos de Issacar o 
+is_father( Azã, príncipe Paltiel ).
+is_pessoa( príncipe Paltiel ).
+is_pessoa( Azã).
+;{S}
+27 da tribo dos filhos de Aser o 
+is_father( Selômi, príncipe Aiúde ).
+is_pessoa( príncipe Aiúde ).
+is_pessoa( Selômi).
+;{S}
+28 da tribo dos filhos de Naftali o 
+is_father( Amiúde, príncipe Pedael ).
+is_pessoa( príncipe Pedael ).
+is_pessoa( Amiúde).
+.
+<VALOR>29</VALOR> Estes são aqueles a quem o <PESSOA>Senhor</PESSOA> ordenou que repartissem a herança pelos filhos de<PESSOA> Israel</PESSOA> na terra de<PESSOA> Canaã</PESSOA>.

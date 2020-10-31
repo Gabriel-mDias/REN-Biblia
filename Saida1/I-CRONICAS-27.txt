@@ -1,0 +1,111 @@
+
+1 Ora, os filhos de<PESSOA> Israel</PESSOA> segundo o seu número, os chefes das casas paternas, e os chefes dos milhares e das centenas, com os seus oficiais, que serviam ao rei em todos os negócios das turmas que entravam e saíam de mês em mês, em todos os meses do ano, eram em cada turma vinte e quatro mil.
+2 sobre a primeira turma, no primeiro mês, estava 
+is_father( Zabdiel,Jasobeão).
+is_pessoa(Jasobeão).
+is_pessoa( Zabdiel).
+;{S} e em sua turma havia vinte e quatro mil.
+3 Era ele descendente de<PESSOA> Pérez</PESSOA>, e chefe de todos os comandantes do exército para o primeiro mês.
+4 Sobre a turma do segundo mês estava Dodai, o aoíta, com a sua turma, cujo chefe era Miclote;{S} e em sua turma havia vinte e quatro mil.
+5 O terceiro comandante do exército, para o terceiro mês, era o <PESSOA>chefe Benaías</PESSOA>, filho do sacerdote Jeoiada;{S} e em sua turma havia vinte e quatro mil.
+6 Este é aquele Benaías que era o varão valente entre os trinta e comandava os trinta;{S} e da sua turma era seu <PESSOA>filho Amizabade</PESSOA>.
+7 O quarto, do quarto mês, era Asael, irmão de Joabe, e depois dele Zebadia;{S} seu filho;{S} e em sua turma havia vinte e quatro mil.
+8 O quinto, do quinto mês:, Samute, o israíta;{S} e em sua turma havia vinte e quatro mil.
+9 O sexto, do sexto mês:{S} 
+is_father( Iques,Ira).
+is_pessoa(Ira).
+is_pessoa( Iques).
+, o tecoíta;{S} e em sua turma havia vinte e quatro mil.
+10 O sétimo, do sétimo mês:, Helez, o pelonita, descendente de Efraim;{S} e em sua turma havia vinte e quatro mil.
+11 O oitavo, do oitavo mês, Sibecai, o husatita, dos zeraítas;{S} e em sua turma havia vinte e quatro mil.
+12 O nono, do nono mês, Abiezer, o anatotita, dos benjamitas;{S} e em sua turma havia vinte e quatro mil.
+13 O décimo, do décimo mês, Maarai, o netofatita, dos zeraítas;{S} e em sua turma havia vinte e quatro mil.
+14 O undécimo, do undécimo mês, Benaías, o piratonita, dos filhos de Efraim;{S} e em sua turma havia vinte e quatro mil.
+15 O duodécimo, do duodécimo mês, Heldai, o netofatita, de Otniel;{S} e em sua turma havia vinte e quatro mil.
+16 Sobre as tribos de<PESSOA> Israel</PESSOA> estavam estes: sobre os rubenitas era 
+is_father( Zicri, chefe Eliézer ).
+is_pessoa( chefe Eliézer ).
+is_pessoa( Zicri).
+;{S} sobre os simeonitas, 
+is_father( Maacá,Sefatias).
+is_pessoa(Sefatias).
+is_pessoa( Maacá).
+;{S}
+17 sobre os levitas, 
+is_father( Quemuel,Hasabias).
+is_pessoa(Hasabias).
+is_pessoa( Quemuel).
+;{S} sobre os aronitas, Zadoque;{S}
+18 sobre<PESSOA> Judá</PESSOA>, , Eliu:, um dos irmãos de<PESSOA> Davi</PESSOA>;{S} sobre Issacar, 
+is_father( Micael,Onri).
+is_pessoa(Onri).
+is_pessoa( Micael).
+;{S}
+19 sobre Zebulom, 
+is_father( Obadias,Ismaías).
+is_pessoa(Ismaías).
+is_pessoa( Obadias).
+;{S} sobre Naftali, 
+is_father( Azrriel,Jerimote).
+is_pessoa(Jerimote).
+is_pessoa( Azrriel).
+;{S}
+20 sobre os filhos de Efraim, 
+is_father( Azazias,Oséias).
+is_pessoa(Oséias).
+is_pessoa( Azazias).
+;{S} sobre a meia tribo de Manassés, 
+is_father( Pedaías,Joel).
+is_pessoa(Joel).
+is_pessoa( Pedaías).
+;{S}
+21 sobre a meia tribo de Manassés em<LOCAL> Gileade</LOCAL>,<LOCAL> Ido</LOCAL>, filho de<PESSOA> Zacarias</PESSOA>;{S} sobre Benjamim, 
+is_father(  Abner ,Jaasiel).
+is_pessoa(Jaasiel).
+is_pessoa(  Abner ).
+;{S}
+22 sobre Dã, 
+is_father( Jeroão,Azarel).
+is_pessoa(Azarel).
+is_pessoa( Jeroão).
+.{S} Esses eram os chefes das tribos de<PESSOA> Israel</PESSOA>.
+23 Não tomou, porém,<PESSOA> Davi</PESSOA> o número dos de <VALOR>vinte anos</VALOR> para baixo, porquanto o <PESSOA>Senhor</PESSOA> tinha dito que havia de multiplicar<PESSOA> Israel</PESSOA> como as estrelas do céu.
+24 
+is_father( Zeruia,Joabe).
+is_pessoa(Joabe).
+is_pessoa( Zeruia).
+, tinha começado a numerá-los, porém não acabou, porquanto viera por isso ira sobre<PESSOA> Israel</PESSOA>;{S} pelo que o número não foi posto no livro das crônicas do <PESSOA>rei Davi</PESSOA>.
+25 Sobre os tesouros do rei estava 
+is_father( Adiel,Azmavete).
+is_pessoa(Azmavete).
+is_pessoa( Adiel).
+;{S} sobre os tesouros dos campos, das cidades, das aldeias e das torres, 
+is_father( Uzias,Jônatas).
+is_pessoa(Jônatas).
+is_pessoa( Uzias).
+;{S}
+26 sobre os que faziam a obra do campo, na lavoura da terra, 
+is_father( Quelube,Ezri).
+is_pessoa(Ezri).
+is_pessoa( Quelube).
+;{S}
+27 sobre as vinhas, Simei, o ramatita;{S} sobre o produto das vides nas adegas do vinho, Zabdi, o sifmita;{S}
+28 sobre os olivais e sicômoros que havia nas campinas, Baal-Hanã, o gederita;{S} sobre os armazéns do azeite, Joás;{S}
+29 sobre o gado que pastava em<LOCAL> Sarom</LOCAL>,<LOCAL> Sitrai</LOCAL>, o saronita;{S} sobre o gado dos vales, 
+is_father( Adlai,Safate).
+is_pessoa(Safate).
+is_pessoa( Adlai).
+;{S}
+30 sobre os camelos, Obil, o ismaelita;{S} sobre as jumentas, Jedeías, o meronotita;{S}
+31 e sobre o gado miúdo, Jaziz, o hagrita.{S} Todos esses eram os intendentes dos bens do <PESSOA>rei Davi</PESSOA>.
+32 Jônatas, tio de<PESSOA> Davi</PESSOA>, era conselheiro, homem entendido, e escriba;{S} ele e 
+is_father( Hacmôni,Jeiel).
+is_pessoa(Jeiel).
+is_pessoa( Hacmôni).
+, assistiam os filhos do rei;{S}
+33 Aitofel era conselheiro do rei;{S} Husai, o arquita, era amigo o rei;{S}
+34 depois de Aitotel, 
+is_father( Benaías,Jeoiada).
+is_pessoa(Jeoiada).
+is_pessoa( Benaías).
+, e Abiatar foram conselheiros;{S} e Joabe era chefe do exército do rei.

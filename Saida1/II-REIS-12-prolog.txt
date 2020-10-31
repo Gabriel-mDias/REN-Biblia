@@ -1,0 +1,6 @@
+is_pessoa(Jozacar).
+is_pessoa(Simeate).
+is_pessoa(Jeozabade).
+is_pessoa(Somer).
+is_father(Simeate,Jozacar).
+is_father(Somer,Jeozabade).

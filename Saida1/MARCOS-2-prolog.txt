@@ -1,0 +1,3 @@
+is_pessoa(Levi).
+is_pessoa(Alfeu).
+is_father(Alfeu,Levi).

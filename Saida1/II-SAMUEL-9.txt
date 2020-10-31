@@ -1,0 +1,30 @@
+
+1 Disse<PESSOA> Davi</PESSOA>:{S} Resta ainda alguém da casa de<PESSOA> Saul</PESSOA>, para que eu use de benevolência para com ele por amor de Jônatas?
+2 E havia um servo da casa de<PESSOA> Saul</PESSOA>, cujo nome era Ziba;{S} e o chamaram à presença de<PESSOA> Davi</PESSOA>. perguntou-lhe o rei:{S} Tu és Ziba?{S} Respondeu ele:{S} Teu servo!
+3 Prosseguiu o rei:{S} Não há ainda alguém da casa de<PESSOA> Saul</PESSOA> para que eu possa usar com ele da benevolência de Deus?{S} Então disse<PESSOA> Ziba</PESSOA> ao rei:{S} Ainda há um filho de Jônatas, aleijado dos pés.
+4 Perguntou-lhe o rei:{S} Onde está.{S} Respondeu Ziba ao rei:{S} Está em casa de 
+is_father( Amiel,Maquir).
+is_pessoa(Maquir).
+is_pessoa( Amiel).
+, em<LOCAL> Lo</LOCAL>-Debar.
+5 Então mandou o <PESSOA>rei Davi</PESSOA>, e o tomou da casa de 
+is_father( Amiel,Maquir).
+is_pessoa(Maquir).
+is_pessoa( Amiel).
+, em<LOCAL> Lo</LOCAL>-Debar.
+6 E 
+is_father( Jônatas,Mefibosete).
+is_pessoa(Mefibosete).
+is_pessoa( Jônatas).
+. 
+is_father( Saul, Jônatas).
+is_pessoa( Jônatas).
+is_pessoa( Saul).
+., veio a Davi e, prostrando-se com o rosto em terra, lhe fez reverência.{S} E disse<PESSOA> Davi</PESSOA>:{S} Mefibosete!{S} Respondeu ele:{S} Eis aqui teu servo.
+7 Então lhe disse<PESSOA> Davi</PESSOA>:{S} Não temas, porque de certo usarei contigo de benevolência por amor de Jônatas, teu pai, e te restituirei todas as terras de<PESSOA> Saul</PESSOA>, teu pai;{S} e tu sempre comerás à minha mesa.
+8 Então Mefibosete lhe fez reverência, e disse:{S} Que é o teu servo, para teres olhado para um cão morto tal como eu?
+9 Então chamou<PESSOA> Davi</PESSOA> a Ziba, servo de<PESSOA> Saul</PESSOA>, e disse-lhe:{S} Tudo o que pertencia a Saul, e a toda a sua casa, tenho dado ao filho de teu senhor.
+10 Cultivar-lhe-ás, pois, a terra, tu e teus filhos, e teus servos;{S} e recolherás os frutos, para que o filho de teu senhor tenha pão para comer;{S} mas Mefibosete, filho de teu senhor, comerá sempre à minha mesa.{S} Ora, tinha Ziba quinze filhos e vinte servos.
+11 Respondeu Ziba ao rei:{S} Conforme tudo quanto meu senhor, o rei, manda a seu servo, assim o fará ele.{S} Disse o rei:{S} Quanto a Mefibosete, ele comerá à minha mesa como um dos filhos do rei.
+12 E tinha Mefibosete um filho pequeno, cujo nome era Mica.{S} E todos quantos moravam em casa de Ziba eram servos de Mefibosete.
+13 Morava, pois, Mefibosete em<LOCAL> Jerusalém</LOCAL>, porquanto sempre comia à mesa do rei.{S} E era coxo de ambos os pés.

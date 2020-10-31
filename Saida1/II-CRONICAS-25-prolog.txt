@@ -1,0 +1,12 @@
+is_pessoa(Jeoás).
+is_pessoa(Jeoacaz).
+is_pessoa(Judá).
+is_pessoa(Joás).
+is_pessoa(Amazias).
+is_pessoa(Joás).
+is_pessoa(Jeoás).
+is_pessoa(Jeoacaz).
+is_father(Jeoacaz,Jeoás).
+is_father(Joás,Judá).
+is_father(Joás,Amazias).
+is_father(Jeoacaz,Jeoás).

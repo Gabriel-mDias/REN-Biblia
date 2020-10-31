@@ -1,0 +1,38 @@
+
+1 Depois o profeta<PESSOA> Eliseu</PESSOA> chamou um dos filhos dos profetas, e lhe disse:{S} Cinge os teus lombos, toma na mão este vaso de azeite e vai a Ramote-Gileade;{S}
+2 quando lá chegares, procura a <PESSOA>Jeú</PESSOA>, filho de<PESSOA> Jeosafá</PESSOA>, filho de Ninsi;{S} entra, faze que ele se levante do meio de seus irmãos, e leva-o para uma câmara interior.
+3 Toma, então, o vaso de azeite, derrama-o sobre a sua cabeça, e dize:{S} Assim diz o <PESSOA>Senhor</PESSOA>:{S} Ungi-te rei sobre<PESSOA> Israel</PESSOA>.{S} Então abre a porta, foge e não te detenhas.
+4 Foi, pois, o jovem profeta, a Ramote-Gileade.
+5 E quando chegou, eis que os chefes do exército estavam sentados ali;{S} e ele disse:{S} <PESSOA>Chefe</PESSOA>, tenho uma palavra para te dizer.{S} E Jeú perguntou:{S} A qual de todos nós?{S} Respondeu ele:{S} A ti, chefe!
+6 Então Jeú se levantou, e entrou na casa;{S} e o mancebo derramou-lhe o azeite sobre a cabeça, e lhe disse:{S} Assim diz o <PESSOA>Senhor  Deus de Israel </PESSOA>:{S} Ungi-te rei sobre o povo do <PESSOA>Senhor</PESSOA>, sobre<PESSOA> Israel</PESSOA>.
+7 Ferirás a casa de Acabe, teu senhor, para que eu vingue da mão de Jezabel o sangue de meus servos, os profetas, e o sangue de todos os servos do <PESSOA>Senhor</PESSOA>.
+8 Pois toda a casa de Acabe perecerá;{S} e destruirei de Acabe todo filho varão, tanto o escravo como o livre em<LOCAL> Israel</LOCAL>.
+9 Porque hei de fazer a casa de Acabe como a casa de <PESSOA>Jeroboão</PESSOA>, filho de<PESSOA> Nebate</PESSOA>, e como a casa de <PESSOA>Baasa</PESSOA>, filho de<PESSOA> Aías</PESSOA>.
+<VALOR>10</VALOR> Os cães comerão a Jezabel no campo de Jizreel;{S} não haverá quem a enterre.{S} Então o mancebo abriu a porta e fugiu.
+11 Saiu então Jeú aos servos de seu senhor;{S} e um lhe perguntou:{S} Vai tudo bem?{S} Por que veio a ti esse louco?{S} E ele lhes respondeu:{S} Bem conheceis o homem e o seu falar.
+12 Mas eles replicaram.{S} É mentira;{S} dize-no-lo, pedimos-te.{S} Ao que disse<PESSOA> Jeú</PESSOA>:{S} Assim e assim ele me falou, dizendo:{S} Assim diz o <PESSOA>Senhor</PESSOA>:{S} Ungi-te rei sobre<PESSOA> Israel</PESSOA>.
+13 Então se apressaram, e cada um tomou a sua capa e a pôs debaixo dele, no mais alto degrau;{S} e tocaram a buzina, e disseram:{S} Jeú reina!
+14 Assim <PESSOA>Jeú</PESSOA>, filho de<PESSOA> Jeosafá</PESSOA>, filho de Ninsi, conspirou contra Jorão. (Ora, tinha Jorão cercado a Ramote-Gileade, ele e todo o Israel, por causa de Hazael, rei da<ORGANIZACAO> Síria</ORGANIZACAO>;{S}
+15 porém o <PESSOA>rei Jorão</PESSOA> tinha voltado para se curar em<LOCAL> Jizreel</LOCAL> das feridas que os sírios lhe fizeram, quando pelejou contra Hazael, rei da<ORGANIZACAO> Síria</ORGANIZACAO>.) E disse<PESSOA> Jeú</PESSOA>:{S} Se isto é o vosso parecer, ninguém escape nem saia da cidade para ir dar a nova em<LOCAL> Jizreel</LOCAL>.
+16 Então Jeú subiu a um carro, e foi a Jizreel;{S} porque Jorão estava acamado ali;{S} e também Acazias, rei de<PESSOA> Judá</PESSOA>, descera para ver Jorão.
+17 O atalaia que estava na torre de<LOCAL> Jizreel</LOCAL> viu a tropa de Jeú, que vinha e disse:{S} Vejo uma tropa.{S} Disse<PESSOA> Jorão</PESSOA>:{S} Toma um cavaleiro, e envia-o ao seu encontro a perguntar:{S} Há paz?
+18 E o cavaleiro lhe foi ao encontro, e disse:{S} Assim diz o rei:{S} Há paz?{S} Respondeu Jeú:{S} Que tens tu que fazer com a paz?{S} Passa para trás de mim.{S} E o atalaia deu aviso, dizendo:{S} Chegou a eles o mensageiro, porém não volta.
+19 Então Jorão enviou outro cavaleiro;{S} e, chegando este a eles, disse<PESSOA> Assim</PESSOA> diz o rei:{S} Há paz?{S} Respondeu Jeú:{S} Que tens tu que fazer com a paz?{S} Passa para trás de mim.
+20 E o atalaia deu aviso, dizendo:{S} Também este chegou a eles, porém não volta;{S} e o andar se parece com o andar de <PESSOA>Jeú</PESSOA>, filho de<PESSOA> Ninsi</PESSOA> porque anda furiosamente.
+21 Disse<PESSOA> Jorão</PESSOA>:{S} Aparelha-me o carro!{S} E lho aparelharam.{S} Saiu Jorão, rei de<PESSOA> Israel</PESSOA>, com Acazias, rei de<PESSOA> Judá</PESSOA>, cada um em seu carro para irem ao encontro de Jeú, e o encontraram no campo de Nabote, o jizreelita.
+22 E sucedeu que, vendo Jorão a Jeú, perguntou:{S} Há paz, Jeú?{S} Respondeu ele:{S} Que paz, enquanto as prostituições da tua mãe Jezabel e as suas feitiçarias são tantas?
+23 Então Jorão deu volta, e fugiu, dizendo a Acazias:{S} Há traição, Acazias!
+24 Mas Jeú, entesando o seu arco com toda a força, feriu Jorão entre as espáduas, e a flecha lhe saiu pelo coração;{S} e ele caiu no seu carro.
+25 Disse então Jeú a Bidcar, seu ajudante:{S} Levanta-o, e lança-o no campo da herança de Nabote, o jizreelita;{S} pois lembra-te de indo eu e tu juntos a cavalo após seu <PESSOA>pai Acabe</PESSOA>, o <PESSOA>Senhor</PESSOA> pôs sobre ele esta sentença, dizendo:
+26 Certamente vi ontem o sangue de Nabote e o sangue de seus filhos, diz o <PESSOA>Senhor</PESSOA>;{S} e neste mesmo campo te retribuirei, diz o <PESSOA>Senhor</PESSOA>.{S} Agora, pois, levanta-o, e lança-o neste campo, conforme a palavra do <PESSOA>Senhor</PESSOA>.
+27 Quando Acazias, rei de<PESSOA> Judá</PESSOA>, viu isto, fugiu pelo caminho da casa do jardim.{S} E Jeú o perseguiu, dizendo:{S} A este também!{S} Matai-o!{S} Então o feriram no carro, à subida de Gur, que está junto a Ibleão;{S} mas ele fugiu para Megido, e ali morreu.
+28 E seus servos o levaram em um carro a Jerusalém, e o sepultaram na sua sepultura junto a seus pais, na <LOCAL>cidade de Davi</LOCAL>.
+29 Ora, Acazias começara a reinar sobre<PESSOA> Judá</PESSOA> no ano undécimo de <PESSOA>Jorão</PESSOA>, filho de<PESSOA> Acabe</PESSOA>.
+30 Depois Jeú veio a Jizreel;{S} o que ouvindo Jezabel, pintou-se em volta dos olhos, e enfeitou a sua cabeça, e olhou pela janela.
+31 Quando Jeú entrava pela porta, disse ela:{S} Teve paz Zinri, que matou a seu senhor ?
+32 Ao que ele levantou o rosto para a janela e disse:{S} Quem é comigo? quem?{S} E dois ou três eunucos olharam para ele.
+33 Então disse ele:{S} Lançai-a daí abaixo.{S} E lançaram-na abaixo;{S} e foram salpicados com o sangue dela a parede e os cavalos;{S} e ele a atropelou.
+34 E tendo ele entrado, comeu e bebeu;{S} depois disse:{S} Olhai por aquela maldita, e sepultai-a, porque é filha de rei.
+35 Foram, pois, para a sepultar;{S} porém não acharam dela senão a caveira, os pés e as palmas das mãos.
+36 Então voltaram, e lho disseram.{S} Pelo que ele disse:{S} Esta é a palavra do <PESSOA>Senhor</PESSOA>, que ele falou por intermédio de<PESSOA> Elias</PESSOA>, o tisbita, seu servo, dizendo:{S} No campo de Jizreel os cães comerão a carne de Jezabel,
+37 e o seu cadáver será como esterco sobre o campo, na herdade de Jizreel;{S} de modo que não se poderá dizer:{S} Esta é Jezabel.

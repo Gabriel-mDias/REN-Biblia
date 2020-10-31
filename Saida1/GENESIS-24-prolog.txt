@@ -1,0 +1,9 @@
+is_pessoa(Betuel).
+is_pessoa(Milca).
+is_pessoa(Betuel).
+is_pessoa(Milca).
+is_pessoa(Filha de Betuel).
+is_pessoa(Naor).
+is_father(Milca,Betuel).
+is_father(Milca,Betuel).
+is_father(Naor,Filha de Betuel).

@@ -1,0 +1,37 @@
+
+<VALOR>1</VALOR> Estes, pois, são os chefes de suas casas paternas, e esta é a genealogia dos que subiram comigo de Babilônia no reinado do <PESSOA>rei Artaxerxes</PESSOA>:
+2 Dos filhos de Finéias, Gérson;{S} dos filhos de<PESSOA> Itamar</PESSOA>,<PESSOA> Daniel</PESSOA>;{S} dos filhos de<PESSOA> Davi</PESSOA>,<PESSOA> Hatus</PESSOA>;{S}
+3 dos filhos de Secanias, dos filhos de Parós, Zacarias;{S} e com ele, segundo as genealogias dos varões, se contaram cento e cinqüenta;{S}
+4 dos filhos de Paate-Moabe, <PESSOA>Elioenai</PESSOA>, filho de<PESSOA> Zeraías</PESSOA>, e com ele duzentos homens;{S}
+5 dos filhos de Zatu, Secanias, o filho de Jaaziel, e com ele trezentos homens;{S}
+6 dos filhos de Adim, <PESSOA>Ebede</PESSOA>, filho de<PESSOA> Jônatas</PESSOA>, e com ele cinqüenta homens;{S}
+7 dos filhos de Elão, <PESSOA>Jesaías</PESSOA>, filho de<PESSOA> Atalias</PESSOA>, e com ele setenta homens;{S}
+8 dos filhos de Sefatias, <PESSOA>Zebadias</PESSOA>, filho de<PESSOA> Micael</PESSOA>, e com ele oitenta homens;{S} e
+9 dos filhos de Joabe, <PESSOA>Obadias</PESSOA>, filho de<PESSOA> Jeiel</PESSOA>, e com ele duzentos e dezoito homens;{S}
+10 dos filhos de Bani, Selomite, o filho de Josifias, e com ele cento e sessenta homens;{S}
+11 dos filhos de Bebai, Zacarias, o filho de Bebai, e com ele vinte e oito homens;{S}
+12 dos filhos de Azgade, Joanã, o filho de Hacatã, e com ele cento e dez homens;{S}
+13 dos filhos de Adonicão, que eram os últimos, eis os seus nomes:{S} Elifelete, Jeuel e Semaías, e com eles sessenta homens;{S}
+14 e dos filhos de Bigvai, Utai e Zabude, e com eles setenta homens.
+15 Ajuntei-os à margem do rio que corre para Ava;{S} e ficamos ali acampados três dias.{S} Então passei em revista o povo e os sacerdotes, e não achei ali nenhum dos filhos de<PESSOA> Levi</PESSOA>.
+16 Mandei, pois, chamar <PESSOA>Eliézer</PESSOA>,<PESSOA> Ariel</PESSOA>,<PESSOA> Semaías</PESSOA>,<PESSOA> Elnatã</PESSOA>,<PESSOA> Jaribe</PESSOA>,<PESSOA> Elnatã</PESSOA>,<PESSOA> Natã</PESSOA>,<PESSOA> Zacarias</PESSOA> e<PESSOA> Mesulão</PESSOA>, os chefes, como também, Joiaribe e Elnatã, que eram mestres.
+17 E os enviei a Ido, chefe em<LOCAL> Casífia</LOCAL>, e lhes pus na boca palavras para dizerem a Ido e aos seus irmãos, os netinins, em<LOCAL> Casífia</LOCAL>, que nos trouxessem ministros para a casa do nosso<PESSOA> Deus</PESSOA>.
+18 E, pela boa mão de nosso<PESSOA> Deus</PESSOA> sobre nós, trouxeram-nos um homem entendido, dos filhos de <PESSOA>Mali</PESSOA>, filho de<PESSOA>  Levi </PESSOA>, filho de<PESSOA> Israel</PESSOA>;{S} e Serebias, com os seus filhos e irmãos, dezoito;{S}
+19 e Hasabias, e com ele Jesaías, dos filhos de Merári, com seus irmãos e os filhos deles, vinte;{S}
+20 e dos netinins, que<PESSOA> Davi</PESSOA> e os príncipes tinham dado para o serviço dos levitas, duzentos e vinte, todos eles mencionados por nome.
+21 Então proclamei um jejum ali junto ao rio<LOCAL> Ava</LOCAL>, para nos humilharmos diante do nosso<PESSOA> Deus</PESSOA>, a fim de lhe pedirmos caminho seguro para nós, para nossos pequeninos, e para toda a nossa fazenda.
+22 Pois tive vergonha de pedir ao rei uma escolta de soldados, e cavaleiros para nos defenderem do inimigo pelo caminho, porquanto havíamos dito ao rei:{S} A mão do nosso<PESSOA> Deus</PESSOA> é sobre todos os que o buscam, para o bem deles;{S} mas o seu poder e a sua ira estão contra todos os que o deixam.
+<VALOR>23</VALOR> Nós, pois, jejuamos, e pedimos isto ao nosso<PESSOA> Deus</PESSOA>;{S} e ele atendeu às nossas orações.
+24 Então separei doze dos principais dentre os sacerdotes:{S} Serebias e Hasabias, e com eles dez dos seus irmãos;{S}
+25 e pesei-lhes a prata, o ouro e os vasos, a oferta para a casa do nosso<PESSOA> Deus</PESSOA>, que o rei, os seus conselheiros, os seus príncipes e todo o Israel que estava ali haviam oferecido;{S}
+26 entreguei-lhes nas mãos seiscentos e cinqüenta talentos de prata, e em vasos de prata cem talentos;{S} e cem talentos de ouro;{S}
+27 e vinte taças de ouro no valor de mil dáricos, e dois vasos de bronze claro e brilhante, tão precioso como o ouro.
+28 E disse-lhes:{S} Vós sois santos ao <PESSOA>Senhor</PESSOA>, e santos são estes vasos;{S} como também esta prata e este ouro são ofertas voluntárias, oferecidas ao <PESSOA>Senhor</PESSOA>,<PESSOA> Deus</PESSOA> de vossos pais.
+29 Vigiai, pois, e guardai-os até que os peseis na presença dos principais dos sacerdotes e dos levitas, e dos príncipes das casas paternas de<PESSOA> Israel</PESSOA>, em<LOCAL> Jerusalém</LOCAL>, nas câmaras da casa do <PESSOA>Senhor</PESSOA>.
+30 Então os sacerdotes e os levitas receberam o peso da prata, e do ouro, e dos vasos, a fim de os trazerem para<PESSOA> Jerusalém</PESSOA>, para a casa do nosso<PESSOA> Deus</PESSOA>.
+31 Então partimos do rio<LOCAL> Ava</LOCAL>, no dia doze do primeiro mês, a fim de irmos para<PESSOA> Jerusalém</PESSOA>;{S} e a mão do nosso<PESSOA> Deus</PESSOA> estava sobre nós, e ele nos livrou da mão dos inimigos, e dos que nos armavam ciladas pelo caminho.
+32 Chegamos, pois, a Jerusalém, e repousamos ali três dias.
+33 No quarto dia se pesou a prata, e o ouro, e os vasos, na casa do nosso<PESSOA> Deus</PESSOA>, para as mãos de Meremote filho do sacerdote<PESSOA> Urias</PESSOA>;{S} e com ele estava <PESSOA>Eleazar</PESSOA>, filho de<PESSOA> Finéias</PESSOA>, e com eles os levitas <PESSOA>Jozabade</PESSOA>, filho de<PESSOA> Jesuá</PESSOA>, e <PESSOA>Noadias</PESSOA>, filho de<PESSOA> Binuí</PESSOA>.
+34 Tudo foi entregue por número e peso;{S} e o peso de tudo foi registrado na ocasião.
+<VALOR>35</VALOR> Os exilados que tinham voltado do cativeiro ofereceram holocaustos ao <PESSOA>Deus de Israel</PESSOA>: doze novilhos por todo o Israel, noventa e seis carneiros, setenta e sete cordeiros, e doze bodes em oferta pelo pecado;{S} tudo em holocausto ao <PESSOA>Senhor</PESSOA>.
+36 Então entregaram os editos do rei aos sátrapas do rei, e aos governadores a oeste do Rio;{S} e estes ajudaram o povo e a casa de<PESSOA> Deus</PESSOA>.

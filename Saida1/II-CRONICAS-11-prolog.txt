@@ -1,0 +1,15 @@
+is_pessoa(Roboão).
+is_pessoa(Salomão).
+is_pessoa(Roboão).
+is_pessoa(Salomão).
+is_pessoa(Jerimote).
+is_pessoa(Davi).
+is_pessoa(Eliabe).
+is_pessoa(Jessé).
+is_pessoa(Abias).
+is_pessoa(Maacá).
+is_father(Salomão,Roboão).
+is_father(Salomão,Roboão).
+is_father(Davi,Jerimote).
+is_father(Jessé,Eliabe).
+is_father(Maacá,Abias).

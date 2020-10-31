@@ -1,0 +1,3 @@
+is_pessoa(Hanã).
+is_pessoa(Zacur).
+is_father(Zacur,Hanã).

@@ -1,0 +1,6 @@
+is_pessoa(Zabade).
+is_pessoa(Simeate).
+is_pessoa(Jeozabade).
+is_pessoa(Sinrite).
+is_father(Simeate,Zabade).
+is_father(Sinrite,Jeozabade).

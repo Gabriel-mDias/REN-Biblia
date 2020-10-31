@@ -1,0 +1,9 @@
+is_pessoa(Hanamel).
+is_pessoa(Salum).
+is_pessoa(Baruque).
+is_pessoa(Nerias).
+is_pessoa(Banique).
+is_pessoa(Nerias).
+is_father(Salum,Hanamel).
+is_father(Nerias,Baruque).
+is_father(Nerias,Banique).

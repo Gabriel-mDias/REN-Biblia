@@ -1,0 +1,29 @@
+
+1 Quando Is-
+is_father(  Saul ,Bosete).
+is_pessoa(Bosete).
+is_pessoa(  Saul ).
+, soube que<PESSOA> Abner</PESSOA> morrera em<LOCAL> Hebrom</LOCAL>, esvaíram-se-lhe as forças, e todo o Israel ficou perturbado.
+2 Tinha Is-
+is_father(  Saul ,Bosete).
+is_pessoa(Bosete).
+is_pessoa(  Saul ).
+, dois homens chefes de guerrilheiros;{S} um deles se chamava<ABSTRACCAO> Baaná</ABSTRACCAO>, e o outro Recabe, filhos de Rimom, o beerotita, dos filhos de Benjamim (porque também Beerote era contado de Benjamim,
+3 tendo os beerotitas fugido para Jitaim, onde têm peregrinado até o dia de hoje).
+4 Ora, 
+is_father(  Saul ,Jônatas).
+is_pessoa(Jônatas).
+is_pessoa(  Saul ).
+, tinha um filho aleijado dos pés.{S} Este era da idade de <VALOR>cinco anos</VALOR> quando chegaram de Jizreel as novas a respeito de<PESSOA> Saul</PESSOA> e<PESSOA> Jônatas</PESSOA>;{S} pelo que sua ama o tomou, e fugiu;{S} e sucedeu que, apressando-se ela a fugir, ele caiu, e ficou coxo.{S} O seu nome era Mefibosete.
+5 Foram os filhos de Rimom, o beerotita, Recabe e Baanã, no maior calor de dia, e entraram em casa de Is-Bosete, estando ele deitado a dormir a sesta.
+6 Entraram ali até o meio da casa, como que vindo apanhar trigo, e o feriram no ventre;{S} e Recabe e Baaná, seu irmão, escaparam.
+7 Porque entraram na sua casa, estando ele deitado na cama, no seu quarto de dormir, e o feriram e mataram, e cortando-lhe a cabeça, tomaram-na e andaram a noite toda pelo caminho da<ORGANIZACAO> Arabá</ORGANIZACAO>.
+8 Assim trouxeram a cabeça de Is-Bosete a Davi em<LOCAL> Hebrom</LOCAL>, e disseram ao rei:{S} Eis aqui a cabeça de Is-
+is_father(  Saul ,Bosete).
+is_pessoa(Bosete).
+is_pessoa(  Saul ).
+, teu inimigo, que procurava a tua morte;{S} assim o <PESSOA>Senhor</PESSOA> vingou hoje ao rei meu <PESSOA>Senhor</PESSOA>, de<PESSOA> Saul</PESSOA> e da sua descendência.
+9 Mas Davi, respondendo a Recabe e a Baaná, seu irmão, filhos de Rimom, e beerotita, disse-lhes:{S} Vive o <PESSOA>Senhor</PESSOA>, que remiu a minha alma de toda a angústia!
+10 Se àquele que me trouxe novas, dizendo:{S} Eis que<PESSOA> Saul</PESSOA> é morto, cuidando que trazia boas novas, eu logo lancei mão dele, e o matei em<LOCAL> Ziclague</LOCAL>, sendo essa a recompensa que lhe dei pelas novas,
+11 quanto mais quando homens cruéis mataram um homem justo em sua casa, sobre a sua cama, não requererei eu e seu sangue de vossas mãos, e não vos exterminarei da terra?
+12 E Davi deu ordem aos seus mancebos;{S} e eles os mataram e, cortando-lhes as mãos e os pés, os penduraram junto ao tanque em<LOCAL> Hebrom</LOCAL>.{S} Tomaram, porém, a cabeça de Is-Bosete, e a sepultaram na sepultura de<PESSOA> Abner</PESSOA>, em<LOCAL> Hebrom</LOCAL>.

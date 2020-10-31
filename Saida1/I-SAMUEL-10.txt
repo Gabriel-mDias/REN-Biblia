@@ -1,0 +1,32 @@
+
+1 Então Samuel tomou um vaso de azeite, e o derramou sobre a cabeça de<PESSOA> Saul</PESSOA>, e o beijou, e disse:{S} Porventura não te ungiu o <PESSOA>Senhor</PESSOA> para ser príncipe sobre a sua herança?
+2 Quando te apartares hoje de mim, encontrarás dois homens junto ao sepulcro de<PESSOA> Raquel</PESSOA>, no termo de Benjamim, em<LOCAL> Zelza</LOCAL>, os quais te dirão:{S} Acharam-se as jumentas que foste buscar, e eis que já o teu pai deixou de pensar nas jumentas, e anda aflito por causa de ti, dizendo:{S} Que farei eu por meu filho?
+3 Então de ali passarás mais adiante, e chegarás ao carvalho de Tabor;{S} ali te encontrarão três homens, que vão subindo a Deus, a Betel, levando um três cabritos, outro três formas de pão, e o outro um odre de vinho.
+<VALOR>4</VALOR> Eles te saudarão, e te darão dois pães, que receberás das mãos deles.
+5 Depois chegarás ao outeiro de<PESSOA> Deus</PESSOA>, onde está a guarnição dos filisteus;{S} ao entrares ali na cidade, encontrarás um grupo de profetas descendo do alto, precedido de saltérios, tambores, flautas e harpas, e eles profetizando.
+6 E o Espírito do <PESSOA>Senhor</PESSOA> se apoderará de ti, e profetizarás com eles, e serás transformado em outro homem.
+7 Quando estes sinais te vierem, faze o que achar a tua mão para fazer, pois<PESSOA> Deus</PESSOA> é contigo.
+8 Tu, porém, descerás adiante de mim a Gilgal, e eis que eu descerei a ter contigo, para oferecer holocaustos e sacrifícios de ofertas pacíficas.{S} Esperarás sete dias, até que eu vá ter contigo e te declare o que hás de fazer.
+9 Ao virar<PESSOA> Saul</PESSOA> as costas para se apartar de<PESSOA> Samuel</PESSOA>,<PESSOA> Deus</PESSOA> lhe mudou o coração em outro;{S} e todos esses sinais aconteceram naquele mesmo dia.
+10 Quando eles iam chegando ao outeiro, eis que um grupo de profetas lhes saiu ao encontro;{S} e o Espírito de<PESSOA> Deus</PESSOA> se apoderou de<PESSOA> Saul</PESSOA>, e ele profetizou no meio deles.
+<VALOR>11</VALOR> Todos os que o tinham conhecido antes, ao verem que ele profetizava com os profetas, diziam uns aos outros:{S} Que é que sucedeu ao filho de Quis?{S} Está também<PESSOA> Saul</PESSOA> entre os profetas?
+12 Então um homem de ali respondeu, e disse:{S} Pois quem é o pai deles?{S} Pelo que se tornou em provérbio:{S} Está também<PESSOA> Saul</PESSOA> entre os profetas?
+13 Tendo ele acabado de profetizar, foi ao alto.
+14 Depois o tio de<PESSOA> Saul</PESSOA> perguntou-lhe, a ele e ao seu moço:{S} Aonde fostes?{S}: Respondeu ele:{S} Procurar as jumentas;{S} e, não as tendo encontrado, fomos ter com<PESSOA> Samuel</PESSOA>.
+15 Disse mais o tio de Saul:{S} Declara-me, peço-te, o que vos disse<PESSOA> Samuel</PESSOA>.
+16 Ao que respondeu<PESSOA> Saul</PESSOA> a seu tio:{S} Declarou-nos, seguramente, que as jumentas tinham sido encontradas.{S} Mas quanto ao assunto do reino, de que<PESSOA> Samuel</PESSOA> falara, nada lhe declarou.
+17 Então Samuel convocou o povo ao <PESSOA>Senhor</PESSOA> em<LOCAL> Mizpá</LOCAL>;{S}
+18 e disse aos filhos de Israel:{S} Assim diz o <PESSOA>Senhor  Deus de Israel </PESSOA>:{S} Eu fiz subir a <PESSOA>Israel do Egito</PESSOA>, e vos livrei da mão dos egípcios e da mão de todos os reinos que vos oprimiam.
+19 Mas vós hoje rejeitastes a vosso<PESSOA> Deus</PESSOA>, àquele que vos livrou de todos os vossos males e angústias, e lhe dissestes:{S} Põe um rei sobre nós.{S} Agora, pois, ponde-vos perante o <PESSOA>Senhor</PESSOA>, segundo as vossas tribos e segundo os vossos milhares.
+20 Tendo, pois,<PESSOA> Samuel</PESSOA> feito chegar todas as tribos de<PESSOA> Israel</PESSOA>, foi tomada por sorte a tribo de Benjamim.
+21 E, quando fez chegar a tribo de Benjamim segundo as suas famílias, foi tomada a família de Matri, e dela foi tomado
+is_father( Quis,  Saul ).
+is_pessoa(  Saul ).
+is_pessoa( Quis).
+;{S} e o procuraram, mas não foi encontrado.
+22 Pelo que tornaram a perguntar ao <PESSOA>Senhor</PESSOA>:{S} Não veio o homem ainda para cá?{S} E respondeu o <PESSOA>Senhor</PESSOA>:{S} Eis que se escondeu por entre a bagagem:
+23 Correram, pois, e o trouxeram de ali;{S} e estando ele no meio do povo, sobressaía em altura a todo o povo desde os ombros para cima.
+24 Então disse<PESSOA> Samuel</PESSOA> a todo o povo:{S} Vedes já a quem o <PESSOA>Senhor</PESSOA> escolheu:{S} Não há entre o povo nenhum semelhante a ele.{S} Então todo o povo o aclamou, dizendo:{S} Viva o rei;{S}
+25 Também declarou<PESSOA> Samuel</PESSOA> ao povo a lei do reino, e a escreveu em um livro, e pô-lo perante o <PESSOA>Senhor</PESSOA>.{S} Então Samuel despediu todo o povo, cada um para sua casa.
+26 E foi também<PESSOA> Saul</PESSOA> para sua casa em<LOCAL> Gibeá</LOCAL>;{S} e foram com ele homens de valor, aqueles cujo coração<PESSOA> Deus</PESSOA> tocara.
+27 Mas alguns homens ímpios disseram:{S} Como pode este homem nos livrar?{S} E o desprezaram, e não lhe trouxeram presentes;{S} porém ele se fez como surdo.

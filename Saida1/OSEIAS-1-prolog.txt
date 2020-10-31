@@ -1,0 +1,6 @@
+is_pessoa(Oséias).
+is_pessoa(Beeri).
+is_pessoa(Jeroboão).
+is_pessoa(Joás).
+is_father(Beeri,Oséias).
+is_father(Joás,Jeroboão).

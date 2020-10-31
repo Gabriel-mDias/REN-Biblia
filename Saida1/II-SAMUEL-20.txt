@@ -1,0 +1,67 @@
+
+1 Ora, sucedeu achar-se ali um homem de Belial, cujo nome era 
+is_father( Bicri,Sebá).
+is_pessoa(Sebá).
+is_pessoa( Bicri).
+, homem de Benjamim, o qual tocou a buzina, e disse:{S} Não temos parte em<LOCAL> Davi</LOCAL>, nem herança no filho de<PESSOA> Jessé</PESSOA>;{S} cada um à sua tenda, ó Israel!
+2 Então todos os homens de<PESSOA> Israel</PESSOA> se separaram de<PESSOA> Davi</PESSOA>, e seguiram a 
+is_father( Bicri,Sebá).
+is_pessoa(Sebá).
+is_pessoa( Bicri).
+;{S} porém os homens de<PESSOA> Judá</PESSOA> seguiram ao seu rei desde o Jordão até<LOCAL> Jerusalém</LOCAL>.
+3 Quando Davi chegou à sua casa em<LOCAL> Jerusalém</LOCAL>, tomou as dez concubinas que deixara para guardarem a casa, e as pôs em uma casa, sob guarda, e as sustentava;{S} porém não entrou a elas.{S} Assim estiveram encerradas até o dia da sua morte, vivendo como viúvas.
+4 Disse então o rei a Amasa:{S} Convoca-me dentro de três dias os homens de<PESSOA> Judá</PESSOA>, e apresenta-te aqui.
+5 Foi, pois, Amasa para convocar a Judá, porém demorou-se além do tempo que o rei lhe designara.
+6 Então disse<PESSOA> Davi</PESSOA> a Abisai:{S} Mais mal agora nos fará 
+is_father( Bicri,Sebá).
+is_pessoa(Sebá).
+is_pessoa( Bicri).
+, do que Absalão;{S} toma, pois, tu os servos de teu senhor, e persegue-o, para que ele porventura não ache para si cidades fortificadas, e nos escape à nossa vista.
+7 Então saíram atrás dele os homens de Joabe, e os quereteus, e os peleteus, e todos os valentes;{S} saíram de<PESSOA> Jerusalém</PESSOA> para perseguirem a 
+is_father( Bicri,Sebá).
+is_pessoa(Sebá).
+is_pessoa( Bicri).
+.
+8 Quando chegaram à pedra grande que está junto a Gibeão, Amasa lhes veio ao encontro.{S} Estava Joabe cingido do seu traje de guerra que vestira, e sobre ele um cinto com a espada presa aos seus lombos, na sua bainha;{S} e, adiantando-se ele, a espada caiu da bainha.
+9 E disse<PESSOA> Joabe</PESSOA> a Amasa:{S} Vais bem, meu irmão?{S} E Joabe, com a mão direita, pegou da barba de Amasa, para o beijar.
+10 Amasa, porém, não reparou na espada que está na mão de Joabe;{S} de sorte que este o feriu com ela no ventre, derramando-lhe por terra as entranhas, sem feri-lo segunda vez;{S} e ele morreu.{S} Então Joabe e Abisai, seu irmão, perseguiram a 
+is_father( Bicri,Sebá).
+is_pessoa(Sebá).
+is_pessoa( Bicri).
+.
+11 Mas um homem dentre os servos de Joabe ficou junto a Amasa, e dizia:{S} Quem favorece a Joabe, e quem é por<PESSOA> Davi</PESSOA>, siga a Joabe.
+12 E Amasa se revolvia no seu sangue no meio do caminho.{S} E aquele homem, vendo que todo o povo parava, removeu Amasa do caminho para o campo, e lançou sobre ele um manto, porque viu que todo aquele que chegava ao pé dele parava.
+13 Mas removido Amasa do caminho, todos os homens seguiram a Joabe, para perseguirem a 
+is_father( Bicri,Sebá).
+is_pessoa(Sebá).
+is_pessoa( Bicri).
+.
+14 Então Sebá passou por todas as tribos de<PESSOA> Israel</PESSOA> até<LOCAL> Abel</LOCAL> e<LOCAL> Bete-Maacá</LOCAL>;{S} e todos os beritas, ajuntando-se, também o seguiram.
+15 Vieram, pois, e cercaram a Sebá em<LOCAL> Abel de Bete</LOCAL>-Maacá;{S} e levantaram contra a cidade um montão, que se elevou defronte do muro;{S} e todo o povo que estava com Joabe batia o muro para derrubá-lo.
+16 Então uma mulher sábia gritou de dentro da cidade:{S} Ouvi! ouvi!{S} Dizei a Joabe:{S} Chega-te cá, para que eu te fale.
+17 Ele, pois, se chegou perto dela;{S} e a mulher perguntou:{S} Tu és Joabe?{S} Respondeu ele:{S} Sou.{S} Ela lhe disse:{S} Ouve as palavras de tua serva.{S} Disse ele:{S} Estou ouvindo.
+18 Então falou ela, dizendo:{S} Antigamente costumava-se dizer:{S} Que se peça conselho em<LOCAL> Abel</LOCAL>;{S} e era assim que se punha termo às questões.
+19 Eu sou uma das pacíficas e das fiéis em<LOCAL> Israel</LOCAL>;{S} e tu procuras destruir uma cidade que é mãe em<LOCAL> Israel</LOCAL>;{S} por que, pois, devorarias a herança do <PESSOA>Senhor</PESSOA>?
+20 Então respondeu Joabe, e disse:{S} Longe, longe de mim que eu tal faça, que eu devore ou arruíne!
+21 A coisa não é assim;{S} porém um só homem da região montanhosa de Efraim, cujo nome é 
+is_father( Bicri,Sebá).
+is_pessoa(Sebá).
+is_pessoa( Bicri).
+, levantou a mão contra o rei, contra<PESSOA> Davi</PESSOA>;{S} entregai-me só este, e retirar-me-ei da cidade.{S} E disse a mulher a Joabe:{S} Eis que te será lançada a sua cabeça pelo muro.
+22 A mulher, na sua sabedoria, foi ter com todo o povo;{S} e cortaram a cabeça de 
+is_father( Bicri,Sebá).
+is_pessoa(Sebá).
+is_pessoa( Bicri).
+, e a lançaram a Joabe.{S} Este, pois, tocou a buzina, e eles se retiraram da cidade, cada um para sua tenda.{S} E Joabe voltou a Jerusalém, ao rei.
+23 Ora, Joabe estava sobre todo o exército de<PESSOA> Israel</PESSOA>;{S} e 
+is_father( Jeoiada,Benaías).
+is_pessoa(Benaías).
+is_pessoa( Jeoiada).
+, sobre os quereteus e os peleteus;{S}
+24 e Adorão sobre a gente de trabalhos forçados;{S} 
+is_father( Ailude,Jeosafá).
+is_pessoa(Jeosafá).
+is_pessoa( Ailude).
+, era cronista;{S}
+25 Seva era escrivão;{S} Zadoque e Abiatar, sacerdotes;{S}
+26 e Ira, o jairita, era o oficial-mor de<PESSOA> Davi</PESSOA>.

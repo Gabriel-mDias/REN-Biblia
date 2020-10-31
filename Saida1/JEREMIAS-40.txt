@@ -1,0 +1,73 @@
+
+1 A palavra que veio a Jeremias da parte do <PESSOA>Senhor</PESSOA>, depois que Nebuzaradão, capitão da guarda, o deixara ir de Ramá, quando o havia tomado, estando ele atado com cadeias no meio de todos os do cativeiro de<PESSOA> Jerusalém</PESSOA> e de<PESSOA> Judá</PESSOA>, que estavam sendo levados cativos para Babilônia.
+2 Ora o capitão da guarda levou<PESSOA> Jeremias</PESSOA>, e lhe disse:{S} O <PESSOA>Senhor</PESSOA> teu<PESSOA> Deus</PESSOA> pronunciou este mal contra este lugar;{S}
+3 e o <PESSOA>Senhor</PESSOA> o trouxe, e fez como havia dito;{S} porque pecastes contra o <PESSOA>Senhor</PESSOA>, e não obedecestes à sua voz, portanto vos sucedeu tudo isto.
+4 Agora pois, eis que te solto hoje das cadeias que estão sobre as tuas mãos.{S} Se te apraz vir comigo para Babilônia, vem, e eu velarei por ti;{S} mas, se não te apraz vir comigo para Babilônia, deixa de vir.{S} Olha, toda a terra está diante de ti;{S} para onde te parecer bem e conveniente ir, para ali vai.
+5 Se assim quiseres, volta a 
+is_father( Aicão,Gedalias).
+is_pessoa(Gedalias).
+is_pessoa( Aicão).
+ filho de Safã e a quem o rei de Babilônia constituiu governador das cidades de<PESSOA> Judá</PESSOA>, e habita com ele no meio do povo;{S} ou vai para qualquer outra parte que te aprouver ir.{S} E deu-lhe o capitão da guarda sustento para o caminho, e um presente, e o deixou ir.
+6 Assim veio<LOCAL> Jeremias</LOCAL> a 
+is_father( Aicão,Gedalias).
+is_pessoa(Gedalias).
+is_pessoa( Aicão).
+, a Mizpá, e habitou com ele no meio do povo que havia ficado na terra.
+7 Ouvindo pois todos os chefes das forças que estavam no campo, eles e os seus homens, que o rei de Babilônia havia constituído a 
+is_father( Aicão,Gedalias).
+is_pessoa(Gedalias).
+is_pessoa( Aicão).
+, governador da terra, e que lhe havia confiado homens, mulheres e crianças, os mais pobres da terra, que não foram levados cativos para Babilônia,
+8 vieram ter com Gedalias, a Mizpá;{S} e eram:{S} 
+is_father( Netanias,Ismael).
+is_pessoa(Ismael).
+is_pessoa( Netanias).
+, e Joanã e Jônatas, filhos de Careá, e 
+is_father( Tanumete,Seraías).
+is_pessoa(Seraías).
+is_pessoa( Tanumete).
+, e os filhos de Efai, o netofatita, e Jezanias, filho do maacatita, eles e os seus homens.
+9 E jurou 
+is_father( Aicão,Gedalias).
+is_pessoa(Gedalias).
+is_pessoa( Aicão).
+, filho de Safã, eles e pôs seus homens, dizendo:{S} Não temais servir aos caldeus;{S} habitai na terra, e servi o rei de Babilônia, e bem vos terá.
+10 Quanto a mim, eis que habito em<LOCAL> Mizpá</LOCAL>, para vos representar diante dos caldeus que vierem a nós;{S} vós, porém, colhei o vinho e os frutos de verão, e o azeite, e metei-os nos vossos vasos, e habitai nas vossas cidades, que tomastes.
+11 Do mesmo modo, quando todos os judeus que estavam em<LOCAL> Moabe</LOCAL>, e entre os filhos de Amom, e em<LOCAL> Edom</LOCAL>, e os que havia em todos os países, ouviram que o rei de Babilônia havia deixado um resto em<LOCAL> Judá</LOCAL>, e que havia posto sobre eles a Guedalias, o de 
+is_father( Safã,Aicão).
+is_pessoa(Aicão).
+is_pessoa( Safã).
+;{S}
+12 voltaram, então, todos os judeus de todos os lugares para onde foram arrojados, e vieram para a terra de<PESSOA> Judá</PESSOA>, a Gedalias, a Mizpá, e colheram vinho e frutos do verão com muita abundância.
+13 
+is_father( Careá,Joanã).
+is_pessoa(Joanã).
+is_pessoa( Careá).
+, e todos os chefes das forças que estavam no campo vieram ter com Gedalias, a Mizpá,
+14 e disseram-lhe:{S} Sabes que Baalis, rei dos filhos de Amom, enviou a 
+is_father( Netanias,Ismael).
+is_pessoa(Ismael).
+is_pessoa( Netanias).
+, para te tirar a vida?{S} Mas não lhes deu crédito 
+is_father( Aicão,Gedalias).
+is_pessoa(Gedalias).
+is_pessoa( Aicão).
+.
+15 Todavia 
+is_father( Careá,Joanã).
+is_pessoa(Joanã).
+is_pessoa( Careá).
+, falou a Gedalias em segredo, em<LOCAL> Mizpá</LOCAL>, dizendo:{S} Deixa, peço-te, que eu vá e mate a 
+is_father( Netanias,Ismael).
+is_pessoa(Ismael).
+is_pessoa( Netanias).
+, sem que ninguém o saiba.{S} Por que razão te tiraria ele a vida, de modo que fossem dispersos todos os judeus que se têm congregado a ti, e perecesse o resto de Judá?
+16 Mas disse
+is_father( Aicão,  Gedalias ).
+is_pessoa(  Gedalias ).
+is_pessoa( Aicão).
+, a 
+is_father( Careá,Joanã).
+is_pessoa(Joanã).
+is_pessoa( Careá).
+:{S} Não faças tal coisa;{S} pois falas falsamente contra<PESSOA> Ismael</PESSOA>.

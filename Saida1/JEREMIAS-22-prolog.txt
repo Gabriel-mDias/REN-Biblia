@@ -1,0 +1,9 @@
+is_pessoa(Salum).
+is_pessoa(Josias).
+is_pessoa(Jeoiaquim).
+is_pessoa(Josias).
+is_pessoa(Conias).
+is_pessoa(Jeoiaquim).
+is_father(Josias,Salum).
+is_father(Josias,Jeoiaquim).
+is_father(Jeoiaquim,Conias).

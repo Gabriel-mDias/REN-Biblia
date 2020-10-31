@@ -1,0 +1,30 @@
+
+1 Por aquele tempo Ezequias ficou doente, à morte.{S} O profeta
+is_father( Amoz,  Isaías ).
+is_pessoa(  Isaías ).
+is_pessoa( Amoz).
+, veio ter com ele, e lhe disse:{S} Assim diz, o <PESSOA>Senhor</PESSOA>:{S} Põe em ordem a tua casa porque morrerás, e não viverás.
+2 Então o rei virou o rosto para a parede, e orou ao <PESSOA>Senhor</PESSOA>, dizendo:
+3 Lembra-te agora, ó <PESSOA>Senhor</PESSOA>, te peço, de como tenho andado diante de ti com fidelidade e integridade de coração, e tenho feito o que era reto aos teus olhos.{S} E Ezequias chorou muitíssimo.
+4 E sucedeu que, não havendo<PESSOA> Isaías</PESSOA> ainda saído do meio do pátio, veio a ele a palavra do <PESSOA>Senhor</PESSOA>, dizendo:
+5 Volta, e dize a Ezequias, príncipe do meu povo:{S} Assim diz o <PESSOA>Senhor Deus</PESSOA> de teu <PESSOA>pai Davi</PESSOA>:{S} Ouvi a tua oração, e vi as tuas lágrimas.{S} Eis que eu te sararei;{S} ao terceiro dia subirás à casa do <PESSOA>Senhor</PESSOA>.
+6 Acrescentarei aos teus dias <VALOR>quinze anos</VALOR>;{S} e das mãos do rei da<ORGANIZACAO> Assíria</ORGANIZACAO> te livrarei, a ti e a esta cidade;{S} e defenderei esta cidade por amor de mim, e por amor do meu servo<PESSOA> Davi</PESSOA>.
+7 Disse mais Isaías:{S} Tomai uma pasta de figos e ponde-a sobre a úlcera;{S} e ele sarará.
+8 Perguntou, pois, Ezequias a Isaías:{S} Qual é o sinal de que o <PESSOA>Senhor</PESSOA> me sarará, e de que ao terceiro dia subirei à casa do <PESSOA>Senhor</PESSOA>?
+9 Respondeu Isaías:{S} Isto te será sinal, da parte do <PESSOA>Senhor</PESSOA>, de que o <PESSOA>Senhor</PESSOA> cumprirá a palavra que disse:{S} Adiantar-se-á a sombra dez graus, ou voltará dez graus atrás?
+10 Então disse<PESSOA> Ezequias</PESSOA>:{S} É fácil que a sombra decline dez graus;{S} não seja assim, antes volte a sombra dez graus atrás.
+11 Então o profeta<PESSOA> Isaías</PESSOA> clamou ao <PESSOA>Senhor</PESSOA>, que fez voltar a sombra dez graus atrás, pelos graus que já tinha declinado no relógio de sol de Acaz.
+12 Naquele tempo Merodaque-
+is_father( Baladã,Baladã).
+is_pessoa(Baladã).
+is_pessoa( Baladã).
+, rei de Babilônia, enviou cartas e um presente a Ezequias, porque ouvira que Ezequias tinha estado doente.
+13 E Ezequias deu audiência aos mensageiros, e lhes mostrou toda a casa de seu tesouro, a prata e o ouro, as especiarias e os melhores ungüentos, a sua casa de armas e tudo quanto havia nos seus tesouros;{S} coisa nenhuma houve que lhes não mostrasse, nem em sua casa, nem em todo o seu domínio.
+14 Então o profeta<PESSOA> Isaías</PESSOA> veio ao <PESSOA>rei Ezequias</PESSOA>, e lhe perguntou:{S} Que disseram aqueles homens, e de onde vieram a ti?{S} Respondeu Ezequias:{S} Vieram de um país mui remoto, de Babilônia.
+15 E disse ele:{S} Que viram em tua casa?{S} E disse<PESSOA> Ezequias</PESSOA>:{S} Viram tudo quanto há em minha casa;{S} não há coisa nenhuma nos meus tesouros que eu não lhes mostrasse.
+16 Então disse<PESSOA> Isaías</PESSOA> a Ezequias:{S} Ouve a palavra do <PESSOA>Senhor</PESSOA>:
+17 Eis que vêm dias em que será levado para a Babilônia tudo quanto houver em minha casa, bem como o que os teus pais entesouraram até o dia de hoje;{S} não ficará coisa alguma, diz o <PESSOA>Senhor</PESSOA>.
+18 E até mesmo alguns de teus filhos, que procederem de ti, e que tu gerares, levarão;{S} e eles serão eunucos no paço do rei de Babilônia.
+19 Então disse<PESSOA> Ezequias</PESSOA> a Isaías:{S} Boa é a palavra do <PESSOA>Senhor</PESSOA> que disseste.{S} Disse mais:{S} Pois não é assim, se em meus dias vai haver paz e segurança?
+20 Ora, o restante dos atos de Ezequias, e todo o seu poder, e como fez a piscina e o aqueduto, e como fez vir a água para a cidade, porventura não estão escritos no livro das crônicas dos reis de Judá?
+21 E Ezequias dormiu com seus pais.{S} E Manassés, seu filho, reinou em seu lugar.

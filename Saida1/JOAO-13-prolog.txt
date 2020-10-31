@@ -1,0 +1,6 @@
+is_pessoa(Judas).
+is_pessoa(Simão Iscariotes).
+is_pessoa(Judas).
+is_pessoa(Simão Iscariotes).
+is_father(Simão Iscariotes,Judas).
+is_father(Simão Iscariotes,Judas).

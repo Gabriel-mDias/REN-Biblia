@@ -1,0 +1,9 @@
+is_pessoa(Jeroboão).
+is_pessoa(Nebate).
+is_pessoa(Salomão).
+is_pessoa(Davi).
+is_pessoa(Roboão).
+is_pessoa(Salomão).
+is_father(Nebate,Jeroboão).
+is_father(Davi,Salomão).
+is_father(Salomão,Roboão).

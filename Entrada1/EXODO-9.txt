@@ -1,0 +1,36 @@
+
+1 Depois o <PESSOA>Senhor</PESSOA> disse a Moisés:{S} Vai a Faraó e dize-lhe:{S} Assim diz o <PESSOA>Senhor</PESSOA>, o Deus dos hebreus:{S} Deixa ir o meu povo, para que me sirva.
+2 Porque, se recusares deixá-los ir, e ainda os retiveres,
+3 eis que a mão do <PESSOA>Senhor</PESSOA> será sobre teu gado, que está no campo: sobre os cavalos, sobre os jumentos, sobre os camelos, sobre os bois e sobre as ovelhas;{S} haverá uma pestilência muito grave.
+4 Mas o <PESSOA>Senhor</PESSOA> fará distinção entre o gado de<PESSOA> Israel</PESSOA> e o gado do<PESSOA> Egito</PESSOA>;{S} e não morrerá nada de tudo o que pertence aos filhos de<PESSOA> Israel</PESSOA>.
+5 E o <PESSOA>Senhor</PESSOA> assinalou certo tempo, dizendo:{S} Amanhã fará o <PESSOA>Senhor</PESSOA> isto na terra.
+6 Fez, pois, o <PESSOA>Senhor</PESSOA> isso no dia seguinte;{S} e todo gado dos egípcios morreu;{S} porém do gado dos filhos de<PESSOA> Israel</PESSOA> não morreu nenhum.
+7 E Faraó mandou ver, e eis que do gado dos israelitas não morrera sequer um.{S} Mas o coração de Faraó se obstinou, e não deixou ir o povo.
+8 Então disse o <PESSOA>Senhor</PESSOA> a Moisés e a Arão:{S} Tomai as mãos cheias de cinza do forno, e<PESSOA> Moisés</PESSOA> a espalhe para o céu diante dos olhos de Faraó;{S}
+9 e ela se tornará em pó fino sobre toda a terra do<PESSOA> Egito</PESSOA>, e haverá tumores que arrebentarão em úlceras nos homens e no gado, por toda a terra do<PESSOA> Egito</PESSOA>.
+10 E eles tomaram cinza do forno, e apresentaram-se diante de Faraó;{S} e<PESSOA> Moisés</PESSOA> a espalhou para o céu, e ela se tomou em tumores que arrebentavam em úlceras nos homens e no gado.
+<VALOR>11</VALOR> Os magos não podiam manter-se diante de<PESSOA> Moisés</PESSOA>, por causa dos tumores;{S} porque havia tumores nos magos, e em todos os egípcios.
+12 Mas o <PESSOA>Senhor</PESSOA> endureceu o coração de Faraó, e este não os ouviu, como o <PESSOA>Senhor</PESSOA> tinha dito a Moisés.
+13 Então disse o <PESSOA>Senhor</PESSOA> a Moisés:{S} Levanta-te pela manhã cedo, põe-te diante de Faraó, e dize-lhe:{S} Assim diz o <PESSOA>Senhor</PESSOA>, o Deus dos hebreus:{S} Deixa ir o meu povo, para que me sirva;{S}
+14 porque desta vez enviarei todas as a minhas pragas sobre o teu coração, e sobre os teus servos, e sobre o teu povo, para que saibas que não há outro como eu em toda a terra.
+15 Agora, por pouco, teria eu estendido a mão e ferido a ti e ao teu povo com pestilência, e tu terias sido destruído da terra;{S}
+16 mas, na verdade, para isso te hei mantido com vida, para te mostrar o meu poder, e para que o meu nome seja anunciado em toda a terra.
+17 Tu ainda te exaltas contra o meu povo, não o deixando ir?
+18 Eis que amanhã, por este tempo, s farei chover saraiva tão grave qual nunca houve no<LOCAL> Egito</LOCAL>, desde o dia em que foi fundado até agora.
+19 Agora, pois, manda recolher o teu gado e tudo o que tens no campo;{S} porque sobre todo homem e animal que se acharem no campo, e não se recolherem à casa, cairá a saraiva, e morrerão.
+20 Quem dos servos de Faraó temia a o palavra do <PESSOA>Senhor</PESSOA>, fez Fugir os seus servos e o seu gado para as casas;{S}
+21 mas aquele que não se importava com a palavra do <PESSOA>Senhor</PESSOA>, deixou os seus servos e o seu gado no campo.
+22 Então disse o <PESSOA>Senhor</PESSOA> a Moisés:{S} Estende a tua mão para o céu, para que caia saraiva em toda a terra do<PESSOA> Egito</PESSOA>, sobre os homens e sobre os animais, e sobre toda a erva do campo na terra do<PESSOA> Egito</PESSOA>.
+23 E Moisés estendeu a sua vara para o céu, e o <PESSOA>Senhor</PESSOA> enviou trovões e saraiva, e fogo desceu à terra;{S} e o <PESSOA>Senhor</PESSOA> fez chover saraiva sobre a terra do<PESSOA> Egito</PESSOA>.
+24 Havia, pois, saraiva misturada com fogo, saraiva tão grave qual nunca houvera em toda a terra do<PESSOA> Egito</PESSOA>, desde que veio a ser uma nação.
+25 E a saraiva feriu, em toda a terra do<PESSOA> Egito</PESSOA>, tudo quanto havia no campo, tanto homens como animais;{S} feriu também toda erva do campo, e quebrou todas as árvores do campo.
+26 Somente na terra de Gósem onde se achavam os filhos de<PESSOA> Israel</PESSOA>, não houve saraiva.
+27 Então Faraó mandou chamar<PESSOA> Moisés</PESSOA> e<PESSOA> Arão</PESSOA>, e disse-lhes:{S} Esta vez pequei;{S} o <PESSOA>Senhor</PESSOA> é justo, mas eu e o meu povo somos a ímpios.
+28 Orai ao <PESSOA>Senhor</PESSOA>;{S} pois já bastam estes trovões da parte de<PESSOA> Deus</PESSOA> e esta saraiva;{S} eu vos deixarei ir, e não permanecereis mais, aqui.
+29 Respondeu-lhe Moisés:{S} Logo que eu tiver saído da cidade estenderei minhas mãos ao <PESSOA>Senhor</PESSOA>;{S} os trovões cessarão, e não haverá, mais saraiva, para que saibas que a terra é do <PESSOA>Senhor</PESSOA>.
+30 Todavia, quanto a ti e aos teus servos, eu sei que ainda não temereis diante do <PESSOA>Senhor Deus</PESSOA>.
+31 Ora, o linho e a cevada foram danificados, porque a cevada já estava na espiga, e o linho em flor;{S}
+32 mas não foram danificados o trigo e o centeio, porque não estavam crescidos.
+33 Saiu, pois,<PESSOA> Moisés</PESSOA> da cidade, da presença de Faraó, e estendeu as mãos ao <PESSOA>Senhor</PESSOA>;{S} e cessaram os trovões e a saraiva, e a chuva não caiu mais sobre a terra.
+34 Vendo Faraó que a chuva, a saraiva e os trovões tinham cessado, continuou a pecar, e endureceu o seu coração, ele e os seus servos.
+35 Assim, o coração de Faraó se endureceu, e não deixou ir os filhos de<PESSOA> Israel</PESSOA>, como o <PESSOA>Senhor</PESSOA> tinha dito por<PESSOA> Moisés</PESSOA>.

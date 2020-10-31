@@ -1,0 +1,20 @@
+
+1 Jeosafá, rei de<PESSOA> Judá</PESSOA>, voltou em paz à sua casa em<LOCAL> Jerusalém</LOCAL>.
+2 Mas 
+is_father( Hanâni,Jeú).
+is_pessoa(Jeú).
+is_pessoa( Hanâni).
+, a vidente, saiu ao encontro do <PESSOA>rei Jeosafá</PESSOA> e lhe disse:{S} Devias tu ajudar o ímpio, e amar aqueles que odeiam ao <PESSOA>Senhor</PESSOA>?{S} Por isso virá sobre ti grande ira da parte do <PESSOA>Senhor</PESSOA>.
+3 Contudo, alguma virtude se acha em ti, porque tiraste para fora da terra as aserotes, e dispuseste o teu coração para buscar a Deus.
+4 Habitou, pois, Jeosafá em<LOCAL> Jerusalém</LOCAL>;{S} e tornou a passar pelo povo desde Berseba até a região montanhosa de Efraim, fazendo com que voltasse ao <PESSOA>Senhor Deus</PESSOA> de seus pais.
+5 Estabeleceu juízes na terra, em todas as cidades fortes de<PESSOA> Judá</PESSOA>, de cidade em cidade;{S}
+6 e disse aos juízes:{S} Vede o que fazeis;{S} porque não julgais da parte do homem, mas da parte do <PESSOA>Senhor</PESSOA>, e ele está convosco no julgamento.
+7 Agora, pois, seja o temor do <PESSOA>Senhor</PESSOA> convosco;{S} tomai cuidado no que fazeis;{S} porque não há no<LOCAL> Senhor</LOCAL> nosso<PESSOA> Deus</PESSOA> iniqüidade, nem acepção de pessoas, nem aceitação de presentes.
+8 Também em<LOCAL> Jerusalém</LOCAL> estabeleceu Jeosafá alguns dos levitas e dos sacerdotes e dos chefes das casas paternas de<PESSOA> Israel</PESSOA> sobre e juízo da parte do <PESSOA>Senhor</PESSOA>, e sobre as causas civis.{S} E voltaram para<PESSOA> Jerusalém</PESSOA>.
+9 E deu-lhes ordem, dizendo:{S} Assim procedei no temor do <PESSOA>Senhor</PESSOA>, com fidelidade e com coração perfeito.
+<VALOR>10</VALOR> Todas as vezes que se vos submeter qualquer controvérsia da parte de vossos irmãos que habitam nas suas cidades, entre sangue e sangue, entre lei e mandamento, entre estatutos e juízos, admoestai-os a que se não façam culpados para com o <PESSOA>Senhor</PESSOA>, e deste modo venha grande ira sobre vós e sobre vossos irmãos.{S} Procedei assim, e não vos fareis culpados.
+11 E eis que Amarias, o sumo sacerdote, presidirá sobre vós em todos os negócios do <PESSOA>Senhor</PESSOA>;{S} e 
+is_father(  Ismael ,Zebadias).
+is_pessoa(Zebadias).
+is_pessoa(  Ismael ).
+, príncipe da casa de<PESSOA> Judá</PESSOA>, em todos os negócios do rei;{S} também os levitas serão oficiais perante vós.{S} Procedei corajosamente e seja o <PESSOA>Senhor</PESSOA> com os retos.

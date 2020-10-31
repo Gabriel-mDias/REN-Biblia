@@ -1,0 +1,84 @@
+
+<VALOR>1</VALOR> Os filhos de Judá:{S} Pérez, Hezrom, Carmi, Hur e Sobal.
+2 
+is_father( Sobal,Reaías).
+is_pessoa(Reaías).
+is_pessoa( Sobal).
+, foi pai de Jaate, e Jaate de Aümai e Laade;{S} estas são as famílias dos zoratitas.
+<VALOR>3</VALOR> Estes foram os filhos de Etã:{S} Jizreel, Ismá, e Idbás;{S} e o nome da irmã deles era Hazelelponi;{S}
+4 e mais Penuel, pai de Gedor, e Ézer, pai de Husá;{S} estes foram os filhos de Hur, o primogênito de Efrata, pai de<PESSOA> Belém</PESSOA>.
+5 Asur, pai de Tecoa, tinha duas mulheres:{S} Helá e Naará.
+6 Naará deu-lhe à luz Aüzão, Hefer, Temêni e Haastári;{S} estes foram os filhos de Naará.
+7 E os filhos de Helá:{S} Zerete, Izar e Etnã.
+8 Coz foi pai de Anube e Zobeba, e das famílias de 
+is_father( Harum,Acarel).
+is_pessoa(Acarel).
+is_pessoa( Harum).
+.
+9 Jabes foi mais ilustre do que seus irmãos (sua mãe lhe pusera o nome de Jabes, dizendo:{S} Porquanto com dores o dei à luz)..
+10 Jabes invocou o <PESSOA>Deus de Israel</PESSOA>, dizendo:S<PESSOA> Oxalá</PESSOA> que me abençoes, e estendas os meus termos;{S} que a tua mão seja comigo e faças que do mal eu não seja afligido!{S} E Deus lhe concedeu o que lhe pedira.
+11 Quelube, irmão de Suá, foi pai de Meir;{S} e este foi pai de Estom.
+12 Estom foi pai de Bete-Rafa, Paséia e Teína, que foi pai de Ir-Naás;{S} estes foram os homens, de Reca.
+<VALOR>13</VALOR> Os filhos de Quenaz:{S} Otniel e Seraías;{S} e Otniel foi pai de Hatate
+14 e Meonotai, que foi pai de Ofra;{S} Seraías foi pai de Joabe, fundador de Ge-Harasim, cujos habitantes foram artífices.
+<VALOR>15</VALOR> Os filhos de 
+is_father( Jefoné,Calebe).
+is_pessoa(Calebe).
+is_pessoa( Jefoné).
+:{S} Íru, Elá e Naã;{S} e Elá foi pai de Quenaz:
+<VALOR>16</VALOR> Os filhos de Jealelel:{S} Zife, Zifá, Tíria e Asareel.
+<VALOR>17</VALOR> Os filhos de Ezra:{S} Jeter, Merede, Efer e Jalom;{S} e ela deu à luz Miriã, Samai, e Isbá, pai de Estemoa,
+18 cuja mulher judia deu à luz Jerede, pai de Gedor, Heber, pai de Socó, e Jecutiel, pai de Zanoa;{S} e estes foram os filhos de Bitia, filha de Faraó, que Merede tomou.
+<VALOR>19</VALOR> Os filhos da mulher de Hodias, irmã de Naã, foram os pais de Queila, o garmita, e Estemoa, o maacatita.
+<VALOR>20</VALOR> Os filhos de Simão:{S} Amnom, Rina, Bene-Hanã e Tilom;{S} e os filhos de Isi:{S} Zoete e Bene-Zoete.
+<VALOR>21</VALOR> Os filhos de 
+is_father( Judá,Selá).
+is_pessoa(Selá).
+is_pessoa( Judá).
+:{S} Er, pai de Leca, Lada, pai de Maressa, e as famílias da casa dos que fabricavam linho, em<LOCAL> Bete</LOCAL>-Asbéia;{S}
+22 como também Joquim, e os homens de Cozeba, e Joás e Sarafe, os quais dominavam sobre Moabe, e Jasúbi-Leém. (Estes registros são antigos.)
+<VALOR>23</VALOR> Estes foram os oleiros, os habitantes de Netaim e de Gedera;{S} e moravam ali com o rei para o seu serviço.
+<VALOR>24</VALOR> Os filhos de Simeão:{S} <PESSOA>Nemuel</PESSOA>,<PESSOA> Jamim</PESSOA>,<PESSOA> Jaribe</PESSOA>,<PESSOA> Zerá</PESSOA> e<PESSOA> Saul</PESSOA>,
+25 de quem foi <PESSOA>filho Salum</PESSOA>, de quem foi <PESSOA>filho Mibsão</PESSOA>, de quem foi <PESSOA>filho Misma</PESSOA>.
+<VALOR>26</VALOR> Os filhos de Misma:{S} Jamuel, seu filho, de quem foi <PESSOA>filho Zacur</PESSOA>, de quem foi <PESSOA>filho Simei</PESSOA>.
+27 Simei teve dezesseis filhos e seis filhas;{S} porém seus irmãos não tiveram muitos filhos, nem se multiplicou toda a sua família tanto como as dos filhos de<PESSOA> Judá</PESSOA>.
+<VALOR>28</VALOR> Eles habitaram em<LOCAL> Berseba</LOCAL>,<LOCAL> Molada</LOCAL>,<LOCAL> Hazar-Sual</LOCAL>,
+29 Bila, Ezem, Tolade,
+30 Betuel, Horma, Ziclague,
+31 Bete-Marcabote, Hazar-Susim, Bete-Biri e Saraim;{S} essas foram as suas cidades até o reinado de<PESSOA> Davi</PESSOA>.
+<VALOR>32</VALOR> As suas aldeias foram:{S} Etã, Aim, Rimom, Toquem e Asã, cinco cidades,
+33 com todas as suas aldeias, que estavam em redor destas cidades, até<LOCAL> Baal</LOCAL>.{S} Estas foram as suas habitações e as suas genealogias.
+34 Ora, Mesobabe, Jamleque, 
+is_father( Amazias,Josa).
+is_pessoa(Josa).
+is_pessoa( Amazias).
+,
+35<PESSOA> Joel</PESSOA>,
+is_father( Josibias,  Jeú ).
+is_pessoa(  Jeú ).
+is_pessoa( Josibias).
+, filho de 
+is_father( Asiel,Seraías).
+is_pessoa(Seraías).
+is_pessoa( Asiel).
+,
+36 Elioenai, Jaacobá, Jesoaías, Asaías, Adiel, Jesimiel, Benaías,
+37 e 
+is_father( Sifi,Ziza).
+is_pessoa(Ziza).
+is_pessoa( Sifi).
+, filho de 
+is_father( Jedaías,Alom).
+is_pessoa(Alom).
+is_pessoa( Jedaías).
+, filho de 
+is_father( Semaías,Sínri).
+is_pessoa(Sínri).
+is_pessoa( Semaías).
+
+<VALOR>38</VALOR> estes, registrados por nome, foram príncipes nas suas famílias;{S} e as famílias de seus pais se multiplicaram grandemente.
+39 Chegaram até a entrada de Gedor, ao lado oriental do vale, em busca de pasto para os seus rebanhos;{S}
+40 e acharam pasto abundante e bom, e a terra era espaçosa, quieta e pacífica;{S} pois os que antes habitavam ali eram descendentes de Cão.
+<VALOR>41</VALOR> Estes que estão inscritos por nome, vieram nos dias de Ezequias, rei de<PESSOA> Judá</PESSOA>, e destruíram as tendas e os meunins que se acharam ali, e os exterminaram totalmente até o dia de hoje, e habitaram em lugar deles;{S} porque ali havia pasto para os seus rebanhos.
+42 Também deles, isto é, dos filhos de<PESSOA> Simeão</PESSOA>, quinhentos homens foram ao monte Seir, tendo por capitães Pelatias, Nearias, Refaías e Uziel, filhos de Isi,
+43 e, matando o restante dos amalequitas, que havia escapado, ficaram habitando ali até o dia de hoje.

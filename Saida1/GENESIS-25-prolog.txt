@@ -1,0 +1,9 @@
+is_pessoa(Efrom).
+is_pessoa(Zoar).
+is_pessoa(Ismael).
+is_pessoa(Abraão).
+is_pessoa(Isaque).
+is_pessoa(Abraão).
+is_father(Zoar,Efrom).
+is_father(Abraão,Ismael).
+is_father(Abraão,Isaque).

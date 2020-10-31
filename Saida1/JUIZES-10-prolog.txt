@@ -1,0 +1,3 @@
+is_pessoa(Tola).
+is_pessoa(Puva).
+is_father(Puva,Tola).

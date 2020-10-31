@@ -1,0 +1,21 @@
+
+1 Ouvi agora o que diz o <PESSOA>Senhor</PESSOA>:{S} Levanta-te, contende perante os montes, e ouçam os outeiros a tua voz.
+2 Ouvi, montes, a demanda do <PESSOA>Senhor</PESSOA>, e vós, fundamentos duradouros da terra;{S} porque o <PESSOA>Senhor</PESSOA> tem uma demanda com o seu povo e com<PESSOA> Israel</PESSOA> entrará em juízo.
+3 Ó povo meu, que é que te tenho feito? e em que te enfadei? testifica contra mim.
+4 Pois te fiz subir da terra do<PESSOA> Egito</PESSOA>, e da casa da servidão te remi;{S} e enviei adiante de ti a <PESSOA>Moisés</PESSOA>,<PESSOA> Arão</PESSOA> e<PESSOA> Miriã</PESSOA>.
+5 Povo meu, lembra-te agora da consulta de Balaque, rei de Meabe, e do que lhe respondeu 
+is_father( Beor,Balaão).
+is_pessoa(Balaão).
+is_pessoa( Beor).
+, e do que sucedeu desde Sitini até<LOCAL> Gilgal</LOCAL>, para que conheças as justiças do <PESSOA>Senhor</PESSOA>.
+6 Com que me apresentarei diante do <PESSOA>Senhor</PESSOA>, e me prostrarei perante o Deus excelso?{S} Apresentar-me-ei diante dele com holocausto, com bezerros de um ano?
+7 Agradar-se-á o <PESSOA>Senhor</PESSOA> de milhares de carneiros, ou de miríades de ribeiros de azeite?{S} Darei o meu primogênito pela minha transgressão, o fruto das minhas entranhas pelo pecado da minha alma?
+8 Ele te declarou, ó homem, o que é bom;{S} e que é o que o <PESSOA>Senhor</PESSOA> requer de ti, senão que pratiques a justiça, e ames a benevolência, e andes humildemente com o teu Deus?
+9 A voz do <PESSOA>Senhor</PESSOA> clama à cidade, e o que é sábio temerá o teu nome.{S} Escutai a vara, e quem a ordenou.
+10 Porventura ainda há na casa do ímpio tesouros de impiedade? e a efa desfalcada, que é detestável?
+11 Justificarei ao que tem balanças falsas, e uma bolsa de pesos enganosos?
+12 Pois os ricos da cidade estão cheios de violência, e os seus habitantes falam mentiras, e a língua deles é enganosa na sua boca.
+13 Assim eu também te enfraquecerei, ferindo-te e assolando-te, por causa dos teus pecados.
+14 Tu comerás, mas não te fartarás;{S} e a tua fome estará sempre contigo;{S} removerás os teus bens, mas nada livrarás;{S} e aquilo que livrares, eu o entregarei à espada.
+15 Tu semearás, mas não segarás;{S} pisarás a azeitona, mas não te ungirás de azeite;{S} e pisarás a vindima, mas não beberás o vinho.
+16 Porque se observam os estatutos de Onri, e todas as obras da casa de Acabe, e vós andais nos conselhos deles;{S} para que eu faça de ti uma desolação, e dos seus habitantes um assobio.{S} Assim trareis sobre vós o opróbrio do meu povo.

@@ -1,0 +1,9 @@
+is_pessoa(Abner).
+is_pessoa(Ner).
+is_pessoa(Abisai).
+is_pessoa(Zeruia).
+is_pessoa(Abner).
+is_pessoa(Ner).
+is_father(Ner,Abner).
+is_father(Zeruia,Abisai).
+is_father(Ner,Abner).

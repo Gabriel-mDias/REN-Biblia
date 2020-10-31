@@ -1,0 +1,47 @@
+
+1 Então o reino dos céus será semelhante a dez virgens que, tomando as suas lâmpadas, saíram ao encontro do noivo.
+2 Cinco delas eram insensatas, e cinco prudentes.
+3 Ora, as insensatas, tomando as lâmpadas, não levaram azeite consigo.
+<VALOR>4</VALOR> As prudentes, porém, levaram azeite em suas vasilhas, juntamente com as lâmpadas.
+5 E tardando o noivo, cochilaram todas, e dormiram.
+6 Mas à meia-noite ouviu-se um grito:{S} Eis o noivo! saí-lhe ao encontro!
+7 Então todas aquelas virgens se levantaram, e prepararam as suas lâmpadas.
+8 E as insensatas disseram às prudentes:{S} Dai-nos do vosso azeite, porque as nossas lâmpadas estão se apagando.
+9 Mas as prudentes responderam: não;{S} pois de certo não chegaria para nós e para vós;{S} ide antes aos que o vendem, e comprai-o para vós.
+10 E, tendo elas ido comprá-lo, chegou o noivo;{S} e as que estavam preparadas entraram com ele para as bodas, e fechou-se a porta.
+11 Depois vieram também as outras virgens, e disseram:{S} <PESSOA>Senhor</PESSOA>, <PESSOA>Senhor</PESSOA>, abre-nos a porta.
+12 Ele, porém, respondeu:{S} Em verdade vos digo, não vos conheço.
+13 Vigiai pois, porque não sabeis nem o dia nem a hora.
+14 Porque é assim como um homem que, ausentando-se do país, chamou os seus servos e lhes entregou os seus bens:
+15 a um deu cinco talentos, a outro dois, e a outro um, a cada um segundo a sua capacidade;{S} e seguiu viagem.
+16 O que recebera cinco talentos foi imediatamente negociar com eles, e ganhou outros cinco;{S}
+17 da mesma sorte, o que recebera dois ganhou outros dois;{S}
+18 mas o que recebera um foi e cavou na terra e escondeu o dinheiro do seu senhor.
+19 Ora, depois de muito tempo veio o senhor daqueles servos, e fez contas com eles.
+20 Então chegando o que recebera cinco talentos, apresentou-lhe outros cinco talentos, dizendo:{S} <PESSOA>Senhor</PESSOA>, entregaste-me cinco talentos;{S} eis aqui outros cinco que ganhei.
+21 Disse-lhe o seu senhor:{S} Muito bem, servo bom e fiel;{S} sobre o pouco foste fiel, sobre muito te colocarei;{S} entra no gozo do teu senhor.
+22 Chegando também o que recebera dois talentos, disse:{S} <PESSOA>Senhor</PESSOA>, entregaste-me dois talentos;{S} eis aqui outros dois que ganhei.
+23 Disse-lhe o seu senhor:{S} Muito bem, servo bom e fiel;{S} sobre o pouco foste fiel, sobre muito te colocarei;{S} entra no gozo do teu senhor.
+24 Chegando por fim o que recebera um talento, disse:{S} <PESSOA>Senhor</PESSOA>, eu te conhecia, que és um homem duro, que ceifas onde não semeaste, e recolhes onde não joeiraste;{S}
+25 e, atemorizado, fui esconder na terra o teu talento;{S} eis aqui tens o que é teu.
+26 Ao que lhe respondeu o seu senhor:{S} Servo mau e preguiçoso, sabias que ceifo onde não semeei, e recolho onde não joeirei?
+27 Devias então entregar o meu dinheiro aos banqueiros e, vindo eu, tê-lo-ia recebido com juros.
+28 Tirai-lhe, pois, o talento e dai ao que tem os dez talentos.
+29 Porque a todo o que tem, dar-se-lhe-á, e terá em abundância;{S} mas ao que não tem, até aquilo que tem ser-lhe-á tirado.
+30 E lançai o servo inútil nas trevas exteriores;{S} ali haverá choro e ranger de dentes.
+31 Quando, pois vier o <PESSOA>Filho</PESSOA> do homem na sua glória, e todos os anjos com ele, então se assentará no trono da sua glória;{S}
+32 e diante dele serão reunidas todas as nações;{S} e ele separará uns dos outros, como o pastor separa as ovelhas dos cabritos;{S}
+33 e porá as ovelhas à sua direita, mas os cabritos à esquerda.
+34 Então dirá o <PESSOA>Rei</PESSOA> aos que estiverem à sua direita:{S} Vinde, benditos de meu <PESSOA>Pai</PESSOA>.{S} Possuí por herança o reino que vos está preparado desde a fundação do mundo;{S}
+35 porque tive fome, e me destes de comer;{S} tive sede, e me destes de beber;{S} era forasteiro, e me acolhestes;{S}
+36 estava nu, e me vestistes;{S} adoeci, e me visitastes;{S} estava na prisão e fostes ver-me.
+37 Então os justos lhe perguntarão:{S} <PESSOA>Senhor</PESSOA>, quando te vimos com fome, e te demos de comer? ou com sede, e te demos de beber?
+38 Quando te vimos forasteiro, e te acolhemos? ou nu, e te vestimos?
+39 Quando te vimos enfermo, ou na prisão, e fomos visitar-te?
+40 E responder-lhes-á o <PESSOA>Rei</PESSOA>:{S} Em verdade vos digo que, sempre que o fizestes a um destes meus irmãos, mesmo dos mais pequeninos, a mim o fizestes.
+41 Então dirá também aos que estiverem à sua esquerda:{S} Apartai-vos de mim, malditos, para o fogo eterno, preparado para o Diabo e seus anjos;{S}
+42 porque tive fome, e não me destes de comer;{S} tive sede, e não me destes de beber;{S}
+43 era forasteiro, e não me acolhestes;{S} estava nu, e não me vestistes;{S} enfermo, e na prisão, e não me visitastes.
+44 Então também estes perguntarão:{S} <PESSOA>Senhor</PESSOA>, quando te vimos com fome, ou com sede, ou forasteiro, ou nu, ou enfermo, ou na prisão, e não te servimos?
+45 Ao que lhes responderá:{S} Em verdade vos digo que, sempre que o deixaste de fazer a um destes mais pequeninos, deixastes de o fazer a mim.
+46 E irão eles para o castigo eterno, mas os justos para a vida eterna.

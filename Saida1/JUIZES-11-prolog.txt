@@ -1,0 +1,3 @@
+is_pessoa(Balaque).
+is_pessoa(Zipor).
+is_father(Zipor,Balaque).

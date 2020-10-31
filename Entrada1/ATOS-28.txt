@@ -1,0 +1,33 @@
+
+1 Estando já salvos, soubemos então que a ilha se chamava<ABSTRACCAO> Malta</ABSTRACCAO>.
+<VALOR>2</VALOR> Os indígenas usaram conosco de não pouca humanidade;{S} pois acenderam uma fogueira e nos recolheram a todos por causa da chuva que caía, e por causa do frio.
+3 Ora havendo<PESSOA> Paulo</PESSOA> ajuntado e posto sobre o fogo um feixe de gravetos, uma víbora, fugindo do calor, apegou-se-lhe à mão.
+4 Quando os indígenas viram o réptil pendente da mão dele, diziam uns aos outros:{S} Certamente este homem é homicida, pois, embora salvo do mar, a Justiça não o deixa viver.
+5 Mas ele, sacudindo o réptil no fogo, não sofreu mal nenhum.
+<VALOR>6</VALOR> Eles, porém, esperavam que<PESSOA> Paulo</PESSOA> viesse a inchar ou a cair morto de repente;{S} mas tendo esperado muito tempo e vendo que nada de anormal lhe sucedia, mudaram de parecer e diziam que era um deus.
+7 Ora, nos arredores daquele lugar havia umas terras que pertenciam ao homem principal da ilha, por nome Públio, o qual nos recebeu e hospedou bondosamente por três dias.
+8 Aconteceu estar de cama, enfermo de febre e disenteria, o pai de Públio;S<PESSOA> Paulo</PESSOA> foi visitá-lo, e havendo orado, impôs-lhe as mãos, e o curou.
+9 Feito isto, vinham também os demais enfermos da ilha, e eram curados;{S}
+10 e estes nos distinguiram com muitas honras;{S} e, ao embarcarmos, puseram a bordo as coisas que nos eram necessárias.
+<VALOR>11</VALOR> Passados três meses, partimos em um navio de<PESSOA> Alexandria</PESSOA> que invernara na ilha, o qual tinha por insígnia Castor e Pólux.
+12 E chegando a Siracusa, ficamos ali três dias;{S}
+13 de onde, costeando, viemos a Régio;{S} e, soprando no dia seguinte o vento sul, chegamos em dois dias a Putéoli,
+14 onde, achando alguns irmãos, fomos convidados a ficar com eles sete dias;{S} e depois nos dirigimos a Roma.
+15 Ora, os irmãos da lá, havendo recebido notícias nossas, vieram ao nosso encontro até a praça de<LOCAL> Ápio</LOCAL> e às Três Vendas, e<PESSOA> Paulo</PESSOA>, quando os viu, deu graças a Deus e cobrou ânimo.
+16 Quando chegamos a Roma, [o centurião entregou os presos ao general do exército, mas,] a Paulo se lhe permitiu morar à parte, com o soldado que o guardava.
+<VALOR>17</VALOR> Passados três dias, ele convocou os principais dentre os judeus;{S} e reunidos eles, disse-lhes:{S} Varões irmãos, não havendo eu feito nada contra o povo, ou contra os ritos paternos, vim contudo preso desde<PESSOA> Jerusalém</PESSOA>, entregue nas mãos dos romanos;{S}
+<VALOR>18</VALOR> os quais, havendo-me interrogado, queriam soltar-me, por não haver em mim crime algum que merecesse a morte.
+19 Mas opondo-se a isso os judeus, vi-me obrigado a apelar para<PESSOA> César</PESSOA>, não tendo, contudo, nada de que acusar a minha nação.
+20 Por esta causa, pois, vos convidei, para vos ver e falar;{S} porque pela esperança de<PESSOA> Israel</PESSOA> estou preso com esta cadeia.
+21 Mas eles lhe disseram:{S} Nem recebemos da<ORGANIZACAO> Judéia</ORGANIZACAO> cartas a teu respeito, nem veio aqui irmão algum que contasse ou dissesse mal de ti.
+22 No entanto bem quiséramos ouvir de ti o que pensas;{S} porque, quanto a esta seita, notório nos é que em toda parte é impugnada.
+23 Havendo-lhe eles marcado um dia, muitos foram ter com ele à sua morada, aos quais desde a manhã até a noite explicava com bom testemunho o reino de<PESSOA> Deus</PESSOA> e procurava persuadí-los acerca de<PESSOA> Jesus</PESSOA>, tanto pela lei de<PESSOA> Moisés</PESSOA> como pelos profetas.
+24 Uns criam nas suas palavras, mas outros as rejeitavam.
+25 E estando discordes entre si, retiraram-se, havendo<PESSOA> Paulo</PESSOA> dito esta palavra:{S} Bem falou o Espírito Santo aos vossos pais pelo profeta<PESSOA> Isaías</PESSOA>,
+26 dizendo:{S} Vai a este povo e dize:{S} Ouvindo, ouvireis, e de maneira nenhuma entendereis;{S} e vendo, vereis, e de maneira nenhuma percebereis.
+27 Porque o coração deste povo se endureceu, e com os ouvidos ouviram tardamente, e fecharam os olhos;{S} para que não vejam com os olhos, nem ouçam com os ouvidos, nem entendam com o coração nem se convertam e eu os cure.
+28 Seja-vos pois notório que esta salvação de<PESSOA> Deus</PESSOA> é enviada aos gentios, e eles ouvirão.
+29 [E, havendo ele dito isto, partiram os judeus, tendo entre si grande contenda.]
+30 E morou <VALOR>dois anos</VALOR> inteiros na casa que alugara, e recebia a todos os que o visitavam,
+31 pregando o reino de<PESSOA> Deus</PESSOA> e ensinando as coisas concernentes ao <PESSOA>Senhor  Jesus Cristo </PESSOA>, com toda a liberdade, sem impedimento algum.
+{S}ROMANOS

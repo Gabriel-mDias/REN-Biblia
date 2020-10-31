@@ -1,0 +1,58 @@
+
+1 Ora, estava enfermo um homem chamado<ABSTRACCAO> Lázaro</ABSTRACCAO>, de Betânia, aldeia de<PESSOA> Maria</PESSOA> e de sua <PESSOA>irmã Marta</PESSOA>.
+2 E Maria, cujo <PESSOA>irmão Lázaro</PESSOA> se achava enfermo, era a mesma que ungiu o <PESSOA>Senhor</PESSOA> com bálsamo, e lhe enxugou os pés com os seus cabelos.
+3 Mandaram, pois, as irmãs dizer a Jesus:{S} <PESSOA>Senhor</PESSOA>, eis que está enfermo aquele que tu amas.
+4<PESSOA> Jesus</PESSOA>, porém, ao ouvir isto, disse:{S} Esta enfermidade não é para a morte, mas para glória de<PESSOA> Deus</PESSOA>, para que o <PESSOA>Filho de Deus</PESSOA> seja glorificado por ela.
+5 <PESSOA>Ora</PESSOA>,<PESSOA> Jesus</PESSOA> amava a Marta, e a sua irmã, e a Lázaro.
+6 Quando, pois, ouviu que estava enfermo, ficou ainda dois dias no lugar onde se achava.
+7 Depois disto, disse a seus discípulos:{S} Vamos outra vez para<PESSOA> Judéia</PESSOA>.
+8 Disseram-lhe eles:{S} Rabi, ainda agora os judeus procuravam apedrejar-te, e voltas para lá?
+9 Respondeu Jesus:{S} Não são doze as horas do dia?{S} Se alguém andar de dia, não tropeça, porque vê a luz deste mundo;{S}
+10 mas se andar de noite, tropeça, porque nele não há luz.
+11 E, tendo assim falado, acrescentou:{S} Lázaro, o nosso amigo, dorme, mas vou despertá-lo do sono.
+12 Disseram-lhe, pois, os discípulos:{S} <PESSOA>Senhor</PESSOA>, se dorme, ficará bom.
+13 Mas Jesus falara da sua morte;{S} eles, porém, entenderam que falava do repouso do sono.
+14 Então Jesus lhes disse claramente:{S} Lázaro morreu;{S}
+15 e, por vossa causa, folgo de que eu lá não estivesse, para que creiais;{S} mas vamos ter com ele.
+16 Disse, pois, Tomé, chamado<ABSTRACCAO> Dídimo</ABSTRACCAO>, aos seus condiscípulos:{S} Vamos nós também, para morrermos com ele.
+17 Chegando pois<PESSOA> Jesus</PESSOA>, encontrou-o já com quatro dias de sepultura.
+18 Ora, Betânia distava de<PESSOA> Jerusalém</PESSOA> cerca de quinze estádios.
+19 E muitos dos judeus tinham vindo visitar<PESSOA> Marta</PESSOA> e<PESSOA> Maria</PESSOA>, para as consolar acerca de seu irmão.
+20<PESSOA> Marta</PESSOA>, pois, ao saber que<PESSOA> Jesus</PESSOA> chegava, saiu-lhe ao encontro;{S} Maria, porém, ficou sentada em casa.
+21 Disse, pois,<PESSOA> Marta</PESSOA> a Jesus:{S} <PESSOA>Senhor</PESSOA>, se meu irmão não teria morrido.
+22 E mesmo agora sei que tudo quanto pedires a <PESSOA>Deus</PESSOA>,<PESSOA> Deus</PESSOA> to concederá.
+23 Respondeu-lhe Jesus:{S} Teu irmão há de ressurgir.
+24 Disse-lhe Marta:{S} Sei que ele há de ressurgir na ressurreição, no último dia.
+25 Declarou-lhe Jesus:{S} Eu sou a ressurreição e a vida;{S} quem crê em mim, ainda que morra, viverá;{S}
+26 e todo aquele que vive, e crê em mim, jamais morrerá.{S} Crês isto?
+27 Respondeu-lhe Marta:{S} <PESSOA>Sim</PESSOA>, <PESSOA>Senhor</PESSOA>, eu creio que tu és o <PESSOA>Cristo</PESSOA>, o <PESSOA>Filho de Deus</PESSOA>, que havia de vir ao mundo.
+28 Dito isto, retirou-se e foi chamar em segredo a Maria, sua irmã, e lhe disse:{S} O <PESSOA>Mestre</PESSOA> está aí, e te chama.
+29 Ela, ouvindo isto, levantou-se depressa, e foi ter com ele.
+30 Pois Jesus ainda não havia entrado na aldeia, mas estava no lugar onde<PESSOA> Marta</PESSOA> o encontrara.
+31 Então os judeus que estavam com<PESSOA> Maria</PESSOA> em casa e a consolavam, vendo-a levantar-se apressadamente e sair, seguiram-na, pensando que ia ao sepulcro para chorar ali.
+32 Tendo, pois,<PESSOA> Maria</PESSOA> chegado ao lugar onde<PESSOA> Jesus</PESSOA> estava, e vendo-a, lançou-se-lhe aos pés e disse:{S} <PESSOA>Senhor</PESSOA>, se tu estiveras aqui, meu irmão não teria morrido.
+33<PESSOA> Jesus</PESSOA>, pois, quando a viu chorar, e chorarem também os judeus que com ela vinham, comoveu-se em espírito, e perturbou-se,
+34 e perguntou:{S} Onde o puseste?{S} Responderam-lhe:{S} <PESSOA>Senhor</PESSOA>, vem e vê.
+35<PESSOA> Jesus</PESSOA> chorou.
+36 Disseram então os judeus:{S} Vede como o amava.
+37 Mas alguns deles disseram:{S} Não podia ele, que abriu os olhos ao cego, fazer também que este não morreste?
+38<PESSOA> Jesus</PESSOA>, pois, comovendo-se outra vez, profundamente, foi ao sepulcro;{S} era uma gruta, e tinha uma pedra posta sobre ela.
+39 Disse<PESSOA> Jesus</PESSOA>:{S} Tirai a pedra.{S} Marta, irmã do defunto, disse-lhe:{S} <PESSOA>Senhor</PESSOA>, já cheira mal, porque está morto há quase quatro dias.
+40 Respondeu-lhe Jesus:{S} Não te disse que, se creres, verás a glória de Deus?
+41 Tiraram então a pedra.{S} E Jesus, levantando os olhos ao céu, disse:{S} <PESSOA>Pai</PESSOA>, graças te dou, porque me ouviste.
+42 Eu sabia que sempre me ouves;{S} mas por causa da multidão que está em redor é que assim falei, para que eles creiam que tu me enviaste.
+43 E, tendo dito isso, clamou em alta voz:{S} Lázaro, vem para fora!
+44 Saiu o que estivera morto, ligados os pés e as mãos com faixas, e o seu rosto envolto em um lenço.{S} Disse-lhes Jesus:{S} Desligai-o e deixai-o ir.
+<VALOR>45</VALOR> Muitos, pois, dentre os judeus que tinham vindo visitar<PESSOA> Maria</PESSOA>, e que tinham visto o que<PESSOA> Jesus</PESSOA> fizera, creram nele.
+46 Mas alguns deles foram ter com os fariseus e disseram-lhes o que<PESSOA> Jesus</PESSOA> tinha feito.
+47 Então os principais sacerdotes e os fariseus reuniram o sinédrio e diziam:{S} Que faremos? porquanto este homem vem operando muitos sinais.
+48 Se o deixarmos assim, todos crerão nele, e virão os romanos, e nos tirarão tanto o nosso lugar como a nossa nação.
+49 Um deles, porém, chamado<ABSTRACCAO> Caifás</ABSTRACCAO>, que era sumo sacerdote naquele ano, disse-lhes:{S} Vós nada sabeis,
+50 nem considerais que vos convém que morra um só homem pelo povo, e que não pereça a nação toda.
+51 Ora, isso não disse ele por si mesmo;{S} mas, sendo o sumo sacerdote naquele ano, profetizou que<PESSOA> Jesus</PESSOA> havia de morrer pela nação,
+52 e não somente pela nação, mas também para congregar em um só corpo os filhos de<PESSOA> Deus</PESSOA> que estão dispersos.
+53 Desde aquele dia, pois, tomavam conselho para o matarem.
+54 De sorte que<PESSOA> Jesus</PESSOA> já não andava manifestamente entre os judeus, mas retirou-se de ali para a região vizinha ao deserto, a uma cidade chamada<ABSTRACCAO> Efraim</ABSTRACCAO>;{S} e ali demorou com os seus discípulos.
+55 Ora, estava próxima a páscoa dos judeus, e dessa região subiram muitos a Jerusalém, antes da páscoa, para se purificarem.
+56 Buscavam, pois, a Jesus e diziam uns aos outros, estando no templo:{S} Que vos parece?{S} Não virá ele à festa?
+57 Ora, os principais sacerdotes e os fariseus tinham dado ordem que, se alguém soubesse onde ele estava, o denunciasse, para que o prendessem.

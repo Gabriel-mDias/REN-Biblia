@@ -1,0 +1,30 @@
+is_pessoa(Calebe).
+is_pessoa(Jefoné).
+is_pessoa(Semuel).
+is_pessoa(Amiúde).
+is_pessoa(Elidá).
+is_pessoa(Quislom).
+is_pessoa(príncipe Buqui).
+is_pessoa(Jógli).
+is_pessoa(príncipe Haniel).
+is_pessoa(Éfode).
+is_pessoa(príncipe Quemuel).
+is_pessoa(Siftã).
+is_pessoa(príncipe Elizafã).
+is_pessoa(Parnaque).
+is_pessoa(príncipe Paltiel).
+is_pessoa(Azã).
+is_pessoa(príncipe Aiúde).
+is_pessoa(Selômi).
+is_pessoa(príncipe Pedael).
+is_pessoa(Amiúde).
+is_father(Jefoné,Calebe).
+is_father(Amiúde,Semuel).
+is_father(Quislom,Elidá).
+is_father(Jógli,príncipe Buqui).
+is_father(Éfode,príncipe Haniel).
+is_father(Siftã,príncipe Quemuel).
+is_father(Parnaque,príncipe Elizafã).
+is_father(Azã,príncipe Paltiel).
+is_father(Selômi,príncipe Aiúde).
+is_father(Amiúde,príncipe Pedael).

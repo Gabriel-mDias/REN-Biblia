@@ -1,0 +1,6 @@
+is_pessoa(Salomão).
+is_pessoa(Davi).
+is_pessoa(Davi).
+is_pessoa(Jessé).
+is_father(Davi,Salomão).
+is_father(Jessé,Davi).

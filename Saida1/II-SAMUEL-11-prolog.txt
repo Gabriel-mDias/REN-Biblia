@@ -1,0 +1,3 @@
+is_pessoa(Abimeleque).
+is_pessoa(Jerubesete).
+is_father(Jerubesete,Abimeleque).

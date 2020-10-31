@@ -1,0 +1,12 @@
+is_pessoa(Micaías).
+is_pessoa(Inlá).
+is_pessoa(Micaías).
+is_pessoa(Inlá).
+is_pessoa(Zedequias).
+is_pessoa(Quenaaná).
+is_pessoa(Zedequias).
+is_pessoa(Quenaaná).
+is_father(Inlá,Micaías).
+is_father(Inlá,Micaías).
+is_father(Quenaaná,Zedequias).
+is_father(Quenaaná,Zedequias).

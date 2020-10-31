@@ -1,0 +1,6 @@
+is_pessoa(Hananias).
+is_pessoa(Azur).
+is_pessoa(Jeconias).
+is_pessoa(Jeoiaquim).
+is_father(Azur,Hananias).
+is_father(Jeoiaquim,Jeconias).

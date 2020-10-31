@@ -1,0 +1,15 @@
+
+1 Louvai ao <PESSOA>Senhor</PESSOA>!{S} Louvai ao <PESSOA>Senhor</PESSOA> desde o céu, louvai-o nas alturas!
+2 Louvai-o, todos os seus anjos;{S} louvai-o, todas as suas hostes!
+3 Louvai-o, sol e lua;{S} louvai-o, todas as estrelas luzentes!
+4 Louvai-o, céus dos céus, e as águas que estão sobre os céus!
+5 Louvem eles o nome do <PESSOA>Senhor</PESSOA>;{S} pois ele deu ordem, e logo foram criados.
+6 Também ele os estabeleceu para todo sempre;{S} e lhes fixou um limite que nenhum deles ultrapassará.
+7 Louvai ao <PESSOA>Senhor</PESSOA> desde a terra, vós, monstros marinhos e todos os abismos;{S}
+8 fogo e saraiva, neve e vapor;{S} vento tempestuoso que escuta a sua palavra;{S}
+<VALOR>9</VALOR> montes e todos os outeiros;{S} árvores frutíferas e todos os cedros;{S}
+<VALOR>10</VALOR> feras e todo o gado;{S} répteis e aves voadoras;{S}
+11 reis da terra e todos os povos;{S} príncipes e todos os juízes da terra;{S}
+<VALOR>12</VALOR> mancebos e donzelas;{S} velhos e crianças!
+13 Louvem eles o nome do <PESSOA>Senhor</PESSOA>, pois só o seu nome é excelso;{S} a sua glória é acima da terra e do céu.
+14 Ele também exalta o poder do seu povo, o louvor de todos os seus santos, dos filhos de<PESSOA> Israel</PESSOA>, um povo que lhe é chegado.{S} Louvai ao <PESSOA>Senhor</PESSOA>!

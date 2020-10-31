@@ -1,0 +1,6 @@
+is_pessoa(Eliú).
+is_pessoa(Baraquel).
+is_pessoa(Eliú).
+is_pessoa(Baraquel).
+is_father(Baraquel,Eliú).
+is_father(Baraquel,Eliú).

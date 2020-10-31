@@ -1,0 +1,6 @@
+is_pessoa(Balaão).
+is_pessoa(Beor).
+is_pessoa(Maquir).
+is_pessoa(Manassés).
+is_father(Beor,Balaão).
+is_father(Manassés,Maquir).

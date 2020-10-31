@@ -1,0 +1,6 @@
+is_pessoa(Acaz).
+is_pessoa(Jotão).
+is_pessoa(Peca).
+is_pessoa(Remalias).
+is_father(Jotão,Acaz).
+is_father(Remalias,Peca).

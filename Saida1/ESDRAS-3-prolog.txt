@@ -1,0 +1,12 @@
+is_pessoa(Jesuá).
+is_pessoa(Jozadaque).
+is_pessoa(Zorobabel).
+is_pessoa(Sealtiel).
+is_pessoa(Zorobabel).
+is_pessoa(Sealtiel).
+is_pessoa(Jesuá).
+is_pessoa(Jozadaque).
+is_father(Jozadaque,Jesuá).
+is_father(Sealtiel,Zorobabel).
+is_father(Sealtiel,Zorobabel).
+is_father(Jozadaque,Jesuá).

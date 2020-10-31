@@ -1,0 +1,3 @@
+is_pessoa(Palavras de Agur).
+is_pessoa(Jaqué de Massá).
+is_father(Jaqué de Massá,Palavras de Agur).

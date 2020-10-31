@@ -1,0 +1,40 @@
+
+<VALOR>1</VALOR> As turmas dos filhos de<PESSOA> Arão</PESSOA> foram estas: os filhos de Arão:{S} <PESSOA>Nadabe</PESSOA>,<PESSOA> Abiú</PESSOA>,<PESSOA> Eleazar</PESSOA> e<PESSOA> Itamar</PESSOA>.
+2 Mas Nadabe e Abiú morreram antes de seu pai, e não tiveram filhos;{S} por isso <PESSOA>Eleazar</PESSOA> e<PESSOA> Itamar</PESSOA> exerciam o sacerdócio.
+3 E Davi, juntamente com Zadoque, dos filhos de Eleazar, e com Aimeleque, dos filhos de<PESSOA> Itamar</PESSOA>, os distribuiu segundo os deveres do seu serviço.
+4 E acharam-se mais chefes dentre os filhos de Eleazar do que dentre os filhos de<PESSOA> Itamar</PESSOA>;{S} e assim foram distribuídos: dos filhos de Eleazar, chefes das casas paternas, dezesseis;{S} e dos filhos de<PESSOA> Itamar</PESSOA>, segundo as suas casas paternas, oito.
+5 Assim foram distribuídos por sortes, tanto uns como os outros;{S} porque havia príncipes do santuário e príncipes de<PESSOA> Deus</PESSOA>, tanto dentre os filhos de Eleazar, como dentre os filhos de<PESSOA> Itamar</PESSOA>.
+6 E os registrou 
+is_father( Netanel,Semaías).
+is_pessoa(Semaías).
+is_pessoa( Netanel).
+, o escrivão dentre os levitas, diante do rei, dos príncipes, de Zadoque, o sacerdote, de 
+is_father( Abiatar,Aimeleque).
+is_pessoa(Aimeleque).
+is_pessoa( Abiatar).
+, e dos chefes das casas paternas entre os sacerdotes e entre os levitas, tomando-se uma casa paterna para Eleazar, e outra para<PESSOA> Itamar</PESSOA>.
+7 Assim a primeira sorte saiu a Jeoiaribe, a segunda a Jedaías,
+8 a terceira a Harim, a quarta a Seorim,
+9 a quinta a Malquias, a sexta a Miamim,
+10 a sétima a Hacoz, a oitava a Abias,
+11 a nona a Jesuá, a décima a Secanias,
+12 a undécima a Eliasibe, a duodécima a Jaquim,
+13 a décima terceira a Hupá, a décima quarta a Jesebeabe,
+14 a décima quinta a Bilga, a décima sexta a Imer,
+15 a décima sétima a Hezir, a décima oitava a Hapizes,
+16 a décima nona a Petaías, a vigésima a Jeezquel,
+17 a vigésima primeira a Jaquim, a vigésima segunda a Gamul,
+18 a vigésima terceira a Delaías, a vigésima quarta a Maazias.
+19 Esta foi a distribuição deles no seu serviço, para entrarem na casa do <PESSOA>Senhor</PESSOA>, segundo lhes fora ordenado por<PESSOA> Arão</PESSOA>, seu pai, como o <PESSOA>Senhor  Deus de Israel </PESSOA> lhe tinha mandado.
+20 Do restante dos filhos de Levi: dos filhos de Anrão, Subael;{S} dos filhos de Subael, Jedeías.
+21 Quanto a Reabias: dos filhos de Reabias, Issijá o chefe;{S}
+22 dos izaritas, Selomote;{S} dos filhos de Selomote, Jaate;{S}
+23 dos filhos de Hebrom:{S} Jerias o chefe, Amarias o segundo, Jaaziel o terceiro, Jecameão o quarto;{S}
+24 dos filhos de Uziel, Mica;{S} dos filhos de Mica, Samir;{S}
+25 o irmão de Mica, Issijá;{S} dos filhos de Issijá, Zacarias.
+<VALOR>26</VALOR> Os filhos de Merári, Mali e Musi;{S} dos filhos de Jaazias, Beno;{S}
+<VALOR>27</VALOR> os filhos de Merári: de Jaazias:{S} Beno, Soão, Zacur e Ibri;{S}
+28 de Mali, Eleazar;{S} e este não teve filhos.
+29 Quanto a Quis: dos filhos de Quis, Jerameel;{S}
+30 e os filhos de Musi:{S} <PESSOA>Mali</PESSOA>,<PESSOA> Eder</PESSOA> e<PESSOA> Jerimote</PESSOA>.{S} Esses foram os filhos dos levitas, segundo as suas casas paternas.
+<VALOR>31</VALOR> Estes também, como seus irmãos, os filhos de<PESSOA> Arão</PESSOA>, lançaram sortes diante do <PESSOA>rei Davi</PESSOA>, de Zadoque, de Aimeleque, e dos chefes das casas paternas entre os sacerdotes e entre os levitas;{S} assim fizeram, tanto para o chefe de casa paterna, como para o seu irmão menor.

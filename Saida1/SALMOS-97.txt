@@ -1,0 +1,13 @@
+
+1 O <PESSOA>Senhor</PESSOA> reina, regozije-se a terra;{S} alegrem-se as numerosas ilhas.
+<VALOR>2</VALOR> Nuvens e escuridão estão ao redor dele;{S} justiça e eqüidade são a base do seu trono.
+3 Adiante dele vai um fogo que abrasa os seus inimigos em redor.
+<VALOR>4</VALOR> Os seus relâmpagos alumiam o mundo;{S} a terra os vê e treme.
+<VALOR>5</VALOR> Os montes, como cerca, se derretem na presença do <PESSOA>Senhor</PESSOA>, na presença do <PESSOA>Senhor</PESSOA> de toda a terra.
+<VALOR>6</VALOR> Os céus anunciam a sua justiça, e todos os povos vêem a sua glória.
+7 Confundidos são todos os que servem imagens esculpidas, que se gloriam de ídolos;{S} prostrai-vos diante dele, todos os deuses.
+8 Sião ouve e se alegra, e regozijam-se as filhas de<PESSOA> Judá</PESSOA> por causa dos teus juízos, <PESSOA>Senhor</PESSOA>.
+9 Pois tu, <PESSOA>Senhor</PESSOA>, és o Altíssimo sobre toda a terra;{S} tu és sobremodo exaltado acima de todos os deuses.
+10 O <PESSOA>Senhor</PESSOA> ama aos que odeiam o mal;{S} ele preserva as almas dos seus santos, ele os livra das mãos dos ímpios.
+11 A luz é semeada para o justo, e a alegria para os retos de coração.
+12 Alegrai-vos, ó justos, no<LOCAL> Senhor</LOCAL>, e rendei graças ao seu santo nome.

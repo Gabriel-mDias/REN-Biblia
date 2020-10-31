@@ -1,0 +1,36 @@
+
+<VALOR>1</VALOR> As palavras de
+is_father( Hilquias,  Jeremias ).
+is_pessoa(  Jeremias ).
+is_pessoa( Hilquias).
+, um dos sacerdotes que estavam em<LOCAL> Anatote</LOCAL>, na terra de Benjamim;{S}
+2 ao qual veio a palavra do <PESSOA>Senhor</PESSOA>, nos dias de 
+is_father( Amom,Josias).
+is_pessoa(Josias).
+is_pessoa( Amom).
+, rei de<PESSOA> Judá</PESSOA>, no décimo terceiro ano do seu reinado;{S}
+3 e lhe veio também nos dias de 
+is_father( Josias,Jeoiaquim).
+is_pessoa(Jeoiaquim).
+is_pessoa( Josias).
+, rei de<PESSOA> Judá</PESSOA>, até o fim do ano undécimo de 
+is_father( Josias,Zedequias).
+is_pessoa(Zedequias).
+is_pessoa( Josias).
+, rei de<PESSOA> Judá</PESSOA>, até que<PESSOA> Jerusalém</PESSOA> foi levada em cativeiro no quinto mês.
+4 Ora veio a mim a palavra do <PESSOA>Senhor</PESSOA>, dizendo:
+5 Antes que eu te formasse no ventre te conheci, e antes que saísses da madre te santifiquei;{S} às nações te dei por profeta.
+6 Então disse eu:{S} <PESSOA>Ah</PESSOA>, <PESSOA>Senhor Deus</PESSOA>!{S} Eis que não sei falar;{S} porque sou um menino.
+7 Mas o <PESSOA>Senhor</PESSOA> me respondeu:{S} Não digas:{S} Eu sou um menino;{S} porque a todos a quem eu te enviar, irás;{S} e tudo quanto te mandar dirás.
+8 Não temas diante deles;{S} pois eu seu contigo para te livrar, diz o <PESSOA>Senhor</PESSOA>.
+9 Então estendeu o <PESSOA>Senhor</PESSOA> a mão, e tocou-me na boca;{S} e disse-me o <PESSOA>Senhor</PESSOA>:{S} Eis que ponho as minhas palavras na tua boca.
+10 Olha, ponho-te neste dia sobre as nações, e sobre os reinos, para arrancares e derribares, para destruíres e arruinares;{S} e também para edificares e plantares.
+11 E veio a mim a palavra do <PESSOA>Senhor</PESSOA>, dizendo:{S} Que é que vês, Jeremias?{S} Eu respondi:{S} Vejo uma vara de amendoeira.
+12 Então me disse o <PESSOA>Senhor</PESSOA>:{S} Viste bem;{S} porque eu velo sobre a minha palavra para a cumprir.
+13 Veio a mim a palavra do <PESSOA>Senhor</PESSOA> segunda vez, dizendo:{S} Que é que vês?{S} E eu disse:{S} Vejo uma panela a ferver, que se apresenta da banda do norte.
+14 Ao que me disse o <PESSOA>Senhor</PESSOA>:{S} Do norte se estenderá o mal sobre todos os habitantes da terra.
+15 Pois estou convocando todas as famílias dos reinos do norte, diz o <PESSOA>Senhor</PESSOA>;{S} e, vindo, porá cada um o seu trono à entrada das portas de<PESSOA> Jerusalém</PESSOA>, e contra todos os seus muros em redor e contra todas as cidades de<PESSOA> Judá</PESSOA>.
+16 E pronunciarei contra eles os meus juízos, por causa de toda a sua malícia;{S} pois me deixaram a mim, e queimaram incenso a deuses estranhos, e adoraram as obras das suas mãos.
+17 Tu, pois, cinge os teus lombos, e levanta-te, e dêem-lhes tudo quanto eu te ordenar;{S} não desanimes diante deles, para que eu não te desanime diante deles.
+18 Eis que hoje te ponho como cidade fortificada, e como coluna de ferro e muros de bronze contra toda a terra, contra os reis de<PESSOA> Judá</PESSOA>, contra os seus príncipes, contra os seus sacerdotes, e contra o povo da terra.
+19 E eles pelejarão contra ti, mas não prevalecerão;{S} porque eu sou contigo, diz o <PESSOA>Senhor</PESSOA>, para te livrar.

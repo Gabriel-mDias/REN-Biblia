@@ -1,0 +1,3 @@
+is_pessoa(Jonas).
+is_pessoa(Amitai).
+is_father(Amitai,Jonas).

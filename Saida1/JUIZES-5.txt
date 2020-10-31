@@ -1,0 +1,41 @@
+
+1 Então cantaram<PESSOA> Débora</PESSOA> e
+is_father( Abinoão,  Baraque ).
+is_pessoa(  Baraque ).
+is_pessoa( Abinoão).
+, naquele dia, dizendo:
+2 Porquanto os chefes se puseram à frente em<LOCAL> Israel</LOCAL>, porquanto o povo se ofereceu voluntariamente, louvai ao <PESSOA>Senhor</PESSOA>.
+3 Ouvi, ó reis;{S} dai ouvidos, ó príncipes! eu cantarei ao <PESSOA>Senhor</PESSOA>, salmodiarei ao <PESSOA>Senhor  Deus de Israel </PESSOA>.
+4 Ó <PESSOA>Senhor</PESSOA>, quando saíste de Seir, quando caminhaste desde o campo de Edom, a terra estremeceu, os céus gotejaram, sim, as nuvens gotejaram águas.
+<VALOR>5</VALOR> Os montes se abalaram diante do <PESSOA>Senhor</PESSOA>, e até<LOCAL> Sinai</LOCAL>, diante do <PESSOA>Senhor  Deus de Israel </PESSOA>.
+6 Nos dias de 
+is_father( Anate,Sangar).
+is_pessoa(Sangar).
+is_pessoa( Anate).
+, nos dias de Jael, cessaram as caravanas;{S} e os que viajavam iam por atalhos desviados.
+7 Cessaram as aldeias em<LOCAL> Israel</LOCAL>, cessaram;{S} até que eu<PESSOA> Débora</PESSOA>, me levantei, até que eu me levantei por mãe em<LOCAL> Israel</LOCAL>.
+8 Escolheram deuses novos;{S} logo a guerra estava às portas;{S} via-se porventura escudo ou lança entre quarenta mil em<LOCAL> Israel</LOCAL>?
+9 Meu coração inclina-se para os guias de<PESSOA> Israel</PESSOA>, que voluntariamente se ofereceram entre o povo.{S} Bendizei ao <PESSOA>Senhor</PESSOA>.
+10 Louvai-o vós, os que cavalgais sobre jumentas brancas, que vos assentais sobre ricos tapetes;{S} e vós, que andais pelo caminho.
+11 Onde se ouve o estrondo dos flecheiros, entre os lugares onde se tiram águas, ali falarão das justiças do <PESSOA>Senhor</PESSOA>, das justiças que fez às suas aldeias em<LOCAL> Israel</LOCAL>;{S} então o povo do <PESSOA>Senhor</PESSOA> descia às portas.
+12 Desperta, desperta, Débora;{S} desperta, desperta, entoa um cântico;{S} levanta-te, Baraque, e leva em cativeiro os teus prisioneiros, tu, filho de Abinoão.
+13 Então desceu o restante dos nobres e do povo;{S} desceu o <PESSOA>Senhor</PESSOA> por mim contra os poderosos.
+14 De Efraim desceram os que tinham a sua raiz em<LOCAL> Amaleque</LOCAL>, após ti, Benjamim, entre os teus povos;{S} de Maquir desceram os guias, e de Zebulom os que levam o báculo do inspetor de tropas.
+15 Também os príncipes de Issacar estavam com<PESSOA> Débora</PESSOA>;{S} e como Issacar, assim também Baraque;{S} ao vale precipitaram-se em suas pegadas.{S} Junto aos ribeiros de Rúben grandes foram as resoluções do coração.
+16 Por que ficastes entre os currais a escutar os balidos dos rebanhos?{S} Junto aos ribeiros de Rúben grandes foram as resoluções do coração.
+17 Gileade ficou da banda dalém do<PESSOA> Jordão</PESSOA>;{S} e Dã, por que se deteve com seus navios?{S} Aser se assentou na costa do mar e ficou junto aos seus portos.
+18 Zebulom é um povo que se expôs à morte, como também Naftali, nas alturas do campo.
+19 Vieram reis e pelejaram;{S} pelejaram os reis de<PESSOA> Canaã</PESSOA>, em<LOCAL> Taanaque</LOCAL> junto às águas de Megido;{S} não tomaram despojo de prata.
+20 Desde os céus pelejaram as estrelas;{S} desde as suas órbitas pelejaram contra Sísera.
+21 O ribeiro de Quisom os arrastou, aquele antigo ribeiro, o ribeiro de Quisom.{S} Ó minha alma, calcaste aos pés a força.
+22 Então os cascos dos cavalos feriram a terra na fuga precipitada dos seus valentes.
+23 Amaldiçoai a Meroz, diz o anjo do <PESSOA>Senhor</PESSOA>, amaldiçoai acremente aos seus habitantes;{S} porquanto não vieram em socorro do <PESSOA>Senhor</PESSOA>, em socorro do <PESSOA>Senhor</PESSOA>, entre os valentes.
+24 Bendita entre todas as mulheres será Jael, mulher de Heber, o queneu;{S} bendita será entre as mulheres nômades.
+25 Água pediu ele, leite lhe deu ela;{S} em taça de príncipes lhe ofereceu coalhada.
+26 À estaca estendeu a mão esquerda, e ao martelo dos trabalhadores a direita, e matou a Sísera, rachando-lhe a cabeça;{S} furou e traspassou-lhe as fontes.
+27 Aos pés dela ele se encurvou, caiu, ficou estirado;{S} aos pés dela se encurvou, caiu;{S} onde se encurvou, ali caiu morto.
+28 <PESSOA>A</PESSOA> mãe de<PESSOA> Sísera</PESSOA> olhando pela janela, através da grade exclamava:{S} Por que tarda em vir o seu carro? por que se demora o rumor das suas carruagens?
+<VALOR>29</VALOR> As mais sábias das suas damas responderam, e ela respondia a si mesma:
+30 Não estão, porventura, achando e repartindo os despojos? uma ou duas donzelas a cada homem? para Sísera despojos de estofos tintos, despojos de estofos tintos bordados, bordados de várias cores, para o meu pescoço?
+31 Assim ó <PESSOA>Senhor</PESSOA>, pereçam todos os teus inimigos!{S} Sejam, porém, os que te amam, como o sol quando se levanta na sua força.
+32 E a terra teve sossego por <VALOR>quarenta anos</VALOR>.

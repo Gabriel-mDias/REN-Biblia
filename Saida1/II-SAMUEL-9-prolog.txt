@@ -1,0 +1,12 @@
+is_pessoa(Maquir).
+is_pessoa(Amiel).
+is_pessoa(Maquir).
+is_pessoa(Amiel).
+is_pessoa(Mefibosete).
+is_pessoa(Jônatas).
+is_pessoa(Jônatas).
+is_pessoa(Saul).
+is_father(Amiel,Maquir).
+is_father(Amiel,Maquir).
+is_father(Jônatas,Mefibosete).
+is_father(Saul,Jônatas).

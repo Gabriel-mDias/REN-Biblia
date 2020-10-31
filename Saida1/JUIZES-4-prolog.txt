@@ -1,0 +1,6 @@
+is_pessoa(Baraque).
+is_pessoa(Abinoão).
+is_pessoa(Baraque).
+is_pessoa(Abinoão).
+is_father(Abinoão,Baraque).
+is_father(Abinoão,Baraque).

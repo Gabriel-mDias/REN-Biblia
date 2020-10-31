@@ -1,0 +1,50 @@
+
+1 No ano duodécimo de Acaz, rei de<PESSOA> Judá</PESSOA>, começou a reinar
+is_father( Elá,  Oséias ).
+is_pessoa(  Oséias ).
+is_pessoa( Elá).
+, e reinou sobre<PESSOA> Israel</PESSOA>, em<LOCAL> Samária</LOCAL> <VALOR>nove anos</VALOR>.
+2 E fez o que era mau aos olhos do <PESSOA>Senhor</PESSOA>, contudo não como os reis de<PESSOA> Israel</PESSOA> que foram antes dele.
+3 Contra ele subiu Salmanasar, rei da<ORGANIZACAO> Assiria</ORGANIZACAO>;{S} e<PESSOA> Oséias</PESSOA> ficou sendo servo dele e lhe pagava tributos.
+4 O rei da<ORGANIZACAO> Assíria</ORGANIZACAO> , porém, achou em<LOCAL> Oséias</LOCAL> conspiração;{S} porque ele enviara mensageiros a <PESSOA>Sô</PESSOA>, rei do<PESSOA> Egito</PESSOA>, e não pagava, como dantes, os tributos anuais ao rei da<ORGANIZACAO> Assíria</ORGANIZACAO>;{S} então este o encerrou e o pôs em grilhões em uma prisão.
+5 E o rei da<ORGANIZACAO> Assíria</ORGANIZACAO> subiu por toda a terra, e chegando a Samária sitiou-a por <VALOR>três anos</VALOR>.
+6 No ano nono de<PESSOA> Oséias</PESSOA>, o rei da<ORGANIZACAO> Assíria</ORGANIZACAO> tomou Samária, e levou<PESSOA> Israel</PESSOA> cativo para a Assíria;{S} e fê-los habitar em<LOCAL> Hala</LOCAL>, e junto a Habor, o rio de<LOCAL> Gozã</LOCAL>, e nas cidades dos medos.
+7 Assim sucedeu, porque os filhos de<PESSOA> Israel</PESSOA> tinham pecado contra o <PESSOA>Senhor</PESSOA> seu<PESSOA> Deus</PESSOA> que os fizera subir da terra do<PESSOA> Egito</PESSOA>, de debaixo da mãe de Faraó, rei do<PESSOA> Egito</PESSOA>, e porque haviam temido a outros deuses,
+8 e andado segundo os costumes das nações que o <PESSOA>Senhor</PESSOA> lançara fora de diante dos filhos de<PESSOA> Israel</PESSOA>, e segundo os que os reis de<PESSOA> Israel</PESSOA> introduziram.
+9 Também os filhos de<PESSOA> Israel</PESSOA> fizeram secretamente contra o <PESSOA>Senhor</PESSOA> seu<PESSOA> Deus</PESSOA> coisas que não eram retas.{S} Edificaram para si altos em todas as suas cidades, desde a torre das atalaias até a cidade fortificada;{S}
+10 Levantaram para si colunas e aserins em todos os altos outeiros, e debaixo de todas as árvores frondosas;{S}
+11 queimaram incenso em todos os altos, como as nações que o <PESSOA>Senhor</PESSOA> expulsara de diante deles;{S} cometeram ações iníquas, provocando à ira o <PESSOA>Senhor</PESSOA>,
+12 e serviram os ídolos, dos quais o <PESSOA>Senhor</PESSOA> lhes dissera:{S} Não fareis isso.
+13 Todavia o <PESSOA>Senhor</PESSOA> advertiu a Israel e a Judá pelo ministério de todos os profetas e de todos os videntes, dizendo:{S} Voltai de vossos maus caminhos, e guardai os meus mandamentos e os meus estatutos, conforme toda a lei que ordenei a vossos pais e que vos enviei pelo ministério de meus servos, os profetas.
+l<VALOR>4</VALOR> Eles porém, não deram ouvidos;{S} antes endureceram a sua cerviz, como fizeram seus pais, que não creram no<LOCAL> Senhor</LOCAL> seu<PESSOA> Deus</PESSOA>;{S}
+15 rejeitaram os seus estatutos, e o seu pacto, que fizera com os pais deles, como também as advertências que lhes fizera;{S} seguiram a vaidade e tornaram-se vãos, como também seguiram as nações que estavam ao redor deles, a respeito das quais o <PESSOA>Senhor</PESSOA> lhes tinha ordenado que não as imitassem.
+16 E, deixando todos os mandamentos do <PESSOA>Senhor</PESSOA> seu<PESSOA> Deus</PESSOA>, fizeram para si dois bezerros de fundição, e ainda uma Asera;{S} adoraram todo o exército do céu, e serviram a Baal.
+17 Fizeram passar pelo fogo seus filhos, suas filhas, e deram-se a adivinhações e encantamentos;{S} e venderam-se para fazer o que era mau aos olhos do <PESSOA>Senhor</PESSOA>, provocando-o à ira.
+18 Pelo que o <PESSOA>Senhor</PESSOA> muito se indignou contra<PESSOA> Israel</PESSOA>, e os tirou de diante da sua face;{S} não ficou senão somente a tribo de<PESSOA> Judá</PESSOA>.
+19 Nem mesmo<PESSOA> Judá</PESSOA> havia guardado os mandamentos do <PESSOA>Senhor</PESSOA> seu<PESSOA> Deus</PESSOA>;{S} antes andou nos costumes que<PESSOA> Israel</PESSOA> introduzira.
+20 Pelo que o <PESSOA>Senhor</PESSOA> rejeitou toda a linhagem de<PESSOA> Israel</PESSOA>, e os oprimiu, entregando-os nas mãos dos despojadores, até que os expulsou da sua presença.
+21 Pois rasgara<PESSOA> Israel</PESSOA> da casa de<PESSOA> Davi</PESSOA>;{S} e eles fizeram rei a 
+is_father( Nebate,Jeroboão).
+is_pessoa(Jeroboão).
+is_pessoa( Nebate).
+, o qual apartou<PESSOA> Israel</PESSOA> de seguir o <PESSOA>Senhor</PESSOA>, e os fez cometer um grande pecado.
+22 Assim andaram os filhos de<PESSOA> Israel</PESSOA> em todos os pecados que Jeroboão tinha cometido;{S} nunca se apartaram deles;{S}
+23 até que o <PESSOA>Senhor</PESSOA> tirou<PESSOA> Israel</PESSOA> da sua presença, como falara por intermédio de todos os seus servos os profetas.{S} Assim foi<PESSOA> Israel</PESSOA> transportado da sua terra para a Assíria, onde está até o dia de hoje.
+24 Depois o rei da<ORGANIZACAO> Assíria</ORGANIZACAO> trouxe gente de Babilônia, de Cuta, de Ava, de Hamate e de Sefarvaim, e a fez habitar nas cidades de Samária em lugar dos filhos de<PESSOA> Israel</PESSOA>;{S} e eles tomaram Samária em herança, e habitaram nas suas cidades.
+25 E sucedeu que, no princípio da sua habitação ali, não temeram ao <PESSOA>Senhor</PESSOA>;{S} e o <PESSOA>Senhor</PESSOA> mandou entre eles leões, que mataram alguns deles.
+26 Pelo que foi dito ao rei da<ORGANIZACAO> Assíria</ORGANIZACAO>:{S} A gente que transportaste, e fizeste habitar nas cidades de Samária, não conhece a lei do deus da terra;{S} por isso ele tem enviado entre ela leões que a matam, porquanto não conhece a lei do deus da terra.
+27 Então o rei da<ORGANIZACAO> Assíria</ORGANIZACAO> mandou dizer:{S} Levai ali um dos sacerdotes que transportastes de lá para que vá e habite ali, e lhes ensine a lei do deus da terra.
+28 Veio, pois, um dos sacerdotes que eles tinham transportado de Samária, e habitou em<LOCAL> Betel</LOCAL>, e lhes ensinou como deviam temer ao <PESSOA>Senhor</PESSOA>.
+29 Todavia as nações faziam cada uma o seu próprio deus, e os punham nas casas dos altos que os samaritanos tinham feito, cada nação nas cidades que habitava.
+<VALOR>30</VALOR> Os de Babilônia fizeram e Sucote-Benote;{S} os de Cuta fizeram Nergal;{S} os de Hamate fizeram Asima;{S}
+<VALOR>31</VALOR> os aveus fizeram Nibaz e Tartaque: e os sefarvitas queimavam seus filhos no fogo e a adrameleque e a Anameleque, deuses de Sefarvaim.
+32 Temiam também ao <PESSOA>Senhor</PESSOA>, e dentre o povo fizeram para si sacerdotes dos lugares altos, os quais exerciam o ministério nas casas dos lugares altos.
+33 Assim temiam ao <PESSOA>Senhor</PESSOA>, mas também serviam a seus próprios deuses, segundo o costume das nações do meio das quais tinham sido transportados.
+34 Até o dia de hoje fazem segundo os antigos costumes: não temem ao <PESSOA>Senhor</PESSOA>;{S} nem fazem segundo os seus estatutos, nem segundo as suas ordenanças;{S} nem tampouco segundo a lei, nem segundo o mandamento que o <PESSOA>Senhor</PESSOA> ordenou aos filhos de<PESSOA> Jacó</PESSOA>, a quem deu o nome de<PESSOA> Israel</PESSOA>,
+35 com os quais o <PESSOA>Senhor</PESSOA> tinha feito um pacto, e lhes ordenara, dizendo:{S} Não temereis outros deuses, nem vos inclinareis diante deles, nem os servireis, nem lhes oferecereis sacrifícios;{S}
+36 mas sim ao <PESSOA>Senhor</PESSOA>, que vos fez subir da terra do<PESSOA> Egito</PESSOA> com grande poder e com braço estendido, a ele temereis, a ele vos inclinareis, e a ele oferecereis sacrifícios.
+37 Quanto aos estatutos, às ordenanças, à lei, e ao mandamento, que para vós escreveu, a esses tereis cuidado de observar todos os dias;{S} e não temereis outros deuses;{S}
+38 e do pacto que fiz convosco não vos esquecereis.{S} Não temereis outros deuses,
+39 mas ao <PESSOA>Senhor</PESSOA> vosso<PESSOA> Deus</PESSOA> temereis, e ele vos livrará das mãos de todos os vossos inimigos.
+40 Contudo eles não ouviram;{S} antes fizeram segundo o seu antigo costume.
+41 Assim estas nações temiam ao <PESSOA>Senhor</PESSOA>, mas serviam também as suas imagens esculpidas;{S} também seus filhos, e os filhos de seus filhos fazem até o dia de hoje como fizeram seus pais.

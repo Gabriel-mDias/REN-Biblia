@@ -1,0 +1,15 @@
+is_pessoa(Absalão).
+is_pessoa(Davi).
+is_pessoa(Amnom).
+is_pessoa(Davi).
+is_pessoa(Jonadabe).
+is_pessoa(Siméia).
+is_pessoa(Jonadabe).
+is_pessoa(Siméia).
+is_pessoa(Talmai).
+is_pessoa(Amiur).
+is_father(Davi,Absalão).
+is_father(Davi,Amnom).
+is_father(Siméia,Jonadabe).
+is_father(Siméia,Jonadabe).
+is_father(Amiur,Talmai).

@@ -1,0 +1,40 @@
+
+1 Então pôs-se<PESSOA> Jacó</PESSOA> a caminho e chegou à terra dos filhos do Oriente.
+2 E olhando, viu ali um poço no campo, e três rebanhos de ovelhas deitadas junto dele;{S} pois desse poço se dava de beber aos rebanhos;{S} e havia uma grande pedra sobre a boca do poço.
+3 Ajuntavam-se ali todos os rebanhos;{S} os pastores removiam a pedra da boca do poço, davam de beber às ovelhas e tornavam a pôr a pedra no seu lugar sobre a boca do poço.
+4 Perguntou-lhes Jacó:{S} Meus irmãos, de onde sois?{S} Responderam eles:{S} Somos de Harã.
+5 Perguntou-lhes mais:{S} Conheceis a 
+is_father( Naor,Labão).
+is_pessoa(Labão).
+is_pessoa( Naor).
+;{S} Responderam:{S} Conhecemos.
+6 Perguntou-lhes ainda: vai ele bem?{S} Responderam:{S} Vai bem;{S} e eis ali<PESSOA> Raquel</PESSOA>, sua filha, que vem chegando com as ovelhas.
+7 Disse ele:{S} Eis que ainda vai alto o dia;{S} não é hora de se ajuntar o gado;{S} dai de beber às ovelhas, e ide apascentá-las.
+8 Responderam:{S} Não podemos, até que todos os rebanhos se ajuntem, e seja removida a pedra da boca do poço;{S} assim é que damos de beber às ovelhas.
+9 Enquanto Jacó ainda lhes falava, chegou<PESSOA> Raquel</PESSOA> com as ovelhas de seu pai;{S} porquanto era ela quem as apascentava.
+10 Quando Jacó viu a Raquel, filha de Labão, irmão de sua mãe, e as ovelhas de Labão, irmão de sua mãe, chegou-se, revolveu a pedra da boca do poço e deu de beber às ovelhas de Labão, irmão de sua mãe.
+11 Então Jacó beijou a Raquel e, levantando a voz, chorou.
+12 E Jacó anunciou a Raquel que ele era irmão de seu pai, e que era filho de Rebeca.{S} Raquel, pois foi correndo para anunciá-lo a, seu pai.
+13 Quando Labão ouviu essas novas de<PESSOA> Jacó</PESSOA>, filho de sua irmã, correu-lhe ao encontro, abraçou-o, beijou-o e o levou à sua casa.{S} E Jacó relatou a Labão todas essas, coisas.
+14 Disse-lhe Labão:{S} Verdadeiramente tu és meu osso e minha carne.{S} E Jacó ficou com ele um mês inteiro.
+15 Depois perguntou Labão a Jacó:{S} Por seres meu irmão hás de servir-me de graça?{S} Declara-me, qual será o teu salário?
+16 Ora, Labão tinha duas filhas;{S} o nome da mais velha era Léia, e o da mais moça<PESSOA> Raquel</PESSOA>.
+17 Léia tinha os olhos enfermos, enquanto que<PESSOA> Raquel</PESSOA> era formosa de porte e de semblante.
+18<PESSOA> Jacó</PESSOA>, porquanto amava a Raquel, disse:{S} <VALOR>Sete anos</VALOR> te servirei para ter a Raquel, tua filha mais moça.
+19 Respondeu Labão:{S} Melhor é que eu a dê a ti do que a outro;{S} fica comigo.
+20 Assim serviu<PESSOA> Jacó</PESSOA> <VALOR>sete anos</VALOR> por causa de<PESSOA> Raquel</PESSOA>;{S} e estes lhe pareciam como poucos dias, pelo muito que a amava.
+21 Então <PESSOA>Jacó</PESSOA> disse a Labão:{S} Dá-me minha mulher, porque o tempo já está cumprido;{S} para que eu a tome por mulher.
+22 Reuniu, pois, Labão todos os homens do lugar, e fez um banquete.
+23 À tarde tomou a Léia, sua filha e a trouxe a Jacó, que esteve com ela.
+24 E Labão deu sua serva Zilpa por serva a Léia, sua filha.
+25 Quando amanheceu, eis que era Léia;{S} pelo que perguntou<PESSOA> Jacó</PESSOA> a Labão:{S} Que é isto que me fizeste?{S} Porventura não te servi em troca de Raquel?{S} Por que, então, me enganaste?
+26 Respondeu Labão:{S} Não se faz assim em nossa terra;{S} não se dá a menor antes da primogênita.
+27 Cumpre a semana desta;{S} então te daremos também a outra, pelo trabalho de outros <VALOR>sete anos</VALOR> que ainda me servirás.
+28 Assim fez<PESSOA> Jacó</PESSOA>, e cumpriu a semana de Léia;{S} depois Labão lhe deu por mulher sua <PESSOA>filha Raquel</PESSOA>.
+29 E Labão deu sua serva Bila por serva a Raquel, sua filha.
+30 Então Jacó esteve também com<PESSOA> Raquel</PESSOA>;{S} e amou a Raquel muito mais do que a Léia;{S} e serviu com Labão ainda outros <VALOR>sete anos</VALOR>.
+31 Viu, pois, o <PESSOA>Senhor</PESSOA> que Léia era desprezada e tornou-lhe fecunda a madre;{S} Raquel, porém, era estéril.
+32 E Léia concebeu e deu à luz um filho, a quem chamou Rúben;{S} pois disse:{S} Porque o <PESSOA>Senhor</PESSOA> atendeu à minha aflição;{S} agora me amará meu marido.
+33 Concebeu outra vez, e deu à luz um filho;{S} e disse:{S} Porquanto o <PESSOA>Senhor</PESSOA> ouviu que eu era desprezada, deu-me também este.{S} E lhe chamou<PESSOA> Simeão</PESSOA>.
+34 Concebeu ainda outra vez e deu à luz um filho e disse:{S} Agora esta vez se unirá meu marido a mim, porque três filhos lhe tenho dado.{S} Portanto lhe chamou<PESSOA> Levi</PESSOA>.
+35 De novo concebeu e deu à luz um filho;{S} e disse:{S} Esta vez louvarei ao <PESSOA>Senhor</PESSOA>.{S} Por isso lhe chamou<PESSOA> Judá</PESSOA>.{S} E cessou de ter filhos.

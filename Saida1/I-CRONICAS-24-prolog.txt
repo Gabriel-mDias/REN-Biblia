@@ -1,0 +1,6 @@
+is_pessoa(Semaías).
+is_pessoa(Netanel).
+is_pessoa(Aimeleque).
+is_pessoa(Abiatar).
+is_father(Netanel,Semaías).
+is_father(Abiatar,Aimeleque).

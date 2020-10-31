@@ -1,0 +1,3 @@
+is_pessoa(Joabe).
+is_pessoa(Zeruia).
+is_father(Zeruia,Joabe).

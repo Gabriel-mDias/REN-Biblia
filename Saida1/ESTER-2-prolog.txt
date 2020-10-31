@@ -1,0 +1,6 @@
+is_pessoa(Mordecai).
+is_pessoa(Jair).
+is_pessoa(Simei).
+is_pessoa(Quis).
+is_father(Jair,Mordecai).
+is_father(Quis,Simei).

@@ -1,0 +1,12 @@
+is_pessoa(Bosete).
+is_pessoa(Saul).
+is_pessoa(Bosete).
+is_pessoa(Saul).
+is_pessoa(Jônatas).
+is_pessoa(Saul).
+is_pessoa(Bosete).
+is_pessoa(Saul).
+is_father(Saul,Bosete).
+is_father(Saul,Bosete).
+is_father(Saul,Jônatas).
+is_father(Saul,Bosete).

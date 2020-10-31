@@ -1,0 +1,9 @@
+
+1 <PESSOA>Senhor</PESSOA>, como se têm multiplicado os meus adversários!{S} Muitos se levantam contra mim.
+<VALOR>2</VALOR> Muitos são os que dizem de mim:{S} Não há socorro para ele em<LOCAL> Deus</LOCAL>.
+3 Mas tu, <PESSOA>Senhor</PESSOA>, és um escudo ao redor de mim, a minha glória, e aquele que exulta a minha cabeça.
+4 Com a minha voz clamo ao <PESSOA>Senhor</PESSOA>, e ele do seu santo monte me responde.
+5 Eu me deito e durmo;{S} acordo, pois o <PESSOA>Senhor</PESSOA> me sustenta.
+6 Não tenho medo dos dez milhares de pessoas que se puseram contra mim ao meu redor.
+7 Levanta-te, <PESSOA>Senhor</PESSOA>! salva-me,<PESSOA> Deus</PESSOA> meu! pois tu feres no queixo todos os meus inimigos;{S} quebras os dentes aos ímpios.
+8 A salvação vem do <PESSOA>Senhor</PESSOA>;{S} sobre o teu povo seja a tua bênção.

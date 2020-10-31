@@ -1,0 +1,6 @@
+is_pessoa(Jeú).
+is_pessoa(Hanâni).
+is_pessoa(Zebadias).
+is_pessoa(Ismael).
+is_father(Hanâni,Jeú).
+is_father(Ismael,Zebadias).

@@ -1,0 +1,36 @@
+
+1 Disse mais o <PESSOA>Senhor</PESSOA> a Moisés:
+2 Fala aos filhos de<PESSOA> Israel</PESSOA>, e dize-lhes:{S} Quando alguém fizer ao <PESSOA>Senhor</PESSOA> um voto especial que envolve pessoas, o voto será cumprido segundo a tua avaliação das pessoas.
+3 Se for de um homem, desde a idade de vinte até <VALOR>sessenta anos</VALOR>, a tua avaliação será de cinqüenta siclos de prata, segundo o siclo do santuário.
+4 Se for mulher, a tua avaliação será de trinta siclos.
+5 Se for de <VALOR>cinco anos</VALOR> até vinte, a tua avaliação do homem será de vinte siclos, e da mulher dez siclos.
+6 Se for de um mês até <VALOR>cinco anos</VALOR>, a tua avaliação do homem será de cinco siclos de prata, e da mulher três siclos de prata.
+7 Se for de <VALOR>sessenta anos</VALOR> para cima, a tua avaliação do homem será de quinze siclos, e da mulher dez siclos.
+8 Mas, se for mais pobre do que a tua avaliação, será apresentado perante o sacerdote, que o avaliará conforme as posses daquele que tiver feito o voto.
+9 Se for animal dos que se oferecem em oferta ao <PESSOA>Senhor</PESSOA>, tudo quanto der dele ao <PESSOA>Senhor</PESSOA> será santo.
+10 Não o mudará, nem o trocará, bom por mau, ou mau por bom;{S} mas se de qualquer maneira trocar animal por animal, tanto um como o outro será santo.
+11 Se for algum animal imundo, dos que não se oferecem em oferta ao <PESSOA>Senhor</PESSOA>, apresentará o animal diante do sacerdote;{S}
+12 e o sacerdote o avaliará, seja bom ou seja mau;{S} segundo tu, sacerdote, o avaliares, assim será.
+13 Mas, se o homem, com efeito, quiser remi-lo, acrescentará a quinta parte sobre a tua avaliação.
+14 Quando alguém santificar a sua casa para ser santa ao <PESSOA>Senhor</PESSOA>, o sacerdote a avaliará, seja boa ou seja má;{S} como o sacerdote a avaliar, assim será.
+15 Mas, se aquele que a tiver santificado quiser remir a sua casa, então acrescentará a quinta parte do dinheiro sobre a tua avaliação, e terá a casa.
+16 Se alguém santificar ao <PESSOA>Senhor</PESSOA> uma parte do campo da sua possessão, então a tua avaliação será segundo a sua sementeira: um terreno que leva um hômer de semente de cevada será avaliado em cinqüenta siclos de prata.
+17 Se ele santificar o seu campo a partir do ano do jubileu, conforme a tua avaliação ficará.
+18 Mas se santificar o seu campo depois do ano do jubileu, o sacerdote lhe calculará o dinheiro conforme os anos que restam até o ano do jubileu, e assim será feita a tua avaliação.
+19 Se aquele que tiver santificado o campo, com efeito, quiser remi-lo, acrescentará a quinta parte do dinheiro da tua avaliação, e lhe ficará assegurado o campo.
+20 Se não o quiser remir, ou se houver vendido o campo a outrem, nunca mais poderá ser remido.
+21 Mas o campo, quando sair livre no ano do jubileu, será santo ao <PESSOA>Senhor</PESSOA>, como campo consagrado;{S} a possessão dele será do sacerdote.
+22 Se alguém santificar ao <PESSOA>Senhor</PESSOA> um campo que tiver comprado, o qual não for parte do campo da sua possessão,
+23 o sacerdote lhe contará o valor da tua avaliação até o ano do jubileu;{S} e no mesmo dia dará a tua avaliação, como coisa santa ao <PESSOA>Senhor</PESSOA>.
+24 No ano do jubileu o campo tornará àquele de quem tiver sido comprado, isto é, àquele a quem pertencer a possessão do campo.
+25 Ora, toda tua avaliação se fará conforme o siclo do santuário;{S} o siclo será de vinte jeiras.
+26 Contudo o primogênito de um animal, que por ser primogênito já pertence ao senhor, ninguém o santificará;{S} seja boi ou gado miúdo, pertence ao <PESSOA>Senhor</PESSOA>.
+27 Mas se o primogênito for de um animal imundo, remir-se-á segundo a tua avaliação, e a esta se acrescentará a quinta parte;{S} e se não for remido, será vendido segundo a tua avaliação.
+28 Todavia, nenhuma coisa consagrada ao <PESSOA>Senhor</PESSOA> por alguém, de aquilo que possui, seja homem, ou animal, ou campo da sua possessão, será vendida nem será remida;{S} toda coisa consagrada será santíssima ao <PESSOA>Senhor</PESSOA>.
+29 Nenhuma pessoa que dentre os homens for devotada será resgatada;{S} certamente será morta.
+30 Também todos os dízimos da terra, quer dos cereais, quer do fruto das árvores, pertencem ao senhor;{S} santos são ao <PESSOA>Senhor</PESSOA>.
+31 Se alguém quiser remir uma parte dos seus dízimos, acrescentar-lhe-á a quinta parte.
+32 Quanto a todo dízimo do gado e do rebanho, de tudo o que passar debaixo da vara, esse dízimo será santo ao <PESSOA>Senhor</PESSOA>.
+33 Não se examinará se é bom ou mau, nem se trocará;{S} mas se, com efeito, se trocar, tanto um como o outro será santo;{S} não serão remidos.
+34 são esses os mandamentos que o <PESSOA>Senhor</PESSOA> ordenou a Moisés, para os filhos de<PESSOA> Israel</PESSOA>, no monte<PESSOA> Sinai</PESSOA>.
+{S}NÚMEROS

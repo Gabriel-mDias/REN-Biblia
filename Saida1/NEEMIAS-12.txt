@@ -1,0 +1,76 @@
+
+1 Ora, estes são os sacerdotes e os levitas que subiram com 
+is_father( Sealtiel,Zorobabel).
+is_pessoa(Zorobabel).
+is_pessoa( Sealtiel).
+, e com Jesuá:{S} Seraías, Jeremias, Esdras,
+2 Amarias, Maluque, Hatus,
+3 Ido, Ginetói, Abias,
+4 Secanias, Reum, Meremote,
+5 Miamim, Maadias, Bilga,
+6 Semaías, Joiaribe, Jedaías,
+7 Salu, Amoque, Hilquias e Jedaías;{S} estes foram os chefes dos sacerdotes e de seus irmãos, nos dias de Jesuá.
+8 E os levitas:{S} Jesuá, Binuí, Cadmiel, Serebias, Judá, Matanias;{S} este e seus irmãos dirigiam os louvores.
+9 E Baquebuquias e Uni, seus irmãos, estavam defronte deles segundo os seus cargos.
+10 Jesuá foi pai de Joiaquim, Joiaquim de Eliasibe, Eliasibe de Joiada,
+11 Joiada de Jonatã, e Jonatã de Jadua.
+12 E nos dias de Joiaquim foram sacerdotes, chefes das casas paternas: por Seraías, Meraías;{S} por<PESSOA> Jeremias</PESSOA>,<PESSOA> Hananias</PESSOA>;{S}
+13 por<PESSOA> Esdras</PESSOA>,<PESSOA> Mesulão</PESSOA>;{S} por Amarias, Jeoanã;{S}
+14 por Malúqui, Jonatã;{S} por Sebanias, José;{S}
+15 por Harim, Adná;{S} por Meraiote, Helcai;{S}
+16 por Ido, Zacarias;{S} por Gineton, Mesulão;{S}
+17 por Abias, Zicri;{S} por Miniamim, por Moadias, Piltai;{S}
+18 por Bilga, Samua;{S} por Semaías, Jeonatã;{S}
+19 por Joiaribe, Matenai;{S} por Jedaías, Uzi;{S}
+20 por Salai, Calai;{S} por Amoque, Eber;{S}
+21 por Hilquias, Hasabias;{S} por Jedaías, Netanel.
+22 Nos dias de Eliasibe, Joiada, Joanã e Jadua foram inscritos, dos levitas, os chefes das casas paternas;{S} e assim também os dos sacerdotes, no reinado de<PESSOA> Dário</PESSOA>, o persa.
+<VALOR>23</VALOR> Os filhos de<PESSOA> Levi</PESSOA>, chefes de casas paternas, foram inscritos no livro das crônicas, até os dias de 
+is_father( Eliasibe,Joanã).
+is_pessoa(Joanã).
+is_pessoa( Eliasibe).
+.
+24 Foram, pois, os chefes dos levitas:{S} Hasabias, Serebias, 
+is_father( Cadmiel,Jesuá).
+is_pessoa(Jesuá).
+is_pessoa( Cadmiel).
+, e seus irmãos que ficavam defronte deles, turma contra turma, para louvarem e darem graças, segundo a ordem de<PESSOA> Davi</PESSOA>, homem de<PESSOA> Deus</PESSOA>.
+25 Matanias, Baquebuquias, Obadias, Mesulão, Talmom, e Acube eram porteiros, e faziam a guarda junto aos celeiros das portas.
+<VALOR>26</VALOR> Estes viveram nos dias de 
+is_father( Jesuá,Joiaquim).
+is_pessoa(Joiaquim).
+is_pessoa( Jesuá).
+, filho de Jozadaque, como também nos dias de Neemias, o governador, e do sacerdote<PESSOA> Esdras</PESSOA>, o escriba.
+27 Ora, na dedicação dos muros de<PESSOA> Jerusalém</PESSOA> buscaram os levitas de todos os lugares, para os trazerem a Jerusalém, a fim de celebrarem a dedicação com alegria e com ações de graças, e com canto, címbalos, alaúdes e harpas.
+28 Ajuntaram-se os filhos dos cantores, tanto da campina dos arredores de<PESSOA> Jerusalém</PESSOA>, como das aldeias do netofatitas;{S}
+29 como também de Bete-Gilgal, e dos campos de Geba e Azmavete;{S} pois os cantores tinham edificado para si aldeias ao redor de<PESSOA> Jerusalém</PESSOA>.
+30 E os sacerdotes e os levitas se purificaram, e purificaram o povo, as portas e o muro.
+31 Então fiz subir os príncipes de<PESSOA> Judá</PESSOA> sobre o muro, e constituí duas grandes companhias para darem graças e andarem em procissão, uma das quais foi para a direita sobre o muro, em direção à porta do monturo;{S}
+32 e após ela seguiam Hosaías, e a metade dos príncipes de<PESSOA> Judá</PESSOA>,
+33 e Azarias, Esdras, Mesulão,
+34<PESSOA> Judá</PESSOA>,<PESSOA> Benjamim</PESSOA>,<PESSOA> Semaías</PESSOA>, e<PESSOA> Jeremias</PESSOA>;{S}
+35 e dos filhos dos sacerdotes, levando trombetas, 
+is_father( Jonatã,Zacarias).
+is_pessoa(Zacarias).
+is_pessoa( Jonatã).
+, filho de 
+is_father( Matanias,Semaías).
+is_pessoa(Semaías).
+is_pessoa( Matanias).
+, filho de 
+is_father( Zacur,Micaías).
+is_pessoa(Micaías).
+is_pessoa( Zacur).
+, filho de Asafe.
+36 e seus irmãos, <PESSOA>Semaías</PESSOA>,<PESSOA> Azarel</PESSOA>,<PESSOA> Milalai</PESSOA>,<PESSOA> Gilalai</PESSOA>,<PESSOA> Maai</PESSOA>,<PESSOA> Netanel</PESSOA>,<PESSOA> Judá</PESSOA> e<PESSOA> Hanâni</PESSOA>, com os instrumento musicais de<PESSOA> Davi</PESSOA>, homem de<PESSOA> Deus</PESSOA>;{S} e<PESSOA> Esdras</PESSOA>, o escriba, ia adiante deles.
+37 À entrada da porta da fonte subiram diretamente as escadas da <LOCAL>cidade de Davi</LOCAL> onde começa a subida do muro, acima da casa de<PESSOA> Davi</PESSOA>, até a porta das águas a leste.
+38 A outra companhia dos que davam graças foi para a esquerda, seguindo-os eu com a metade do povo, sobre o muro, passando pela torre dos fornos até a muralha larga,
+39 e seguindo por cima da porta de Efraim, e da porta velha, e da porta dos peixes, e pela torre de<LOCAL> Hananel</LOCAL>, e a torre dos<LOCAL> Cem</LOCAL> até a porta das ovelhas;{S} e pararam à porta da guarda.
+40 Assim as duas companhias dos que davam graças pararam na casa de<PESSOA> Deus</PESSOA>, como também eu e a metade dos magistrados que estavam comigo,
+41 e os sacerdotes <PESSOA>Eliaquim</PESSOA>,<PESSOA> Maaséias</PESSOA>,<PESSOA> Miniamim</PESSOA>,<PESSOA> Micaías</PESSOA>,<PESSOA> Elioenai</PESSOA>,<PESSOA> Zacarias</PESSOA> e<PESSOA> Hananias</PESSOA>, com trombetas,
+42 com também Maaséias, Semaías, Eleazar, Uzi, Jeoanã, Malquias, Elão, e Ézer;{S} e os cantores cantavam, tendo Jezraías por dirigente.
+43 Naquele dia ofereceram grandes sacrifícios, e se alegraram, pois<PESSOA> Deus</PESSOA> lhes dera motivo de grande alegria;{S} também as mulheres e as crianças se alegraram, de modo que o júbilo de<PESSOA> Jerusalém</PESSOA> se fez ouvir longe.
+44 No mesmo dia foram nomeados homens sobre as câmaras do tesouro para as ofertas alçadas, as primícias e os dízimos, para nelas recolherem, dos campos, das cidades, os quinhões designados pela lei para os sacerdotes e para os levitas;{S} pois<PESSOA> Judá</PESSOA> se alegrava por estarem os sacerdotes e os levitas no seu posto,
+45 observando os preceitos do seu<PESSOA> Deus</PESSOA>, e os da purificação, como também o fizeram os cantores e porteiros, conforme a ordem de<PESSOA> Davi</PESSOA> e de seu <PESSOA>filho Salomão</PESSOA>.
+46 Pois desde a antigüidade, já nos dias de<PESSOA> Davi</PESSOA> e de Asafe, havia um chefe dos cantores, e havia cânticos de louvor e de ação de graça a Deus.
+47 Pelo que todo o Israel, nos dias de Zorobabel e nos dias de Neemias, dava aos cantores e aos porteiros as suas porções destinadas aos levitas, e os levitas separavam as porções destinadas aos filhos de<PESSOA> Arão</PESSOA>.

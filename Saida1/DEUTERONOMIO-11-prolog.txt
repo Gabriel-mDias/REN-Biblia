@@ -1,0 +1,3 @@
+is_pessoa(Eliabe).
+is_pessoa(Rúben).
+is_father(Rúben,Eliabe).

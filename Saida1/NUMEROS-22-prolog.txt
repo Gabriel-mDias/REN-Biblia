@@ -1,0 +1,15 @@
+is_pessoa(Balaque).
+is_pessoa(Zipor).
+is_pessoa(Balaque).
+is_pessoa(Zipor).
+is_pessoa(Balaão).
+is_pessoa(Beor).
+is_pessoa(Balaque).
+is_pessoa(Zipor).
+is_pessoa(Balaque).
+is_pessoa(Zipor).
+is_father(Zipor,Balaque).
+is_father(Zipor,Balaque).
+is_father(Beor,Balaão).
+is_father(Zipor,Balaque).
+is_father(Zipor,Balaque).

@@ -1,0 +1,61 @@
+
+1 E disse o sumo sacerdote:{S} Porventura são assim estas coisas?
+2 Estêvão respondeu:{S} <PESSOA>Irmãos</PESSOA> e pais, ouvi.{S} O Deus da glória apareceu a nosso <PESSOA>pai Abraão</PESSOA>, estando ele na<LOCAL> Mesopotâmia</LOCAL>, antes de habitar em<LOCAL> Harã</LOCAL>,
+3 e disse-lhe:{S} Sai da tua terra e dentre a tua parentela, e dirige-te à terra que eu te mostrar.
+4 Então saiu da terra dos caldeus e habitou em<LOCAL> Harã</LOCAL>.{S} de ali, depois que seu pai faleceu,<PESSOA> Deus</PESSOA> o trouxe para esta terra em que vós agora habitais.
+5 E não lhe deu nela herança, nem sequer o espaço de um pé;{S} mas prometeu que lha daria em possessão, e depois dele à sua descendência, não tendo ele ainda filho.
+6 Pois <PESSOA>Deus</PESSOA> disse que a sua descendência seria peregrina em terra estranha e que a escravizariam e maltratariam por <VALOR>quatrocentos anos</VALOR>.
+7 Mas eu julgarei a nação que os tiver escravizado, disse<PESSOA> Deus</PESSOA>;{S} e depois disto sairão, e me servirão neste lugar.
+8 E deu-lhe o pacto da circuncisão;{S} assim então gerou<PESSOA> Abraão</PESSOA> a Isaque, e o circuncidou ao oitavo dia;{S} e Isaque gerou a Jacó, e<PESSOA> Jacó</PESSOA> aos doze patriarcas.
+<VALOR>9</VALOR> Os patriarcas, movidos de inveja, venderam<PESSOA> José</PESSOA> para o Egito;{S} mas<PESSOA> Deus</PESSOA> era com ele,
+10 e o livrou de todas as suas tribulações, e lhe deu graça e sabedoria perante Faraó, rei do<PESSOA> Egito</PESSOA>, que o constituiu governador sobre o Egito e toda a sua casa.
+11 Sobreveio então uma fome a todo o <PESSOA>Egito</PESSOA> e<PESSOA> Canaã</PESSOA>, e grande tribulação;{S} e nossos pais não achavam alimentos.
+12 Mas tendo ouvido<PESSOA> Jacó</PESSOA> que no<LOCAL> Egito</LOCAL> havia trigo, enviou ali nossos pais pela primeira vez.
+13 E na segunda vez deu-se<PESSOA> José</PESSOA> a conhecer a seus irmãos, e a sua linhagem tornou-se manifesta a Faraó.
+14 Então José mandou chamar a seu <PESSOA>pai Jacó</PESSOA>, e a toda a sua parentela-setenta e cinco almas.
+15<PESSOA> Jacó</PESSOA>, pois, desceu ao Egito, onde morreu, ele e nossos pais;{S}
+16 e foram transportados para Siquém e depositados na sepultura que<PESSOA> Abraão</PESSOA> comprara por certo preço em prata aos filhos de Emor, em<LOCAL> Siquém</LOCAL>.
+17 Enquanto se aproximava o tempo da promessa que<PESSOA> Deus</PESSOA> tinha feito a Abraão, o povo crescia e se multiplicava no<LOCAL> Egito</LOCAL>;{S}
+18 até que se levantou ali outro rei, que não tinha conhecido<PESSOA> José</PESSOA>.
+19 Usando esse de astúcia contra a nossa raça, maltratou a nossos pais, ao ponto de fazê-los enjeitar seus filhos, para que não vivessem.
+20 Nesse tempo nasceu<PESSOA> Moisés</PESSOA>, e era mui formoso, e foi criado três meses em casa de seu pai.
+21 Sendo ele enjeitado, a filha de Faraó o recolheu e o criou como seu próprio filho.
+22 Assim Moisés foi instruído em toda a sabedoria dos egípcios, e era poderoso em palavras e obras.
+23 Ora, quando ele completou <VALOR>quarenta anos</VALOR>, veio-lhe ao coração visitar seus irmãos, os filhos de<PESSOA> Israel</PESSOA>.
+24 E vendo um deles sofrer injustamente, defendeu-o, e vingou o oprimido, matando o egípcio.
+25 Cuidava que seus irmãos entenderiam que por mão dele Deus lhes havia de dar a liberdade;{S} mas eles não entenderam.
+26 No dia seguinte apareceu-lhes quando brigavam, e quis levá-los à paz, dizendo:{S} Homens, sois irmãos;{S} por que vos maltratais um ao outro?
+27 Mas o que fazia injustiça ao seu próximo o repeliu, dizendo:{S} Quem te constituiu senhor e juiz sobre nós?
+28 Acaso queres tu matar-me como ontem mataste o egípcio?
+29 A esta palavra fugiu<PESSOA> Moisés</PESSOA>, e tornou-se peregrino na terra de Madiã, onde gerou dois filhos.
+30 E passados mais <VALOR>quarenta anos</VALOR>, apareceu-lhe um anjo no deserto do monte<PESSOA> Sinai</PESSOA>, em uma chama de fogo no meio de uma sarça.
+31<PESSOA> Moisés</PESSOA>, vendo isto, admirou-se da visão;{S} e, aproximando-se ele para observar, soou a voz do <PESSOA>Senhor</PESSOA>:
+32 Eu sou o deus de teus pais, o <PESSOA>Deus de Abraão</PESSOA>, de Isaque e de<PESSOA> Jacó</PESSOA>.{S} E Moisés ficou trêmulo e não ousava olhar.
+33 Disse-lhe então o <PESSOA>Senhor</PESSOA>:{S} Tira as alparcas dos teus pés, porque o lugar em que estás é terra santa.
+34 Vi, com efeito, a aflição do meu povo no<LOCAL> Egito</LOCAL>, ouvi os seus gemidos, e desci para livrá-lo.{S} Agora pois vem, e enviar-te-ei ao Egito.
+35 A este<PESSOA> Moisés</PESSOA> que eles haviam repelido, dizendo:{S} Quem te constituiu senhor e juiz? a este enviou<PESSOA> Deus</PESSOA> como senhor e libertador, pela mão do anjo que lhe aparecera na sarça.
+36 Foi este que os conduziu para fora, fazendo prodígios e sinais na terra do<PESSOA> Egito</PESSOA>, e no<LOCAL> Mar Vermelho</LOCAL>, e no deserto por <VALOR>quarenta anos</VALOR>.
+37 Este é o Moisés que disse aos filhos de Israel:S<PESSOA> Deus</PESSOA> vos suscitará dentre vossos irmãos um profeta como eu.
+38 Este é o que esteve na congregação no deserto, com o anjo que lhe falava no monte<PESSOA> Sinai</PESSOA>, e com nossos pais, o qual recebeu palavras de vida para vo-las dar;{S}
+39 ao qual os nossos pais não quiseram obedecer, antes o rejeitaram, e em seus corações voltaram ao Egito,
+40 dizendo a Arão:{S} Faze-nos deuses que vão adiante de nós;{S} porque a esse<PESSOA> Moisés</PESSOA> que nos tirou da terra do<PESSOA> Egito</PESSOA>, não sabemos o que lhe aconteceu.
+41 Fizeram, pois, naqueles dias o bezerro, e ofereceram sacrifício ao ídolo, e se alegravam nas obras das suas mãos.
+42 Mas Deus se afastou, e os abandonou ao culto das hostes do céu, como está escrito no livro dos profetas:{S} Porventura me oferecestes vítimas e sacrifícios por <VALOR>quarenta anos</VALOR> no deserto, ó casa de Israel?
+43 Antes carregastes o tabernáculo de Moloque e a estrela do deus Renfã, figuras que vós fizestes para adorá-las.{S} Desterrar-vos-ei pois, para além da<ORGANIZACAO> Babilônia</ORGANIZACAO>.
+44 Entre os nossos pais no deserto estava o tabernáculo do testemunho, como ordenara aquele que disse a Moisés que o fizesse segundo o modelo que tinha visto;{S}
+45 o qual nossos pais, tendo-o por sua vez recebido, o levaram sob a direção de<PESSOA> Josué</PESSOA>, quando entraram na posse da terra das nações que<PESSOA> Deus</PESSOA> expulsou da presença dos nossos pais, até os dias de<PESSOA> Davi</PESSOA>,
+46 que achou graça diante de<PESSOA> Deus</PESSOA>, e pediu que lhe fosse dado achar habitação para o <PESSOA>Deus de Jacó</PESSOA>.
+47 Entretanto foi<PESSOA> Salomão</PESSOA> quem lhe edificou uma casa;{S}
+48 mas o Altíssimo não habita em templos feitos por mãos de homens, como diz o profeta:
+49 O céu é meu trono, e a terra o escabelo dos meus pés.{S} Que casa me edificareis, diz o <PESSOA>Senhor</PESSOA>, ou qual o lugar do meu repouso?
+50 Não fez, porventura, a minha mão todas estas coisas?
+<VALOR>51</VALOR> Homens de dura cerviz, e incircuncisos de coração e ouvido, vós sempre resistis ao Espírito Santo;{S} como o fizeram os vossos pais, assim também vós.
+52 A qual dos profetas não perseguiram vossos pais?{S} Até mataram os que dantes anunciaram a vinda do Justo, do qual vós agora vos tornastes traidores e homicidas,
+53 vós, que recebestes a lei por ordenação dos anjos, e não a guardastes.
+54 Ouvindo eles isto, enfureciam-se em seus corações, e rangiam os dentes contra Estêvão.
+55 Mas ele, cheio do Espírito Santo, fitando os olhos no céu, viu a glória de<PESSOA> Deus</PESSOA>, e<PESSOA> Jesus</PESSOA> em pé à direita de<PESSOA> Deus</PESSOA>,
+56 e disse:{S} Eis que vejo os céus abertos, e o <PESSOA>Filho</PESSOA> do homem em pé à direita de<PESSOA> Deus</PESSOA>.
+57 Então eles gritaram com grande voz, taparam os ouvidos, e arremeteram unânimes contra ele
+58 e, lançando-o fora da cidade, o apedrejavam.{S} E as testemunhas depuseram as suas vestes aos pés de um mancebo chamado<ABSTRACCAO> Saulo</ABSTRACCAO>.
+59 Apedrejavam, pois, a Estêvão que orando, dizia:{S} <PESSOA>Senhor Jesus</PESSOA>, recebe o meu espírito.
+60 E pondo-se de joelhos, clamou com grande voz:{S} <PESSOA>Senhor</PESSOA>, não lhes imputes este pecado.{S} Tendo dito isto, adormeceu.{S} E Saulo consentia na sua morte.

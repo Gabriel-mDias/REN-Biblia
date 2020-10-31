@@ -1,0 +1,6 @@
+is_pessoa(Simão).
+is_pessoa(João).
+is_pessoa(Jesus de Nazaré).
+is_pessoa(José).
+is_father(João,Simão).
+is_father(José,Jesus de Nazaré).

@@ -1,0 +1,9 @@
+is_pessoa(Boã).
+is_pessoa(Rúben).
+is_pessoa(Calebe).
+is_pessoa(Jefoné).
+is_pessoa(Otniel).
+is_pessoa(Quenaz).
+is_father(Rúben,Boã).
+is_father(Jefoné,Calebe).
+is_father(Quenaz,Otniel).

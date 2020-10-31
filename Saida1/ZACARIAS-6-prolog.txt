@@ -1,0 +1,9 @@
+is_pessoa(Josias).
+is_pessoa(Sofonias).
+is_pessoa(Josué).
+is_pessoa(Jeozadaque).
+is_pessoa(Hem).
+is_pessoa(Sofonias).
+is_father(Sofonias,Josias).
+is_father(Jeozadaque,Josué).
+is_father(Sofonias,Hem).

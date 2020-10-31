@@ -1,0 +1,9 @@
+is_pessoa(Finéias).
+is_pessoa(Eleazar).
+is_pessoa(Finéias).
+is_pessoa(Eleazar).
+is_pessoa(Zinri).
+is_pessoa(Salu).
+is_father(Eleazar,Finéias).
+is_father(Eleazar,Finéias).
+is_father(Salu,Zinri).

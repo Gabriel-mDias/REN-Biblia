@@ -1,0 +1,3 @@
+is_pessoa(Ezequiel).
+is_pessoa(Buzi).
+is_father(Buzi,Ezequiel).

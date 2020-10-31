@@ -1,0 +1,60 @@
+
+1 Ora, 
+is_father(  Davi ,Absalão).
+is_pessoa(Absalão).
+is_pessoa(  Davi ).
+, tinha uma irmã formosa, cujo nome era Tamar;{S} e sucedeu depois de algum tempo que 
+is_father(  Davi ,Amnom).
+is_pessoa(Amnom).
+is_pessoa(  Davi ).
+ enamorou-se dela.
+2 E angustiou-se Amnom, até adoecer, por amar, sua irmã;{S} pois era virgem, e parecia impossível a Amnom fazer coisa alguma com ela.
+3 Tinha, porém, Amnom um amigo, cujo nome era 
+is_father( Siméia,Jonadabe).
+is_pessoa(Jonadabe).
+is_pessoa( Siméia).
+, irmão de<PESSOA> Davi</PESSOA>;{S} e era Jonadabe homem mui sagaz.
+4 Este lhe perguntou:{S} Por que tu de dia para dia tanto emagreces, ó filho do rei? não mo dirás a mim?{S} Então lhe respondeu Amnom:{S} Amo a Tamar, irmã de Absalão, meu irmão.
+5 Tornou-lhe Jonadabe:{S} Deita-te na tua cama, e finge-te doente;{S} e quando teu pai te vier visitar, dize-lhe:{S} Peço-te que minha <PESSOA>irmã Tamar</PESSOA> venha dar-me de comer, preparando a comida diante dos meus olhos, para que eu veja e coma da sua mão.
+6 Deitou-se, pois, Amnom, e fingiu-se doente.{S} Vindo o rei visitá-lo, disse-lhe Amnom:{S} Peço-te que minha <PESSOA>irmã Tamar</PESSOA> venha e prepare dois bolos diante dos meus olhos, para que eu coma da sua mão.
+7 Mandou, então,<PESSOA> Davi</PESSOA> a casa, a dizer a Tamar:{S} Vai a casa de Amnom, teu irmão, e faze-lhe alguma comida.
+8 Foi, pois, Tamar a casa de Amnom, seu irmão;{S} e ele estava deitado.{S} Ela tomou massa e, amassando-a, fez bolos e os cozeu diante dos seus olhos.
+9 E tomou a panela, e os tirou diante dele;{S} porém ele recusou comer.{S} E disse<PESSOA> Amnom</PESSOA>:{S} Fazei retirar a todos da minha presença.{S} E todos se retiraram dele.
+10 Então disse<PESSOA> Amnom</PESSOA> a Tamar:{S} Traze a comida a câmara, para que eu coma da tua mão.{S} E Tamar, tomando os bolos que fizera, levou-os à câmara, ao seu <PESSOA>irmão Amnom</PESSOA>.
+11 Quando lhos chegou, para que ele comesse, Amnom pegou dela, e disse-lhe:{S} Vem, deita-te comigo, minha irmã.
+12 Ela, porém, lhe respondeu:{S} Não, meu irmão, não me forces, porque não se faz assim em<LOCAL> Israel</LOCAL>;{S} não faças tal loucura.
+13 Quanto a mim, para onde levaria o meu opróbrio?{S} E tu passarias por um dos insensatos em<LOCAL> Israel</LOCAL>.{S} Rogo-te, pois, que fales ao rei, porque ele não me negará a ti.
+14 Todavia ele não quis dar ouvidos à sua voz;{S} antes, sendo mais forte do que ela, forçou-a e se deitou com ela.
+15 Depois sentiu Amnom grande aversão por ela, pois maior era a aversão que se sentiu por ela do que o amor que lhe tivera.{S} E disse-lhe Amnom:{S} Levanta-te, e vai-te.
+16 Então ela lhe respondeu:{S} Não há razão de me despedires;{S} maior seria este mal do que o outro já me tens feito.{S} Porém ele não lhe quis dar ouvidos,
+17 mas, chamando o moço que o servia, disse-lhe:{S} Deita fora a esta mulher, e fecha a porta após ela.
+18 Ora, trazia ela uma túnica talar;{S} porque assim se vestiam as filhas virgens dos reis.{S} Então o criado dele a deitou fora, e fechou a porta após ela.
+19 Pelo que Tamar, lançando cinza sobre a cabeça, e rasgando a túnica talar que trazia, pôs as mãos sobre a cabeça, e se foi andando e clamando.
+20 Mas Absalão, seu irmão, lhe perguntou:{S} Esteve Amnom, teu irmão, contigo?{S} Ora pois, minha irmã, cala-te;{S} é teu irmão.{S} Não se angustie o seu coração por isto.{S} Assim ficou Tamar, desolada, em casa de Absalão, seu irmão.
+21 Quando o <PESSOA>rei Davi</PESSOA> ouviu todas estas coisas, muito se lhe acendeu a ira.
+22 Absalão, porém, não falou com Amnom, nem mal nem bem, porque odiava a Amnom por ter ele forçado a Tamar, sua irmã.
+23 Decorridos <VALOR>dois anos</VALOR> inteiros, tendo Absalão tosquiadores em<LOCAL> Baal</LOCAL>-Hazor, que está junto a Efraim, convidou todos os filhos do rei.
+24 Foi, pois, Absalão ter com o rei, e disse:{S} Eis que agora o teu servo faz a tosquia.{S} Peço que o rei e os seus servos venham com o teu servo.
+25 O rei, porém, respondeu a Absalão:{S} Não, meu filho, não vamos todos, para não te sermos pesados.{S} Absalão instou com ele;{S} todavia ele não quis ir, mas deu-lhe a sua benção.
+26 Disse-lhe Absalão:{S} Ao menos, deixa ir conosco Amnom, meu irmão.{S} O rei, porém, lhe perguntou:{S} Para que iria ele contigo?
+27 Mas como Absalão instasse com o rei, este deixou ir com ele Amnom, e os demais filhos do rei.
+28 Ora, Absalão deu ordem aos seus servos, dizendo:{S} Tomai sentido;{S} quando o coração de Amnom estiver alegre do vinho, e eu vos disser:{S} Feri a Amnom;{S} então matai-o.{S} Não tenhais medo;{S} não sou eu quem vo-lo ordenou?{S} Esforçai-vos, e sede valentes.
+29 E os servos de Absalão fizeram a Amnom como Absalão lhes havia ordenado.{S} Então todos os filhos do rei se levantaram e, montando cada um no seu mulo, fugiram.
+30 Enquanto eles ainda estavam em caminho, chegou a Davi um rumor, segundo o qual se dizia:{S} Absalão matou todos os filhos do rei;{S} nenhum deles ficou.
+31 Então o rei se levantou e, rasgando as suas vestes, lançou-se por terra;{S} da mesma maneira todos os seus servos que lhe assistiam rasgaram as suas vestes.
+32 Mas 
+is_father( Siméia,Jonadabe).
+is_pessoa(Jonadabe).
+is_pessoa( Siméia).
+, irmão de<PESSOA> Davi</PESSOA>, disse-lhe:{S} Não presuma o meu senhor que mataram todos os mancebos filhos do rei, porque só morreu Amnom;{S} porque assim o tinha resolvido fazer Absalão, desde o dia em que ele forçou a Tamar, sua irmã.
+33 Não se lhe meta, pois, agora no coração ao rei meu senhor o pensar que morreram todos os filhos do rei;{S} porque só morreu Amnom.
+34 Absalão, porém, fugiu.{S} E o mancebo que estava de guarda, levantando os olhos, orou, e eis que vinha muito povo pelo caminho por detrás dele, ao lado do monte.
+35 Então disse<PESSOA> Jonadabe</PESSOA> ao rei:{S} Eis aí vêm os filhos do rei;{S} conforme a palavra de teu servo, assim sucedeu.
+36 Acabando ele de falar, chegaram os filhos do rei e, levantando a sua voz, choraram;{S} e também o rei e todos os seus servos choraram amargamente.
+37 Absalão, porém, fugiu, e foi ter com 
+is_father( Amiur,Talmai).
+is_pessoa(Talmai).
+is_pessoa( Amiur).
+, rei de Gesur.{S} E Davi pranteava a seu filho todos os dias.
+38 Tendo Absalão fugido para Gesur, esteve ali <VALOR>três anos</VALOR>.
+39 Então o <PESSOA>rei Davi</PESSOA> sentiu saudades de Absalão, pois já se tinha consolado acerca da morte de Amnom.

@@ -1,0 +1,26 @@
+
+1 Ora, 
+is_father(  Davi ,Salomão).
+is_pessoa(Salomão).
+is_pessoa(  Davi ).
+, fortaleceu-se no seu reino, e o <PESSOA>Senhor</PESSOA> seu<PESSOA> Deus</PESSOA> era com ele, e muito o engrandeceu.
+2 E falou<PESSOA> Salomão</PESSOA> a todo o Israel, aos chefes de mil e de cem, e aos juízes, e a todos os príncipes em todo o Israel, chefes das casas paternas.
+3 E foi<PESSOA> Salomão</PESSOA>, e toda a congregação com ele, ao alto que estava em<LOCAL> Gibeão</LOCAL> porque ali estava a tenda da revelação de<PESSOA> Deus</PESSOA>, que<PESSOA> Moisés</PESSOA>, servo do <PESSOA>Senhor</PESSOA>, tinha feito no deserto.
+4 Mas Davi tinha feito subir a arca de <PESSOA>Deus de Quiriate</PESSOA>-Jearim ao lugar que lhe preparara;{S} pois lhe havia armado uma tenda em<LOCAL> Jerusalém</LOCAL>.
+5 Também o altar de bronze feito por 
+is_father( Uri,Bezaleel).
+is_pessoa(Bezaleel).
+is_pessoa( Uri).
+, filho de Hur, estava ali diante do tabernáculo do <PESSOA>Senhor</PESSOA>;{S} e<PESSOA> Salomão</PESSOA> e a congregação o buscavam.
+6 E Salomão ofereceu ali sacrifícios perante o <PESSOA>Senhor</PESSOA>, sobre o altar de bronze que estava junto à tenda da revelação;{S} ofereceu sobre ele mil holocaustos.
+7 Naquela mesma noite<PESSOA> Deus</PESSOA> apareceu a Salomão, e lhe disse:{S} Pede o que queres que eu te dê.
+8 E <PESSOA>Salomão</PESSOA> disse a Deus:{S} Tu usaste de grande benevolência para com meu <PESSOA>pai Davi</PESSOA>, e a mim me fizeste rei em seu lugar.
+9 Agora, pois, ó <PESSOA>Senhor Deus</PESSOA>, confirme-se a tua promessa, dada a meu <PESSOA>pai Davi</PESSOA>;{S} porque tu me fizeste rei sobre um povo numeroso como o pó da terra.
+10 Dá-me, pois, agora sabedoria e conhecimento, para que eu possa sair e entrar perante este povo;{S} pois quem poderá julgar este teu povo, que é tão grande?
+11 Então <PESSOA>Deus</PESSOA> disse a Salomão:{S} Porquanto houve isto no teu coração, e não pediste riquezas, bens ou honra, nem a morte dos que te odeiam, nem tampouco pediste muitos dias de vida, mas pediste para ti sabedoria e conhecimento para poderes julgar o meu povo, sobre o qual te fiz reinar,
+12 sabedoria e conhecimento te são dados;{S} também te darei riquezas, bens e honra, quais não teve nenhum rei antes de ti, nem haverá depois de ti rei que tenha coisas semelhantes.
+13 Assim Salomão veio a Jerusalém, do alto que estava em<LOCAL> Gibeão</LOCAL>, de diante da tenda da revelação;{S} e reinou sobre<PESSOA> Israel</PESSOA>.
+14<PESSOA> Salomão</PESSOA> ajuntou carros e cavaleiros;{S} teve mil e quatrocentos carros e doze mil cavaleiros, que colocou nas cidades dos carros e junto de si em<LOCAL> Jerusalém</LOCAL>.
+15 E o rei tornou o ouro e a prata tão comuns em<LOCAL> Jerusalém</LOCAL> como as pedras, e os cedros tantos em abundância como os sicômoros que há na baixada.
+<VALOR>16</VALOR> Os cavalos que<PESSOA> Salomão</PESSOA> tinha eram trazidos do<PESSOA> Egito</PESSOA> e de Coa;{S} e os mercadores do rei os recebiam de Coa por preço determinado.
+17 E faziam subir e sair do<PESSOA> Egito</PESSOA> cada carro por seiscentos siclos de prata, e cada cavalo por cento e cinqüenta;{S} e assim por meio deles eram exportados para todos os reis dos heteus, e para os reis da<ORGANIZACAO> Síria</ORGANIZACAO>.

@@ -1,0 +1,6 @@
+is_pessoa(Quis).
+is_pessoa(Abiel).
+is_pessoa(Zeror).
+is_pessoa(Becorate).
+is_father(Abiel,Quis).
+is_father(Becorate,Zeror).

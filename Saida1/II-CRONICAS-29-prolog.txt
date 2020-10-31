@@ -1,0 +1,15 @@
+is_pessoa(Maate).
+is_pessoa(Amasai).
+is_pessoa(Joel).
+is_pessoa(Azarias).
+is_pessoa(Quis).
+is_pessoa(Abdi).
+is_pessoa(Azurias).
+is_pessoa(Jealelel).
+is_pessoa(Joá).
+is_pessoa(Zima).
+is_father(Amasai,Maate).
+is_father(Azarias,Joel).
+is_father(Abdi,Quis).
+is_father(Jealelel,Azurias).
+is_father(Zima,Joá).

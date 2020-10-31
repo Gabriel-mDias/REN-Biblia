@@ -1,0 +1,33 @@
+
+1 Ora aconteceu no trigésimo ano, no quarto mês, no dia quinto do mês, que estando eu no meio dos cativos, junto ao rio<LOCAL> Quebar</LOCAL>, se abriram os céus, e eu tive visões de<PESSOA> Deus</PESSOA>.
+2 No quinto dia do mês, já no quinto ano do cativeiro do <PESSOA>rei Joaquim</PESSOA>,
+3 veio expressamente a palavra do <PESSOA>Senhor</PESSOA> a 
+is_father( Buzi,Ezequiel).
+is_pessoa(Ezequiel).
+is_pessoa( Buzi).
+, o sacerdote, na terra dos caldeus, junto ao rio<LOCAL> Quebar</LOCAL>;{S} e ali esteve sobre ele a mão do <PESSOA>Senhor</PESSOA>.
+4 Olhei, e eis que um vento tempestuoso vinha do norte, uma grande nuvem, com um fogo que emitia de contínuo labaredas, e um resplendor ao redor dela;{S} e do meio do fogo saía uma coisa como o brilho de âmbar.
+5 E do meio dela saía a semelhança de quatro seres viventes.{S} E esta era a sua aparência: tinham a semelhança de homem;{S}
+6 cada um tinha quatro rostos, como também cada um deles quatro asas.
+7 E as suas pernas eram retas;{S} e as plantas dos seus pés como a planta do pé de um bezerro;{S} e luziam como o brilho de bronze polido.
+8 E tinham mãos de homem debaixo das suas asas, aos quatro lados;{S} e todos quatro tinham seus rostos e suas asas assim:
+9 Uniam-se as suas asas uma à outra;{S} eles não se viravam quando andavam;{S} cada qual andava para adiante de si;{S}
+10 e a semelhança dos seus rostos era como o rosto de homem;{S} e à mão direita todos os quatro tinham o rosto de leão, e à mão esquerda todos os quatro tinham o rosto de boi;{S} e também tinham todos os quatro o rosto de águia;{S}
+11 assim eram os seus rostos.{S} As suas asas estavam estendidas em cima;{S} cada qual tinha duas asas que tocavam às de outro;{S} e duas cobriam os corpos deles.
+12 E cada qual andava para adiante de si;{S} para onde o espírito havia de ir, iam;{S} não se viravam quando andavam.
+13 No meio dos seres viventes havia uma coisa semelhante a ardentes brasas de fogo, ou a tochas que se moviam por entre os seres viventes;{S} e o fogo resplandecia, e do fogo saíam relâmpagos.
+14 E os seres viventes corriam, saindo e voltando à semelhança de um raio.
+15 Ora, eu olhei para os seres viventes, e vi rodas sobre a terra junto aos seres viventes, uma para cada um dos seus quatro rostos.
+16 O aspecto das rodas, e a obra delas, era como o brilho de crisólita;{S} e as quatro tinham uma mesma semelhança;{S} e era o seu aspecto, e a sua obra, como se estivera uma roda no meio de outra roda.
+17 Andando elas, iam em qualquer das quatro direções sem se virarem quando andavam.
+18 Estas rodas eram altas e formidáveis;{S} e as quatro tinham as suas cambotas cheias de olhos ao redor.
+19 E quando andavam os seres viventes, andavam as rodas ao lado deles;{S} e quando os seres viventes se elevavam da terra, elevavam-se também as rodas.
+20 Para onde o espírito queria ir, iam eles, mesmo para onde o espírito tinha de ir;{S} e as rodas se elevavam ao lado deles;{S} porque o espírito do ser vivente estava nas rodas.
+21 Quando aqueles andavam, andavam estas;{S} e quando aqueles paravam, paravam estas;{S} e quando aqueles se elevavam da terra, elevavam-se também as rodas ao lado deles;{S} porque o espírito do ser vivente estava nas rodas.
+22 E por cima das cabeças dos seres viventes havia uma semelhança de firmamento, como o brilho de cristal terrível, estendido por cima, sobre a sua cabeça.
+23 E debaixo do firmamento estavam as suas asas direitas, uma em direção à outra;{S} cada um tinha duas que lhe cobriam o corpo de um lado, e cada um tinha outras duas que o cobriam doutro lado.
+24 E quando eles andavam, eu ouvia o ruído das suas asas, como o ruído de muitas águas, como a voz do Onipotente, o ruído de tumulto como o ruído de um exército;{S} e, parando eles, abaixavam as suas asas.
+25 E ouvia-se uma voz por cima do firmamento, que estava por cima das suas cabeças;{S} parando eles, abaixavam as suas asas.
+26 E sobre o firmamento, que estava por cima das suas cabeças, havia uma semelhança de trono, como a aparência de uma safira;{S} e sobre a semelhança do trono havia como que a semelhança de um homem, no alto, sobre ele.
+27 E vi como o brilho de âmbar, como o aspecto do fogo pelo interior dele ao redor desde a semelhança dos seus lombos, e daí para cima;{S} e, desde a semelhança dos seus lombos, e daí para baixo, vi como a semelhança de fogo, e havia um resplendor ao redor dele.
+28 Como o aspecto do arco que aparece na nuvem no dia da chuva, assim era o aspecto do resplendor em redor.{S} Este era o aspecto da semelhança da glória do <PESSOA>Senhor</PESSOA>;{S} e, vendo isso, caí com o rosto em terra, e ouvi uma voz de quem falava.

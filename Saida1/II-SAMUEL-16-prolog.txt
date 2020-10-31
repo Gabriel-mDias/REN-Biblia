@@ -1,0 +1,6 @@
+is_pessoa(Simei).
+is_pessoa(Gêra).
+is_pessoa(Abisai).
+is_pessoa(Zeruia).
+is_father(Gêra,Simei).
+is_father(Zeruia,Abisai).

@@ -1,0 +1,15 @@
+is_pessoa(Gedalias).
+is_pessoa(Aicão).
+is_pessoa(Ismael).
+is_pessoa(Netanias).
+is_pessoa(Joanã).
+is_pessoa(Careá).
+is_pessoa(Seraías).
+is_pessoa(Tanumete).
+is_pessoa(Ismael).
+is_pessoa(Netanias).
+is_father(Aicão,Gedalias).
+is_father(Netanias,Ismael).
+is_father(Careá,Joanã).
+is_father(Tanumete,Seraías).
+is_father(Netanias,Ismael).

@@ -1,0 +1,103 @@
+
+1 Sucedeu, porém, no mês sétimo, que veio<LOCAL> Ismael</LOCAL>, filho de 
+is_father( Elisama,Netanias).
+is_pessoa(Netanias).
+is_pessoa( Elisama).
+, de sangue real, e um dos nobres do rei, e dez homens com ele, a 
+is_father( Aicão,Gedalias).
+is_pessoa(Gedalias).
+is_pessoa( Aicão).
+, a Mizpá;{S} e eles comeram pão juntos ali em<LOCAL> Mizpá</LOCAL>.
+2 E levantou-se
+is_father( Netanias,  Ismael ).
+is_pessoa(  Ismael ).
+is_pessoa( Netanias).
+, com os dez homens que estavam com ele, e feriram a 
+is_father( Aicão,Gedalias).
+is_pessoa(Gedalias).
+is_pessoa( Aicão).
+, filho de Safã, à espada, matando assim aquele que o rei de Babilônia havia posto por governador sobre a terra.
+3 Matou também<PESSOA> Ismael</PESSOA> a todos os judeus que estavam com Gedalias, em<LOCAL> Mizpá</LOCAL>, como também aos soldados caldeus que se achavam ali.
+4 Sucedeu pois no dia seguinte, depois que ele matara a Gedalias, sem ninguém o saber,
+5 que vieram de Siquém, de Siló e de Samária, oitenta homens, com a barba rapada, e os vestidos rasgados e tendo as carnes retalhadas, trazendo nas mãos ofertas de cereais e incenso, para os levarem à casa do <PESSOA>Senhor</PESSOA>.
+6 E, saindo-lhes ao encontro
+is_father( Netanias,  Ismael ).
+is_pessoa(  Ismael ).
+is_pessoa( Netanias).
+, desde Mizpá, ia chorando;{S} e sucedeu que, encontrando-os, lhes disse:{S} Vinde a 
+is_father( Aicão,Gedalias).
+is_pessoa(Gedalias).
+is_pessoa( Aicão).
+.
+7 Chegando eles, porém, até o meio da cidade, 
+is_father( Netanias,Ismael).
+is_pessoa(Ismael).
+is_pessoa( Netanias).
+, e os homens que estavam com ele mataram-nos e os lançaram em um poço.
+8 Mas entre eles se acharam dez homens que disseram a Ismael:{S} Não nos mates a nós, porque temos escondidos no campo depósitos de trigo, cevada, azeite e mel.{S} E ele por isso os deixou, e não os matou entre seus irmãos.
+9 E o poço em que<PESSOA> Ismael</PESSOA> lançou todos os cadáveres dos homens que matara por causa de Gedalias é o mesmo que fez o <PESSOA>rei Asa</PESSOA>, por causa de Baasa, rei de<PESSOA> Israel</PESSOA>;{S} foi esse mesmo que
+is_father( Netanias,  Ismael ).
+is_pessoa(  Ismael ).
+is_pessoa( Netanias).
+, encheu de mortos.
+10 E Ismael levou cativo a todo o resto do povo que estava em<LOCAL> Mizpá</LOCAL>: as filhas do rei, e todo o povo que ficara em<LOCAL> Mizpá</LOCAL>, que Nebuzaradão, capitão da guarda, havia confiado a 
+is_father( Aicão,Gedalias).
+is_pessoa(Gedalias).
+is_pessoa( Aicão).
+;{S} e levou-os cativos
+is_father( Netanias,  Ismael ).
+is_pessoa(  Ismael ).
+is_pessoa( Netanias).
+, e se foi para passar aos filhos de Amom.
+11 Ouvindo, porém, 
+is_father( Careá,Joanã).
+is_pessoa(Joanã).
+is_pessoa( Careá).
+, e todos os chefes das forças que estavam com ele, todo o mal que havia feito
+is_father( Netanias,  Ismael ).
+is_pessoa(  Ismael ).
+is_pessoa( Netanias).
+,
+12 tomaram todos os seus homens e foram pelejar contra
+is_father( Netanias,  Ismael ).
+is_pessoa(  Ismael ).
+is_pessoa( Netanias).
+;{S} e o acharam ao pé das grandes águas que há em<LOCAL> Gibeão</LOCAL>.
+13 E todo o povo que estava com<PESSOA> Ismael</PESSOA> se alegrou quando viu a 
+is_father( Careá,Joanã).
+is_pessoa(Joanã).
+is_pessoa( Careá).
+, e a todos os chefes das forças, que vinham com ele.
+14 E todo o povo que<PESSOA> Ismael</PESSOA> levara cativo de Mizpá virou as costas, e voltou, e foi para 
+is_father( Careá,Joanã).
+is_pessoa(Joanã).
+is_pessoa( Careá).
+.
+15 Mas 
+is_father( Netanias,Ismael).
+is_pessoa(Ismael).
+is_pessoa( Netanias).
+, com oito homens, escapou de Joanã e se foi para os filhos de Amom.
+16 Então 
+is_father( Careá,Joanã).
+is_pessoa(Joanã).
+is_pessoa( Careá).
+, e todos os chefes das forças que estavam com ele, tomaram a todo o resto do povo que
+is_father( Netanias,  Ismael ).
+is_pessoa(  Ismael ).
+is_pessoa( Netanias).
+, tinha levado cativo de Mizpá, depois que matara 
+is_father( Aicão,Gedalias).
+is_pessoa(Gedalias).
+is_pessoa( Aicão).
+, a saber, aos soldados, as mulheres, aos meninos e aos eunucos, que Joanã havia recobrado de Gibeão,
+17 e partiram, indo habitar Gerute-Quimã, que está perto de<PESSOA> Belém</PESSOA>, para de ali entrarem no<LOCAL> Egito</LOCAL>,
+18 por causa dos caldeus;{S} pois os temiam, por ter
+is_father( Netanias,  Ismael ).
+is_pessoa(  Ismael ).
+is_pessoa( Netanias).
+, matado a 
+is_father( Aicão,Gedalias).
+is_pessoa(Gedalias).
+is_pessoa( Aicão).
+, a quem o rei de Babilônia tinha posto por governador sobre a terra.

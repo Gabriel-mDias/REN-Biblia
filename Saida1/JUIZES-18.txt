@@ -1,0 +1,36 @@
+
+1 Naqueles dias não havia rei em<LOCAL> Israel</LOCAL>;{S} a tribo dos danitas buscava para si herança em que habitar;{S} porque até então não lhe havia caído a sua herança entre as tribos de<PESSOA> Israel</PESSOA>.
+2 E de Zorá e Estaol os filhos de Dã enviaram cinco homens da sua tribo, escolhidos dentre todo o povo, homens valorosos, para espiar e reconhecer a terra;{S} e lhes disseram:{S} Ide, reconhecei a terra.{S} E chegaram eles à região montanhosa de Efraim, à casa de Mica, e passaram ali a noite.
+3 Pois, estando eles perto da casa de Mica, reconheceram a voz do mancebo levita;{S} e, dirigindo-se para lá, lhe perguntaram:{S} Quem te trouxe para cá? que estás fazendo aqui? e que é isto que tens aqui?
+4 E ele lhes respondeu:{S} Assim e assim me tem feito Mica;{S} ele me assalariou, e eu lhe sirvo e sacerdote.
+5 Então lhe disseram:{S} Consulta a Deus, para que saibamos se será próspero o caminho que seguimos.
+6 Ao que lhes disse o sacerdote:{S} Ide em paz;{S} perante o <PESSOA>Senhor</PESSOA> está o caminho que seguis.
+7 Então foram-se aqueles cinco homens, e chegando a Laís, viram o povo que havia nela, como vivia em segurança, conforme o costume dos sidônios, quieto e desprecavido;{S} não havia naquela terra falta de coisa alguma;{S} era um povo rico e, estando longe dos sidônios, não tinha relações com ninguém.
+8 Então voltaram a seus irmãos, em<LOCAL> Zorá</LOCAL> e<LOCAL> Estaol</LOCAL>, os quais lhes perguntaram:{S} Que dizeis vós?
+<VALOR>9</VALOR> Eles responderam:{S} Levantai-vos, e subamos contra eles;{S} porque examinamos a terra, e eis que é muito boa.{S} E vós estareis aqui tranqüilos?{S} Não sejais preguiçosos em entrardes para tomar posse desta terra.
+10 Quando lá chegardes, achareis um povo desprecavido, e a terra é muito espaçosa;{S} pois<PESSOA> Deus</PESSOA> vos entregou na mão um lugar em que não há falta de coisa alguma que há na terra.
+11 Então seiscentos homens da tribo dos danitas partiram de Zorá e Estaol, munidos de armas de guerra.
+12 E, tendo subido, acamparam-se em<LOCAL> Quiriate</LOCAL>-Jearim, em<LOCAL> Judá</LOCAL>;{S} pelo que esse lugar ficou sendo chamado<ABSTRACCAO> Maané</ABSTRACCAO>-Dã, até o dia de hoje;{S} eis que está ao ocidente de Quiriate-Jearim.
+13 de ali passaram à região montanhosa de Efraim, e chegaram à casa de Mica.
+14 Então os cinco homens que tinham ido espiar a terra de Laís disseram a seus irmãos:{S} Sabeis vós que naquelas casas há um éfode, e terafins, e uma imagem esculpida e uma de fundição?{S} Considerai, pois, agora o que haveis de fazer.
+15 Então se dirigiram para lá, e chegaram à casa do mancebo, o levita, à casa de Mica, e o saudaram.
+16 E os seiscentos homens dos danitas, munidos de suas armas de guerra, ficaram à entrada da porta.
+17 Mas subindo os cinco homens que haviam espiado a terra, entraram ali e tomaram a imagem esculpida, e éfode, os terafins e a imagem de fundição, ficando o sacerdote em pé à entrada da porta, com os seiscentos homens armados.
+18 Quando eles entraram na casa de Mica, e tomaram a imagem esculpida, o éfode, os terafins e a imagem de fundição, perguntou-lhes o sacerdote:{S} Que estais fazendo?
+19 E eles lhe responderam:{S} Cala-te, põe a mão sobre a boca, e vem conosco, e sê-nos por pai e sacerdote.{S} Que te é melhor? ser sacerdote da casa de um só homem, ou de uma tribo e de uma geração em<LOCAL> Israel</LOCAL>?
+20 Então alegrou-se o coração do sacerdote, o qual tomou o éfode, os terafins e a imagem esculpida, e entrou no meio do povo.
+21 E, virando-se, partiram, tendo posto diante de si os pequeninos, o gado e a bagagem.
+22 Estando eles já longe da casa de Mica, os homens que estavam nas casas vizinhas à dele se reuniram, e alcançaram os filhos de Dã.
+23 E clamaram após os filhos de Dã, os quais, virando-se, perguntaram a Mica:{S} Que é que tens, visto que vens com tanta gente?
+24 Então ele respondeu:{S} Os meus deuses que eu fiz, vós me tomastes, juntamente com o sacerdote, e partistes;{S} e agora, que mais me fica?{S} Como, pois, me dizeis:{S} Que é que tens ?
+25 Mas os filhos de Dã lhe disseram:{S} Não faças ouvir a tua voz entre nós, para que porventura homens violentos não se lancem sobre vós, e tu percas a tua vida, e a vida dos da tua casa.
+26 Assim seguiram o seu caminho os filhos de Dã;{S} e Mica, vendo que eram mais fortes do que ele, virou-se e voltou para sua casa.
+<VALOR>27</VALOR> Eles, pois, levaram os objetos que Mica havia feito, e o sacerdote que estava com ele e, chegando a Laís, a um povo quieto e desprecavido, passaram-no ao fio da espada, e puseram fogo à cidade.
+28 E ninguém houve que o livrasse, porquanto estava longe de Sidom, e não tinha relações com ninguém;{S} a cidade estava no vale que está junto a Bete-Reobe.{S} Depois, reedificando-a, habitaram nela,
+29 e chamaram-lhe Dã, segundo o nome de Dã, seu pai, que nascera a Israel;{S} era, porém, dantes o nome desta cidade Laís.
+30 Depois os filhos de Dã levantaram para si aquela imagem esculpida;{S} e 
+is_father( Gérsom,Jônatas).
+is_pessoa(Jônatas).
+is_pessoa( Gérsom).
+, o filho de<PESSOA> Moisés</PESSOA>, ele e seus filhos foram sacerdotes da tribo dos danitas, até o dia do cativeiro da terra.
+31 Assim, pois, estabeleceram para si a imagem esculpida que Mica fizera, por todo o tempo em que a casa de<PESSOA> Deus</PESSOA> esteve em<LOCAL> Siló</LOCAL>.

@@ -1,0 +1,44 @@
+0000000002
+-1 10-ReconheceNomeSucedidoPorIdade
+: 12 1 
+: -2 2 
+: 13 3 
+: 7 4 
+: 1 5 
+: 6 7 5 7 4 7 1 6 
+: 8 8 6 7 5 7 4 7 1 6 
+: 1 6 
+: 2 9 
+: 7 10 
+: 3 11 
+: 10 12 9 12 2 12 
+: 11 13 
+t 
+f 
+-2 Nao-Pessoa
+: 18 1 1 0 
+: 1 2 
+: 13 3 
+: 14 4 
+t 
+f 
+%<E>
+%<FIRST>
+%,
+%<NB><<^..$>>
+%<PREPOSICAO>
+%<ABREVIACOES>
+%da
+%<E>/{
+%<E>/,.PESSOA}
+%ano
+%anos
+%<E>/,.VALOR}
+%$![0
+%$]
+%<A>
+%<PALAVRAS_MINUSCULAS_HAREM>
+%$![1
+%$[2
+%$[3
+f

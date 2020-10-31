@@ -1,0 +1,9 @@
+is_pessoa(Jônatas).
+is_pessoa(Abiatar).
+is_pessoa(Aimaaz).
+is_pessoa(Zadoque).
+is_pessoa(Jônatas).
+is_pessoa(Abiatar).
+is_father(Abiatar,Jônatas).
+is_father(Zadoque,Aimaaz).
+is_father(Abiatar,Jônatas).

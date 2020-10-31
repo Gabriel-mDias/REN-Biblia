@@ -1,0 +1,30 @@
+
+1 <PESSOA>Ora</PESSOA>,<PESSOA> Israel</PESSOA> demorava-se em<LOCAL> Sitim</LOCAL>, e o povo começou a prostituir-se com as filhas de Moabe,
+2 pois elas convidaram o povo aos sacrifícios dos seus deuses;{S} e o povo comeu, e inclinou-se aos seus deuses.
+3 Porquanto Israel se juntou a Baal-Peor, a ira do <PESSOA>Senhor</PESSOA> acendeu-se contra ele.
+4 Disse, pois, o <PESSOA>Senhor</PESSOA> a Moisés:{S} Toma todos os cabeças do povo, e enforca-os ao senhor diante do sol, para que a grande ira do <PESSOA>Senhor</PESSOA> se retire de<PESSOA> Israel</PESSOA>.
+5 Então <PESSOA>Moisés</PESSOA> disse aos juízes de Israel:{S} Mate cada um os seus homens que se juntaram a Baal-Peor.
+6 E eis que veio um homem dos filhos de<PESSOA> Israel</PESSOA>, e trouxe a seus irmãos uma midianita à vista de<PESSOA> Moisés</PESSOA> e à vista de toda a congregação dos filhos de<PESSOA> Israel</PESSOA>, enquanto estavam chorando à porta da tenda da revelação.
+7 Vendo isso 
+is_father( Eleazar,Finéias).
+is_pessoa(Finéias).
+is_pessoa( Eleazar).
+, filho do sacerdote<PESSOA> Arão</PESSOA>, levantou-se do meio da congregação, e tomou na mão uma lança;{S} o foi após o israelita, e entrando na sua tenda, os atravessou a ambos, ao israelita e à mulher, pelo ventre.{S} Então a praga cessou de sobre os filhos de<PESSOA> Israel</PESSOA>.
+9 Ora, os que morreram daquela praga foram vinte e quatro mil.
+10 Então disse o <PESSOA>Senhor</PESSOA> a Moisés:
+11 
+is_father( Eleazar,Finéias).
+is_pessoa(Finéias).
+is_pessoa( Eleazar).
+, filho do sacerdote<PESSOA> Arão</PESSOA>, desviou a minha ira de sobre os filhos de<PESSOA> Israel</PESSOA>, pois foi zeloso com o meu zelo no meio deles, de modo que no meu zelo não consumi os filhos de<PESSOA> Israel</PESSOA>.
+12 Portanto dize:{S} Eis que lhe dou o meu pacto de paz,
+13 e será para ele e para a sua descendência depois dele, o pacto de um sacerdócio perpétuo;{S} porquanto foi zeloso pelo seu<PESSOA> Deus</PESSOA>, e fez expiação pelos filhos de<PESSOA> Israel</PESSOA>.
+14 O nome do israelita que foi morto com a midianita era 
+is_father( Salu,Zinri).
+is_pessoa(Zinri).
+is_pessoa( Salu).
+, príncipe de uma casa paterna entre os simeonitas.
+15 E o nome da mulher midianita morta era Cozbi, filha de Zur;{S} o qual era cabeça do povo de uma casa paterna em<LOCAL> Midiã</LOCAL>.
+16 Disse mais o <PESSOA>Senhor</PESSOA> a Moisés:
+17 Afligi vós os midianitas e feri-os;{S}
+18 porque eles vos afligiram a vós com as suas ciladas com que vos enganaram no caso de Peor, e no caso de Cozbi, sua irmã, filha do príncipe de Midiã, a qual foi morta no dia da praga no caso de Peor.

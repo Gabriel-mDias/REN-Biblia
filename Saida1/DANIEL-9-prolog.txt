@@ -1,0 +1,3 @@
+is_pessoa(Dario).
+is_pessoa(Assuero).
+is_father(Assuero,Dario).

@@ -1,0 +1,67 @@
+
+1 Ora, 
+is_father( Izar,Corá).
+is_pessoa(Corá).
+is_pessoa( Izar).
+, filho de 
+is_father(  Levi ,Coate).
+is_pessoa(Coate).
+is_pessoa(  Levi ).
+, juntamente com Datã e Abirão, filhos de Eliabe, e 
+is_father( Pelete,Om).
+is_pessoa(Om).
+is_pessoa( Pelete).
+, filhos de Rúben, tomando certos homens,
+2 levantaram-se perante<PESSOA> Moisés</PESSOA>, juntamente com duzentos e cinqüenta homens dos filhos de<PESSOA> Israel</PESSOA>, príncipes da congregação, chamados à assembléia, varões de renome;{S}
+3 e ajuntando-se contra<PESSOA> Moisés</PESSOA> e contra<PESSOA> Arão</PESSOA>, disseram-lhes:{S} Demais é o que vos arrogais a vós, visto que toda a congregação e santa, todos eles são santos, e o <PESSOA>Senhor</PESSOA> está no meio deles;{S} por que, pois, vos elevais sobre a assembléia do <PESSOA>Senhor</PESSOA>?
+4 Quando Moisés ouviu isso, caiu com o rosto em terra;{S}
+5 depois falou a Corá e a toda a sua companhia, dizendo:{S} Amanhã pela manhã o <PESSOA>Senhor</PESSOA> fará saber quem é seu, e quem é o santo, ao qual ele fará chegar a si;{S} e aquele a quem escolher fará chegar a si.
+6 Fazei isto:{S} Corá e toda a sua companhia, tomai para vós incensários;{S}
+7 e amanhã, pondo fogo neles, sobre eles deitai incenso perante o <PESSOA>Senhor</PESSOA>;{S} e será que o homem a quem o <PESSOA>Senhor</PESSOA> escolher, esse será o santo;{S} demais é o que vos arrogais a vós, filhos de<PESSOA> Levi</PESSOA>.
+8 Disse mais<PESSOA> Moisés</PESSOA> a Corá:{S} Ouvi agora, filhos de Levi!
+9 Acaso é pouco para vós que o <PESSOA>Deus de Israel</PESSOA> vos tenha separado da congregação de<PESSOA> Israel</PESSOA>, para vos fazer chegar a si, a fim de fazerdes o serviço do tabernáculo do <PESSOA>Senhor</PESSOA> e estardes perante a congregação para ministrar-lhe,
+10 e te fez chegar, e contigo todos os teus irmãos, os filhos de Levi? procurais também o sacerdócio?
+11 Pelo que tu e toda a tua companhia estais congregados contra o <PESSOA>Senhor</PESSOA>;{S} e<PESSOA> Arão</PESSOA>, quem é ele, para que murmureis contra ele?
+12 Então Moisés mandou chamar a Datã e a Abirão, filhos de Eliabe;{S} eles porém responderam:{S} Não subiremos.
+13 É pouco, porventura, que nos tenhas feito subir de uma terra que mana leite e mel, para nos matares no deserto, para que queiras ainda fazer-te príncipe sobre nós?
+14 Ademais, não nos introduziste em uma terra que mana leite e mel, nem nos deste campos e vinhas em herança;{S} porventura cegarás os olhos a estes homens?{S} Não subiremos.
+15 Então Moisés irou-se grandemente, e disse ao <PESSOA>Senhor</PESSOA>:{S} Não atentes para a sua oferta;{S} nem um só jumento tenho tomado deles, nem a nenhum deles tenho feito mal.
+16 Disse mais<PESSOA> Moisés</PESSOA> a Corá:{S} Comparecei amanhã tu e toda a tua companhia perante o <PESSOA>Senhor</PESSOA>;{S} tu e eles, e<PESSOA> Arão</PESSOA>.
+17 Tome cada um o seu incensário, e ponha nele incenso;{S} cada um traga perante o <PESSOA>Senhor</PESSOA> o seu incensário, duzentos e cinqüenta incensários;{S} também tu e<PESSOA> Arão</PESSOA>, cada qual o seu incensário.
+18 Tomou, pois, cada qual o seu incensário, e nele pôs fogo, e nele deitou incenso;{S} e se puseram à porta da tenda da revelação com<PESSOA> Moisés</PESSOA> e<PESSOA> Arão</PESSOA>.
+19 E Corá fez ajuntar contra eles toda o congregação à porta da tenda da revelação;{S} então a glória do <PESSOA>Senhor</PESSOA> apareceu a toda a congregação.
+20 Então disse o senhor a Moisés e a Arão:
+21 Apartai-vos do meio desta congregação, para que eu, em um momento, os possa consumir.
+22 Mas eles caíram com os rostos em terra, e disseram: ó<PESSOA> Deus</PESSOA>,<PESSOA> Deus</PESSOA> dos espíritos de toda a carne, pecará um só homem, e indignar-te-ás tu contra toda esta congregação?
+23 Respondeu o <PESSOA>Senhor</PESSOA> a Moisés:
+24 Fala a toda esta congregação, dizendo:{S} Subi do derredor da habitação de Corá, Datã e Abirão.
+25 Então Moisés levantou-se, e foi ter com Datã e Abirão;{S} e seguiram-nos os anciãos de<PESSOA> Israel</PESSOA>.
+26 E falou à congregação, dizendo:{S} Retirai-vos, peço-vos, das tendas desses homens ímpios, e não toqueis nada do que é seu, para que não pereçais em todos os seus pecados.
+27 Subiram, pois, do derredor da habitação de Corá, Datã e Abirão.{S} E Datã e Abirão saíram, e se puseram à porta das suas tendas, juntamente com suas mulheres, e seus filhos e seus pequeninos.
+28 Então disse<PESSOA> Moisés</PESSOA>:{S} Nisto conhecereis que o <PESSOA>Senhor</PESSOA> me enviou a fazer todas estas obras;{S} pois não as tenho feito de mim mesmo.
+29 Se estes morrerem como morrem todos os homens, e se forem visitados como são visitados todos os homens, o <PESSOA>Senhor</PESSOA> não me enviou.
+30 Mas, se o <PESSOA>Senhor</PESSOA> criar alguma coisa nova, e a terra abrir a boca e os tragar com tudo o que é deles, e vivos descerem ao Seol, então compreendereis que estes homens têm desprezado o <PESSOA>Senhor</PESSOA>.
+31 E aconteceu que, acabando ele de falar todas estas palavras, a terra que estava debaixo deles se fendeu;{S}
+32 e a terra abriu a boca e os tragou com as suas famílias, como também a todos os homens que pertenciam a Corá, e a toda a sua fazenda.
+33 Assim eles e tudo o que era seu desceram vivos ao Seol;{S} e a terra os cobriu, e pereceram do meio da congregação,
+34 E todo o Israel, que estava ao seu redor, fugiu ao clamor deles, dizendo: não suceda que a terra nos trague também a nós.
+35 Então saiu fogo do <PESSOA>Senhor</PESSOA>, e consumiu os duzentos e cinqüenta homens que ofereciam o incenso.
+36 Então disse o <PESSOA>Senhor</PESSOA> a Moisés:
+37 Dize a 
+is_father(  Arão ,Eleazar).
+is_pessoa(Eleazar).
+is_pessoa(  Arão ).
+, o sacerdote, que tire os incensários do meio do incêndio;{S} e espalha tu o fogo longe;{S} porque se tornaram santos
+<VALOR>38</VALOR> os incensários daqueles que pecaram contra as suas almas;{S} deles se façam chapas, de obra batida, para cobertura do altar;{S} porquanto os trouxeram perante o <PESSOA>Senhor</PESSOA>, por isso se tornaram santos;{S} e serão por sinal aos filhos de<PESSOA> Israel</PESSOA>.
+39 Eleazar, pois, o sacerdote, tomou os incensários de bronze, os quais aqueles que foram queimados tinham oferecido;{S} e os converteram em chapas para cobertura do altar,
+40 para servir de memória aos filhos de<PESSOA> Israel</PESSOA>, a fim de que nenhum estranho, ninguém que não seja da descendência de<PESSOA> Arão</PESSOA>, se chegue para queimar incenso perante o <PESSOA>Senhor</PESSOA>, para que não seja como Corá e a sua companhia;{S} conforme o <PESSOA>Senhor</PESSOA> dissera a Eleazar por intermédio de<PESSOA> Moisés</PESSOA>.
+41 Mas no dia seguinte toda a congregação dos filhos de<PESSOA> Israel</PESSOA> murmurou contra<PESSOA> Moisés</PESSOA> e<PESSOA> Arão</PESSOA>, dizendo:{S} Vós matastes o povo do <PESSOA>Senhor</PESSOA>.
+42 E tendo-se sublevado a congregação contra<PESSOA> Moisés</PESSOA> e<PESSOA> Arão</PESSOA>, dirigiu-se para a tenda da revelação, e eis que a nuvem a cobriu, e a glória do <PESSOA>Senhor</PESSOA> apareceu.
+43 Vieram, pois,<PESSOA> Moisés</PESSOA> e<PESSOA> Arão</PESSOA> à frente da tenda da revelação.
+44 Então disse o <PESSOA>Senhor</PESSOA> a Moisés:
+45 Levantai-vos do meio desta congregação, para que eu, em um momento, a possa consumir.{S} Então caíram com o rosto em terra.
+46 Depois disse<PESSOA> Moisés</PESSOA> a Arão:{S} Toma o teu incensário, põe nele fogo do altar, deita incenso sobre ele e leva-o depressa à congregação, e faze expiação por eles;{S} porque grande indignação saiu do <PESSOA>Senhor</PESSOA>;{S} já começou a praga.
+47 Tomou-o Arão, como<PESSOA> Moisés</PESSOA> tinha falado, e correu ao meio da congregação;{S} e eis que já a praga havia começado entre o povo;{S} e deitando o incenso no incensário, fez expiação pelo povo.
+48 E pôs-se em pé entre os mortos e os vivos, e a praga cessou.
+49 Ora, os que morreram da praga foram catorze mil e setecentos, além dos que morreram no caso de Corá.
+50 E voltou<PESSOA> Arão</PESSOA> a Moisés à porta da tenda da revelação, pois cessara a praga.

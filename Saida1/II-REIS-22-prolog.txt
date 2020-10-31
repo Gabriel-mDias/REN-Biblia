@@ -1,0 +1,12 @@
+is_pessoa(Safã).
+is_pessoa(Azalias).
+is_pessoa(Aicão).
+is_pessoa(Safã).
+is_pessoa(Acbor).
+is_pessoa(Micaías).
+is_pessoa(Salum).
+is_pessoa(Ticvá).
+is_father(Azalias,Safã).
+is_father(Safã,Aicão).
+is_father(Micaías,Acbor).
+is_father(Ticvá,Salum).

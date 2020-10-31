@@ -1,0 +1,3 @@
+is_pessoa(Áquis).
+is_pessoa(Maoque).
+is_father(Maoque,Áquis).

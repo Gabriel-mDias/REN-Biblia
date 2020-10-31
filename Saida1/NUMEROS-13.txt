@@ -1,0 +1,78 @@
+
+1 Então disse o <PESSOA>Senhor</PESSOA> a Moisés:
+2 Envia homens que espiem a terra de<PESSOA> Canaã</PESSOA>, que eu hei de dar aos filhos de<PESSOA> Israel</PESSOA>.{S} De cada tribo de seus pais enviarás um homem, sendo cada qual príncipe entre eles.
+3<PESSOA> Moisés</PESSOA>, pois, enviou-os do deserto de Parã, segundo a ordem do <PESSOA>Senhor</PESSOA>;{S} eram todos eles homens principais dentre os filhos de<PESSOA> Israel</PESSOA>.
+4 E estes são os seus nomes: da tribo de Rúben, 
+is_father( Zacur,Samua).
+is_pessoa(Samua).
+is_pessoa( Zacur).
+;{S}
+5 da tribo de<PESSOA> Simeão</PESSOA>,
+is_father( Hori,  Safate ).
+is_pessoa(  Safate ).
+is_pessoa( Hori).
+;{S}
+6 da tribo de<PESSOA> Judá</PESSOA>,
+is_father( Jefoné,  Calebe ).
+is_pessoa(  Calebe ).
+is_pessoa( Jefoné).
+;{S}
+7 da tribo de Issacar, 
+is_father(  José ,Ioal).
+is_pessoa(Ioal).
+is_pessoa(  José ).
+;{S}
+8 da tribo de Efraim, Oséias, filho de em um;{S}
+9 da tribo de Benjamim, 
+is_father( Rafu,Palti).
+is_pessoa(Palti).
+is_pessoa( Rafu).
+;{S}
+10 da tribo de Zebulom, 
+is_father( Sódi,Gadiel).
+is_pessoa(Gadiel).
+is_pessoa( Sódi).
+;{S}
+11 da tribo de<PESSOA> José</PESSOA>, pela tribo de Manassés, 
+is_father( Susi,Gadi).
+is_pessoa(Gadi).
+is_pessoa( Susi).
+;{S}
+12 da tribo de Dã, 
+is_father( Gemali,Amiel).
+is_pessoa(Amiel).
+is_pessoa( Gemali).
+;{S}
+13 da tribo de Aser, 
+is_father( Micael,Setur).
+is_pessoa(Setur).
+is_pessoa( Micael).
+;{S}
+14 da tribo de Naftali, 
+is_father( Vofsi,Nabi).
+is_pessoa(Nabi).
+is_pessoa( Vofsi).
+;{S}
+15 da tribo de Gade, 
+is_father( Maqui,Geuel).
+is_pessoa(Geuel).
+is_pessoa( Maqui).
+.
+<VALOR>16</VALOR> Estes são os nomes dos homens que<PESSOA> Moisés</PESSOA> enviou a espiar a terra.{S} Ora, a Oséias, filho de em um,<PESSOA> Moisés</PESSOA> chamou Josué.
+17 Enviou-os, pois,<PESSOA> Moisés</PESSOA> a espiar: a terra de<PESSOA> Canaã</PESSOA>, e disse-lhes:{S} Subi por aqui para o Negebe, e penetrai nas montanhas;{S}
+18 e vede a terra, que tal é;{S} e o povo que nela habita, se é forte ou fraco, se pouco ou muito;{S}
+19 que tal é a terra em que habita, se boa ou má;{S} que tais são as cidades em que habita, se arraiais ou fortalezas;{S}
+20 e que tal é a terra, se gorda ou magra;{S} se nela há árvores, ou não;{S} e esforçai-vos, e tomai do fruto da terra.{S} Ora, a estação era a das uvas temporãs.
+21 Assim subiram, e espiaram a terra desde o deserto de Zim, até<LOCAL> Reobe</LOCAL>, à entrada de Hamate.
+22 E subindo para o Negebe, vieram até<LOCAL> Hebrom</LOCAL>, onde estavam Aimã, Sesai e Talmai, filhos de Anaque. (Ora, Hebrom foi edificada <VALOR>sete anos</VALOR> antes de Zoã no<LOCAL> Egito</LOCAL>. )
+23 Depois vieram até e vale de Escol, e de ali cortaram um ramo de vide com um só cacho, o qual dois homens trouxeram sobre uma verga;{S} trouxeram também romãs e figos.
+24 Chamou-se aquele lugar o vale de Escol, por causa do cacho que de ali cortaram os filhos de<PESSOA> Israel</PESSOA>.
+25 Ao fim de quarenta dias voltaram de espiar a terra.
+26 E, chegando, apresentaram-se a Moisés e a Arão, e a toda a congregação dos filhos de<PESSOA> Israel</PESSOA>, no deserto de Parã, em<LOCAL> Cades</LOCAL>;{S} e deram-lhes notícias, a eles e a toda a congregação, e mostraram-lhes o fruto da terra.
+27 E, dando conta a Moisés, disseram:{S} Fomos à terra a que nos enviaste.{S} Ela, em verdade, mana leite e mel;{S} e este é o seu fruto.
+28 Contudo o povo que habita nessa terra é poderoso, e as cidades são fortificadas e mui grandes.{S} Vimos também ali os filhos de Anaque.
+<VALOR>29</VALOR> Os amalequitas habitam na terra do Negebe;{S} os heteus, os jebuseus e os amorreus habitam nas montanhas;{S} e os cananeus habitam junto do mar, e ao longo do rio<LOCAL> Jordão</LOCAL>.
+30 Então Calebe, fazendo calar o povo perante<PESSOA> Moisés</PESSOA>, disse:{S} Subamos animosamente, e apoderemo-nos dela;{S} porque bem poderemos prevalecer contra ela.
+31 Disseram, porém, os homens que subiram com ele:{S} Não poderemos subir contra aquele povo, porque é mais forte do que nos.
+32 Assim, perante os filhos de<PESSOA> Israel</PESSOA> infamaram a terra que haviam espiado, dizendo:{S} A terra, pela qual passamos para espiá-la, é terra que devora os seus habitantes;{S} e todo o povo que vimos nela são homens de grande estatura.
+33 Também vimos ali os nefilins, isto é, os filhos de Anaque, que são descendentes dos nefilins;{S} éramos aos nossos olhos como gafanhotos;{S} e assim também éramos aos seus olhos.

@@ -1,0 +1,35 @@
+
+1 No ano décimo oitavo do <PESSOA>rei Jeroboão</PESSOA> começou Abias a reinar sobre<PESSOA> Judá</PESSOA>.
+<VALOR>2</VALOR> <VALOR>Três anos</VALOR> reinou em<LOCAL> Jerusalém</LOCAL>;{S} o nome de sua mãe era Micaías, filha de Uriel de Gibeá.{S} E houve guerra entre Abias e Jeroboão.
+3 Abias dispôs-se para a peleja com um exército de varões valentes, quatrocentos mil homens escolhidos;{S} e Jeroboão dispôs contra ele a batalha com oitocentos mil homens escolhidos, todos homens valentes.
+4 Então Abias pôs-se em pé em cima do monte Zemaraim, que está na região montanhosa de Efraim, e disse:{S} Ouvi-me, Jeroboão e todo o Israel:
+5 Porventura não vos convém saber que o <PESSOA>Senhor  Deus de Israel </PESSOA> deu para sempre a Davi a soberania sobre<PESSOA> Israel</PESSOA>, a ele e a seus filhos, por um pacto de sal?
+6 Contudo levantou-se 
+is_father( Nebate,Jeroboão).
+is_pessoa(Jeroboão).
+is_pessoa( Nebate).
+, servo de
+is_father(  Davi ,  Salomão ).
+is_pessoa(  Salomão ).
+is_pessoa(  Davi ).
+, e se rebelou contra seu senhor;{S}
+7 e ajuntaram-se a ele homens vadios filhos de Belial, e fortaleceram-se contra 
+is_father(  Salomão ,Roboão).
+is_pessoa(Roboão).
+is_pessoa(  Salomão ).
+, sendo Roboão ainda moço e indeciso de coração, e não podendo resistir-lhes.
+8 E agora julgais poder resistir ao reino do <PESSOA>Senhor</PESSOA>, que está na mão dos filhos de<PESSOA> Davi</PESSOA>, visto que sois uma grande multidão, e tendes convosco os bezerros de ouro que Jeroboão vos fez para deuses.
+9 Não lançastes fora os sacerdotes do <PESSOA>Senhor</PESSOA>, filhos de<PESSOA> Arão</PESSOA>, e os levitas, e não fizestes para vós sacerdotes, como o fazem os povos das outras terras?{S} Qualquer que vem a consagrar-se, trazendo um novilho e sete carneiros, logo se faz sacerdote daqueles que não são deuses.
+10 Mas, quanto a nós, o <PESSOA>Senhor</PESSOA> é nosso<PESSOA> Deus</PESSOA>, e nunca o deixamos.{S} Temos sacerdotes que ministram ao <PESSOA>Senhor</PESSOA>, os quais são filhos de<PESSOA> Arão</PESSOA>, e os levitas para o seu serviço.
+11 Queimam perante o <PESSOA>Senhor</PESSOA> cada manhã e cada tarde holocausto e incenso aromático;{S} também dispõem os pães da proposição sobre a mesa de ouro puro, e o castiçal de ouro e as suas lâmpadas para se acenderem cada tarde;{S} porque nós temos guardado os preceitos do <PESSOA>Senhor</PESSOA> nosso<PESSOA> Deus</PESSOA>;{S} mas vós o deixastes.
+12 Eis que<PESSOA> Deus</PESSOA> está conosco, à nossa frente, como também os seus sacerdotes com as trombetas, para tocarem alarme contra vós.{S} O filhos de<PESSOA> Israel</PESSOA>, não pelejeis contra o <PESSOA>Senhor Deus</PESSOA> de vossos pais;{S} porque não sereis bem sucedidos.
+13 Jeroboão, porém, armou uma emboscada, para dar sobre<PESSOA> Judá</PESSOA> pela retaguarda;{S} de maneira que as suas tropas estavam em frente de<PESSOA> Judá</PESSOA> e a emboscada por detrás.
+14 Então os de<PESSOA> Judá</PESSOA> olharam para trás, e eis que tinham de pelejar por diante e pela retaguarda;{S} então clamaram ao <PESSOA>Senhor</PESSOA>, e os sacerdotes tocaram as trombetas.
+15 E os homens de<PESSOA> Judá</PESSOA> deram o brado de guerra;{S} e sucedeu que, bradando eles,<PESSOA> Deus</PESSOA> feriu Jeroboão e todo o Israel diante de Abias e de<PESSOA> Judá</PESSOA>.
+16 E os filhos de<PESSOA> Israel</PESSOA> fugiram de diante de<PESSOA> Judá</PESSOA>, e<PESSOA> Deus</PESSOA> lhos entregou nas suas mãos.
+17 De maneira que Abias e o seu povo fizeram grande matança entre eles;{S} pois que caíram mortos de<PESSOA> Israel</PESSOA> quinhentos mil homens escolhidos.
+18 Assim foram humilhados os filhos de<PESSOA> Israel</PESSOA> naquele tempo, e os filhos de<PESSOA> Judá</PESSOA> prevaleceram, porque confiaram no<LOCAL> Senhor Deus</LOCAL> de seus pais.
+19 E Abias foi perseguindo Jeroboão, e tomou-lhe cidades:{S} Betel e seus arrabaldes, Jesana e seus arrabaldes, e Efrom e seus arrabaldes.
+20 Jeroboão não recobrou mais a sua força nos dias de Abias;{S} e o <PESSOA>Senhor</PESSOA> o feriu, e ele morreu.
+21 Abias, porém, se fortaleceu, e tomou para si catorze mulheres, e teve vinte e dois filhos e dezesseis filhas.
+22 O restante dos atos de Abias, os seus caminhos e as suas palavras, estão escritos no comentário do profeta Ido.

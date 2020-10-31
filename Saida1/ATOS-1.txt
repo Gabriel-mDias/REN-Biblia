@@ -1,0 +1,35 @@
+
+1 Fiz o primeiro tratado, ó<PESSOA> Teófilo</PESSOA>, acerca de tudo quanto<PESSOA> Jesus</PESSOA> começou a fazer e ensinar,
+2 até o dia em que foi levado para cima, depois de haver dado mandamento, pelo Espírito Santo, aos apóstolos que escolhera;{S}
+3 aos quais também, depois de haver padecido, se apresentou vivo, com muitas provas infalíveis, aparecendo-lhes por espaço de quarenta dias, e lhes falando das coisas concernentes ao reino de<PESSOA> Deus</PESSOA>.
+4 Estando com eles, ordenou-lhes que não se ausentassem de<PESSOA> Jerusalém</PESSOA>, mas que esperassem a promessa do <PESSOA>Pai</PESSOA>, a qual (disse ele) de mim ouvistes.
+5 Porque, na verdade,<PESSOA> João</PESSOA> batizou em água, mas vós sereis batizados no<LOCAL> Espírito Santo</LOCAL>, dentro de poucos dias.
+<VALOR>6</VALOR> Aqueles, pois, que se haviam reunido perguntavam-lhe, dizendo:{S} <PESSOA>Senhor</PESSOA>, é nesse tempo que restauras o reino a Israel?
+7 Respondeu-lhes:{S} A vós não vos compete saber os tempos ou as épocas, que o <PESSOA>Pai</PESSOA> reservou à sua própria autoridade.
+8 Mas recebereis poder, ao descer sobre vós o Espírito Santo, e ser-me-eis testemunhas, tanto em<LOCAL> Jerusalém</LOCAL>, como em toda a Judéia e Samária, e até os confins da terra.
+9 Tendo ele dito estas coisas, foi levado para cima, enquanto eles olhavam, e uma nuvem o recebeu, ocultando-o a seus olhos.
+10 Estando eles com os olhos fitos no céu, enquanto ele subia, eis que junto deles apareceram dois varões vestidos de branco,
+<VALOR>11</VALOR> os quais lhes disseram:{S} Varões galileus, por que ficais aí olhando para o céu?{S} Esse Jesus, que dentre vós foi elevado para o céu, há de vir assim como para o céu o vistes ir.
+12 Então voltaram para<PESSOA> Jerusalém</PESSOA>, do monte chamado das Oliveiras, que está perto de<PESSOA> Jerusalém</PESSOA>, à distância da jornada de um sábado.
+13 E, entrando, subiram ao cenáculo, onde permaneciam<PESSOA> Pedro</PESSOA> e<PESSOA> João</PESSOA>,<PESSOA> Tiago</PESSOA> e<PESSOA> André</PESSOA>,<PESSOA> Felipe</PESSOA> e<PESSOA> Tomé</PESSOA>,<PESSOA> Bartolomeu</PESSOA> e<PESSOA> Mateus</PESSOA>;{S} 
+is_father(  Alfeu ,Tiago).
+is_pessoa(Tiago).
+is_pessoa(  Alfeu ).
+,<PESSOA> Simão</PESSOA> o Zelote, e
+is_father(  Tiago ,  Judas ).
+is_pessoa(  Judas ).
+is_pessoa(  Tiago ).
+.
+<VALOR>14</VALOR> Todos estes perseveravam unanimemente em oração, com as mulheres, e<PESSOA> Maria</PESSOA>, mãe de<PESSOA> Jesus</PESSOA>, e com os irmãos dele.
+15 Naqueles dias levantou-se<PESSOA> Pedro</PESSOA> no meio dos irmãos, sendo o número de pessoas ali reunidas cerca de cento e vinte, e disse:
+16 <PESSOA>Irmãos</PESSOA>, convinha que se cumprisse a escritura que o Espírito Santo predisse pela boca de<PESSOA> Davi</PESSOA>, acerca de<PESSOA> Judas</PESSOA>, que foi o guia daqueles que prenderam a Jesus;{S}
+17 pois ele era contado entre nós e teve parte neste ministério.
+18 (Ora, ele adquiriu um campo com o salário da sua iniquidade;{S} e precipitando-se, caiu prostrado e arrebentou pelo meio, e todas as suas entranhas se derramaram.
+19 E tornou-se isto conhecido de todos os habitantes de<PESSOA> Jerusalém</PESSOA>;{S} de maneira que na própria língua deles esse campo se chama<ABSTRACCAO> Acéldama</ABSTRACCAO>, isto é, Campo de Sangue.)
+20 Porquanto no livro dos Salmos está escrito:{S} Fique deserta a sua habitação, e não haja quem nela habite;{S} e:{S} Tome outro o seu ministério.
+21 É necessário, pois, que dos varões que conviveram conosco todo o tempo em que o <PESSOA>Senhor Jesus</PESSOA> andou entre nós,
+22 começando desde o batismo de<PESSOA> João</PESSOA> até o dia em que dentre nós foi levado para cima, um deles se torne testemunha conosco da sua ressurreição.
+23 E apresentaram dois:{S} José, chamado<ABSTRACCAO> Barsabás</ABSTRACCAO>, que tinha por sobrenome o Justo, e<PESSOA> Matias</PESSOA>.
+24 E orando, disseram:{S} <PESSOA>Tu</PESSOA>, <PESSOA>Senhor</PESSOA>, que conheces os corações de todos, mostra qual destes dois tens escolhido
+25 para tomar o lugar neste ministério e apostolado, do qual<PESSOA> Judas</PESSOA> se desviou para ir ao seu próprio lugar.
+26 Então deitaram sortes a respeito deles e caiu a sorte sobre<PESSOA> Matias</PESSOA>, e por voto comum foi ele contado com os onze apóstolos.

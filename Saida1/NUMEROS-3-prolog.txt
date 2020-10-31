@@ -1,0 +1,12 @@
+is_pessoa(Eliasafe).
+is_pessoa(Lael).
+is_pessoa(Elizafã).
+is_pessoa(Uziel).
+is_pessoa(Eleazar).
+is_pessoa(Arão).
+is_pessoa(Zuriel).
+is_pessoa(Abiail).
+is_father(Lael,Eliasafe).
+is_father(Uziel,Elizafã).
+is_father(Arão,Eleazar).
+is_father(Abiail,Zuriel).

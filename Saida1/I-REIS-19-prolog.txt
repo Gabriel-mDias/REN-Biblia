@@ -1,0 +1,9 @@
+is_pessoa(Jeú).
+is_pessoa(Ninsi).
+is_pessoa(Eliseu).
+is_pessoa(Safate de Abel).
+is_pessoa(Eliseu).
+is_pessoa(Safate).
+is_father(Ninsi,Jeú).
+is_father(Safate de Abel,Eliseu).
+is_father(Safate,Eliseu).

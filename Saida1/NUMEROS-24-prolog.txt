@@ -1,0 +1,6 @@
+is_pessoa(Balaão).
+is_pessoa(Beor).
+is_pessoa(Balaão).
+is_pessoa(Beor).
+is_father(Beor,Balaão).
+is_father(Beor,Balaão).

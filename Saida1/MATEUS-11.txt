@@ -1,0 +1,31 @@
+
+1 Tendo acabado<PESSOA> Jesus</PESSOA> de dar instruções aos seus doze discípulos, partiu de ali a ensinar e a pregar nas cidades da região.
+2 Ora, quando<PESSOA> João</PESSOA> no cárcere ouviu falar das obras do <PESSOA>Cristo</PESSOA>, mandou pelos seus discípulos perguntar-lhe:
+3 És tu aquele que havia de vir, ou havemos de esperar outro?
+4 Respondeu-lhes Jesus:{S} Ide contar a João as coisas que ouvis e vedes:
+<VALOR>5</VALOR> os cegos vêem, e os coxos andam;{S} os leprosos são purificados, e os surdos ouvem;{S} os mortos são ressuscitados, e aos pobres é anunciado o evangelho.
+6 E bem-aventurado é aquele que não se escandalizar de mim.
+7 Ao partirem eles, começou<PESSOA> Jesus</PESSOA> a dizer às multidões a respeito de João: que saístes a ver no deserto? um caniço agitado pelo vento?
+8 Mas que saístes a ver? um homem trajado de vestes luxuosas?{S} Eis que aqueles que trajam vestes luxuosas estão nas casas dos reis.
+9 Mas por que saístes? para ver um profeta?{S} Sim, vos digo, e muito mais do que profeta.
+10 Este é aquele de quem está escrito:{S} Eis aí envio eu ante a tua face o meu mensageiro, que há de preparar adiante de ti o teu caminho.
+11 Em verdade vos digo que, entre os nascidos de mulher, não surgiu outro maior do que<PESSOA> João</PESSOA>, o Batista;{S} mas aquele que é o menor no reino dos céus é maior do que ele.
+12 E desde os dias de<PESSOA> João</PESSOA>, o Batista, até agora, o reino dos céus é tomado a força, e os violentos o tomam de assalto.
+13 Pois todos os profetas e a lei profetizaram até<LOCAL> João</LOCAL>.
+14 E, se quereis dar crédito, é este o Elias que havia de vir.
+15 Quem tem ouvidos, ouça.
+16 Mas, a quem compararei esta geração?{S} É semelhante aos meninos que, sentados nas praças, clamam aos seus companheiros:
+17 Tocamo-vos flauta, e não dançastes;{S} cantamos lamentações, e não pranteastes.
+18 Porquanto veio<LOCAL> João</LOCAL>, não comendo nem bebendo, e dizem:{S} Tem demônio.
+19 Veio o <PESSOA>Filho</PESSOA> do homem, comendo e bebendo, e dizem:{S} Eis aí um comilão e bebedor de vinho, amigo de publicanos e pecadores.{S} Entretanto a sabedoria é justificada pelas suas obras.
+20 Então começou ele a lançar em rosto às cidades onde se operara a maior parte dos seus milagres, o não se haverem arrependido, dizendo:
+21 Ai de ti, Corazin! ai de ti, Betsaida! porque, se em<LOCAL> Tiro</LOCAL> e em<LOCAL> Sidom</LOCAL>, se tivessem operado os milagres que em vós se operaram, há muito elas se teriam arrependido em cilício e em cinza.
+22 Contudo, eu vos digo que para Tiro e Sidom haverá menos rigor, no dia do juízo, do que para vós.
+23 E tu, Cafarnaum, porventura serás elevada até o céu? até o inferno descerás;{S} porque, se em<LOCAL> Sodoma</LOCAL> se tivessem operado os milagres que em ti se operaram, teria ela permanecido até hoje.
+24 Contudo, eu vos digo que no dia do juízo haverá menos rigor para a terra de<PESSOA> Sodoma</PESSOA> do que para ti.
+25 Naquele tempo falou<PESSOA> Jesus</PESSOA>, dizendo:{S} Graças te dou, ó <PESSOA>Pai</PESSOA>, <PESSOA>Senhor</PESSOA> do céu e da terra, porque ocultaste estas coisas aos sábios e entendidos, e as revelaste aos pequeninos.
+26 Sim, ó <PESSOA>Pai</PESSOA>, porque assim foi do teu agrado.
+<VALOR>27</VALOR> Todas as coisas me foram entregues por meu <PESSOA>Pai</PESSOA>;{S} e ninguém conhece plenamente o <PESSOA>Filho</PESSOA>, senão o <PESSOA>Pai</PESSOA>;{S} e ninguém conhece plenamente o <PESSOA>Pai</PESSOA>, senão o <PESSOA>Filho</PESSOA>, e aquele a quem o <PESSOA>Filho</PESSOA> o quiser revelar.
+28 Vinde a mim, todos os que estai cansados e oprimidos, e eu vos aliviarei.
+29 Tomai sobre vós o meu jugo, e aprendei de mim, que sou manso e humilde de coração;{S} e achareis descanso para as vossas almas.
+30 Porque o meu jugo é suave, e o meu fardo e leve.

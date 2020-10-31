@@ -1,0 +1,29 @@
+
+1 O povo da terra tomou 
+is_father( Josias,Jeoacaz).
+is_pessoa(Jeoacaz).
+is_pessoa( Josias).
+, e o constituiu rei em lugar de seu pai, em<LOCAL> Jerusalém</LOCAL>.
+2 Tinha Jeoacaz <VALOR>vinte e três anos</VALOR> quando começou a reinar, e reinou três meses em<LOCAL> Jerusalém</LOCAL>.
+3 Porquanto o rei do<PESSOA> Egito</PESSOA> o depôs em<LOCAL> Jerusalém</LOCAL>, e condenou a terra a pagar um tributo de cem talentos de prata e um talento de ouro.
+4 Então o rei do<PESSOA> Egito</PESSOA> constituiu Eliaquim, irmão de Jeoacaz, rei sobre<PESSOA> Judá</PESSOA> e<PESSOA> Jerusalém</PESSOA>, e mudou-lhe o nome em<LOCAL> Jeoiaquim</LOCAL>;{S} mas a seu irmão, Jeoacaz, Neco o tomou e o levou para o Egito.
+5 Tinha Jeoiaquim <VALOR>vinte e cinco anos</VALOR> quando começou a reinar, e reinou <VALOR>onze anos</VALOR> em<LOCAL> Jerusalém</LOCAL>;{S} e fez o que era mau aos olhos do <PESSOA>Senhor</PESSOA> seu<PESSOA> Deus</PESSOA>.
+6 Contra ele subiu Nabucodonosor, rei de Babilônia, e o amarrou com cadeias a fim de o levar para Babilônia.
+7 Também alguns dos vasos da casa do <PESSOA>Senhor</PESSOA> levou Nabucodonosor para Babilônia, e pô-los no seu templo em<LOCAL> Babilônia</LOCAL>.
+8 Ora, o restante dos atos de Jeoiaquim, e as abominações que praticou, e o que se achou contra ele, eis que estão escritos no livro dos reis de<PESSOA> Israel</PESSOA> e de<PESSOA> Judá</PESSOA>.{S} E Joaquim, seu filho, reinou em seu lugar.
+9 Tinha Joaquim <VALOR>oito anos</VALOR> quando começou a reinar, e reinou três meses e dez dias em<LOCAL> Jerusalém</LOCAL>;{S} e fez o que era mau aos olhos do <PESSOA>Senhor</PESSOA>.
+10 Na primavera seguinte o <PESSOA>rei Nabucodonosor</PESSOA> mandou que o levassem para Babilônia, juntamente com os vasos preciosos da casa do <PESSOA>Senhor</PESSOA>;{S} e constituiu a Zedequias, irmão de<PESSOA> Joaquim</PESSOA>, rei sobre<PESSOA> Judá</PESSOA> e<PESSOA> Jerusalém</PESSOA>.
+11 Tinha Zedequias <VALOR>vinte e um anos</VALOR> quando começou a reinar, e reinou <VALOR>onze anos</VALOR> em<LOCAL> Jerusalém</LOCAL>.
+12 E fez o que era mau aos olhos do <PESSOA>Senhor</PESSOA> seu Deus: e não se humilhou perante o profeta<PESSOA> Jeremias</PESSOA>, que lhe falava da parte do <PESSOA>Senhor</PESSOA>.
+13 Também rebelou-se contra o <PESSOA>rei Nabucodonosor</PESSOA>, que o tinha ajuramentado por<PESSOA> Deus</PESSOA>.{S} Mas endureceu a sua cerviz e se obstinou no seu coração, para não voltar ao <PESSOA>Senhor</PESSOA>,<PESSOA>  Deus de Israel </PESSOA>.
+14 Além de isso todos os chefes dos sacerdotes e o povo aumentavam cada vez mais a sua infidelidade, seguindo todas as abominações dos gentios;{S} e profanaram a casa do <PESSOA>Senhor</PESSOA>, que ele tinha santificado para si em<LOCAL> Jerusalém</LOCAL>.
+15 E o <PESSOA>Senhor</PESSOA>,<PESSOA> Deus</PESSOA> de seus pais, falou-lhes persistentemente por intermédio de seus mensageiros, porque se compadeceu do seu povo e da sua habitação.
+<VALOR>16</VALOR> Eles, porém, zombavam dos mensageiros de<PESSOA> Deus</PESSOA>, desprezando as suas palavras e mofando dos seus profetas, até que o furor do <PESSOA>Senhor</PESSOA> subiu tanto contra o seu povo, que mais nenhum remédio houve.
+17 Por isso fez vir sobre eles o rei dos caldeus, o qual matou os seus mancebos à espada, na casa do seu santuário, e não teve piedade nem dos mancebos, nem das donzelas, nem dos velhos nem dos decrépitos;{S} entregou-lhos todos nas mãos.
+18 E todos os vasos da casa de<PESSOA> Deus</PESSOA>, grandes e pequenos, os tesouros da casa do <PESSOA>Senhor</PESSOA>, e os tesouros do rei e dos seus príncipes, tudo levou para Babilônia.
+19 Também queimaram a casa de<PESSOA> Deus</PESSOA>, derribaram os muros de<PESSOA> Jerusalém</PESSOA>, queimaram a fogo todos os seus palácios, e destruíram todos os seus vasos preciosos.
+20 E aos que escaparam da espada, a esses levou para Babilônia;{S} e se tornaram servos dele e de seus filhos, até o tempo do reino da<ORGANIZACAO> Pérsia</ORGANIZACAO>,
+21 para se cumprir a palavra do <PESSOA>Senhor</PESSOA> proferida pela boca de<PESSOA> Jeremias</PESSOA>, até haver a terra gozado dos seus sábados;{S} pois por todos os dias da desolação repousou, até que os <VALOR>setenta anos</VALOR> se cumpriram.
+22 Ora, no primeiro ano de<PESSOA> Ciro</PESSOA>, rei da pérsia, para que se cumprisse a palavra do <PESSOA>Senhor</PESSOA> proferida pela boca de<PESSOA> Jeremias</PESSOA>, despertou o <PESSOA>Senhor</PESSOA> o espírito de<PESSOA> Ciro</PESSOA>, rei da<ORGANIZACAO> Pérsia</ORGANIZACAO>, de modo que ele fez proclamar por todo o seu reino, de viva voz e também por escrito, este decreto:
+23 Assim diz<PESSOA> Ciro</PESSOA>, rei da<ORGANIZACAO> Pérsia</ORGANIZACAO>:{S} O <PESSOA>Senhor Deus</PESSOA> do céu me deu todos os reinos da terra, e me encarregou de lhe edificar uma casa em<LOCAL> Jerusalém</LOCAL>, que é em<LOCAL> Judá</LOCAL>.{S} Quem há entre vós de todo o seu povo suba, e o <PESSOA>Senhor</PESSOA> seu<PESSOA> Deus</PESSOA> seja com ele.
+{S}ESDRAS

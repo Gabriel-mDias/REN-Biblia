@@ -1,0 +1,12 @@
+is_pessoa(Belá).
+is_pessoa(Beor).
+is_pessoa(Jobabe).
+is_pessoa(Zerá).
+is_pessoa(Hadade).
+is_pessoa(Bedade).
+is_pessoa(Ranã).
+is_pessoa(Acbor).
+is_father(Beor,Belá).
+is_father(Zerá,Jobabe).
+is_father(Bedade,Hadade).
+is_father(Acbor,Ranã).

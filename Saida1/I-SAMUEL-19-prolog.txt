@@ -1,0 +1,3 @@
+is_pessoa(Jônatas).
+is_pessoa(Saul).
+is_father(Saul,Jônatas).

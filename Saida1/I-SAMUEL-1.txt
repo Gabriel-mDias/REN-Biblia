@@ -1,0 +1,37 @@
+
+1 Houve um homem de Ramataim-Zofim, da região montanhosa de Efraim, cujo nome era 
+is_father( Jeroão,Elcana).
+is_pessoa(Elcana).
+is_pessoa( Jeroão).
+, filho de 
+is_father( Toú,Eliú).
+is_pessoa(Eliú).
+is_pessoa( Toú).
+, filho de Zufe, efraimita.
+2 Tinha ele duas mulheres: uma se chamava<ABSTRACCAO> Ana</ABSTRACCAO>, e a outra Penina.{S} Penina tinha filhos, porém<PESSOA> Ana</PESSOA> não os tinha.
+3 De ano em ano este homem subia da sua cidade para adorar e sacrificar ao <PESSOA>Senhor</PESSOA> dos exércitos em<LOCAL> Siló</LOCAL>.{S} Assistiam ali os sacerdotes do <PESSOA>Senhor</PESSOA>,<PESSOA> Hofni</PESSOA> e<PESSOA> Finéias</PESSOA>, os dois filhos de Eli.
+4 No dia em que Elcana sacrificava, costumava dar quinhões a Penina, sua mulher, e a todos os seus filhos e filhas;{S}
+5 porém a Ana, embora a amasse, dava um só quinhão, porquanto o <PESSOA>Senhor</PESSOA> lhe havia cerrado a madre.
+6 Ora, a sua rival muito a provocava para irritá-la, porque o <PESSOA>Senhor</PESSOA> lhe havia cerrado a madre.
+7 E assim sucedia de ano em ano que, ao subirem à casa do <PESSOA>Senhor</PESSOA>,<PESSOA> Penina</PESSOA> provocava a Ana;{S} pelo que esta chorava e não comia.
+8 Então Elcana, seu marido, lhe perguntou:{S} Ana, por que choras? e porque não comes? e por que está triste o teu coração?{S} Não te sou eu melhor de que dez filhos?
+9 Então Ana se levantou, depois que comeram e beberam em<LOCAL> Siló</LOCAL>;{S} e Eli, sacerdote, estava sentado, em uma cadeira, junto a um pilar do templo do <PESSOA>Senhor</PESSOA>.
+10 Ela, pois, com amargura de alma, orou ao <PESSOA>Senhor</PESSOA>, e chorou muito,
+11 e fez um voto, dizendo: ó <PESSOA>Senhor</PESSOA> dos exércitos! se deveras atentares para a aflição da tua serva, e de mim te lembrares, e da tua serva não te esqueceres, mas lhe deres um filho varão, ao <PESSOA>Senhor</PESSOA> o darei por todos os dias da sua vida, e pela sua cabeça não passará navalha.
+12 Continuando ela a orar perante e <PESSOA>Senhor</PESSOA>,<PESSOA> Eli</PESSOA> observou a sua boca;{S}
+13 porquanto<PESSOA> Ana</PESSOA> falava no seu coração;{S} só se moviam os seus lábios, e não se ouvia a sua voz;{S} pelo que Eli a teve por embriagada,
+14 e lhe disse:{S} Até quando estarás tu embriagada?{S} Aparta de ti o teu vinho.
+15 Mas Ana respondeu:{S} <PESSOA>Não</PESSOA>, <PESSOA>Senhor</PESSOA> meu, eu sou uma mulher atribulada de espírito;{S} não bebi vinho nem bebida forte, porém derramei a minha alma perante o <PESSOA>Senhor</PESSOA>.
+16 Não tenhas, pois, a tua serva por filha de Belial;{S} porque da multidão dos meus cuidados e do meu desgosto tenho falado até agora.
+17 Então lhe respondeu Eli:{S} Vai-te em paz;{S} e o <PESSOA>Deus de Israel</PESSOA> te conceda a petição que lhe fizeste.
+18 Ao que disse ela:{S} Ache a tua serva graça aos teus olhos.{S} Assim a mulher se foi o seu caminho, e comeu, e já não era triste o seu semblante.
+19 Depois, levantando-se de madrugada, adoraram perante o <PESSOA>Senhor</PESSOA> e, voltando, foram a sua casa em<LOCAL> Ramá</LOCAL>.{S} Elcana conheceu a Ana, sua mulher, e o <PESSOA>Senhor</PESSOA> se lembrou dela.
+20 De modo que<PESSOA> Ana</PESSOA> concebeu e, no tempo devido, teve um filho, ao qual chamou<PESSOA> Samuel</PESSOA>;{S} porque, dizia ela, o tenho pedido ao <PESSOA>Senhor</PESSOA>.
+21 Subiu, pois aquele homem, Elcana, com toda a sua casa, para oferecer ao <PESSOA>Senhor</PESSOA> o sacrifício anual e cumprir o seu voto.
+22<PESSOA> Ana</PESSOA>, porém, não subiu, pois disse a seu marido:{S} Quando o menino for desmamado, então e levarei, para que apareça perante o <PESSOA>Senhor</PESSOA>, e lá fique para sempre.
+23 E Elcana, seu marido, lhe disse: faze o que bem te parecer;{S} fica até que o desmames;{S} tão-somente confirme o <PESSOA>Senhor</PESSOA> a sua palavra.{S} Assim ficou a mulher, e amamentou seu filho, até que o desmamou.
+24 Depois de o ter desmamado, ela o tomou consigo, com um touro de <VALOR>três anos</VALOR>, uma efa de farinha e um odre de vinho, e o levou à casa do <PESSOA>Senhor</PESSOA>, em<LOCAL> Siló</LOCAL>;{S} e era o menino ainda muito criança.
+25 Então degolaram o touro, e trouxeram o menino a Eli;{S}
+26 e disse ela:{S} Ah, meu <PESSOA>Senhor</PESSOA>! tão certamente como vive a tua alma, meu <PESSOA>Senhor</PESSOA>, eu sou aquela mulher que aqui esteve contigo, orando ao <PESSOA>Senhor</PESSOA>.
+27 Por este menino orava eu, e o <PESSOA>Senhor</PESSOA> atendeu a petição que eu lhe fiz.
+28 Por isso eu também o entreguei ao <PESSOA>Senhor</PESSOA>;{S} por todos os dias que viver, ao <PESSOA>Senhor</PESSOA> está entregue.{S} E adoraram ali ao <PESSOA>Senhor</PESSOA>.

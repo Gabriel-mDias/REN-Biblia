@@ -1,0 +1,55 @@
+
+1<PESSOA> Adão</PESSOA>,<PESSOA> Sete</PESSOA>,<PESSOA> Enos</PESSOA>,
+2 Quenã, Maalalel, Jarede,
+3 Enoque, Matusalém, Lameque,
+4 Noé, Sem, Cão e Jafé.
+<VALOR>5</VALOR> Os filhos de Jafé:{S} Gomer, Magogue, Madai, Javã, Tubal, Meseque e Tiras.
+<VALOR>6</VALOR> Os filhos de Gomer:{S} Asquenaz, Rifate e Togarma.
+<VALOR>7</VALOR> Os filhos de Javã:{S} Elisá, Társis, Quitim e Dodanim.
+<VALOR>8</VALOR> Os filhos de Cão:{S} <PESSOA>Cuche</PESSOA>,<PESSOA> Mizraim</PESSOA>,<PESSOA> Pute</PESSOA> e<PESSOA> Canaã</PESSOA>.
+<VALOR>9</VALOR> Os filhos de Cuche:{S} Seba, Havilá, Sabtá, Raamá e Sabtecá;{S} e os filhos de Raamá:{S} Sebá e Dedã.
+10 Cuche foi pai de Ninrode, o qual foi o primeiro a ser poderoso na terra:
+11 De Mizraim descenderam os ludeus, os anameus, os leabeus, os naftueus,
+<VALOR>12</VALOR> os patrusins, os casluins (dos quais procederam os filisteus) e os caftoreus.
+13<PESSOA> Canaã</PESSOA> foi pai de Sidom, seu primogênito, e de Hete,
+14 e dos jebuseus, dos amorreus, dos girgaseus,
+15 dos heveus, dos arqueus, dos sineus,
+16 dos arvadeus, dos zemareus e dos hamateus.
+<VALOR>17</VALOR> Os filhos de Sem:{S} Elão, Assur, Arfaxade, Lude, Arã, Uz, Hul, Geter e Meseque.
+18 Arfaxade foi pai de Selá;{S} e Selá foi pai de Eber.
+19 A Eber nasceram dois filhos: o nome de um foi Pelegue, pois nos seus dias se repartiu a terra;{S} e o nome do seu irmão foi Joctã.
+20 Joctã foi pai de Almodá, Selefe, Hazarmavé, Jerá,
+21 Hadorão, Uzal, Diclá,
+22 Ebal, Abimael, Sebá,
+23 Ofir, Havilá e Jobabe;{S} todos esses foram filhos de Joctã.
+24 Sem, Arfaxade, Selá;{S}
+25 Eber, Pelegue, Reú;{S}
+26 Serugue, Naor, Tera;{S}
+27<PESSOA> Abrão</PESSOA>, que é<PESSOA> Abraão</PESSOA>.
+<VALOR>28</VALOR> Os filhos de Abraão:{S} <PESSOA>Isaque</PESSOA> e<PESSOA> Ismael</PESSOA>.
+29 Estas são as suas gerações: o primogênito de<PESSOA> Ismael</PESSOA>,<PESSOA> Nebaiote</PESSOA>;{S} depois Quedar, Adbeel, Mibsão,
+30 Misma, Dumá, Massá, Hadade, Tema,
+31 Jetur, Nafis e Quedemá;{S} esses foram os filhos de<PESSOA> Ismael</PESSOA>.
+32 Quanto aos filhos de Quetura, concubina de<PESSOA> Abraão</PESSOA>, esta deu à luz Zinrã, Jocsã, Medã, Midiã, Isbaque e Suá.{S} Os filhos de Jocsã foram Sebá e Dedã.
+<VALOR>33</VALOR> Os filhos de Midiã:{S} Efá, Efer, Hanoque, Abidá e Eldá;{S} todos esses foram filhos de Quetura.
+34<PESSOA> Abraão</PESSOA> foi pai de Isaque.{S} Os filhos de Isaque:S<PESSOA> Esaú</PESSOA> e<PESSOA> Israel</PESSOA>.
+<VALOR>35</VALOR> Os filhos de Esaú:{S} Elifaz, Reuel, Jeús, Jalão e Corá.
+<VALOR>36</VALOR> Os filhos de Elifaz:{S} Temã, Omar, Zefi, Gatã, Quenaz, Timna e Amaleque.
+<VALOR>37</VALOR> Os filhos de Reuel:{S} Naate, Zerá, Samá e Mizá.
+<VALOR>38</VALOR> Os filhos de Seir:{S} Lotã, Sobal, Zibeão, Anás, Disom, Eser e Disã.
+<VALOR>39</VALOR> Os filhos de Lotã:{S} Hori, e Homã;{S} e a irmã de Lotã foi Timna.
+<VALOR>40</VALOR> Os filhos de Sobal:{S} Aliã, Manaate, Ebal, Sefi e Onã.{S} Os filhos de Zibeão:{S} Aías e Anás.
+41 Anás foi pai de Disom.{S} Os filhos de Disom:{S} Hanrão, Esbã, Itrã e Querã.
+<VALOR>42</VALOR> Os filhos de Eser:{S} Bilã, Zaavã e Jaacã.{S} Os filhos de Disã:{S} Uz e Arã.
+<VALOR>43</VALOR> Estes foram os reis que reinaram na terra de Edom, antes que houvesse rei sobre os filhos de Israel:{S} <PESSOA>Belá</PESSOA>, filho de<PESSOA> Beor</PESSOA>;{S} e era o nome da sua cidade Dinabá.
+44 Morreu Belá, e reinou em seu lugar <PESSOA>Jobabe</PESSOA>, filho de<PESSOA> Zerá</PESSOA>, de Bozra.
+45 Morreu Jobabe, e reinou em seu lugar Husão, da terra dos temanitas.
+46 Morreu Husão, e reinou em seu lugar <PESSOA>Hadade</PESSOA>, filho de<PESSOA> Bedade</PESSOA>, que derrotou os midianitas no campo de Moabe;{S} e era o nome da sua cidade Avite.
+47 Morreu Hadade, e reinou em seu lugar Sâmela, de Masreca.
+48 Morreu Sâmela, e reinou em seu lugar<PESSOA> Saul</PESSOA>, de Reobote junto ao rio.
+49 Morreu Saul, e reinou em seu lugar Baal-<PESSOA>Ranã</PESSOA>, filho de<PESSOA> Acbor</PESSOA>.
+50 Morreu Baal-Hanã, e Hadade reinou em seu lugar;{S} e era o nome da sua cidade Paí.{S} O nome de sua mulher era Meetabel, filha de Matrede, filha de Me-Zaabe.
+51 E morreu Hadade.{S} Os príncipes de Edom foram: o <PESSOA>príncipe Timna</PESSOA>, o <PESSOA>príncipe Aliá</PESSOA>, o <PESSOA>príncipe Jetete</PESSOA>,
+52 o <PESSOA>príncipe Aolíbama</PESSOA>, o <PESSOA>príncipe Elá</PESSOA>, o <PESSOA>príncipe Pinom</PESSOA>,
+53 o <PESSOA>príncipe Quenaz</PESSOA>, o <PESSOA>príncipe Temã</PESSOA>, o <PESSOA>príncipe Mibzar</PESSOA>,
+54 o <PESSOA>príncipe Magdiel</PESSOA>, o príncipe lrã.{S} Estes foram os príncipes de Edom.

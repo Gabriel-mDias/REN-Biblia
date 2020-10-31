@@ -1,0 +1,23 @@
+
+1 Depois de Abimeleque levantou-se, para livrar a Israel, 
+is_father( Puva,Tola).
+is_pessoa(Tola).
+is_pessoa( Puva).
+, filho de Dodó, homem de Issacar, que habitava em<LOCAL> Samir</LOCAL>, na região montanhosa de Efraim.
+2 Ele julgou a Israel <VALOR>vinte e três anos</VALOR>;{S} e morreu, e foi sepultado em<LOCAL> Samir</LOCAL>.
+3 Depois dele levantou-se<PESSOA> Jair</PESSOA>, gileadita, que julgou a Israel <VALOR>vinte e dois anos</VALOR>.
+4 Ele tinha trinta filhos, que cavalgavam sobre trinta jumentos;{S} e tinham estes trinta cidades, que se chamam Havote-Jair, até a dia de hoje, as quais estão na terra de Gileade.
+5 Morreu Jair, e foi sepultado em<LOCAL> Camom</LOCAL>.
+6 Então tornaram os filhos de<PESSOA> Israel</PESSOA> a fazer e que era mau aos olhos do <PESSOA>Senhor</PESSOA>, e serviram aos baalins, e às astarotes, e aos deuses da<ORGANIZACAO> Síria</ORGANIZACAO>, e aos de Sidom, e de Moabe, e dos amonitas, e dos filisteus;{S} e abandonaram o <PESSOA>Senhor</PESSOA>, e não o serviram.
+7 Pelo que a ira do <PESSOA>Senhor</PESSOA> se acendeu contra<PESSOA> Israel</PESSOA>, e ele os vendeu na mão dos filisteus e na mão dos amonitas,
+<VALOR>8</VALOR> os quais naquele mesmo ano começaram a vexá-los e oprimi-los.{S} Por <VALOR>dezoito anos</VALOR> oprimiram a todos os filhos de<PESSOA> Israel</PESSOA> que estavam dalém do<PESSOA> Jordão</PESSOA>, na terra dos amorreus, que é em<LOCAL> Gileade</LOCAL>.
+9 E os amonitas passaram o Jordão, para pelejar também contra<PESSOA> Judá</PESSOA> e<PESSOA> Benjamim</PESSOA>, e contra a casa de Efraim, de maneira que<PESSOA> Israel</PESSOA> se viu muito angustiado.
+10 Então os filhos de<PESSOA> Israel</PESSOA> clamaram ao <PESSOA>Senhor</PESSOA>, dizendo:{S} Pecamos contra ti, pois abandonamos o nosso<PESSOA> Deus</PESSOA>, e servimos aos baalins.
+11 O <PESSOA>Senhor</PESSOA>, porém, respondeu aos filhos de Israel:{S} Porventura não vos livrei eu dos egípcios, dos amorreus, dos amonitas e dos filisteus?
+12 Também os sidônios, os amalequitas e os maonitas vos oprimiram;{S} e, quando clamastes a mim, não vos livrei da sua mão?
+13 Contudo vós me deixastes a mim e servistes a outros deuses, pelo que não vos livrarei mais.
+14 Ide e clamai aos deuses que escolhestes;{S} que eles vos livrem no tempo da vossa angústia.
+15 Mas os filhos de<PESSOA> Israel</PESSOA> disseram ao <PESSOA>Senhor</PESSOA>:{S} Pecamos;{S} fazes-nos conforme tudo quanto te parecer bem;{S} tão-somente te rogamos que nos livres hoje.
+16 E tiraram os deuses alheios do meio de si, e serviram ao <PESSOA>Senhor</PESSOA>, que se moveu de compaixão por causa da desgraça de<PESSOA> Israel</PESSOA>.
+17 Depois os amonitas se reuniram e acamparam em<LOCAL> Gileade</LOCAL>;{S} também os filhos de<PESSOA> Israel</PESSOA>, reunindo-se, acamparam em<LOCAL> Mizpá</LOCAL>.
+18 Então o povo, isto é, os príncipes de Gileade disseram uns aos outros:{S} Quem será o varão que começará a peleja contra os amonitas? esse será o chefe de todos os habitantes de Gileade.

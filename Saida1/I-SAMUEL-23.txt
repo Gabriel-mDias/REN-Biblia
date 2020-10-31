@@ -1,0 +1,38 @@
+
+1 Ora, foi anunciado a Davi:{S} Eis que os filisteus pelejam contra Queila e saqueiam as eiras.
+2 Pelo que consultou<PESSOA> Davi</PESSOA> ao <PESSOA>Senhor</PESSOA>, dizendo:{S} Irei eu, e ferirei a esses filisteus?{S} Respondeu o <PESSOA>Senhor</PESSOA> a Davi:{S} Vai, fere aos filisteus e salva a Queila.
+3 Mas os homens de<PESSOA> Davi</PESSOA> lhe disseram:{S} Eis que tememos aqui em<LOCAL> Judá</LOCAL>, quanta mais se formos a Queila, contra o exército dos filisteus!
+4<PESSOA> Davi</PESSOA>, pois, tornou a consultar ao <PESSOA>Senhor</PESSOA>, e o <PESSOA>Senhor</PESSOA> lhe respondeu:{S} Levanta-te, desce a Queila, porque eu hei de entregar os filisteus na tua mão.
+5 Então Davi partiu com os seus homens para Queila, pelejou contra os filisteus, levou-lhes o gado, e fez grande matança entre eles;{S} assim<PESSOA> Davi</PESSOA> salvou os moradores de Queila.
+6 Ora, quando 
+is_father( Aimeleque,Abiatar).
+is_pessoa(Abiatar).
+is_pessoa( Aimeleque).
+, fugiu para<PESSOA> Davi</PESSOA>, a Queila, desceu com um éfode na mão.
+7 Então foi anunciado a Saul que<PESSOA> Davi</PESSOA> tinha ido a Queila;{S} e disse<PESSOA> Saul</PESSOA>:S<PESSOA> Deus</PESSOA> o entregou nas minhas mãos;{S} pois está encerrado, porque entrou em uma cidade que tem portas e ferrolhos.
+8 E convocou todo o povo à peleja, para descerem a Queila, e cercar a Davi e os seus homens.
+9 Sabendo, pois,<PESSOA> Davi</PESSOA> que Saul maquinava este mal contra ele, disse a Abiatar, sacerdote:{S} Traze aqui o éfode.
+10 E disse<PESSOA> Davi</PESSOA>:{S} Ó <PESSOA>Senhor</PESSOA>,<PESSOA>  Deus de Israel </PESSOA>, teu servo acaba de ouvir que<PESSOA> Saul</PESSOA> procura vir a Queila, para destruir a cidade por causa de mim.
+11 Entregar-me-ão os cidadãos de Queila na mão dele? descerá<PESSOA> Saul</PESSOA>, como o teu servo tem ouvido?{S} <PESSOA>Ah</PESSOA>, <PESSOA>Senhor  Deus de Israel </PESSOA>! faze-o saber ao teu servo.{S} Respondeu o <PESSOA>Senhor</PESSOA>:{S} Descerá.
+12 Disse mais Davi:{S} Entregar-me-ão os cidadãos de Queila, a mim e aos meus homens, nas mãos de Saul?{S} E respondeu o <PESSOA>Senhor</PESSOA>:{S} Entregarão.
+13 Levantou-se, então,<PESSOA> Davi</PESSOA> com os seus homens, cerca de seiscentos, e saíram de Queila, e foram-se aonde puderam.{S} Saul, quando lhe foi anunciado que<PESSOA> Davi</PESSOA> escapara de Queila, deixou de sair contra ele.
+14 E Davi ficou no deserto, em lugares fortes, permanecendo na região montanhosa no deserto de Zife.S<PESSOA> Saul</PESSOA> o buscava todos os dias, porém<PESSOA> Deus</PESSOA> não o entregou na sua mão.
+15 Vendo, pois,<PESSOA> Davi</PESSOA> que Saul saíra à busca da sua vida, esteve no deserto de Zife, em<LOCAL> Hores</LOCAL>.
+16 Então se levantou 
+is_father(  Saul ,Jônatas).
+is_pessoa(Jônatas).
+is_pessoa(  Saul ).
+, e foi ter com<PESSOA> Davi</PESSOA> em<LOCAL> Hores</LOCAL>, e o confortou em<LOCAL> Deus</LOCAL>;{S}
+17 e disse-lhe:{S} Não temas;{S} porque não te achará a mão de<PESSOA> Saul</PESSOA>, meu pai;{S} porém tu reinarás sobre<PESSOA> Israel</PESSOA>, e eu serei contigo o segundo;{S} o que também<PESSOA> Saul</PESSOA>, meu pai, bem sabe.
+18 E ambos fizeram aliança perante o <PESSOA>Senhor</PESSOA>;S<PESSOA> Davi</PESSOA> ficou em<LOCAL> Hores</LOCAL>, e Jônatas, voltou para sua casa.
+19 Então subiram os zifeus a Saul, a Gibeá, dizendo:{S} Não se escondeu<PESSOA> Davi</PESSOA> entre nós, nos lugares fortes em<LOCAL> Hores</LOCAL>, no outeiro de Haquilá, que está à mão direita de Jesimom?
+20 Agora, pois, ó rei, desce apressadamente, conforme todo o desejo da tua alma;{S} a nós nos cumpre entregá-lo nas mãos do rei.
+21 Então disse<PESSOA> Saul</PESSOA>:{S} Benditos sejais vós do <PESSOA>Senhor</PESSOA>, porque vos compadecestes de mim:
+22 Ide, pois, informai-vos ainda melhor;{S} sabei e notai o lugar que ele freqüenta, e quem o tenha visto ali;{S} porque me foi dito que é muito astuto.
+23 Pelo que atentai bem, e informai-vos acerca de todos os esconderijos em que ele se oculta;{S} e então voltai para mim com notícias exatas, e eu irei convosco.{S} E há de ser que, se estiver naquela terra, eu o buscarei entre todos os milhares de<PESSOA> Judá</PESSOA>.
+<VALOR>24</VALOR> Eles, pois, se levantaram e foram a Zife adiante de<PESSOA> Saul</PESSOA>;{S} Davi, porém, e os seus homens estavam no deserto de Maom, na campina ao sul de Jesimom.
+25 E Saul e os seus homens foram em busca dele.{S} Sendo isso anunciado a Davi, desceu ele à penha que está no deserto de Maom.{S} Ouvindo-o Saul, foi ao deserto de Maom, a perseguir<PESSOA> Davi</PESSOA>.
+26<PESSOA> Saul</PESSOA> ia de uma banda do monte, e<PESSOA> Davi</PESSOA> e os seus homens da outra banda.{S} E Davi se apressava para escapar, por medo de<PESSOA> Saul</PESSOA>, porquanto<PESSOA> Saul</PESSOA> e os seus homens iam cercando a Davi e aos seus homens, para os prender.
+27 em isso veio um mensageiro a Saul, dizendo:{S} Apressa-te, e vem, porque os filisteus acabam de invadir a terra.
+28 Pelo que<PESSOA> Saul</PESSOA> voltou de perseguir a Davi, e se foi ao encontro dos filisteus.{S} Por esta razão aquele lugar se chamou Selá-Hamalecote.
+29 Depois disto,<PESSOA> Davi</PESSOA> subiu e ficou nos lugares fortes de En-Gedi.

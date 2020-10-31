@@ -1,0 +1,82 @@
+
+1 
+is_father( Jerubaal,Abimeleque).
+is_pessoa(Abimeleque).
+is_pessoa( Jerubaal).
+, foi a Siquém, aos irmãos de sua mãe, e falou-lhes, e a toda a parentela da casa de pai de sua mãe, dizendo:
+2 Falai, peço-vos, aos ouvidos de todos os cidadãos de Siquém:{S} Que é melhor para vós? que setenta homens, todos os filhos de Jerubaal, dominem sobre vós, ou que um só domine sobre vós?{S} Lembrai-vos também de que sou vosso osso e vossa carne.
+3 Então os irmãos de sua mãe falaram todas essas palavras a respeito dele aos ouvidos de todos os cidadãos de Siquém;{S} e o coração deles se inclinou a seguir Abimeleque;{S} pois disseram:{S} E nosso irmão.
+4 E deram-lhe setenta siclos de prata, da casa de Baal-Berite, com os quais alugou Abimeleque alguns homens ociosos e levianas, que o seguiram;{S}
+5 e foi à casa de seu pai, a Ofra, e matou a seus irmãos, os filhos de Jerubaal, setenta homens, sobre uma só pedra.{S} Mas Jotão, filho menor de Jerubaal, ficou, porquanto se tinha escondido.
+6 Então se ajuntaram todos os cidadãos de Siquém e toda a Bete-Milo, e foram, e constituíram rei a Abimeleque, junto ao carvalho da coluna que havia em<LOCAL> Siquém</LOCAL>.
+7 Jotão, tendo sido avisado de isso, foi e, pondo-se no cume do monte Gerizim, levantou a voz e clamou, dizendo:{S} Ouvi-me a mim, cidadãos de Siquém, para que Deus: vos ouça a vos.
+8 Foram uma vez as árvores a ungir para si um rei;{S} e disseram à oliveira:{S} Reina tu sobre nós.
+9 Mas a oliveira lhes respondeu:{S} Deixaria eu a minha gordura, que<PESSOA> Deus</PESSOA> e os homens em mim prezam, para ir balouçar sobre as árvores?
+10 Então disseram as árvores à figueira:{S} Vem tu, e reina sobre nós.
+11 Mas a figueira lhes respondeu:{S} Deixaria eu a minha doçura, o meu bom fruto, para ir balouçar sobre as árvores?
+12 Disseram então as árvores à videira:{S} Vem tu, e reina sobre nós.
+13 Mas a videira lhes respondeu:{S} Deixaria eu o meu mosto, que alegra a Deus e aos homens, para ir balouçar sobre as árvores?
+14 Então todas as árvores disseram ao espinheiro:{S} Vem tu, e reina sobre nós.
+15 O espinheiro, porém, respondeu às árvores:{S} Se de boa fé me ungis por vosso rei, vinde refugiar-vos debaixo da minha sombra;{S} mas, se não, saia fogo do espinheiro, e devore os cedros do<PESSOA> Líbano</PESSOA>.
+16 Agora, pois, se de boa fé e com retidão procedestes, constituindo rei a Abimeleque, e se bem fizestes para com Jerubaal e para com a sua casa, e se com ele usastes conforme o merecimento das suas mãos
+17 (porque meu pai pelejou por vós, desprezando a própria vida, e vos livrou da mão de Midiã;{S}
+18 porém vós hoje vos levantastes contra a casa de meu pai, e matastes a seus filhos, setenta homens, sobre uma só pedra;{S} e a Abimeleque, filho da sua serva, fizestes reinar sobre os cidadãos de Siquém, porque é vosso irmão);{S}
+19 se de boa fé e com retidão procedestes hoje para com Jerubaal e para com a sua casa, alegrai-vos em<LOCAL> Abimeleque</LOCAL>, e também ele se alegre em vós;{S}
+20 mas se não, saia fogo de Abimeleque, e devore os cidadãos de Siquém, e a Bete-Milo;{S} e saia fogo dos cidadãos de Siquém e de Bete-Milo, e devore Abimeleque.
+21 E partindo Jotão, fugiu e foi para Beer, e ali habitou, por medo de Abimeleque, seu irmão.
+22 Havendo Abimeleque reinado <VALOR>três anos</VALOR> sobre<PESSOA> Israel</PESSOA>,
+23<PESSOA> Deus</PESSOA> suscitou um espírito mau entre Abimeleque e os cidadãos de Siquém;{S} e estes procederam aleivosamente para com Abimeleque;{S}
+24 para que a violência praticada contra os setenta filhos de Jerubaal, como também o sangue deles, recaíssem sobre Abimeleque, seu irmão, que os matara, e sobre os cidadãos de Siquém, que fortaleceram as mãos dele para matar a seus irmãos.
+25 E os cidadãos de Siquém puseram de emboscada contra ele, sobre os cumes dos montes, homens que roubavam a todo aquele que passava por eles no caminho.{S} E contou-se isto a Abimeleque.
+26 Também veio<LOCAL> Gaal</LOCAL>, filho de Ebede, com seus irmãos, e estabeleceu-se em<LOCAL> Siquém</LOCAL>;{S} e confiaram nele os cidadãos de Siquém.
+27 Saindo ao campo, vindimaram as suas vinhas, pisaram as uvas e fizeram uma festa;{S} e, entrando na casa de seu deus, comeram e beberam, e amaldiçoaram a Abimeleque.
+28 E disse
+is_father( Ebede,  Gaal ).
+is_pessoa(  Gaal ).
+is_pessoa( Ebede).
+:{S} Quem é<PESSOA> Abimeleque</PESSOA>, e quem é<PESSOA> Siquém</PESSOA>, para que sirvamos a Abimeleque? não é, porventura, filho de Jerubaal? e não é Zebul o seu mordomo?{S} Servi antes aos homens de Hamor, pai de Siquém;{S} pois, por que razão serviríamos nós a Abimeleque?
+29 Ah! se este povo estivesse sob a minha mão, eu transtornaria a Abimeleque.{S} Eu lhe diria:{S} Multiplica o teu exército, e vem.
+30 Quando Zebul, o governador da cidade, ouviu as palavras de 
+is_father( Ebede,Gaal).
+is_pessoa(Gaal).
+is_pessoa( Ebede).
+, acendeu-se em ira.
+31 E enviou secretamente mensageiros a Abimeleque, para lhe dizerem:{S} Eis que 
+is_father( Ebede,Gaal).
+is_pessoa(Gaal).
+is_pessoa( Ebede).
+, e seus irmãos vieram a Siquém, e estão sublevando a cidade contra ti.
+32 Levanta-te, pois, de noite, tu e o povo que tiveres contigo, e põe-te de emboscada no campo.
+33 E pela manhã, ao nascer do sol, levanta-te, e dá de golpe sobre a cidade;{S} e, saindo contra ti Gaal e o povo que tiver com ele, faze-lhe como te permitirem as circunstâncias.
+34 Levantou-se, pois, de noite Abimeleque, e todo o povo que com ele havia, e puseram emboscadas a Siquém, em quatro bandos.
+35 E 
+is_father( Ebede,Gaal).
+is_pessoa(Gaal).
+is_pessoa( Ebede).
+, saiu e pôs-se à entrada da porta da cidade;{S} e das emboscadas se levantou Abimeleque, e todo o povo que estava com ele.
+36 Quando Gaal viu aquele povo, disse a Zebul:{S} Eis que desce gente dos cumes dos montes.{S} Respondeu-lhe Zebul:{S} Tu vês as sombras dos montes como se fossem homens.
+37 Gaal, porém, tornou a falar, e disse:{S} Eis que desce gente do meio da terra;{S} também vem uma tropa do caminho do carvalho de Meonenim.
+38 Então lhe disse<PESSOA> Zebul</PESSOA>:{S} Onde está agora a tua boca, com a qual dizias:{S} Quem é<PESSOA> Abimeleque</PESSOA>, para que o sirvamos?{S} Não é esse, porventura, o povo que desprezaste.{S} Sai agora e peleja contra ele!
+39 Assim saiu Gaal, à frente dos cidadãos de Siquém, e pelejou contra Abimeleque.
+40 Mas Abimeleque o perseguiu, pois Gaal fugiu diante dele, e muitos caíram feridos até a entrada da porta.
+41 Abimeleque ficou em<LOCAL> Arumá</LOCAL>.{S} E Zebul expulsou Gaal e seus irmãos, para que não habitassem em<LOCAL> Siquém</LOCAL>.
+42 No dia seguinte sucedeu que o povo saiu ao campo;{S} disto foi avisado Abimeleque,
+43 o qual, tomando o seu povo, dividiu-o em três bandos, que pôs de emboscada no campo.{S} Quando viu que o povo saía da cidade, levantou-se contra ele e o feriu.
+44 Abimeleque e os que estavam com ele correram e se puseram à porta da cidade;{S} e os outros dois bandos deram de improviso sobre todos quantos estavam no campo, e os feriram.
+45 Abimeleque pelejou contra a cidade todo aquele dia, tomou-a e matou o povo que nela se achava;{S} e, assolando-a, a semeou de sal.
+46 Tendo ouvido isso todos os cidadãos de Migdol-Siquém, entraram na fortaleza, na casa de El-Berite.
+47 E contou-se a Abimeleque que todos os cidadãos de Migdol-Siquém se haviam congregado.
+48 Então Abimeleque subiu ao monte Zalmom, ele e todo o povo que com ele havia;{S} e, tomando na mão um machado, cortou um ramo de árvore e, levantando-o, pô-lo ao seu ombro, e disse ao povo que estava com ele:{S} O que me vistes fazer, apressai-vos a fazê-lo também.
+49 Tendo, pois, cada um cortado o seu ramo, seguiram a Abimeleque;{S} e, pondo os ramos junto da fortaleza, queimaram-na a fogo com os que nela estavam;{S} de modo que morreram também todos os de Migdol-Siquém, cerca de mil homens e mulheres.
+50 Então Abimeleque foi a Tebez, e a sitiou e tomou.
+51 Havia, porém, no meio da cidade uma torre forte, na qual se refugiaram todos os habitantes da cidade, homens e mulheres;{S} e fechando após si as portas, subiram ao eirado da torre.
+52 E Abimeleque, tendo chegado até a torre, atacou-a, e chegou-se à porta da torre, para lhe meter fogo.
+53 em isso uma mulher lançou a pedra superior de um moinho sobre a cabeça de Abimeleque, e quebrou-lhe o crânio.
+54 Então ele chamou depressa o moço, seu escudeiro, e disse-lhe:{S} Desembainha a tua espada e mata-me, para que não se diga de mim: uma mulher o matou.{S} E o moço o traspassou e ele morreu.
+55 Vendo, pois, os homens de<PESSOA> Israel</PESSOA> que Abimeleque já era morto, foram-se cada um para o seu lugar.
+56 Assim Deus fez tornar sobre Abimeleque o mal que tinha feito a seu pai, matando seus setenta irmãos;{S}
+57 como também fez tornar sobre a cabeça dos homens de Siquém todo o mal que fizeram;{S} e veio sobre eles a maldição de 
+is_father( Jerubaal,Jotão).
+is_pessoa(Jotão).
+is_pessoa( Jerubaal).
+.

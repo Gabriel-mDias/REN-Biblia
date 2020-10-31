@@ -1,0 +1,15 @@
+is_pessoa(Peca).
+is_pessoa(Remalias).
+is_pessoa(Azarias).
+is_pessoa(Joanã).
+is_pessoa(Berequias).
+is_pessoa(Mesilemote).
+is_pessoa(Jeizquias).
+is_pessoa(Salum).
+is_pessoa(Amasa).
+is_pessoa(Hadlai).
+is_father(Remalias,Peca).
+is_father(Joanã,Azarias).
+is_father(Mesilemote,Berequias).
+is_father(Salum,Jeizquias).
+is_father(Hadlai,Amasa).

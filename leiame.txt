@@ -1,0 +1,26 @@
+========================Requisitos
+
+openjdk8 - Outras versões podem causar problemas. Para usar ela ao lado de uma versão mais recente, alterne com o comando $ sudo update-alternatives --config java
+Unitex/Gramlab - Disponível em https://unitexgramlab.org/pt (Versão utilizada no trabalho foi a 3.1)
+
+========================Alterações para cada ambiente
+
+Nos scripts 2-AplicaCascata.sh e 2-AplicaGrafo.sh, em suas primeiras linhas, estão algumas variáveis que recebem um endereço de acordo com a instalação do Unitex, adapte ao seus.
+
+
+========================Como usar
+
+Utilize o comando:
+
+    make grafo=*nome do grafo ou cascata*
+
+    Exemplo: 
+    make grafo=CascataNEs.csc       //Esse é o comando atual, considerando a cascata disponível
+
+A fim de obter os fatos do corpus da bíblia. O Resultado final está contido no arquivo fatos-biblia.pl.
+
+=========================Observações
+
+ - O tratamento com caracteres especiais está básico, apenas substituindo um acentuado pela sua versão sem acento. Isso pode gerar confusão, mas inicialmente não parece estar ocorrendo algo do tipo.
+
+ - A execução pode ser demorada, em algumas maquinas com baixos recursos, pode passar dos 10min. Esse problema é devido ao extenso conjunto de textos que é a Bíblia. 

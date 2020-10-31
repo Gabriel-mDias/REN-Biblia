@@ -1,0 +1,103 @@
+
+1 Ora, aproximando-se o dia da morte de<PESSOA> Davi</PESSOA>, deu ele ordem a Salomão, seu filho, dizendo:
+2 Eu vou pelo caminho de toda a terra;{S} sê forte, pois, e porta-te como homem.
+3 Guarda as ordenanças do <PESSOA>Senhor</PESSOA> teu<PESSOA> Deus</PESSOA>, andando nos seus caminhos, e observando os seus estatutos, os seus mandamentos, os seus preceitos e os seus testemunhos, como está escrito na lei de<PESSOA> Moisés</PESSOA>, para que prosperes em tudo quanto fizeres e por onde quer que fores,
+4 e para que o <PESSOA>Senhor</PESSOA> confirme a palavra que falou acerca de mim, dizendo:{S} Se teus filhos guardarem os seus caminhos, andando perante a minha face fielmente, com todo o seu coração e com toda a sua alma, nunca te faltará sucessor ao trono de<PESSOA> Israel</PESSOA>.
+5 Tu sabes também o que me fez 
+is_father( Zeruia,Joabe).
+is_pessoa(Joabe).
+is_pessoa( Zeruia).
+, a saber, o que fez aos dois chefes do exército de<PESSOA> Israel</PESSOA>, a 
+is_father( Ner,Abner).
+is_pessoa(Abner).
+is_pessoa( Ner).
+, e a 
+is_father( Jeter,Amasa).
+is_pessoa(Amasa).
+is_pessoa( Jeter).
+, os quais ele matou, e em tempo de paz derramou o sangue de guerra, manchando com ele o cinto que tinha nos lombos, e os sapatos que trazia nos pés.
+6 Faze, pois, segundo a tua sabedoria, e não permitas que suas cãs desçam à sepultura em paz.
+7 Mas para com os filhos de Barzilai, o gileadita, usa de benevolência, e estejam eles entre os que comem à tua mesa;{S} porque assim se houveram comigo, quando eu fugia por causa de teu <PESSOA>irmão Absalão</PESSOA>.
+8 E eis que também contigo está 
+is_father( Gêra,Simei).
+is_pessoa(Simei).
+is_pessoa( Gêra).
+, benjamita, de Baurim, que me lançou atroz maldição, no dia em que eu ia a Maanaim;{S} porém ele saiu a encontrar-se comigo junto ao Jordão, e eu lhe jurei pelo <PESSOA>Senhor</PESSOA>, dizendo:{S} Não te matarei à espada.
+9 Agora, porém, não o tenhas por inocente;{S} pois és homem sábio, e bem saberás o que lhe hás de fazer;{S} farás com que as suas cãs desçam à sepultura com sangue.
+10 Depois Davi dormiu com seus pais, e foi sepultado na <LOCAL>cidade de Davi</LOCAL>.
+11 E foi o tempo que<PESSOA> Davi</PESSOA> reinou sobre<PESSOA> Israel</PESSOA> <VALOR>quarenta anos</VALOR>: <VALOR>sete anos</VALOR> reinou em<LOCAL> Hebrom</LOCAL>, e em<LOCAL> Jerusalém</LOCAL> reinou <VALOR>trinta e três anos</VALOR>.
+12<PESSOA> Salomão</PESSOA>, pois, assentou-se no trono de<PESSOA> Davi</PESSOA>, seu pai;{S} e o seu reino se fortificou sobremaneira.
+13 Então 
+is_father( Hagite,Adonias).
+is_pessoa(Adonias).
+is_pessoa( Hagite).
+, veio a Bate-Seba, mãe de<PESSOA> Salomão</PESSOA>;{S} e perguntou ela:{S} De paz é a tua vinda?{S} Respondeu ele:{S} É de paz.
+14 E acrescentou:{S} Uma palavra tenho que dizer-te.{S} Respondeu ela:{S} Fala.
+15 Disse, pois, ele:{S} Bem sabes que o reino era meu, e que todo o Israel tinha posto a vista em mim para que eu viesse a reinar;{S} contudo o reino se transferiu e veio a ser de meu irmão, porque foi feito seu pelo <PESSOA>Senhor</PESSOA>.
+16 Agora uma só coisa te peço;{S} não ma recuses.{S} Ela lhe disse:{S} Fala.
+17 E ele disse:{S} Peço-te que fales ao <PESSOA>rei Salomão</PESSOA> (porque ele não to recusará) , que me dê por mulher a Abisague, a sunamita.
+18 Respondeu Bate-Seba:{S} Pois bem;{S} eu falarei por ti ao rei.
+19 Foi, pois, Bate-Seba ter com o <PESSOA>rei Salomão</PESSOA>, para falar-lhe por Adonias.{S} E o rei se levantou a encontrar-se com ela, e se inclinou diante dela;{S} então, assentando-se no seu trono, mandou que pusessem um trono para a rainha-mãe;{S} e ela se assentou à sua direita.
+20 Então disse ela:{S} Só uma pequena coisa te peço;{S} não ma recuses.{S} Respondeu-lhe o rei:{S} Pede, minha mãe, porque não te recusarei.
+21 E ela disse:{S} Dê-se Abisague, a sunamita, por mulher a teu <PESSOA>irmão Adonias</PESSOA>.
+22 Então respondeu o <PESSOA>rei Salomão</PESSOA>, e disse a sua mãe:{S} E por que pedes Abisague, a sunamita, para Adonias?{S} Pede também para ele o reino (porque é meu irmão mais velho);{S} sim, para ele, e também para Abiatar, o sacerdote, e para 
+is_father( Zeruia,Joabe).
+is_pessoa(Joabe).
+is_pessoa( Zeruia).
+.
+23 E jurou o <PESSOA>rei Salomão</PESSOA> pelo <PESSOA>Senhor</PESSOA>, dizendo:{S} Assim Deus me faça, e outro tanto, se não falou Adonias esta palavra contra a sua vida.
+24 Agora, pois, vive o <PESSOA>Senhor</PESSOA>, que me confirmou e me fez assentar no trono de<PESSOA> Davi</PESSOA>, meu pai, e que me estabeleceu casa, como tinha dito, que hoje será morto Adonias.
+25 E o <PESSOA>rei Salomão</PESSOA> deu ordem a 
+is_father( Jeoiada,Benaías).
+is_pessoa(Benaías).
+is_pessoa( Jeoiada).
+, o qual feriu a Adonias, de modo que morreu.
+26 Também a Abiatar, o sacerdote, disse o rei:{S} Vai para Anatote, para os teus campos, porque és homem digno de morte;{S} porém hoje não te matarei, porquanto levaste a arca do <PESSOA>Senhor Deus</PESSOA> diante de<PESSOA> Davi</PESSOA>, meu pai, e porquanto participaste de todas as aflições de meu pai.
+27<PESSOA> Salomão</PESSOA>, pois, expulsou Abiatar, para que não fosse sacerdote do <PESSOA>Senhor</PESSOA>, assim cumprindo a palavra que o <PESSOA>Senhor</PESSOA> tinha dito acerca da casa de Eli em<LOCAL> Siló</LOCAL>.
+28 Ora, veio esta notícia a Joabe (pois Joabe se desviara após Adonias, ainda que não se tinha desviado após Absalão) ;{S} pelo que Joabe fugiu para o tabernáculo do <PESSOA>Senhor</PESSOA>, e apegou-se as pontas do altar.
+29 E disseram ao <PESSOA>rei Salomão</PESSOA>:{S} Joabe fugiu para o tabernáculo do <PESSOA>Senhor</PESSOA>;{S} e eis que está junto ao altar.{S} Então Salomão enviou 
+is_father( Jeoiada,Benaías).
+is_pessoa(Benaías).
+is_pessoa( Jeoiada).
+, dizendo:{S} Vai, mata-o.
+30 Foi, pois, Benaías ao tabernáculo do <PESSOA>Senhor</PESSOA>, e disse a Joabe:{S} Assim diz o rei:{S} Sai daí.{S} Respondeu Joabe:{S} Não! porém aqui morrerei.{S} E Benaías tornou com a resposta ao rei, dizendo:{S} Assim falou Joabe, e assim me respondeu.
+31 Ao que lhe disse o rei:{S} Faze como ele disse;{S} mata-o, e sepulta-o, para que tires de sobre mim e de sobre a casa de meu pai o sangue que Joabe sem causa derramou.
+32 Assim o <PESSOA>Senhor</PESSOA> fará recair o sangue dele sobre a sua cabeça, porque deu sobre dois homens mais justos e melhores do que ele, e os matou à espada, sem que meu <PESSOA>pai Davi</PESSOA> o soubesse, a saber: a 
+is_father( Ner,Abner).
+is_pessoa(Abner).
+is_pessoa( Ner).
+, chefe do exército de<PESSOA> Israel</PESSOA>, e a 
+is_father( Jeter,Amasa).
+is_pessoa(Amasa).
+is_pessoa( Jeter).
+, chefe do exército de<PESSOA> Judá</PESSOA>.
+33 Assim recairá o sangue destes sobre a cabeça de Joabe e sobre a cabeça da sua descendência para sempre;{S} mas a Davi, e à sua descendência, e à sua casa, e ao seu trono, o <PESSOA>Senhor</PESSOA> dará paz para sempre.
+34 Então 
+is_father( Jeoiada,Benaías).
+is_pessoa(Benaías).
+is_pessoa( Jeoiada).
+, subiu e, arremetendo contra Joabe, o matou.{S} E foi sepultado em sua casa, no deserto.
+35 Em lugar dele o rei pôs a 
+is_father( Jeoiada,Benaías).
+is_pessoa(Benaías).
+is_pessoa( Jeoiada).
+, sobre o exército;{S} e a Zadoque, o sacerdote, pôs em lugar de Abiatar.
+36 Depois o rei mandou chamar a Simei e lhe disse:{S} Edifica para ti uma casa em<LOCAL> Jerusalém</LOCAL>, habita aí, e daí não saias, nem para uma nem para outra parte.
+37 E fica sabendo que, no dia em que saíres e passares o ribeiro de Cedrom, de certo hás de morrer.{S} O teu sangue será sobre a tua cabeça.
+38 Respondeu Simei ao rei:{S} Boa é essa palavra;{S} como tem dito o rei meu senhor, assim fará o teu servo.{S} E Simei habitou em<LOCAL> Jerusalém</LOCAL> muitos dias.
+39 Sucedeu porém que, ao cabo de <VALOR>três anos</VALOR>, dois servos de Simei fugiram para 
+is_father( Maacá,Aquis).
+is_pessoa(Aquis).
+is_pessoa( Maacá).
+, rei de Gate.{S} E deram parte a Simei, dizendo:{S} Eis que teus servos estão em<LOCAL> Gate</LOCAL>.
+40 Então Simei se levantou, albardou o seu jumento e foi a Gate ter com Aquis, em busca dos seus servos;{S} assim foi Simei, e os trouxe de Gate.
+41 Disseram a Salomão que Simei fora de<PESSOA> Jerusalém</PESSOA> a Gate, e já havia voltado.
+42 Então o rei mandou chamar a Simei e lhe disse:{S} Não te conjurei pelo <PESSOA>Senhor</PESSOA> e não te protestei, dizendo:{S} No dia em que saíres para qualquer parte, sabe de certo que hás de morrer?{S} E tu me disseste:{S} Boa é essa palavra que ouvi.
+43 Por que, então, não guardaste o juramento do <PESSOA>Senhor</PESSOA>, e a ordem que te dei?
+44 Disse-lhe mais:{S} Bem sabes tu, e o teu coração reconhece toda a maldade que fizeste a Davi, meu pai;{S} pelo que o <PESSOA>Senhor</PESSOA> fará recair a tua maldade sobre a tua cabeça.
+45 Mas o <PESSOA>rei Salomão</PESSOA> será abençoado, e o trono de<PESSOA> Davi</PESSOA> será confirmado perante o <PESSOA>Senhor</PESSOA> para sempre:
+46 E o rei deu ordem a 
+is_father( Jeoiada,Benaías).
+is_pessoa(Benaías).
+is_pessoa( Jeoiada).
+, o qual saiu, e feriu a Simei, de modo que morreu.{S} Assim foi confirmado o reino na mão de<PESSOA> Salomão</PESSOA>.

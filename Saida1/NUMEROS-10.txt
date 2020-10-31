@@ -1,0 +1,89 @@
+
+1 Disse mais o <PESSOA>Senhor</PESSOA> a Moisés:
+2 Faze-te duas trombetas de prata;{S} de obra batida as farás, e elas te servirão para convocares a congregação, e para ordenares a partida dos arraiais.
+3 Quando se tocarem as trombetas, toda a congregação se ajuntará a ti à porta da tenda da revelação.
+4 Mas quando se tocar uma só, a ti se congregarão os príncipes, os cabeças dos milhares de<PESSOA> Israel</PESSOA>.
+5 Quando se tocar retinindo, partirão os arraiais que estão acampados da banda do oriente.
+6 Mas quando se tocar retinindo, pela segunda, vez, partirão os arraiais que estão acampados da banda do sul;{S} para as partidas dos arraiais se tocará retinindo.
+7 Mas quando se houver de reunir a congregação, tocar-se-á sem retinir:
+<VALOR>8</VALOR> Os filhos de<PESSOA> Arão</PESSOA>, sacerdotes, tocarão as trombetas;{S} e isto vos será por estatuto perpétuo nas vossas gerações.
+9 Ora, quando na vossa terra sairdes à guerra contra o inimigo que vos estiver oprimindo, fareis retinir as trombetas;{S} e perante o <PESSOA>Senhor</PESSOA> vosso<PESSOA> Deus</PESSOA> sereis tidos em memória, e sereis salvos dos vossos inimigos.
+10 Semelhantemente, no dia da vossa alegria, nas vossas festas fixas, e nos princípios dos vossos meses, tocareis as trombetas sobre os vossos holocaustos, e sobre os sacrifícios de vossas ofertas pacíficas;{S} e eles vos serão por memorial perante vosso<PESSOA> Deus</PESSOA>.{S} Eu sou o <PESSOA>Senhor</PESSOA> vosso<PESSOA> Deus</PESSOA>.
+11 Ora, aconteceu, no segundo ano, no segundo mês, aos vinte do mês, que a nuvem se alçou de sobre o tabernáculo da congregação.
+12 Partiram, pois, os filhos de<PESSOA> Israel</PESSOA> do deserto de<PESSOA> Sinai</PESSOA> para as suas jornadas;{S} e a nuvem parou ,no deserto de Parã.
+13 Assim iniciaram a primeira caminhada, à ordem do <PESSOA>Senhor</PESSOA> por intermédio de Moisés:
+14 partiu primeiramente o estandarte do arraial dos filhos de<PESSOA> Judá</PESSOA> segundo os seus exércitos;{S} sobre o seu exército estava 
+is_father( Aminadabe,Nasom).
+is_pessoa(Nasom).
+is_pessoa( Aminadabe).
+;{S}
+15 sobre o exército da tribo dos filhos de Issacar, 
+is_father( Zuar,Netanel).
+is_pessoa(Netanel).
+is_pessoa( Zuar).
+;{S}
+16 e sobre o exército da tribo dos filhos de Zebulom, 
+is_father( Helom,Eliabe).
+is_pessoa(Eliabe).
+is_pessoa( Helom).
+.
+17 Então o tabernáculo foi desarmado, e os filhos de<PESSOA> Gérson</PESSOA> e os filhos de Merári partiram, levando o tabernáculo.
+18 Depois partiu o estandarte do arraial de Rúben segundo os seus exércitos;{S} sobre o seu exército estava 
+is_father( Sedeur,Elizur).
+is_pessoa(Elizur).
+is_pessoa( Sedeur).
+;{S}
+19 sobre o exército da tribo dos filhos de<PESSOA> Simeão</PESSOA>,
+is_father( Zurisadai,  Selumiel ).
+is_pessoa(  Selumiel ).
+is_pessoa( Zurisadai).
+;{S}
+20 e sobre o exército da tribo dos filhos de Gade, 
+is_father( Deuel,Eliasafe).
+is_pessoa(Eliasafe).
+is_pessoa( Deuel).
+.
+21 Então partiram os coatitas, levando o santuário;{S} e os outros erigiam o tabernáculo, enquanto estes vinham.
+22 Depois partiu o estandarte do arraial dos filhos de Efraim segundo os seus exércitos;{S} sobre o seu exército estava 
+is_father( Amiúde,Elisama).
+is_pessoa(Elisama).
+is_pessoa( Amiúde).
+;{S}
+23 sobre o exército da tribo dos filhos de Manassés, 
+is_father( Pedazur,Gamaliel).
+is_pessoa(Gamaliel).
+is_pessoa( Pedazur).
+;{S}
+24 e sobre o exército da tribo dos filhos de Benjamim, 
+is_father( Gideôni,Abidã).
+is_pessoa(Abidã).
+is_pessoa( Gideôni).
+.
+25 Então partiu o estandarte do arraial dos filhos de Dã, que era a retaguarda de todos os arraiais, segundo os seus exércitos;{S} sobre o seu exército estava 
+is_father( Amisadai,Aiezer).
+is_pessoa(Aiezer).
+is_pessoa( Amisadai).
+;{S}
+26 sobre o exército da tribo dos filhos de Aser, 
+is_father( Ocrã,Pagiel).
+is_pessoa(Pagiel).
+is_pessoa( Ocrã).
+;{S}
+27 e sobre o exército da tribo dos filhos de Naftali, 
+is_father( Enã,Airá).
+is_pessoa(Airá).
+is_pessoa( Enã).
+.
+28 Tal era a ordem de partida dos filhos de<PESSOA> Israel</PESSOA> segundo os seus exércitos, quando partiam.
+29 Disse então<PESSOA> Moisés</PESSOA> a 
+is_father( Reuel,Hobabe).
+is_pessoa(Hobabe).
+is_pessoa( Reuel).
+, o midianita, sogro de Moisés:{S} Nós caminhamos para aquele lugar de que o <PESSOA>Senhor</PESSOA> disse:{S} Vo-lo darei.{S} Vai conosco, e te faremos bem;{S} porque o <PESSOA>Senhor</PESSOA> falou bem acerca de<PESSOA> Israel</PESSOA>.
+30 Respondeu ele:{S} Não irei;{S} antes irei à minha terra e à minha parentela.
+31 Tornou-lhe Moisés:{S} Ora, não nos deixes, porquanto sabes onde devamos acampar no deserto;{S} de olhos nos serviras.
+32 Se, pois, vieres conosco, o bem que o <PESSOA>Senhor</PESSOA> nos fizer, também nós faremos a ti.
+33 Assim partiram do monte do <PESSOA>Senhor</PESSOA> caminho de três dias;{S} e a arca do pacto do <PESSOA>Senhor</PESSOA> ia adiante deles, para lhes buscar lugar de descanso.
+34 E a nuvem do <PESSOA>Senhor</PESSOA> ia sobre eles de dia, quando partiam do arraial.
+35 Quando, pois, a arca partia, dizia Moisés:{S} Levanta-te, <PESSOA>Senhor</PESSOA>, e dissipados sejam os teus inimigos, e fujam diante de ti os que te odeiam.
+36 E, quando ela pousava, dizia:{S} Volta, ó <PESSOA>Senhor</PESSOA>, para os muitos milhares de<PESSOA> Israel</PESSOA>.

@@ -1,0 +1,48 @@
+
+1 Estas são as nações que o <PESSOA>Senhor</PESSOA> deixou ficar para, por meio delas, provar a Israel, a todos os que não haviam experimentado nenhuma das guerras de<PESSOA> Canaã</PESSOA>;{S}
+2 tão-somente para que as gerações dos filhos de<PESSOA> Israel</PESSOA> delas aprendessem a guerra, pelo menos os que dantes não tinham aprendido.
+3 Estas nações eram: cinco chefes dos filisteus, todos os cananeus, os sidônios, e os heveus que habitavam no monte<PESSOA> Líbano</PESSOA>, desde o monte Baal-Hermom até a entrada de Hamate.
+<VALOR>4</VALOR> Estes, pois, deixou ficar, a fim de por eles provar os filhos de<PESSOA> Israel</PESSOA>, para saber se dariam ouvidos aos mandamentos do <PESSOA>Senhor</PESSOA>, que ele tinha ordenado a seus pais por intermédio de<PESSOA> Moisés</PESSOA>.
+5 Habitando, pois, os filhos de<PESSOA> Israel</PESSOA> entre os cananeus, os heteus, os amorreus, os perizeus, os heveus e os jebuseus.
+6 tomaram por mulheres as filhas deles, e deram as suas filhas aos filhos dos mesmos, e serviram aos seus deuses.
+7 Assim os filhos de<PESSOA> Israel</PESSOA> fizeram o que era mau aos olhos do <PESSOA>Senhor</PESSOA>, esquecendo-se do <PESSOA>Senhor</PESSOA> seu<PESSOA> Deus</PESSOA> e servindo aos baalins e às aserotes.
+8 Pelo que a ira do <PESSOA>Senhor</PESSOA> se acendeu contra<PESSOA> Israel</PESSOA>, e ele os vendeu na mão de Cusã-Risataim, rei da<ORGANIZACAO> Mesopotâmia</ORGANIZACAO>;{S} e os filhos de<PESSOA> Israel</PESSOA> serviram a Cusã-Risataim <VALOR>oito anos</VALOR>.
+9 Mas quando os filhos de<PESSOA> Israel</PESSOA> clamaram ao <PESSOA>Senhor</PESSOA>, o <PESSOA>Senhor</PESSOA> suscitou-lhes um libertador, que os livrou:{S} 
+is_father( Quenaz,Otniel).
+is_pessoa(Otniel).
+is_pessoa( Quenaz).
+, o irmão mais moço de Calebe.
+10 Veio sobre ele o Espírito do <PESSOA>Senhor</PESSOA>, e ele julgou a Israel;{S} saiu à peleja, e o <PESSOA>Senhor</PESSOA> lhe entregou Cusã-Risataim, rei da<ORGANIZACAO> Mesopotâmia</ORGANIZACAO>, contra o qual prevaleceu a sua mão:
+11 Então a terra teve sossego por <VALOR>quarenta anos</VALOR>;{S} e 
+is_father( Quenaz,Otniel).
+is_pessoa(Otniel).
+is_pessoa( Quenaz).
+, morreu.
+<VALOR>12</VALOR> Os filhos de<PESSOA> Israel</PESSOA> tornaram a fazer o que era mau aos olhos do <PESSOA>Senhor</PESSOA>;{S} então o <PESSOA>Senhor</PESSOA> fortaleceu a Eglom, rei de Moabe, contra<PESSOA> Israel</PESSOA>, por terem feito o que era mau aos seus olhos.
+13 Eglom, unindo a si os amonitas e os amalequitas, foi e feriu a Israel, tomando a cidade das palmeiras.
+14 E os filhos de<PESSOA> Israel</PESSOA> serviram a Eglom, rei de Moabe, <VALOR>dezoito anos</VALOR>.
+15 Mas quando os filhos de<PESSOA> Israel</PESSOA> clamaram ao <PESSOA>Senhor</PESSOA>, o <PESSOA>Senhor</PESSOA> suscitou-lhes um libertador, 
+is_father( Gêra,Eúde).
+is_pessoa(Eúde).
+is_pessoa( Gêra).
+, benjamita, homem canhoto.{S} E, por seu intermédio, os filhos de<PESSOA> Israel</PESSOA> enviaram tributo a Eglom, rei de Moabe.
+16 E Eúde fez para si uma espada de dois gumes, de um côvado de comprimento, e cingiu-a à coxa direita, por baixo das vestes.
+17 E levou aquele tributo a Eglom, rei de Moabe.{S} Ora, Eglom era muito gordo:
+18 Quando Eúde acabou de entregar o tributo, despediu a gente que o trouxera.
+19 Ele mesmo, porém, voltou das imagens de escultura que estavam ao pé de Gilgal, e disse:{S} Tenho uma palavra para dizer-te em segredo, ó rei.{S} Disse o rei:{S} Silêncio!{S} E todos os que lhe assistiam saíram da sua presença.
+20 Eúde aproximou-se do rei, que estava sentado a sós no seu quarto de verão, e lhe disse:{S} Tenho uma palavra da parte de<PESSOA> Deus</PESSOA> para dizer-te.{S} Ao que o rei se levantou da sua cadeira.
+21 Então Eúde, estendendo a mão esquerda, tirou a espada de sobre a coxa direita, e lha cravou no ventre.
+22 O cabo também entrou após a lâmina, e a gordura encerrou a lâmina, pois ele não tirou a espada do ventre:
+23 Então Eúde, saindo ao pórtico, cerrou as portas do quarto e as trancou.
+24 Tendo ele saído vieram os servos do rei;{S} e olharam, e eis que as portas do quarto estavam trancadas.{S} Disseram:{S} Sem dúvida ele está aliviando o ventre na privada do seu quarto.
+25 Assim esperaram até ficarem alarmados, mas ainda não abria as portas do quarto.{S} Então, tomando a chave, abriram-nas, e eis seu senhor estendido morto por terra.
+26 Eúde escapou enquanto eles se demoravam e, tendo passado pelas imagens de escultura, chegou a Seirá.
+27 E assim que chegou, tocou a trombeta na região montanhosa de Efraim;{S} e os filhos de<PESSOA> Israel</PESSOA>, com ele à frente, desceram das montanhas.
+28 E disse-lhes:{S} Segui-me, porque o <PESSOA>Senhor</PESSOA> vos entregou nas mãos os vossos inimigos, os moabitas.{S} E desceram após ele, tomaram os vaus do<PESSOA> Jordão</PESSOA> contra os moabitas, e não deixaram passar a nenhum deles.
+29 E naquela ocasião mataram dos moabitas cerca de dez mil homens, todos robustos e valentes;{S} e não escapou nenhum.
+30 Assim foi subjugado Moabe naquele dia debaixo da mão de<PESSOA> Israel</PESSOA>;{S} e a terra teve sossego por <VALOR>oitenta anos</VALOR>.
+31 Depois dele levantou-se 
+is_father( Anate,Sangar).
+is_pessoa(Sangar).
+is_pessoa( Anate).
+, que matou seiscentos homens dos filisteus com uma aguilhada de bois;{S} ele também libertou a Israel.

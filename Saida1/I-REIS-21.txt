@@ -1,0 +1,38 @@
+
+1 Sucedeu depois destas coisas que, tendo Nabote, o jizreelita, uma vinha em<LOCAL> Jizrreel</LOCAL>, junto ao palácio de Acabe, rei de Samária,
+2 falou este a Nabote, dizendo:{S} Dá-me a tua vinha, para que me sirva de horta, porque está vizinha, ao pé da minha casa;{S} e te darei por ela outra vinha melhor;{S} ou, se desejares, dar-te-ei o seu valor em dinheiro.
+3 Respondeu, porém, Nabote a Acabe:{S} Guarde-me o <PESSOA>Senhor</PESSOA> de que eu te dê a herança de meus pais.
+4 Então Acabe veio para sua casa, desgostoso e indignado, por causa da palavra que Nabote, o jizreelita, lhe falara;{S} pois este lhe dissera:{S} Não te darei a herança de meus pais.{S} Tendo-se deitado na sua cama, virou a rosto, e não quis comer.
+5 Mas, vindo a ele Jezabel, sua mulher, lhe disse:{S} Por que está o teu espírito tão desgostoso que não queres comer?
+6 Ele lhe respondeu:{S} Porque falei a Nabote, o jizreelita, e lhe disse:{S} Dá-me a tua vinha por dinheiro;{S} ou, se te apraz, te darei outra vinha em seu lugar.{S} Ele, porém, disse:{S} Não te darei a minha vinha.
+7 Ao que Jezabel, sua mulher, lhe disse:{S} Governas tu agora no reino de Israel?{S} Levanta-te, come, e alegre-se o teu coração;{S} eu te darei a vinha de Nabote, o jizreelita.
+8 Então escreveu cartas em nome de Acabe e, selando-as com o sinete dele, mandou-as aos anciãos e aos nobres que habitavam com Nabote na sua cidade.
+9 Assim escreveu nas cartas:{S} Apregoai um jejum, e ponde Nabote diante do povo.
+10 E ponde defronte dele dois homens, filhos de Belial, que testemunhem contra ele, dizendo:{S} Blasfemaste contra<PESSOA> Deus</PESSOA> e contra o rei.{S} Depois conduzi-o para fora, e apedrejai-o até que morra.
+11 Pelo que os homens da cidade dele, isto é, os anciãos e os nobres que habitavam na sua cidade, fizeram como Jezabel lhes ordenara, conforme estava escrito nas cartas que ela lhes mandara.
+12 Apregoaram um jejum, e puseram Nabote diante do povo.
+13 Também vieram dois homens, filhos de Belial, e sentaram-se defronte dele;{S} e estes filhos de Belial testemunharam contra Nabote perante o povo, dizendo:{S} Nabote blasfemou contra<PESSOA> Deus</PESSOA> e contra o rei.{S} Então o conduziram para fora da cidade e o apedrejaram, de sorte que morreu.
+14 Depois mandaram dizer a Jezabel :{S} Nabote foi apedrejado e morreu.
+15 Ora, ouvindo Jezabel que Nabote fora apedrejado e morrera, disse a Acabe:{S} Levanta-te e toma posse da vinha de Nabote, e jizreelita, a qual ele recusou dar-te por dinheiro;{S} porque Nabote já não vive, mas é morto.
+16 Quando Acabe ouviu que Nabote já era morto, levantou-se para descer à vinha de Nabote, o jizreelita, a fim de tomar posse dela.
+17 Então veio a palavra do <PESSOA>Senhor</PESSOA> a Elias, o tisbita, dizendo:
+18 Levanta-te, desce para encontrar-te com Acabe, rei de<PESSOA> Israel</PESSOA>, que está em<LOCAL> Samária</LOCAL>.{S} Eis que está na vinha de Nabote, aonde desceu a fim de tomar posse dela.
+19 E falar-lhe-ás, dizendo:{S} Assim diz o <PESSOA>Senhor</PESSOA>:{S} Porventura não mataste e tomaste a herança?{S} Falar-lhe-ás mais, dizendo:{S} Assim diz o <PESSOA>Senhor</PESSOA>:{S} No lugar em que os cães lamberam o sangue de Nabote, lamberão também o teu próprio sangue.
+20 Ao que disse<PESSOA> Acabe</PESSOA> a Elias:{S} Já me achaste, ó inimigo meu?{S} Respondeu ele:{S} Achei-te;{S} porque te vendeste para fazeres o que é mau aos olhos do <PESSOA>Senhor</PESSOA>.
+21 Eis que trarei o mal sobre ti;{S} lançarei fora a tua posteridade, e arrancarei de Acabe todo homem, escravo ou livre, em<LOCAL> Israel</LOCAL>;{S}
+22 e farei a tua casa como a casa de 
+is_father( Nebate,Jeroboão).
+is_pessoa(Jeroboão).
+is_pessoa( Nebate).
+, e como a casa de 
+is_father( Aías,Baasa).
+is_pessoa(Baasa).
+is_pessoa( Aías).
+, por causa da provocação com que me provocaste à ira, fazendo<PESSOA> Israel</PESSOA> pecar.
+23 Também acerca de Jezabel falou o <PESSOA>Senhor</PESSOA>, dizendo:{S} Os cães comerão Jezabel junto ao antemuro de Jizreel.
+24 Quem morrer a Acabe na cidade, os cães o comerão;{S} e o que lhe morrer no campo, as aves do céu o comerão.
+25 (Não houve, porém, ninguém como Acabe, que se vendeu para fazer o que era mau aos olhos do <PESSOA>Senhor</PESSOA>, sendo instigado por Jezabel, sua mulher.
+26 E fez grandes abominações, seguindo os ídolos, conforme tudo o que fizeram os amorreus, os quais o <PESSOA>Senhor</PESSOA> lançou fora da sua possessão, de diante dos filhos de<PESSOA> Israel</PESSOA>.)
+27 Sucedeu, pois, que Acabe, ouvindo estas palavras, rasgou as suas vestes, cobriu de saco a sua carne, e jejuou;{S} e jazia em saco, e andava humildemente.
+28 Então veio a palavra do <PESSOA>Senhor</PESSOA> a Elias, o tisbita, dizendo:
+29 Não viste que Acabe se humilha perante mim?{S} Por isso, porquanto se humilha perante mim, não trarei o mal enquanto ele viver, mas nos dias de seu filho trarei o mal sobre a sua casa.

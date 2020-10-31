@@ -1,0 +1,41 @@
+
+1 No princípio do reino de 
+is_father( Josias,Jeoiaquim).
+is_pessoa(Jeoiaquim).
+is_pessoa( Josias).
+, rei de<PESSOA> Judá</PESSOA>, veio da parte do <PESSOA>Senhor</PESSOA> esta palavra, dizendo:
+2 Assim diz o <PESSOA>Senhor</PESSOA>:{S} Põe-te no átrio da casa do <PESSOA>Senhor</PESSOA> e dize a todas as cidades de<PESSOA> Judá</PESSOA> que vêm adorar na casa do <PESSOA>Senhor</PESSOA>, todas as palavras que te mando que lhes fales;{S} não omitas uma só palavra.
+3 Bem pode ser que ouçam, e se convertam cada um do seu mau caminho, para que eu desista do mal que intento fazer-lhes por causa da maldade das suas ações.
+4 Dize-lhes pois:{S} Assim diz o <PESSOA>Senhor</PESSOA>:{S} Se não me derdes ouvidos para andardes na minha lei, que pus diante de vós,
+5 e para ouvirdes as palavras dos meus servos, os profetas, que eu com insistência vos envio, mas não ouvistes;{S}
+6 então farei que esta casa seja como Siló, e farei desta cidade uma maldição para todas as nações da terra.
+7 E ouviram os sacerdotes, e os profetas, e todo o povo, a Jeremias, anunciando estas palavras na casa do <PESSOA>Senhor</PESSOA>.
+8 Tendo Jeremias acabado de dizer tudo quanto o <PESSOA>Senhor</PESSOA> lhe havia ordenado que dissesse a todo o povo, pegaram nele os sacerdotes, e os profetas, e todo o povo, dizendo:{S} Certamente morrerás.
+9 Por que profetizaste em nome do <PESSOA>Senhor</PESSOA>, dizendo:{S} Será como Siló esta casa, e esta cidade ficará assolada e desabitada?{S} E ajuntou-se todo o povo contra<PESSOA> Jeremias</PESSOA>, na casa do <PESSOA>Senhor</PESSOA>.
+10 Quando os príncipes de<PESSOA> Judá</PESSOA> ouviram estas coisas, subiram da casa do rei à casa do <PESSOA>Senhor</PESSOA>, e se assentaram à entrada da porta nova do <PESSOA>Senhor</PESSOA>.
+11 Então falaram os sacerdotes e os profetas aos príncipes e a todo povo, dizendo:{S} Este homem é réu de morte, porque profetizou contra esta cidade, como ouvistes com os vossos próprios ouvidos.
+12 E falou<PESSOA> Jeremias</PESSOA> a todos os príncipes e a todo o povo, dizendo:{S} O <PESSOA>Senhor</PESSOA> enviou-me a profetizar contra esta casa, e contra esta cidade, todas as palavras que ouvistes.
+13 Agora, pois, melhorai os vossos caminhos e as vossas ações, e ouvi a voz do <PESSOA>Senhor</PESSOA> vosso<PESSOA> Deus</PESSOA>, e o <PESSOA>Senhor</PESSOA> desistirá do mal que falou contra vós.
+14 Quanto a mim, eis que estou nas vossas mãos;{S} fazei de mim conforme o que for bom e reto aos vossos olhos.
+15 Sabei, porém, com certeza que, se me matardes a mim, trareis sangue inocente sobre vós, e sobre esta cidade, e sobre os seus habitantes;{S} porque, na verdade, o <PESSOA>Senhor</PESSOA> me enviou a vós, para dizer aos vossos ouvidos todas estas palavras.
+16 Então disseram os príncipes e todo o povo aos sacerdotes e aos profetas:{S} Este homem não é réu de morte, porque em nome do <PESSOA>Senhor</PESSOA>, nosso<PESSOA> Deus</PESSOA>, nos falou.
+17 Também se levantaram alguns dos anciãos da terra, e falaram a toda a assembléia do povo, dizendo:
+<VALOR>18</VALOR> Miquéias, o morastita, profetizou nos dias de Ezequias, rei de<PESSOA> Judá</PESSOA>, e falou a todo o povo de<PESSOA> Judá</PESSOA>, dizendo:{S} Assim diz o <PESSOA>Senhor</PESSOA> dos exércitos:{S} Sião será lavrada como um campo, e<PESSOA> Jerusalém</PESSOA> se tornará em montões de ruínas, e o monte desta casa como os altos de um bosque.
+19 Mataram-no, porventura, Ezequias, rei de<PESSOA> Judá</PESSOA>, e todo o Judá?{S} Antes não temeu este ao <PESSOA>Senhor</PESSOA>, e não implorou o favor do <PESSOA>Senhor</PESSOA>? e não se arrependeu o <PESSOA>Senhor</PESSOA> do mal que falara contra eles?{S} Mas nós estamos fazendo um grande mal contra as nossas almas.
+20 Também houve outro homem que profetizava em nome do <PESSOA>Senhor</PESSOA>:{S} 
+is_father( Semaías,Urias).
+is_pessoa(Urias).
+is_pessoa( Semaías).
+, de Quiriate-Jearim, o qual profetizou contra esta cidade, e contra esta terra, conforme todas as palavras de<PESSOA> Jeremias</PESSOA>;{S}
+21 e quando o <PESSOA>rei Jeoiaquim</PESSOA>, e todos os seus valentes, e todos os príncipes, ouviram as palavras dele, procurou o rei matá-lo;{S} mas quando<PESSOA> Urias</PESSOA> o ouviu, temeu, e fugiu, e foi para o Egito;{S}
+22 mas o <PESSOA>rei Jeoiaquim</PESSOA> enviou ao Egito certos homens;{S} 
+is_father( Acbor,Elnatã).
+is_pessoa(Elnatã).
+is_pessoa( Acbor).
+, e outros com ele,
+<VALOR>23</VALOR> os quais tiraram a <PESSOA>Urias do Egito</PESSOA>, e o trouxeram ao <PESSOA>rei Jeoiaquim</PESSOA>, que o matou à espada, e lançou o seu cadáver nas sepulturas da plebe.
+24 Porém 
+is_father( Safã,Aicão).
+is_pessoa(Aicão).
+is_pessoa( Safã).
+, deu apoio a Jeremias, de sorte que não foi entregue na mão do povo, para ser morto.

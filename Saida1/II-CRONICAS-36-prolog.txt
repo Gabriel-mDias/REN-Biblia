@@ -1,0 +1,3 @@
+is_pessoa(Jeoacaz).
+is_pessoa(Josias).
+is_father(Josias,Jeoacaz).

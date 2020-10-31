@@ -1,0 +1,6 @@
+is_pessoa(Saul).
+is_pessoa(Cis).
+is_pessoa(Davi).
+is_pessoa(Jessé).
+is_father(Cis,Saul).
+is_father(Jessé,Davi).

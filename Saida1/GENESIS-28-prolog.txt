@@ -1,0 +1,6 @@
+is_pessoa(Labão).
+is_pessoa(Betuel).
+is_pessoa(Ismael).
+is_pessoa(Abraão).
+is_father(Betuel,Labão).
+is_father(Abraão,Ismael).

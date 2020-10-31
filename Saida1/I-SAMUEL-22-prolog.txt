@@ -1,0 +1,9 @@
+is_pessoa(Aimeleque).
+is_pessoa(Aitube).
+is_pessoa(Ouve).
+is_pessoa(Aitube).
+is_pessoa(Aimeleque).
+is_pessoa(Aitube).
+is_father(Aitube,Aimeleque).
+is_father(Aitube,Ouve).
+is_father(Aitube,Aimeleque).

@@ -1,0 +1,12 @@
+is_pessoa(Jeoiaquim).
+is_pessoa(Josias).
+is_pessoa(Urias).
+is_pessoa(Semaías).
+is_pessoa(Elnatã).
+is_pessoa(Acbor).
+is_pessoa(Aicão).
+is_pessoa(Safã).
+is_father(Josias,Jeoiaquim).
+is_father(Semaías,Urias).
+is_father(Acbor,Elnatã).
+is_father(Safã,Aicão).

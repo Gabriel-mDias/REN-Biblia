@@ -1,0 +1,3 @@
+is_pessoa(Eleazar).
+is_pessoa(Arão).
+is_father(Arão,Eleazar).

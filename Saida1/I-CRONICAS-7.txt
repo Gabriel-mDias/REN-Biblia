@@ -1,0 +1,49 @@
+
+<VALOR>1</VALOR> Os filhos de Issacar foram:{S} Tola, Pua, Jasube e Sinrom, quatro.
+<VALOR>2</VALOR> Os filhos de Tola:{S} Uzi, Refaias, Jeriel, Jamai, lbsão e Semuel, chefes das suas casas paternas, da linhagem de Tola, homens valentes nas suas gerações;{S} o seu número nos dias de<PESSOA> Davi</PESSOA> foi de vinte e dois mil e seiscentos.
+<VALOR>3</VALOR> Os filhos de Uzi:{S} Izraías e mais os filhos de Izraías:{S} <PESSOA>Micael</PESSOA>,<PESSOA> Obadias</PESSOA>,<PESSOA> Joel</PESSOA> e<PESSOA> Issijá</PESSOA>, cinco, todos eles chefes.
+4 E houve com eles, nas suas gerações, segundo as suas casas paternas, em tropas de gente de guerra, trinta e seis mil;{S} pois tiveram muitas mulheres e filhos.
+5 E seus irmãos, em todas as famílias de Issacar, varões valentes, todos contados pelas suas genealogias, foram oitenta e sete mil.
+<VALOR>6</VALOR> Os filhos de Benjamim:{S} Beiá, Bequer e Jediael, três.
+<VALOR>7</VALOR> Os filhos de Belá:{S} Ezbom, Uzi, Uziel;{S} Jerimote e Iri, cinco chefes de casas paternas, homens valentes, os quais foram contados pelas suas genealogias vinte e dois:
+<VALOR>8</VALOR> Os filhos de Bequer:{S} Zemira, Joás, Eliézer, Elioenai, Onri, Jerimote, Abias, Anatote e Alemete;{S} todos estes foram filhos de Bequer.
+9 E foram contados pelas suas genealogias, segundo as suas gerações, chefes das suas casas paternas, homens valentes, vinte mil e duzentos.
+<VALOR>10</VALOR> Os filhos de Jediael:{S} Bilã, e mais os filhos de Bilã:{S} Jeús, Benjamim, Eúde, Quenaaná, Zetã, Társis e Aisaar.
+<VALOR>11</VALOR> Todos estes filhos de Jediael, segundo os chefes das casas paternas, homens valentes, foram dezessete mil e duzentos, que podiam sair no exército à peleja.
+12 E também Supim, e Hupim, os filhos de Ir, com Husim, o filho de Aer.
+<VALOR>13</VALOR> Os filhos de Naftali:{S} Jaziel, Guni, Jezer e salum, filho de Bila.
+<VALOR>14</VALOR> Os filhos de Manassés:{S} Asriel, que teve da sua mulher;{S} a sua concubina, a sira, teve a Maquir, pai de Gileade;{S}
+15 e Maquir tomou mulheres para Hupim e Supim;{S} a irmã dele se chamava<ABSTRACCAO> Maacar</ABSTRACCAO>.{S} Foi o nome do segundo Zelofeade;{S} e Zelofeade teve filhas.
+16 Maacá, mulher de Maquir, teve um filho, e chamou o seu nome<PESSOA> Peres</PESSOA>, e o nome de seu irmão foi Seres;{S} e foram seus filhos:{S} Ulão e Raquém.
+17 De Ulão foi <PESSOA>filho Beda</PESSOA>.{S} Esses foram os filhos de 
+is_father( Maquir,Gileade).
+is_pessoa(Gileade).
+is_pessoa( Maquir).
+, filho de Manassés.
+18 Sua <PESSOA>irmã Hamolequete</PESSOA> teve Isode, Abiezer e Maclá.
+19 E foram os filhos de Semida:{S} Aiã, Siquém, Líqui e Anião. que
+<VALOR>20</VALOR> Os filhos de Efraim:{S} Sutela, de quem foi <PESSOA>filho Berede</PESSOA>, de quem foi <PESSOA>filho Taate</PESSOA>, de quem foi <PESSOA>filho Eleadá</PESSOA>, de quem foi <PESSOA>filho Taate</PESSOA>,
+2l de quem foi <PESSOA>filho Zabade</PESSOA>, de quem foi <PESSOA>filho Sutela</PESSOA>;{S} e Ezer e Eleade, aos quais os homens de Tate, naturais da terra, mataram, por terem descido para tomar o seu gado.
+22 E Efraim, seu pai, os pranteou por muitos dias, pelo que seus irmãos vieram para o consolar.
+23 Depois juntou-se com sua mulher, e concebendo ela, teve um filho, ao qual ele deu o nome de Berias, porque as coisas iam mal na sua casa.
+24 Sua filha foi Seerá, que edificou a Bete-Horom, a baixa e a alta, como também a Uzem-Seerá.
+25 Foi seu <PESSOA>filho Refa</PESSOA>, como também Resefe, de quem foi <PESSOA>filho Tela</PESSOA>, de quem foi <PESSOA>filho Taã</PESSOA>,
+26 de quem foi <PESSOA>filho Ladã</PESSOA>, de quem foi <PESSOA>filho Amiúde</PESSOA>, de quem foi <PESSOA>filho Elisama</PESSOA>,
+27 de quem foi filho em um, de quem foi <PESSOA>filho Josué</PESSOA>:
+28 Ora, as suas possessões e as suas habitações foram Betel e suas aldeias, e ao oriente Naarã, e ao ocidente Gezer e suas aldeias, e Siquém e suas aldeias, até<LOCAL> Gaza</LOCAL> e suas aldeias;{S}
+29 e da banda dos filhos de Manassés, Bete-Seã e suas aldeias, Taanaque e suas aldeias, Megido e suas aldeias, e Dor e suas aldeias.{S} Nesses lugares habitaram os filhos de
+is_father(  Israel ,  José ).
+is_pessoa(  José ).
+is_pessoa(  Israel ).
+.
+<VALOR>30</VALOR> Os filhos de Aser:{S} Imná, Isvá, Isvi, Berias e Sera, irmã deles:
+<VALOR>31</VALOR> Os filhos de Berias:{S} Heber e Malquiel;{S} este foi o pai de Birzavite.
+32 Heber foi pai de Jaflete, Somer, Hotão e Suá, irmã deles.
+<VALOR>33</VALOR> Os filhos de Jaflete:{S} Pasaque, Bimal e Asvate;{S} esses foram os filhos de Jaflete.
+<VALOR>34</VALOR> Os filhos de Semer:{S} Aí, Roga, Jeubá e Arã:
+<VALOR>35</VALOR> Os filhos de seu <PESSOA>irmão Helem</PESSOA>:{S} Zofa, Imna, Seles e Amal.
+<VALOR>36</VALOR> Os filhos de Zofa:{S} Suá, Harnefer, Sual, Beri, Inra,
+37 Bezer, Hode, Samá, Silsa, Itrã e Beera.
+<VALOR>38</VALOR> Os filhos de Jeter:{S} Jefoné, Pispa e Ara.
+<VALOR>39</VALOR> Os filhos de Ula:{S} Ará, Haniel e Rízia.
+<VALOR>40</VALOR> Todos esses foram filhos de Aser, chefes das casas paternas, homens escolhidos e valentes, chefes dos príncipes;{S} e o número deles, contados segundo as suas genealogias para o serviço de guerra, foi vinte e seis mil homens.

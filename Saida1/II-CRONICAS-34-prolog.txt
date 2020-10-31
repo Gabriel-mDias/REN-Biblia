@@ -1,0 +1,15 @@
+is_pessoa(Safã).
+is_pessoa(Azalias).
+is_pessoa(Joá).
+is_pessoa(Joacaz).
+is_pessoa(Aicão).
+is_pessoa(Safã).
+is_pessoa(Abdom).
+is_pessoa(Mica).
+is_pessoa(Salum).
+is_pessoa(Tocate).
+is_father(Azalias,Safã).
+is_father(Joacaz,Joá).
+is_father(Safã,Aicão).
+is_father(Mica,Abdom).
+is_father(Tocate,Salum).

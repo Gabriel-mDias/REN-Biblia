@@ -1,0 +1,3 @@
+is_pessoa(Jeroboão).
+is_pessoa(Joás).
+is_father(Joás,Jeroboão).

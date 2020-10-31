@@ -1,0 +1,40 @@
+
+1 Ora, 
+is_father( Acabe,Jorão).
+is_pessoa(Jorão).
+is_pessoa( Acabe).
+, começou a reinar sobre<PESSOA> Israel</PESSOA>, em<LOCAL> Samária</LOCAL>, no décimo oitavo ano de Jeosafá, rei de<PESSOA> Judá</PESSOA>, e reinou <VALOR>doze anos</VALOR>.
+2 Fez o que era mau aos olhos do <PESSOA>Senhor</PESSOA>, porém não como seu pai, nem como sua mãe;{S} pois tirou a coluna de Baal que seu pai fizera.
+3 Contudo aderiu aos pecados de 
+is_father( Nebate,Jeroboão).
+is_pessoa(Jeroboão).
+is_pessoa( Nebate).
+, com que este fizera<PESSOA> Israel</PESSOA> pecar, e deles não se apartou.
+4 Ora, Messa, rei dos moabitas, era criador de ovelhas, e pagava de tributo ao rei de<PESSOA> Israel</PESSOA> cem mil cordeiros, e cem mil carneiros com a sua lã.
+5 Sucedeu, porém, que, morrendo Acabe, o rei dos moabitas se rebelou contra o rei de<PESSOA> Israel</PESSOA>.
+6 Por isso, nesse mesmo tempo Jorão saiu de Samária e fez revista de todo o Israel.
+7 E, pondo-se em marcha, mandou dizer a Jeosafá, rei de Judá:{S} O rei dos moabitas rebelou-se contra mim;{S} irás tu comigo a guerra contra os moabitas?{S} Respondeu ele:{S} Irei;{S} como tu és sou eu, o meu povo como o teu povo, e os meus cavalos como os teus cavalos.
+8 E perguntou:{S} Por que caminho subiremos?{S} Respondeu-lhe Jorão:{S} Pelo caminho do deserto de Edom.
+9 Partiram, pois, o rei de<PESSOA> Israel</PESSOA>, o rei de<PESSOA> Judá</PESSOA> e o rei de Edom;{S} e andaram rodeando durante sete dias;{S} e não havia água para o exército nem para o gado que os seguia.
+10 Disse então o rei de Israel:{S} Ah! o <PESSOA>Senhor</PESSOA> chamou estes três reis para entregá-los nas mãos dos moabitas.
+11 Perguntou, porém, Jeosafá:{S} Não há aqui algum profeta do <PESSOA>Senhor</PESSOA> por quem consultemos ao <PESSOA>Senhor</PESSOA>?{S} Então respondeu um dos servos do rei de<PESSOA> Israel</PESSOA>, e disse:{S} Aqui está
+is_father( Safate,  Eliseu ).
+is_pessoa(  Eliseu ).
+is_pessoa( Safate).
+, que deitava água sobre as mãos de<PESSOA> Elias</PESSOA>.
+12 Disse<PESSOA> Jeosafá</PESSOA>:{S} A palavra do <PESSOA>Senhor</PESSOA> está com ele.{S} Então o rei de<PESSOA> Israel</PESSOA>, e Jeosafá, e o rei de Edom desceram a ter com ele.
+13 <PESSOA>Eliseu</PESSOA> disse ao rei de Israel:{S} Que tenho eu contigo?{S} Vai ter com os profetas de teu pai, e com os profetas de tua mãe.{S} O rei de<PESSOA> Israel</PESSOA>, porém, lhe disse:{S} Não;{S} porque o <PESSOA>Senhor</PESSOA> chamou estes três reis para entregá-los nas mãos dos moabitas.
+14 Respondeu Eliseu:{S} Vive o <PESSOA>Senhor</PESSOA> dos exércitos, em cuja presença estou, que se eu não respeitasse a presença de Jeosafá, rei de<PESSOA> Judá</PESSOA>, não te contemplaria, nem te veria.
+15 Agora, contudo, trazei-me um harpista.{S} E sucedeu que, enquanto o harpista tocava, veio a mão do <PESSOA>Senhor</PESSOA> sobre<PESSOA> Eliseu</PESSOA>.
+16 E ele disse:{S} Assim diz o <PESSOA>Senhor</PESSOA>:{S} Fazei neste vale muitos poços.
+17 Porque assim diz o <PESSOA>Senhor</PESSOA>:{S} Não vereis vento, nem vereis chuva;{S} contudo este vale se encherá de água, e bebereis vós, os vossos servos e os vossos animais.
+18 E ainda isso é pouco aos olhos do <PESSOA>Senhor</PESSOA>;{S} também entregará ele os moabitas nas vossas mãos,
+19 e ferireis todas as cidades fortes e todas as cidades escolhidas, cortareis todas as boas árvores, tapareis todas as fontes dágua, e cobrireis de pedras todos os bons campos.
+20 E sucedeu que, pela manhã, à hora de se oferecer o sacrifício, eis que vinham as águas pelo caminho de Edom, e a terra se encheu dágua:
+21 Ouvindo, pois, todos os moabitas que os reis tinham subido para pelejarem contra eles, convocaram-se todos os que estavam em idade de pegar armas, e daí para cima, e puseram-se às fronteiras.
+22 Levantaram-se os moabitas de madrugada e, resplandecendo o sol sobre as águas, viram diante de si as águas vermelhas como sangue;{S}
+23 e disseram:{S} Isto é sangue;{S} certamente os reis pelejaram entre si e se mataram um ao outro!{S} Agora, pois, à presa, moabitas!
+24 Quando, porém, chegaram ao arraial de<PESSOA> Israel</PESSOA>, os israelitas se levantaram, e bateram os moabitas, os quais fugiram diante deles;{S} e ainda entraram na terra, ferindo ali também os moabitas.
+25 E arrasaram as cidades;{S} e cada um deles lançou pedras em todos os bons campos, entulhando-os;{S} taparam todas as fontes dágua, e cortaram todas as boas árvores;{S} somente a Quir-Haresete deixaram ficar as pedras;{S} contudo os fundeiros a cercaram e a feriram.
+26 Vendo o rei dos moabitas que a peleja prevalecia contra ele, tomou consigo setecentos homens que arrancavam da espada, para romperem contra o rei de Edom;{S} porém não puderam.
+27 Então tomou a seu filho primogênito, que havia de reinar em seu lugar, e o ofereceu em holocausto sobre o muro, pelo que houve grande indignação em<LOCAL> Israel</LOCAL>;{S} por isso retiraram-se dele, e voltaram para a sua terra.

@@ -1,0 +1,6 @@
+is_pessoa(Pasur).
+is_pessoa(Malquias).
+is_pessoa(Sofonias).
+is_pessoa(Maaséias).
+is_father(Malquias,Pasur).
+is_father(Maaséias,Sofonias).

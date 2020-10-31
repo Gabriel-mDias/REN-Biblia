@@ -1,0 +1,15 @@
+is_pessoa(rei Jeroboão).
+is_pessoa(Nebate).
+is_pessoa(Hadade).
+is_pessoa(Tabrimom).
+is_pessoa(Nadabe).
+is_pessoa(Jeroboão).
+is_pessoa(Baasa).
+is_pessoa(Aías).
+is_pessoa(Baasa).
+is_pessoa(Aías).
+is_father(Nebate,rei Jeroboão).
+is_father(Tabrimom,Hadade).
+is_father(Jeroboão,Nadabe).
+is_father(Aías,Baasa).
+is_father(Aías,Baasa).

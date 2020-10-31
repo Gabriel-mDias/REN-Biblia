@@ -1,0 +1,6 @@
+is_pessoa(Sobi).
+is_pessoa(Naás).
+is_pessoa(Maquir).
+is_pessoa(Amiel).
+is_father(Naás,Sobi).
+is_father(Amiel,Maquir).

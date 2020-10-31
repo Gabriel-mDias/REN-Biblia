@@ -1,0 +1,12 @@
+
+1 No primeiro ano de<PESSOA> Ciro</PESSOA>, rei da<ORGANIZACAO> Pérsia</ORGANIZACAO>, para que se cumprisse a palavra do <PESSOA>Senhor</PESSOA> proferida pela boca de<PESSOA> Jeremias</PESSOA>, despertou o <PESSOA>Senhor</PESSOA> o espírito de<PESSOA> Ciro</PESSOA>, rei da<ORGANIZACAO> Pérsia</ORGANIZACAO>, de modo que ele fez proclamar por todo o seu reino, de viva voz e também por escrito, este decreto:
+2 Assim diz<PESSOA> Ciro</PESSOA>, rei da<ORGANIZACAO> Pérsia</ORGANIZACAO>:{S} O <PESSOA>Senhor Deus</PESSOA> do céu me deu todos os reinos da terra, e me encarregou de lhe edificar uma casa em<LOCAL> Jerusalém</LOCAL>, que é em<LOCAL> Judá</LOCAL>.
+3 Quem há entre vós de todo o seu povo (seja seu<PESSOA> Deus</PESSOA> com ele) suba para<PESSOA> Jerusalém</PESSOA>, que é em<LOCAL> Judá</LOCAL>, e edifique a casa do <PESSOA>Senhor</PESSOA>,<PESSOA>  Deus de Israel </PESSOA>;{S} ele é o Deus que habita em<LOCAL> Jerusalém</LOCAL>.
+4 E todo remanescente, seja qual for o lugar em que é peregrino, seja ajudado pelos homens desse lugar com prata, com ouro, com bens e com animais, afora a oferta voluntária para a casa de<PESSOA> Deus</PESSOA>, que está em<LOCAL> Jerusalém</LOCAL>.
+5 Então se levantaram os chefes das casas paternas de<PESSOA> Judá</PESSOA> e<PESSOA> Benjamim</PESSOA> e os sacerdotes, e os levitas, todos aqueles cujo espírito<PESSOA> Deus</PESSOA> despertara, para subirem a edificar a casa do <PESSOA>Senhor</PESSOA>, que está em<LOCAL> Jerusalém</LOCAL>.
+6 E todos os seus vizinhos os ajudaram com utensílios de prata, com ouro, com bens, com animais e com coisas preciosas, afora tudo o que se ofereceu voluntariamente.
+7 Também o <PESSOA>rei Ciro</PESSOA> tirou os utensílios que pertenciam à casa do <PESSOA>Senhor</PESSOA> e que Nabucodonosor tinha trazido de<PESSOA> Jerusalém</PESSOA> e posto na casa de seus deuses.
+8<PESSOA> Ciro</PESSOA>, rei da<ORGANIZACAO> Pérsia</ORGANIZACAO>, tirou-os pela mão de Mitredate, o tesoureiro, que os entregou contados a Sesbazar, príncipe de<PESSOA> Judá</PESSOA>.
+9 Este é o número deles:{S} Trinta bacias de ouro, mil bacias de prata, vinte e nove incensários,
+10 trinta taças de ouro, quatrocentas e dez taças de prata e mil outros utensílios.
+<VALOR>11</VALOR> Todos os utensílios de ouro e de prata foram cinco mil e quatrocentos;{S} todos estes levou Sesbazar, quando os do cativeiro foram conduzidos de Babilônia para<PESSOA> Jerusalém</PESSOA>.

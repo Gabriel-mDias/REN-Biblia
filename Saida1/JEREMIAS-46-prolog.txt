@@ -1,0 +1,3 @@
+is_pessoa(Jeoiaquim).
+is_pessoa(Josias).
+is_father(Josias,Jeoiaquim).

@@ -1,0 +1,6 @@
+is_pessoa(Calebe).
+is_pessoa(Hezrom).
+is_pessoa(Calebe).
+is_pessoa(Hur).
+is_father(Hezrom,Calebe).
+is_father(Hur,Calebe).

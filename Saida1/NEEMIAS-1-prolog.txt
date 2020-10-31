@@ -1,0 +1,3 @@
+is_pessoa(Palavras de Neemias).
+is_pessoa(Hacalias).
+is_father(Hacalias,Palavras de Neemias).

@@ -1,0 +1,39 @@
+
+1 E entrando<PESSOA> Jesus</PESSOA> em um barco, passou para o outro lado, e chegou à sua própria cidade.
+2 E eis que lhe trouxeram um paralítico deitado em um leito.{S} Jesus, pois, vendo-lhes a fé, disse ao paralítico:{S} Tem ânimo, filho;{S} perdoados são os teus pecados.
+3 E alguns dos escribas disseram consigo:{S} Este homem blasfema.
+4 Mas Jesus, conhecendo-lhes os pensamentos, disse:{S} Por que pensais o mal em vossos corações?
+5 Pois qual é mais fácil? dizer:{S} Perdoados são os teus pecados, ou dizer:{S} Levanta-te e anda?
+6 Ora, para que saibais que o <PESSOA>Filho</PESSOA> do homem tem sobre a terra autoridade para perdoar pecados (disse então ao paralítico):{S} Levanta-te, toma o teu leito, e vai para tua casa.
+7 E este, levantando-se, foi para sua casa.
+8 E as multidões, vendo isso, temeram, e glorificaram a Deus, que dera tal autoridade aos homens.
+9 Partindo Jesus de ali, viu sentado na coletoria um homem chamado<ABSTRACCAO> Mateus</ABSTRACCAO>, e disse-lhe:{S} Segue-me.{S} E ele, levantando-se, o seguiu.
+10 Ora, estando ele à mesa em casa, eis que chegaram muitos publicanos e pecadores, e se reclinaram à mesa juntamente com<PESSOA> Jesus</PESSOA> e seus discípulos.
+11 E os fariseus, vendo isso, perguntavam aos discípulos:{S} Por que come o vosso <PESSOA>Mestre</PESSOA> com publicanos e pecadores?
+12<PESSOA> Jesus</PESSOA>, porém, ouvindo isso, respondeu:{S} Não necessitam de médico os sãos, mas sim os enfermos.
+13 Ide, pois, e aprendei o que significa:{S} Misericórdia quero, e não sacrifícios.{S} Porque eu não vim chamar justos, mas pecadores.
+14 Então vieram ter com ele os discípulos de<PESSOA> João</PESSOA>, perguntando:{S} Por que é que nós e os fariseus jejuamos, mas os teus discípulos não jejuam?
+15 Respondeu-lhes Jesus:{S} Podem porventura ficar tristes os convidados às núpcias, enquanto o noivo está com eles?S<PESSOA> Dias</PESSOA> virão, porém, em que lhes será tirado o noivo, e então hão de jejuar.
+16 Ninguém põe remendo de pano novo em vestido velho;{S} porque semelhante remendo tira parte do vestido, e faz-se maior a rotura.
+17 Nem se deita vinho novo em odres velhos;{S} do contrário se rebentam, derrama-se o vinho, e os odres se perdem;{S} mas deita-se vinho novo em odres novos, e assim ambos se conservam.
+18 Enquanto ainda lhes dizia essas coisas, eis que chegou um chefe da sinagoga e o adorou, dizendo:{S} Minha filha acaba de falecer;{S} mas vem, impõe-lhe a tua mão, e ela viverá.
+19 Levantou-se, pois, Jesus, e o foi seguindo, ele e os seus discípulos.
+20 E eis que certa mulher, que havia <VALOR>doze anos</VALOR> padecia de uma hemorragia, chegou por detrás dele e tocou-lhe a orla do manto;{S}
+21 porque dizia consigo:{S} Se eu tão-somente tocar-lhe o manto, ficarei sã.
+22 Mas Jesus, voltando-se e vendo-a, disse:{S} Tem ânimo, filha, a tua fé te salvou.{S} E desde aquela hora a mulher ficou sã.
+23 Quando Jesus chegou à casa daquele chefe, e viu os tocadores de flauta e a multidão em alvoroço,
+24 disse;{S} Retirai-vos;{S} porque a menina não está morta, mas dorme.{S} E riam-se dele.
+25 Tendo-se feito sair o povo, entrou<PESSOA> Jesus</PESSOA>, tomou a menina pela mão, e ela se levantou.
+26 E espalhou-se a notícia de isso por toda aquela terra.
+27 Partindo Jesus de ali, seguiram-no dois cegos, que clamavam, dizendo:{S} Tem compaixão de nós, <PESSOA>Filho de Davi</PESSOA>.
+28 E, tendo ele entrado em casa, os cegos se aproximaram dele;{S} e<PESSOA> Jesus</PESSOA> perguntou-lhes:{S} Credes que eu posso fazer isto?{S} Responderam-lhe eles:{S} <PESSOA>Sim</PESSOA>, <PESSOA>Senhor</PESSOA>.
+29 Então lhes tocou os olhos, dizendo:{S} Seja-vos feito segundo a vossa fé.
+30 E os olhos se lhes abriram.S<PESSOA> Jesus</PESSOA> ordenou-lhes terminantemente, dizendo:{S} Vede que ninguém o saiba.
+<VALOR>31</VALOR> Eles, porém, saíram, e divulgaram a sua fama por toda aquela terra.
+32 Enquanto esses se retiravam, eis que lhe trouxeram um homem mudo e endemoninhado.
+33 E, expulso o demônio, falou o mudo e as multidões se admiraram, dizendo:{S} Nunca tal se viu em<LOCAL> Israel</LOCAL>.
+<VALOR>34</VALOR> Os fariseus, porém, diziam:{S} É pelo príncipe dos demônios que ele expulsa os demônios.
+35 E percorria<PESSOA> Jesus</PESSOA> todas as cidades e aldeias, ensinando nas sinagogas, pregando o evangelho do reino, e curando toda sorte de doenças e enfermidades.
+36 Vendo ele as multidões, compadeceu-se delas, porque andavam desgarradas e errantes, como ovelhas que não têm pastor.
+37 Então disse a seus discípulos:{S} Na verdade, a seara é grande, mas os trabalhadores são poucos.
+38 Rogai, pois, ao <PESSOA>Senhor</PESSOA> da seara que mande trabalhadores para a sua seara.

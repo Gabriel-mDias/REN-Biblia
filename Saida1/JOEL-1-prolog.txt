@@ -1,0 +1,3 @@
+is_pessoa(Joel).
+is_pessoa(Petuel).
+is_father(Petuel,Joel).

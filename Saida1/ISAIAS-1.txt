@@ -1,0 +1,36 @@
+
+1 A visão de
+is_father( Amoz,  Isaías ).
+is_pessoa(  Isaías ).
+is_pessoa( Amoz).
+, que ele teve a respeito de<PESSOA> Judá</PESSOA> e<PESSOA> Jerusalém</PESSOA>, nos dias de Uzias, Jotão, Acaz, e Ezequias, reis de<PESSOA> Judá</PESSOA>.
+2 Ouvi, ó céus, e dá ouvidos, ó terra, porque falou o <PESSOA>Senhor</PESSOA>:{S} Criei filhos, e os engrandeci, mas eles se rebelaram contra mim.
+3 O boi conhece o seu possuidor, e o jumento a manjedoura do seu dono;{S} mas<PESSOA> Israel</PESSOA> não tem conhecimento, o meu povo não entende.
+4 Ah, nação pecadora, povo carregado de iniqüidade, descendência de malfeitores, filhos que praticam a corrupção!{S} Deixaram o <PESSOA>Senhor</PESSOA>, desprezaram o Santo de<PESSOA> Israel</PESSOA>, voltaram para trás.
+5 Por que seríeis ainda castigados, que persistis na rebeldia?{S} Toda a cabeça está enferma e todo o coração fraco.
+6 Desde a planta do pé até a cabeça não há nele coisa sã;{S} há só feridas, contusões e chagas vivas;{S} não foram espremidas, nem atadas, nem amolecidas com óleo.
+7 O vosso país está assolado;{S} as vossas cidades abrasadas pelo fogo;{S} a vossa terra os estranhos a devoram em vossa presença, e está devastada, como por uma pilhagem de estrangeiros.
+8 E a filha de Sião é deixada como a cabana na vinha, como a choupana no pepinal, como cidade sitiada.
+9 Se o <PESSOA>Senhor</PESSOA> dos exércitos não nos deixara alguns sobreviventes, já como<PESSOA> Sodoma</PESSOA> seríamos, e semelhantes a Gomorra.
+10 Ouvi a palavra do <PESSOA>Senhor</PESSOA>, governadores de<PESSOA> Sodoma</PESSOA>;{S} dai ouvidos à lei do nosso<PESSOA> Deus</PESSOA>, ó povo de Gomorra.
+11 De que me serve a mim a multidão de vossos sacrifícios? diz o <PESSOA>Senhor</PESSOA>.{S} Estou farto dos holocaustos de carneiros, e da gordura de animais cevados;{S} e não me agrado do sangue de novilhos, nem de cordeiros, nem de bodes.
+12 Quando vindes para comparecerdes perante mim, quem requereu de vós isto, que viésseis pisar os meus átrios?
+13 Não continueis a trazer ofertas vãs;{S} o incenso é para mim abominação.{S} As luas novas, os sábados, e a convocação de assembléias ... não posso suportar a iniqüidade e o ajuntamento solene!
+<VALOR>14</VALOR> As vossas luas novas, e as vossas festas fixas, a minha alma as aborrece;{S} já me são pesadas;{S} estou cansado de as sofrer.
+15 Quando estenderdes as vossas mãos, esconderei de vós os meus olhos;{S} e ainda que multipliqueis as vossas orações, não as ouvirei;{S} porque as vossas mãos estão cheias de sangue.
+16 Lavai-vos, purificai-vos;{S} tirai de diante dos meus olhos a maldade dos vossos atos;{S} cessai de fazer o mal;{S}
+17 aprendei a fazer o bem;{S} buscai a justiça, acabai com a opressão, fazei justiça ao órfão, defendei a causa da viúva.
+18 Vinde, pois, e arrazoemos, diz o <PESSOA>Senhor</PESSOA>: ainda que os vossos pecados são como a escarlata, eles se tornarão brancos como a neve;{S} ainda que são vermelhos como o carmesim, tornar-se-ão como a lã.
+19 Se quiserdes, e me ouvirdes, comereis o bem desta terra;{S}
+20 mas se recusardes, e fordes rebeldes, sereis devorados à espada;{S} pois a boca do <PESSOA>Senhor</PESSOA> o disse.
+21 Como se fez prostituta a cidade fiel! ela que estava cheia de retidão!{S} A justiça habitava nela, mas agora homicidas.
+22 A tua prata tornou-se em escória, o teu vinho se misturou com água.
+<VALOR>23</VALOR> Os teus príncipes são rebeldes, e companheiros de ladrões;{S} cada um deles ama as peitas, e anda atrás de presentes;{S} não fazem justiça ao órfão, e não chega perante eles a causa da viúva.
+24 portanto diz o <PESSOA>Senhor Deus</PESSOA> dos exércitos, o Poderoso de Israel:{S} Ah! livrar-me-ei dos meus adversários, e vingar-me-ei dos meus inimigos.
+25 Voltarei contra ti a minha mão, e purificarei como com potassa a tua escória;{S} e tirar-te-ei toda impureza;{S}
+26 e te restituirei os teus juízes, como eram dantes, e os teus conselheiros, como no princípio, então serás chamada cidade de justiça, cidade fiel.
+27 Sião será resgatada pela justiça, e os seus convertidos, pela retidão.
+28 Mas os transgressores e os pecadores serão juntamente destruídos;{S} e os que deixarem o <PESSOA>Senhor</PESSOA> serão consumidos.
+29 Porque vos envergonhareis por causa dos terebintos de que vos agradastes, e sereis confundidos por causa dos jardins que escolhestes.
+30 Pois sereis como um carvalho cujas folhas são murchas, e como um jardim que não tem água.
+31 E o forte se tornará em estopa, e a sua obra em faísca;{S} e ambos arderão juntamente, e não haverá quem os apague.

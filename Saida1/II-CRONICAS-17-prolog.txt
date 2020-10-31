@@ -1,0 +1,3 @@
+is_pessoa(Amasias).
+is_pessoa(Zicri).
+is_father(Zicri,Amasias).

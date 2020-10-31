@@ -1,0 +1,6 @@
+is_pessoa(Isaías).
+is_pessoa(Amoz).
+is_pessoa(Isaías).
+is_pessoa(Amoz).
+is_father(Amoz,Isaías).
+is_father(Amoz,Isaías).

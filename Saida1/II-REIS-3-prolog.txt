@@ -1,0 +1,9 @@
+is_pessoa(Jorão).
+is_pessoa(Acabe).
+is_pessoa(Jeroboão).
+is_pessoa(Nebate).
+is_pessoa(Eliseu).
+is_pessoa(Safate).
+is_father(Acabe,Jorão).
+is_father(Nebate,Jeroboão).
+is_father(Safate,Eliseu).

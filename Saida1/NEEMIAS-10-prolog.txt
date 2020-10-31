@@ -1,0 +1,3 @@
+is_pessoa(Jesuá).
+is_pessoa(Azanias).
+is_father(Azanias,Jesuá).

@@ -1,0 +1,54 @@
+
+1 No vigésimo terceiro ano de 
+is_father( Acazias,Joás).
+is_pessoa(Joás).
+is_pessoa( Acazias).
+, rei de<PESSOA> Judá</PESSOA>, começou a reinar 
+is_father( Jeú,Jeoacaz).
+is_pessoa(Jeoacaz).
+is_pessoa( Jeú).
+, sobre<PESSOA> Israel</PESSOA>, em<LOCAL> Samária</LOCAL>, e reinou <VALOR>dezessete anos</VALOR>.
+2 E fez o que era mau aos olhos do <PESSOA>Senhor</PESSOA>, porque seguiu os pecados de 
+is_father( Nebate,Jeroboão).
+is_pessoa(Jeroboão).
+is_pessoa( Nebate).
+, com os quais ele fizera<PESSOA> Israel</PESSOA> pecar;{S} não se apartou deles.
+3 Pelo que a ira do <PESSOA>Senhor</PESSOA> se acendeu contra<PESSOA> Israel</PESSOA>;{S} e o entregou continuadamente na mão de Hazael, rei da<ORGANIZACAO> Síria</ORGANIZACAO>, e na mão de Ben-
+is_father( Hazael,Hadade).
+is_pessoa(Hadade).
+is_pessoa( Hazael).
+.
+4 Jeoacaz, porém, suplicou diante da face do <PESSOA>Senhor</PESSOA>;{S} e o senhor o ouviu, porque viu a opressão com que o rei da<ORGANIZACAO> Síria</ORGANIZACAO> oprimia a Israel,
+5 (pelo que o <PESSOA>Senhor</PESSOA> deu um libertador a Israel, de modo que saiu de sob a mão dos sírios;{S} e os filhos de<PESSOA> Israel</PESSOA> habitaram nas suas tendas, como dantes.
+6 Contudo não se apartaram dos pecados da casa de Jeroboão, com os quais ele fizera<PESSOA> Israel</PESSOA> pecar, porém andaram neles;{S} e também a Asera ficou em pé em<LOCAL> Samária</LOCAL>.)
+7 porque, de todo o povo, não deixara a Jeoacaz mais que cinqüenta cavaleiros, dez carros e dez mil homens de infantaria;{S} porquanto o rei da<ORGANIZACAO> Síria</ORGANIZACAO> os tinha destruído e os tinha feito como o pó da eira.
+8 Ora, o restante dos atos de Jeoacaz, e tudo quanto fez, e o seu poder, porventura não estão escritos no livro das crônicas dos reis de Israel?
+9 E Jeoacaz dormiu com seus pais;{S} e o sepultaram em<LOCAL> Samária</LOCAL>.{S} E Jeoás, seu filho, reinou em seu lugar.
+10 No ano trinta e sete de Joás, rei de<PESSOA> Judá</PESSOA>, começou a reinar 
+is_father( Jeoacaz,Jeoás).
+is_pessoa(Jeoás).
+is_pessoa( Jeoacaz).
+, sobre<PESSOA> Israel</PESSOA>, em<LOCAL> Samária</LOCAL>, e reinou <VALOR>dezesseis anos</VALOR>.
+11 E fez o que era mau aos olhos do <PESSOA>Senhor</PESSOA>;{S} não se apartou de nenhum dos pecados de Jeroboão filho de Nebate, com os quais ele fizera<PESSOA> Israel</PESSOA> pecar, porém andou neles.
+12 Ora, o restante dos atos de Jeoás, e tudo quanto fez, e o seu poder, com que pelejou contra Amazias, rei de<PESSOA> Judá</PESSOA>, porventura não estão escritos no livro das crônicas dos reis de Israel?
+13 Jeoás dormiu com seus pais, e Jeroboão se assentou no seu trono.{S} Jeoás foi sepultado em<LOCAL> Samária</LOCAL>, junto aos reis de<PESSOA> Israel</PESSOA>.
+14 Estando Eliseu doente da enfermidade de que morreu, Jeoás, rei de<PESSOA> Israel</PESSOA>, desceu a ele e, chorando sobre ele exclamou:{S} Meu pai, meu pai! carro de<PESSOA> Israel</PESSOA>, e seus cavaleiros!
+15 E Eliseu lhe disse:{S} Toma um arco e flechas.{S} E ele tomou um arco e flechas.
+16 Então <PESSOA>Eliseu</PESSOA> disse ao rei de Israel:{S} Põe a mão sobre o arco.{S} E ele o fez.S<PESSOA> Eliseu</PESSOA> pôs as suas mãos sobre as do rei,
+17 e disse:{S} Abre a janela para o oriente.{S} E ele a abriu.{S} Então disse<PESSOA> Eliseu</PESSOA>:{S} Atira.{S} E ele atirou.{S} Prosseguiu Eliseu:{S} A flecha do livramento do <PESSOA>Senhor</PESSOA> é a flecha do livramento contra os sírios;{S} porque ferirás os sírios em<LOCAL> Afeque</LOCAL> até os consumir.
+18 Disse mais:{S} Toma as flechas.{S} E ele as tomou.{S} Então disse ao rei de Israel:{S} Fere a terra.{S} E ele a feriu três vezes, e cessou.
+19 Ao que o homem de<PESSOA> Deus</PESSOA> se indignou muito contra ele, e disse:{S} Cinco ou seis vezes a deverias ter ferido;{S} então feririas os sírios até os consumir;{S} porém agora só três vezes ferirás os sírios.
+20 Depois morreu<PESSOA> Eliseu</PESSOA>, e o sepultaram.{S} Ora, as tropas dos moabitas invadiam a terra à entrada do ano.
+21 E sucedeu que, estando alguns a enterrarem um homem, viram uma dessas tropas, e lançaram o homem na sepultura de<PESSOA> Eliseu</PESSOA>.{S} Logo que ele tocou os ossos de<PESSOA> Eliseu</PESSOA>, reviveu e se levantou sobre os seus pés.
+22 Hazael, rei da<ORGANIZACAO> Síria</ORGANIZACAO>, oprimiu a Israel todos os dias de Jeoacaz.
+23 O <PESSOA>Senhor</PESSOA>, porém, teve misericórdia deles, e se compadeceu deles, e se tornou para eles, por amor do seu pacto com<PESSOA> Abraão</PESSOA>,<PESSOA> Isaque</PESSOA> e<PESSOA> Jacó</PESSOA>;{S} e não os quis destruir nem lançá-los da sua presença
+24 Ao morrer Hazael, rei da<ORGANIZACAO> Síria</ORGANIZACAO>, Ben-Hadade, seu filho, reinou em seu lugar.
+25 E 
+is_father( Jeoacaz,Jeoás).
+is_pessoa(Jeoás).
+is_pessoa( Jeoacaz).
+, retomou das mãos de Ben-
+is_father( Hazael,Hadade).
+is_pessoa(Hadade).
+is_pessoa( Hazael).
+, as cidades que este havia tomado das mãos de Jeoacaz, seu pai, na guerra;{S} três vezes Jeoás o feriu, e recuperou as cidades de<PESSOA> Israel</PESSOA>.

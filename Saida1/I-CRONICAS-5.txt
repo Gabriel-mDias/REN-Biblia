@@ -1,0 +1,59 @@
+
+1 Quanto aos filhos de Rúben, o primogênito de Israel (pois ele era o primogênito;{S} mas, porquanto profanara a cama de seu pai, deu-se a sua primogenitura aos filhos de
+is_father(  Israel ,  José ).
+is_pessoa(  José ).
+is_pessoa(  Israel ).
+, de sorte que a sua genealogia não é contada segundo o direito da primogenitura;{S}
+2 pois<PESSOA> Judá</PESSOA> prevaleceu sobre seus irmãos, e dele proveio o príncipe;{S} porém a primogenitura foi de José);{S}
+<VALOR>3</VALOR> os filhos de Rúben o primogênito de Israel:{S} Hanoque, Palu, Hezrom e Carmi.
+<VALOR>4</VALOR> Os filhos de Joel:{S} Semaías, de quem foi <PESSOA>filho Gogue</PESSOA>, de quem foi <PESSOA>filho Simei</PESSOA>,
+5 de quem foi <PESSOA>filho Mica</PESSOA>, de quem foi <PESSOA>filho Reaías</PESSOA>, de quem foi <PESSOA>filho Baal</PESSOA>,
+6 de quem foi <PESSOA>filho Beera</PESSOA>, a quem Tilgate-Pilneser levou cativo;{S} ele foi príncipe dos rubenitas.
+7 E seus irmãos, pelas suas famílias, quando se fez a genealogia das suas gerações, foram: o <PESSOA>chefe Jeiel</PESSOA>,<PESSOA> Zacarias</PESSOA>,
+8 
+is_father( Azaz,Belá).
+is_pessoa(Belá).
+is_pessoa( Azaz).
+, filho de 
+is_father(  Joel ,Sema).
+is_pessoa(Sema).
+is_pessoa(  Joel ).
+, que habitou em<LOCAL> Aroer</LOCAL> até<LOCAL> Nebo</LOCAL> e<LOCAL> Baal-Meom</LOCAL>;{S}
+9 ao oriente habitou até a entrada do deserto, desde o rio<LOCAL> Eufrates</LOCAL>;{S} porque seu gado se tinha multiplicado na terra de Gileade.
+10 E nos dias de<PESSOA> Saul</PESSOA> fizeram guerra aos hagarenos, que caíram pela sua mão;{S} e eles habitaram nas suas tendas em toda a região oriental de Gileade.
+11 E os filhos de Gade habitaram defronte deles na terra de Basã, até<LOCAL> Salca</LOCAL>:
+12 o <PESSOA>chefe Joel</PESSOA>,<PESSOA> Safã</PESSOA> o segundo, Janai e Safate em<LOCAL> Basã</LOCAL>,
+13 e seus irmãos, segundo as suas casas paternas:{S} Micael, Mesulão, Sebá, Jorai, Jacã, Ziá e Eber, sete.
+<VALOR>14</VALOR> Estes foram os filhos de 
+is_father( Huri,Abiail).
+is_pessoa(Abiail).
+is_pessoa( Huri).
+, filho de 
+is_father( Gileade,Jaroá).
+is_pessoa(Jaroá).
+is_pessoa( Gileade).
+, filho de 
+is_father( Jesisai,Micael).
+is_pessoa(Micael).
+is_pessoa( Jesisai).
+, filho de 
+is_father( Buz,Jado).
+is_pessoa(Jado).
+is_pessoa( Buz).
+;{S}
+15 
+is_father(  Abdiel ,Aí).
+is_pessoa(Aí).
+is_pessoa(  Abdiel ).
+, filho de Guni, chefe das casas paternas.
+16 E habitaram em<LOCAL> Gileade</LOCAL>, em<LOCAL> Basã</LOCAL>, e nas suas aldeias, como também em todos os arrabaldes de Sarom até os seus termos.
+<VALOR>17</VALOR> Todos estes foram registrados, segundo as suas genealogias, nos dias de Jotão, rei de<PESSOA> Judá</PESSOA>, e nos dias de Jeroboão, rei de<PESSOA> Israel</PESSOA>.
+<VALOR>18</VALOR> Os rubenitas, os gaditas, e a meia tribo de Manassés tinham homens valentes, que traziam escudo e espada e entesavam o arco, e que eram destros na guerra, quarenta e quatro mil setecentos e sessenta, que saíam à peleja.
+19 Fizeram guerra aos hagarenos, bem como a Jetur, a Nafis e a Nodabe,
+20 e foram ajudados contra eles, de sorte que os hagarenos e todos quantos estavam com eles foram entregues em sua mão;{S} porque clamaram a Deus na peleja, e ele lhes deu ouvidos, porquanto confiaram nele.
+21 E levaram o gado deles: cinqüenta mil camelos, duzentos e cinqüenta mil ovelhas e dois mil jumentos;{S} e também cem mil homens,
+22 pois muitos caíram mortos, porque de<PESSOA> Deus</PESSOA> era a peleja;{S} e ficaram habitando no lugar deles até o cativeiro.
+<VALOR>23</VALOR> Os filhos da meia tribo de Manassés habitaram naquela terra;{S} e multiplicaram-se desde Basã até<LOCAL> Baal</LOCAL>-Hermom, Senir, e o monte Hermom.
+24 E estes foram os cabeças de suas casas paternas, a saber:{S} Efer, Isi, Eliel, Azriel, Jeremias, Hodavias e Jadiel, homens valentes, homens de nome, e chefes das suas casas paternas.
+25 Cometeram, porém, transgressões contra o Deus de seus pais, e se prostituíram, seguindo os deuses dos povos da terra, os quais<PESSOA> Deus</PESSOA> destruíra de diante deles.
+26 Pelo que o <PESSOA>Deus de Israel</PESSOA> excitou o espírito de Pul, rei da<ORGANIZACAO> Assíria</ORGANIZACAO>, e o espírito de Tilgate-Pilneser, rei da<ORGANIZACAO> Assíria</ORGANIZACAO>, que os levaram cativos, a saber: os rubenitas, os gaditas, e a meia tribo de Manassés;{S} e os transportaram para Hala, Habor, Hara, e para o rio de<LOCAL> Gozã</LOCAL>, onde estão até o dia de hoje.

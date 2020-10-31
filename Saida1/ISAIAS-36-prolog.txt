@@ -1,0 +1,12 @@
+is_pessoa(Eliaquim).
+is_pessoa(Hilquias).
+is_pessoa(Joá).
+is_pessoa(Asafe).
+is_pessoa(Eliaquim).
+is_pessoa(Hilquias).
+is_pessoa(Joá).
+is_pessoa(Asafe).
+is_father(Hilquias,Eliaquim).
+is_father(Asafe,Joá).
+is_father(Hilquias,Eliaquim).
+is_father(Asafe,Joá).

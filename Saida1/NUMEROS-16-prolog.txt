@@ -1,0 +1,12 @@
+is_pessoa(Corá).
+is_pessoa(Izar).
+is_pessoa(Coate).
+is_pessoa(Levi).
+is_pessoa(Om).
+is_pessoa(Pelete).
+is_pessoa(Eleazar).
+is_pessoa(Arão).
+is_father(Izar,Corá).
+is_father(Levi,Coate).
+is_father(Pelete,Om).
+is_father(Arão,Eleazar).

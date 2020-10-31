@@ -1,0 +1,23 @@
+
+1 Sucedeu pois, no sexto ano, no mês sexto, no quinto dia do mês, estando eu assentado na minha casa, e os anciãos de<PESSOA> Judá</PESSOA> assentados diante de mim, que ali a mão do <PESSOA>Senhor Deus</PESSOA> caiu sobre mim.
+2 Então olhei, e eis uma semelhança como aparência de fogo.{S} Desde a aparência dos seus lombos, e para baixo, era fogo;{S} e dos seus lombos, e para cima, como aspecto de resplendor, como e brilho de âmbar.
+3 E estendeu a forma de uma mão, e me tomou por uma trança da minha cabeça;{S} e o Espírito me levantou entre a terra e o céu, e nas visões de<PESSOA> Deus</PESSOA> me trouxe a Jerusalém, até a entrada da porta do pátio de dentro, que olha para o norte, onde estava o assento da imagem do ciúme, que provoca ciúme.
+4 E eis que a glória do <PESSOA>Deus de Israel</PESSOA> estava ali, conforme a semelhança que eu tinha visto no vale.
+5 Então me disse:{S} <PESSOA>Filho</PESSOA> do homem, levanta agora os teus olhos para o caminho do norte.{S} Levantei, pois, os meus olhos para o caminho do norte, e eis que ao norte da porta do altar, estava esta imagem do ciúme na entrada.
+6 E ele me disse:{S} <PESSOA>Filho</PESSOA> do homem, vês tu o que eles estão fazendo? as grandes abominações que a casa de<PESSOA> Israel</PESSOA> faz aqui, para que me afaste do meu santuário;{S} Mas verás ainda outras grandes abominações.
+7 E levou-me à porta do átrio;{S} então olhei, e eis que havia um buraco na parede.
+8 Então ele me disse:{S} <PESSOA>Filho</PESSOA> do homem, cava agora na parede.{S} E quando eu tinha cavado na parede, eis que havia uma porta.
+9 Disse-me ainda:{S} Entra, e vê as ímpias abominações que eles fazem aqui.
+10 Entrei, pois, e olhei:{S} E eis que toda a forma de répteis, e de animais abomináveis, e todos os ídolos da casa de<PESSOA> Israel</PESSOA>, estavam pintados na parede em todo o redor.
+11 E setenta homens dos anciãos da casa de<PESSOA> Israel</PESSOA>, com 
+is_father( Safã,Jaazanias).
+is_pessoa(Jaazanias).
+is_pessoa( Safã).
+, no meio deles, estavam em pé diante das pinturas, e cada um tinha na mão o seu incensário;{S} e subia o odor de uma nuvem de incenso.
+12 Então me disse:{S} Viste, filho do homem, o que os anciãos da casa de<PESSOA> Israel</PESSOA> fazem nas trevas, cada um nas suas câmaras pintadas de imagens?{S} Pois dizem:{S} O <PESSOA>Senhor</PESSOA> não nos vê;{S} o <PESSOA>Senhor</PESSOA> abandonou a terra.
+13 Também me disse:{S} Verás ainda maiores abominações que eles fazem.
+14 Depois me levou à entrada da porta da casa do <PESSOA>Senhor</PESSOA>, que olha para o norte;{S} e eis que estavam ali mulheres assentadas chorando por Tamuz.
+15 Então me disse:{S} Viste, filho do homem?{S} Verás ainda maiores abominações do que estas.
+16 E levou-me para o átrio interior da casa do <PESSOA>Senhor</PESSOA>;{S} e eis que estavam à entrada do templo do <PESSOA>Senhor</PESSOA>, entre o pórtico e o altar, cerca de vinte e cinco homens, de costas para o templo do <PESSOA>Senhor</PESSOA>, e com os rostos para o oriente;{S} e assim, virados para o oriente, adoravam o sol.
+17 Então me disse:{S} Viste, filho do homem?{S} Acaso é isto coisa leviana para a casa de<PESSOA> Judá</PESSOA>, o fazerem eles as abominações que fazem aqui? pois, havendo enchido a terra de violência, tornam a provocar-me à ira;{S} e ei-los a chegar o ramo ao seu nariz.
+18 Pelo que também eu procederei com furor;{S} o meu olho não poupará, nem terei piedade.{S} Ainda que me gritem aos ouvidos com grande voz, contudo não os ouvirei.

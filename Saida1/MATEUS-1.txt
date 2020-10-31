@@ -1,0 +1,194 @@
+
+1 Livro da genealogia de 
+is_father(  Davi , Jesus Cristo ).
+is_pessoa( Jesus Cristo ).
+is_pessoa(  Davi ).
+. 
+is_father( Abraão,  Davi ).
+is_pessoa(  Davi ).
+is_pessoa( Abraão).
+..
+2 A 
+is_father(Abraão, Isaque).
+is_pessoa( Isaque).
+is_pessoa(Abraão).
+;{S} a 
+is_father(Isaque,  Jacó ).
+is_pessoa(  Jacó ).
+is_pessoa(Isaque).
+;{S} a 
+is_father(Jacó,  Judá ).
+is_pessoa(  Judá ).
+is_pessoa(Jacó).
+;{S}
+3 a 
+is_father(Judá, Tamar).
+is_pessoa( Tamar).
+is_pessoa(Judá).
+.A 
+is_father(Judá, Farés).
+is_pessoa( Farés).
+is_pessoa(Judá).
+. 
+is_father(Judá, Zará).
+is_pessoa( Zará).
+is_pessoa(Judá).
+.;{S} a 
+is_father(Farés, Esrom).
+is_pessoa( Esrom).
+is_pessoa(Farés).
+;{S} a 
+is_father(Esrom,  Arão ).
+is_pessoa(  Arão ).
+is_pessoa(Esrom).
+;{S}
+4 a 
+is_father(Arão, Aminadabe).
+is_pessoa( Aminadabe).
+is_pessoa(Arão).
+;{S} a 
+is_father(Aminadabe, Nasom).
+is_pessoa( Nasom).
+is_pessoa(Aminadabe).
+;{S} a 
+is_father(Nasom, Salmom).
+is_pessoa( Salmom).
+is_pessoa(Nasom).
+;{S}
+5 a 
+is_father(Salmom, Raabe).
+is_pessoa( Raabe).
+is_pessoa(Salmom).
+, Booz;{S} a 
+is_father(Booz, Rute).
+is_pessoa( Rute).
+is_pessoa(Booz).
+, Obede;{S} a 
+is_father(Obede,  Jessé ).
+is_pessoa(  Jessé ).
+is_pessoa(Obede).
+;{S}
+6 e a Jessé nasceu o <PESSOA>rei Davi</PESSOA>.{S} A 
+is_father(Davi,  Salomão ).
+is_pessoa(  Salomão ).
+is_pessoa(Davi).
+ da que fora mulher de<PESSOA> Urias</PESSOA>;{S}
+7 a 
+is_father(Salomão, Roboão).
+is_pessoa( Roboão).
+is_pessoa(Salomão).
+;{S} a 
+is_father(Roboão, Abias).
+is_pessoa( Abias).
+is_pessoa(Roboão).
+;{S} a nasceu 
+is_father(Abias, Asafe).
+is_pessoa( Asafe).
+is_pessoa(Abias).
+;{S}
+8 a 
+is_father(Asafe, Josafá).
+is_pessoa( Josafá).
+is_pessoa(Asafe).
+;{S} a 
+is_father(Josafá, Jorão).
+is_pessoa( Jorão).
+is_pessoa(Josafá).
+;{S} a Jorão Ozias;{S}
+9 a 
+is_father(Ozias, Joatão).
+is_pessoa( Joatão).
+is_pessoa(Ozias).
+;{S} a 
+is_father(Joatão, Acaz).
+is_pessoa( Acaz).
+is_pessoa(Joatão).
+;{S} a 
+is_father(Acaz, Ezequias).
+is_pessoa( Ezequias).
+is_pessoa(Acaz).
+;{S}
+10 a 
+is_father(Ezequias, Manassés).
+is_pessoa( Manassés).
+is_pessoa(Ezequias).
+;{S} a 
+is_father(Manassés, Amom).
+is_pessoa( Amom).
+is_pessoa(Manassés).
+;{S} a 
+is_father(Amom, Josias).
+is_pessoa( Josias).
+is_pessoa(Amom).
+;{S}
+11 a 
+is_father(Josias, Jeconias).
+is_pessoa( Jeconias).
+is_pessoa(Josias).
+, no tempo da deportação para Babilônia.
+12 Depois da deportação para Babilônia nasceu a Jeconias, Salatiel;{S} a 
+is_father(Salatiel, Zorobabel).
+is_pessoa( Zorobabel).
+is_pessoa(Salatiel).
+;{S}
+13 a 
+is_father(Zorobabel, Abiúde).
+is_pessoa( Abiúde).
+is_pessoa(Zorobabel).
+;{S} a 
+is_father(Abiúde, Eliaquim).
+is_pessoa( Eliaquim).
+is_pessoa(Abiúde).
+;{S} a 
+is_father(Eliaquim, Azor).
+is_pessoa( Azor).
+is_pessoa(Eliaquim).
+;{S}
+14 a 
+is_father(Azor, Sadoque).
+is_pessoa( Sadoque).
+is_pessoa(Azor).
+;{S} a 
+is_father(Sadoque, Aquim).
+is_pessoa( Aquim).
+is_pessoa(Sadoque).
+;{S} a 
+is_father(Aquim, Eliúde).
+is_pessoa( Eliúde).
+is_pessoa(Aquim).
+;{S}
+15 a 
+is_father(Eliúde, Eleazar).
+is_pessoa( Eleazar).
+is_pessoa(Eliúde).
+;{S} a 
+is_father(Eleazar, Matã).
+is_pessoa( Matã).
+is_pessoa(Eleazar).
+;{S} a 
+is_father(Matã,  Jacó ).
+is_pessoa(  Jacó ).
+is_pessoa(Matã).
+;{S}
+16 e a 
+is_father(Jacó,  José ).
+is_pessoa(  José ).
+is_pessoa(Jacó).
+, marido de<PESSOA> Maria</PESSOA>, da qual nasceu JESUS, que se chama<ABSTRACCAO> Cristo</ABSTRACCAO>.
+is_married(  José , Maria).
+is_pessoa(  José ).
+is_pessoa( Maria).
+
+17 De sorte que todas as gerações, desde<PESSOA> Abraão</PESSOA> até<LOCAL> Davi</LOCAL>, são catorze gerações;{S} e desde<PESSOA> Davi</PESSOA> até a deportação para Babilônia, catorze gerações;{S} e desde a deportação para Babilônia até o <PESSOA>Cristo</PESSOA>, catorze gerações.
+18 Ora, o nascimento de <PESSOA>Jesus Cristo</PESSOA> foi assim:{S} Estando Maria, sua mãe, desposada com<PESSOA> José</PESSOA>, antes de se ajuntarem, ela se achou ter concebido do Espírito Santo.
+19 E como<PESSOA> José</PESSOA>, seu esposo, era justo, e não a queria infamar, intentou deixá-la secretamente.
+20 E, projetando ele isso, eis que em sonho lhe apareceu um anjo do <PESSOA>Senhor</PESSOA>, dizendo:{S} 
+is_father(  Davi ,José).
+is_pessoa(José).
+is_pessoa(  Davi ).
+, não temas receber a Maria, tua mulher, pois o que nela se gerou é do Espírito Santo;{S}
+21 ela dará à luz um filho, a quem chamarás JESUS;{S} porque ele salvará o seu povo dos seus pecados.
+22 Ora, tudo isso aconteceu para que se cumprisse o que fora dito da parte do <PESSOA>Senhor</PESSOA> pelo profeta:
+23 Eis que a virgem conceberá e dará à luz um filho, o qual será chamado<ABSTRACCAO> EMANUEL</ABSTRACCAO>, que traduzido é:S<PESSOA> Deus</PESSOA> conosco.
+24 E José, tendo despertado do sono, fez como o anjo do <PESSOA>Senhor</PESSOA> lhe ordenara, e recebeu sua mulher;{S}
+25 e não a conheceu enquanto ela não deu à luz um filho;{S} e pôs-lhe o nome de JESUS.

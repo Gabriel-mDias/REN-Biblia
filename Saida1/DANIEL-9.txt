@@ -1,0 +1,32 @@
+
+1 No ano primeiro de
+is_father( Assuero,  Dario ).
+is_pessoa(  Dario ).
+is_pessoa( Assuero).
+, da linhagem dos medos, o qual foi constituído rei sobre o reino dos caldeus.
+2 no ano primeiro do seu reinado, eu, Daniel, entendi pelos livros que o número de anos, de que falara o <PESSOA>Senhor</PESSOA> ao profeta<PESSOA> Jeremias</PESSOA>, que haviam de durar as desolações de<PESSOA> Jerusalém</PESSOA>, era de <VALOR>setenta anos</VALOR>.
+3 Eu, pois, dirigi o meu rosto ao <PESSOA>Senhor Deus</PESSOA>, para o buscar com oração e súplicas, com jejum, e saco e cinza.
+4 E orei ao <PESSOA>Senhor</PESSOA> meu<PESSOA> Deus</PESSOA>, e confessei, e disse:{S} Ó <PESSOA>Senhor</PESSOA>,<PESSOA> Deus</PESSOA> grande e tremendo, que guardas o pacto e a misericórdia para com os que te amam e guardam os teus mandamentos;{S}
+5 pecamos e cometemos iniqüidades, procedemos impiamente, e fomos rebeldes, apartando-nos dos teus preceitos e das tuas ordenanças.
+6 Não demos ouvidos aos teus servos, os profetas, que em teu nome falaram aos nossos reis, nossos príncipes, e nossos pais, como também a todo o povo da terra.
+7 A ti, ó <PESSOA>Senhor</PESSOA>, pertence a justiça, porém a nós a confusão de rosto, como hoje se vê;{S} aos homens de<PESSOA> Judá</PESSOA>, e aos moradores de<PESSOA> Jerusalém</PESSOA>, e a todo o Israel;{S} aos de perto e aos de longe, em todas as terras para onde os tens lançado por causa das suas transgressões que cometeram contra ti.
+8 Ó <PESSOA>Senhor</PESSOA>, a nós pertence a confusão de rosto, aos nossos reis, aos nossos príncipes, e a nossos pais, porque temos pecado contra ti.
+9 Ao <PESSOA>Senhor</PESSOA>, nosso<PESSOA> Deus</PESSOA>, pertencem a misericórdia e o perdão;{S} pois nos rebelamos contra ele,
+10 e não temos obedecido à voz do <PESSOA>Senhor</PESSOA>, nosso<PESSOA> Deus</PESSOA>, para andarmos nas suas leis, que nos deu por intermédio de seus servos, os profetas.
+11 Sim, todo o Israel tem transgredido a tua lei, desviando-se, para não obedecer à tua voz;{S} por isso a maldição, o juramento que está escrito na lei de<PESSOA> Moisés</PESSOA>, servo de<PESSOA> Deus</PESSOA>, se derramou sobre nós;{S} porque pecamos contra ele.
+12 E ele confirmou a sua palavra, que falou contra nós, e contra os nossos juízes que nos julgavam, trazendo sobre nós um grande mal;{S} porquanto debaixo de todo o céu nunca se fez como se tem feito a Jerusalém.
+13 Como está escrito na lei de<PESSOA> Moisés</PESSOA>, todo este mal nos sobreveio;{S} apesar de isso, não temos implorado o favor do <PESSOA>Senhor</PESSOA> nosso<PESSOA> Deus</PESSOA>, para nos convertermos das nossas iniqüidades, e para alcançarmos discernimento na tua verdade.
+14 por isso, o <PESSOA>Senhor</PESSOA> vigiou sobre o mal, e o trouxe sobre nós;{S} pois justo é o <PESSOA>Senhor</PESSOA>, nosso<PESSOA> Deus</PESSOA>, em todas as obras que faz;{S} e nós não temos obedecido à sua voz.
+15 Na verdade, ó <PESSOA>Senhor</PESSOA>, nosso<PESSOA> Deus</PESSOA>, que tiraste o teu povo da terra do<PESSOA> Egito</PESSOA> com mão poderosa, e te adquiriste nome como hoje se vê, temos pecado, temos procedido impiamente.
+16 e <PESSOA>Senhor</PESSOA>, segundo todas as tuas justiças, apartem-se a tua ira e o teu furor da tua <LOCAL>cidade de Jerusalém</LOCAL>, do teu santo monte;{S} porquanto por causa dos nossos pecados, e por causa das iniqüidades de nossos pais, tornou-se<PESSOA> Jerusalém</PESSOA> e o teu povo um opróbrio para todos os que estão em redor de nós.
+17 Agora, pois, ó<PESSOA> Deus</PESSOA> nosso, ouve a oração do teu servo, e as suas súplicas, e sobre o teu santuário assolado faze resplandecer o teu rosto, por amor do <PESSOA>Senhor</PESSOA>.
+18 Inclina, ó<PESSOA> Deus</PESSOA> meu, os teus ouvidos, e ouve;{S} abre os teus olhos, e olha para a nossa desolação, e para a cidade que é chamada pelo teu nome;{S} pois não lançamos as nossas súplicas perante a tua face fiados em nossas justiças, mas em tuas muitas misericórdias.
+19 Ó <PESSOA>Senhor</PESSOA>, ouve;{S} ó <PESSOA>Senhor</PESSOA>, perdoa;{S} ó <PESSOA>Senhor</PESSOA>, atende-nos e põe mãos à obra sem tardar, por amor de ti mesmo, ó<PESSOA> Deus</PESSOA> meu, porque a tua cidade e o teu povo se chamam pelo teu nome.
+20 Enquanto estava eu ainda falando e orando, e confessando o meu pecado, e o pecado do meu povo<PESSOA> Israel</PESSOA>, e lançando a minha súplica perante a face do <PESSOA>Senhor</PESSOA>, meu<PESSOA> Deus</PESSOA>, pelo monte santo do meu<PESSOA> Deus</PESSOA>,
+21 sim enquanto estava eu ainda falando na oração, o varão<PESSOA> Gabriel</PESSOA>, que eu tinha visto na minha visão ao princípio, veio voando rapidamente, e tocou-me à hora da oblação da tarde.
+22 Ele me instruiu, e falou comigo, dizendo:{S} Daniel, vim agora para fazer-te sábio e entendido.
+23 No princípio das tuas súplicas, saiu a ordem, e eu vim, para to declarar, pois és muito amado;{S} considera, pois, a palavra e entende a visão.
+24 Setenta semanas estão decretadas sobre o teu povo, e sobre a tua santa cidade, para fazer cessar a transgressão, para dar fim aos pecados, e para expiar a iniqüidade, e trazer a justiça eterna, e selar a visão e a profecia, e para ungir o santíssimo.
+25 Sabe e entende: desde a saída da ordem para restaurar e para edificar<PESSOA> Jerusalém</PESSOA> até o ungido, o príncipe, haverá sete semanas, e sessenta e duas semanas;{S} com praças e tranqueiras se reedificará, mas em tempos angustiosos.
+26 E depois de sessenta e duas semanas será cortado o ungido, e nada lhe subsistirá;{S} e o povo do príncipe que há de vir destruirá a cidade e o santuário, e o seu fim será com uma inundação;{S} e até o fim haverá guerra;{S} estão determinadas assolações.
+27 E ele fará um pacto firme com muitos por uma semana;{S} e na metade da semana fará cessar o sacrifício e a oblação;{S} e sobre a asa das abominações virá o assolador;{S} e até a destruição determinada, a qual será derramada sobre o assolador.

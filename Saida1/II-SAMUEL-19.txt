@@ -1,0 +1,60 @@
+
+1 Disseram a Joabe:{S} Eis que o rei está chorando e se lamentando por Absalão.
+2 Então a vitória se tornou naquele dia em tristeza para todo o povo, porque nesse dia o povo ouviu dizer:{S} O rei está muito triste por causa de seu filho.
+3 E nesse dia o povo entrou furtivamente na cidade, como o faz quando, envergonhado, foge da peleja.
+4 Estava, pois, o rei com o rosto coberto, e clamava em alta voz:{S} Meu <PESSOA>filho Absalão</PESSOA>,<PESSOA> Absalão</PESSOA> meu filho, meu filho!
+5 Então entrou Joabe na casa onde estava o rei, e disse:{S} Hoje envergonhaste todos os teus servos, que livraram neste dia a tua vida, a vida de teus filhos e filhas, e a vida de tuas mulheres e concubinas,
+6 amando aos que te odeiam, e odiando aos que te amam.{S} Porque hoje dás a entender que nada valem para ti nem chefes nem servos;{S} pois agora entendo que se Absalão vivesse, e todos nós hoje fôssemos mortos, ficarias bem contente.
+7 Levanta-te, pois, agora;{S} sai e fala ao coração de teus servos.{S} Porque pelo <PESSOA>Senhor</PESSOA> te juro que, se não saíres, nem um só homem ficará contigo esta noite;{S} e isso te será pior do que todo o mal que tem vindo sobre ti desde a tua mocidade até agora.
+8 Pelo que o rei se levantou, e se sentou à porta;{S} e avisaram a todo o povo, dizendo:{S} Eis que o rei está sentado à porta.{S} Então todo o povo veio apresentar-se diante do rei.{S} <PESSOA>Ora</PESSOA>,<PESSOA> Israel</PESSOA> havia fugido, cada um para a sua tenda.
+9 Entrementes todo o povo, em todas as tribos de<PESSOA> Israel</PESSOA>, andava altercando entre si, dizendo:{S} O rei nos tirou das mãos de nossos inimigos, e nos livrou das mãos dos filisteus;{S} e agora fugiu da terra por causa de Absalão.
+10 Também Absalão, a quem ungimos sobre nós, morreu na peleja.{S} Agora, pois, porque vos calais, e não fazeis voltar o rei?
+11 Então o <PESSOA>rei Davi</PESSOA> mandou dizer a Zadoque e a Abiatar, sacerdotes:{S} Falai aos anciãos de<PESSOA> Judá</PESSOA>, dizendo:{S} Por que seríeis vós os últimos em tornar a trazer o rei para sua casa?{S} Porque a palavra de todo o Israel tem chegado ao rei, até a sua casa.
+12 Vós sois meus irmãos;{S} meus ossos e minha carne sois vós;{S} por que, pois, seríeis os últimos em tornar a trazer o rei?
+13 Dizei a Amasa:{S} Porventura não és tu meu osso e minha carne?{S} Assim me faça<PESSOA> Deus</PESSOA> e outro tanto, se não fores chefe do exercito diante e mim para sempre, em lugar de Joabe.
+14 Assim moveu ele o coração de todos os homens de<PESSOA> Judá</PESSOA>, como se fosse o de um só homem;{S} e enviaram ao rei, dizendo:{S} Volta, com todos os teus servos.
+15 Então o rei voltou, e chegou até o Jordão;{S} e<PESSOA> Judá</PESSOA> veio a Gilgal, para encontrar-se com o rei, a fim de fazê-lo passar o Jordão.
+16 Ora, apressou-se 
+is_father( Gêra,Simei).
+is_pessoa(Simei).
+is_pessoa( Gêra).
+, benjamita, que era de Baurim, e desceu com os homens de<PESSOA> Judá</PESSOA> a encontrar-se com o <PESSOA>rei Davi</PESSOA>;{S}
+17 e com ele mil homens de Benjamim, como também Ziba, servo da casa de<PESSOA> Saul</PESSOA>, e seus quinze filhos, e seus vinte servos com ele;{S} desceram apressadamente ao Jordão adiante do rei,
+18 atravessando o vau para trazer a casa do rei e para fazer o que aprouvesse a ele.{S} Quando o rei ia passar o Jordão, 
+is_father( Gêra,Simei).
+is_pessoa(Simei).
+is_pessoa( Gêra).
+, se prostrou diante dele,
+19 e lhe disse:{S} Não me impute meu senhor à minha culpa, e não te lembres do que tão perversamente fez teu servo, no dia em que o rei meu senhor saiu de<PESSOA> Jerusalém</PESSOA>;{S} não conserve o rei isso no coração.
+20 Porque eu, teu servo, deveras confesso que pequei;{S} por isso eis que eu sou o primeiro, de toda a casa de<PESSOA> José</PESSOA>, a descer ao encontro do rei meu senhor.
+21 Respondeu 
+is_father( Zeruia,Abisai).
+is_pessoa(Abisai).
+is_pessoa( Zeruia).
+, dizendo:{S} Não há de ser morto Simei por haver amaldiçoado ao ungido do <PESSOA>Senhor</PESSOA>?
+22 Mas <PESSOA>Davi</PESSOA> disse:{S} Que tenho eu convosco, filhos de Zeruia, para que hoje me sejais adversários?{S} Será morto alguém hoje em<LOCAL> Israel</LOCAL>? pois não sei eu que hoje sou rei sobre Israel?
+23 Então disse o rei a Simei:{S} Não morrerás.{S} E o rei lho jurou.
+24 Também 
+is_father(  Saul ,Mefibosete).
+is_pessoa(Mefibosete).
+is_pessoa(  Saul ).
+, desceu a encontrar-se com o rei, e não cuidara dos pés, nem fizera a barba, nem lavara as suas vestes desde o dia em que o rei saíra até o dia em que voltou em paz.
+25 E sucedeu que, vindo ele a Jerusalém a encontrar-se com o rei, este lhe perguntou:{S} Por que não foste comigo, Mefibosete?
+26 Respondeu ele:{S} O rei meu senhor, o meu servo me enganou.{S} Porque o teu servo dizia:{S} Albardarei um jumento, para nele montar e ir com o rei;{S} pois o teu servo é coxo.
+27 E ele acusou falsamente o teu servo diante do rei meu senhor;{S} porém o rei meu senhor é como um anjo de<PESSOA> Deus</PESSOA>;{S} faze, pois, o que bem te parecer.
+28 Pois toda a casa de meu pai não era senão de homens dignos de morte diante do rei meu senhor;{S} contudo, puseste teu servo entre os que comem à tua mesa.{S} E que direito mais tenho eu de clamar ainda ao rei.
+29 Ao que lhe respondeu o rei:{S} Por que falas ainda de teus negócios?{S} Já decidi:{S} Tu e Ziba reparti as terras.
+30 Então disse<PESSOA> Mefibosete</PESSOA> ao rei:{S} Deixe que ele tome tudo, uma vez que o rei meu senhor já voltou em paz à sua casa.
+31 Também Barzilai, o gileadita, desceu de Rogelim, e passou com o rei o Jordão, para acompanhá-lo até a outra banda do rio.
+32 E era Barzilai mui velho, da idade de <VALOR>oitenta anos</VALOR>;{S} e ele tinha provido o rei de víveres enquanto este se demorara em<LOCAL> Maanaim</LOCAL>, pois era homem muito rico.
+33 Disse, pois, o rei a Barzilai:{S} Passa tu comigo e eu te sustentarei em<LOCAL> Jerusalém</LOCAL>, em minha companhia.
+34 Barzilai, porém, respondeu ao rei:{S} Quantos anos viverei ainda, para que suba com o rei a Jerusalém.
+35 <VALOR>Oitenta anos</VALOR> tenho hoje;{S} poderei eu discernir entre e bom e o mau? poderá o teu servo perceber sabor no que comer e beber? poderei eu mais ouvir a voz dos cantores e das cantoras? e por que será o teu servo ainda pesado ao rei meu senhor?
+36 O teu servo passará com o rei até um pouco além do<PESSOA> Jordão</PESSOA>.{S} Por que me daria o rei tal recompensa?
+37 Deixa voltar o teu servo, para que eu morra na minha cidade, junto à sepultura de meu pai e de minha mãe.{S} Mas eis aí o teu servo Quimã;{S} passe ele com o rei meu senhor, e faze-lhe o que for do teu agrado.
+38 Ao que disse o rei:{S} Quimã passará comigo, e eu lhe farei o que te parecer bem, e tudo quanto me pedires te farei.
+39 Havendo, pois, todo o povo passado o Jordão, e tendo passado também o rei, beijou o rei a Barzilai, e o abençoou;{S} e este voltou para o seu lugar.
+40 de ali passou o rei a Gilgal, e Quimã com ele;{S} e todo o povo de<PESSOA> Judá</PESSOA>, juntamente com a metade do povo de<PESSOA> Israel</PESSOA>, conduziu o rei.
+41 Então todos os homens de<PESSOA> Israel</PESSOA> vieram ter com o rei, e lhe disseram:{S} Por que te furtaram nossos irmãos, os homens de<PESSOA> Judá</PESSOA>, e fizeram passar o Jordão o rei e a sua casa, e todos os seus homens com ele?
+42 Responderam todos os homens de<PESSOA> Judá</PESSOA> aos homens de Israel:{S} Porquanto o rei é nosso parente:{S} Por que vos irais por isso.{S} Acaso temos comido à custa do rei, ou nos deu ele algum presente?
+43 Ao que os homens de<PESSOA> Israel</PESSOA> responderam aos homens de Judá:{S} Dez partes temos no rei;{S} mais temos nós em<LOCAL> Davi</LOCAL> do que vós.{S} Por que, pois, fizestes pouca conta de nós.{S} Não foi a nossa palavra a primeira, para tornar a trazer o nosso rei?{S} Porém a palavra dos homens de<PESSOA> Judá</PESSOA> foi mais forte do que a palavra dos homens de<PESSOA> Israel</PESSOA>.

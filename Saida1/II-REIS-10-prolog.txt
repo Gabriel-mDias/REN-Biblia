@@ -1,0 +1,9 @@
+is_pessoa(Jonadabe).
+is_pessoa(Recabe).
+is_pessoa(Jonadabe).
+is_pessoa(Recabe).
+is_pessoa(Jeroboão).
+is_pessoa(Nebate).
+is_father(Recabe,Jonadabe).
+is_father(Recabe,Jonadabe).
+is_father(Nebate,Jeroboão).

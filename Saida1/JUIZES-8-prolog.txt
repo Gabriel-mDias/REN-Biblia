@@ -1,0 +1,9 @@
+is_pessoa(Gideão).
+is_pessoa(Joás).
+is_pessoa(Jerubaal).
+is_pessoa(Joás).
+is_pessoa(Gideão).
+is_pessoa(Joás).
+is_father(Joás,Gideão).
+is_father(Joás,Jerubaal).
+is_father(Joás,Gideão).

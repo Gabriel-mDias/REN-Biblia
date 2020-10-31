@@ -1,0 +1,24 @@
+
+<VALOR>1</VALOR> Todos os servos que estão debaixo do jugo considerem seus senhores dignos de toda honra, para que o nome de<PESSOA> Deus</PESSOA> e a doutrina não sejam blasfemados.
+2 E os que têm senhores crentes não os desprezem, porque são irmãos;{S} antes os sirvam melhor, porque eles, que se utilizam do seu bom serviço, são crentes e amados.{S} Ensina estas coisas.
+3 Se alguém ensina alguma doutrina diversa, e não se conforma com as sãs palavras de nosso <PESSOA>Senhor  Jesus Cristo </PESSOA>, e com a doutrina que é segundo a piedade,
+4 é soberbo, e nada sabe, mas delira acerca de questões e contendas de palavras, das quais nascem invejas, porfias, injúrias, suspeitas maliciosas,
+<VALOR>5</VALOR> disputas de homens corruptos de entendimento, e privados da verdade, cuidando que a piedade é fonte de lucro;{S}
+6 e, de fato, é grande fonte de lucro a piedade com o contentamento.
+7 Porque nada trouxe para este mundo, e nada podemos de aqui levar;{S}
+8 tendo, porém, alimento e vestuário, estaremos com isso contentes.
+9 Mas os que querem tornar-se ricos caem em tentação e em laço, e em muitas concupiscências loucas e nocivas, as quais submergem os homens na ruína e na perdição.
+10 Porque o amor ao dinheiro é raiz de todos os males;{S} e nessa cobiça alguns se desviaram da fé, e se traspassaram a si mesmos com muitas dores.
+11 Mas tu, ó homem de<PESSOA> Deus</PESSOA>, foge destas coisas, e segue a justiça, a piedade, a fé, o amor, a constância, a mansidão.
+12 Peleja a boa peleja da fé, apodera-te da vida eterna, para a qual foste chamado, tendo já feito boa confissão diante de muitas testemunhas.
+13 Diante de<PESSOA> Deus</PESSOA>, que todas as coisas vivifica, e de <PESSOA>Cristo Jesus</PESSOA>, que perante Pôncio Pilatos deu o testemunho da boa confissão, exorto-te
+14 a que guardes este mandamento sem mácula e irrepreensível até a vinda de nosso <PESSOA>Senhor  Jesus Cristo </PESSOA>;{S}
+15 a qual, no tempo próprio, manifestará o bem-aventurado e único soberano, <PESSOA>Rei</PESSOA> dos reis e <PESSOA>Senhor</PESSOA> dos senhores;{S}
+16 aquele que possui, ele só, a imortalidade, e habita em luz inacessível;{S} a quem nenhum dos homens tem visto nem pode ver;{S} ao qual seja honra e poder sempiterno.{S} Amém.
+17 manda aos ricos deste mundo que não sejam altivos, nem ponham a sua esperança na incerteza das riquezas, mas em<LOCAL> Deus</LOCAL>, que nos concede abundantemente todas as coisas para delas gozarmos;{S}
+18 que pratiquem o bem, que se enriqueçam de boas obras, que sejam liberais e generosos,
+19 entesourando para si mesmos um bom fundamento para o futuro, para que possam alcançar a verdadeira vida.
+20 Ó Timóteo, guarda o depósito que te foi confiado, evitando as conversas vãs e profanas e as oposições da falsamente chamada ciência;{S}
+21 a qual professando-a alguns, se desviaram da fé.{S} A graça seja convosco.
+^Z
+{S}II <ORGANIZACAO>TIMÓTEO</ORGANIZACAO>

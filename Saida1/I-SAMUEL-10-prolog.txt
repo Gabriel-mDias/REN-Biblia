@@ -1,0 +1,3 @@
+is_pessoa(Saul).
+is_pessoa(Quis).
+is_father(Quis,Saul).

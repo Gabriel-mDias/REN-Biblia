@@ -1,0 +1,56 @@
+
+1 Foram estes os filhos de Israel:{S} Rúben, Simeão, Levi, Judá, Issacar, Zebulom,
+2 Dã, José, Benjamim, Naftali, Gade e Aser.
+<VALOR>3</VALOR> Os filhos de Judá:{S} Er, Onã e Selá;{S} estes três lhe nasceram da filha de Suá, a cananéia.{S} E Er, o primogênito de<PESSOA> Judá</PESSOA>, foi mau aos olhos do <PESSOA>Senhor</PESSOA>, que o matou:
+4 Tamar, nora de<PESSOA> Judá</PESSOA>, lhe deu à luz<PESSOA> Pérez</PESSOA> e<PESSOA> Zerá</PESSOA>.{S} Ao todo os filhos de<PESSOA> Judá</PESSOA> foram cinco.
+<VALOR>5</VALOR> Os filhos de Perez:{S} Hezrom e Hamul:
+<VALOR>6</VALOR> Os filhos de Zerá:{S} <PESSOA>Zinri</PESSOA>,<PESSOA> Etã</PESSOA>,<PESSOA> Hemã</PESSOA>,<PESSOA> Calcol</PESSOA> e<PESSOA> Dara</PESSOA>;{S} cinco ao todo.
+<VALOR>7</VALOR> Os filhos de Carmi:{S} Acar, o perturbador de<PESSOA> Israel</PESSOA>, que pecou no anátema.
+8 De Etã foi <PESSOA>filho Azarias</PESSOA>.
+<VALOR>9</VALOR> Os filhos que nasceram a Hezrom:{S} Jerameel, Rão e Quelubai.
+10 Rão foi pai de Aminadabe, e Aminadabe de Nasom, príncipe dos filhos de<PESSOA> Judá</PESSOA>;{S}
+11 Nason foi pai de Salmom, e Salmom de Boaz;{S}
+12 Boaz foi pai de Obede, e Obede de<PESSOA> Jessé</PESSOA>;{S}
+13 a <PESSOA>Jessé</PESSOA> nasceram<PESSOA> Eliabe</PESSOA>, seu primogênito, Abinadabe o segundo, Siméia o terceiro,
+14 Netanel o quarto, Radai o quinto,
+15 Ozen o sexto e<PESSOA> Davi</PESSOA> o sétimo;{S}
+16 e foram suas <PESSOA>irmãs Zeruia</PESSOA> e<PESSOA> Abigail</PESSOA>.{S} Os filhos de Zeruia foram:{S} Abisai, Joabe e Asael, três.
+17<PESSOA> Abigail</PESSOA> deu à luz Amasa;{S} o pai de Amasa foi Jeter, o ismaelita.
+18 A <PESSOA>Calebe</PESSOA>, filho de<PESSOA> Hezrom</PESSOA>, nasceram filhos de Azuba, sua mulher, e de Jeriote;{S} e os filhos dela foram estes:{S} Jeser, Sobabe e Ardom.
+19 Morreu Azuba;{S} e Calebe tomou para si Efrata, da qual lhe nasceu Hur.
+20 Hur foi pai de îri, e îri de Bezaleel.
+21 Então Hezrom, tendo já <VALOR>sessenta anos</VALOR>, tomou por mulher a filha de Maquir, pai de Gileade;{S} e conheceu-a, e ela lhe deu à luz Segube.
+22 Segube foi pai de<PESSOA> Jair</PESSOA>, o qual veio a ter vinte e três cidades na terra de Gileade.
+23 Mas Gesur e Arã tomaram deles Havote-Jair, e Quenate e suas aldeias, sessenta cidades.{S} Todos estes foram filhos de Maquir, pai de Gileade.
+24 Depois da morte de Hezrom, em<LOCAL> Calebe de Efrata</LOCAL>,<LOCAL> Abia</LOCAL>, mulher de Hezrom, lhe deu Asur, pai de Tecoa.
+<VALOR>25</VALOR> Os filhos de Jerameel, primogênito de Jezrom, foram:{S} Rão, o primogênito, Buna, Orem, Ozem e Aías.
+26 Jerameel teve outra mulher, cujo nome era Atara, a qual foi mãe de Onã.
+<VALOR>27</VALOR> Os filhos de Rão, primogênito de Jerameel, foram:{S} Maaz, Jamim e Equer.
+<VALOR>28</VALOR> Os filhos de Onã, foram:{S} Samai e Jada;{S} e os filhos de Samai:{S} Nadabe e Abisur.
+29 O nome da mulher de Abisur era Abiail, que lhe deu à luz Abã e Molide.
+<VALOR>30</VALOR> Os filhos de Nadabe:{S} Selede e Apaim;{S} e Selede morreu sem filhos.
+31 O filho de Apaim:{S} Isi;{S} o filho de Isi:{S} Sesã;{S} o filho de Sesã:{S} Alai.
+<VALOR>32</VALOR> Os filhos de Jada, irmão de Samai:{S} Jeter e Jônatas;{S} e Jeter morreu sem filhos.
+<VALOR>33</VALOR> Os filhos de Jônatas:{S} Pelete e Zaza.{S} Esses foram os filhos de Jerameel.
+34 Sesã não teve filhos, mas filhas.{S} E tinha Sesã um servo egípcio, cujo nome era Jará:
+35 Deu, pois, Sesã sua filha por mulher a Jará, seu servo;{S} e ela lhe deu à luz Atai.
+36 Atai foi pai de Natã, Natã de Zabade,
+37 Zabade de Eflal, Eflal de Obede,
+38 Obede de Jeú, Jeú de Azarias,
+39 Azarias de Helez, Helez de Eleasá,
+40 Eleasá de Sismai, Sismai de Salum,
+41 Salum de Jecamias, e Jecamias de Elisama.
+<VALOR>42</VALOR> Os filhos de Calebe, irmão de Jerameel:{S} Messa, seu primogênito, que foi o pai de Zife, e os filhos de Maressa, pai de Hebrom.
+<VALOR>43</VALOR> Os filhos de Hebrom:{S} Corá, Tapua, Requem e Sema.
+44 Sema foi pai de Raão, pai de Jorqueão;{S} e Requem foi pai de Samai.
+45 O filho de Samai foi Maom;{S} e Maom foi pai de Bete-Zur.
+46 Efá, a concubina de Calebe, teve Harã, Moza e Gazez;{S} e Harã foi pai de Gazez.
+<VALOR>47</VALOR> Os filhos de Jadai:{S} Regem, Jotão, Gesã, Pelete, Efá e Saafe.
+48 Maacá, concubina de Calebe, deu à luz Seber e Tiraná.
+49 Deu à luz também Saafe, pai de Madmana, e Seva, pai de Macbena e de Gibeá;{S} e a filha de Calebe foi Acsa.
+<VALOR>50</VALOR> Estes foram os filhos de <PESSOA>Calebe</PESSOA>, filho de<PESSOA> Hur</PESSOA>, o primogênito de Efrata:{S} Sobal, pai de Quiriate-Jearim,
+51 Salma, pai de<PESSOA> Belém</PESSOA>, e Harefe, pai de Bete-Gader.
+<VALOR>52</VALOR> Os filhos de Sobal, pai de Quiriate-Jearim, foram:{S} Haroé e metade dos menuotes.
+<VALOR>53</VALOR> As famílias de Quiriate-Jearim: os itreus, os puteus, os sumateus e os misraeus;{S} destes saíram os zorateus e os estaloeus.
+<VALOR>54</VALOR> Os filhos de Salma:{S} Belém, os netofatitas, Atarote-Bete-Joabe, metade dos manaatitas e os zoritas.
+<VALOR>55</VALOR> As famílias dos escribas que habitavam em<LOCAL> Jabes</LOCAL>: os tiratitas, os simeatitas e os sucatitas;{S} estes são os queneus que descenderam de Hamate, pai da casa de Recabe.

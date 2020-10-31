@@ -1,0 +1,50 @@
+
+1 Foi então Roboão para Siquém, porque todo o Israel se congregara ali para fazê-lo rei.
+2 E 
+is_father( Nebate,Jeroboão).
+is_pessoa(Jeroboão).
+is_pessoa( Nebate).
+, que estava ainda no<LOCAL> Egito</LOCAL>, para onde fugira da presença do <PESSOA>rei Salomão</PESSOA>, ouvindo isto, voltou do<PESSOA> Egito</PESSOA>.
+3 E mandaram chamá-lo;{S} Jeroboão e toda a congregação de<PESSOA> Israel</PESSOA> vieram, e falaram a Roboão, dizendo:
+4 Teu pai agravou o nosso jugo;{S} agora, pois, alivia a dura servidão e o pesado juro que teu pai nos impôs, e nós te serviremos.
+5 Ele lhes respondeu:{S} Ide-vos até o terceiro dia, e então voltai a mim.{S} E o povo se foi.
+6 Teve o <PESSOA>rei Roboão</PESSOA> conselho com os anciãos que tinham assistido diante de<PESSOA> Salomão</PESSOA>, seu pai, quando este ainda vivia, e perguntou-lhes: como aconselhais vós que eu responda a este povo?
+<VALOR>7</VALOR> Eles lhe disseram:{S} Se hoje te tornares servo deste povo, e o servires, e, respondendo-lhe, lhe falares boas palavras, eles serão para sempre teus servos.
+8 Ele, porém, deixou o conselho que os anciãos lhe deram, e teve conselho com os mancebos que haviam crescido com ele, e que assistiam diante dele,
+9 perguntando-lhes:{S} Que aconselhais vós que respondamos a este povo, que me disse:{S} Alivia o jugo que teu pai nos impôs?
+10 E os mancebos que haviam crescido com ele responderam-lhe:{S} A este povo que te falou, dizendo:{S} Teu pai fez pesado o nosso jugo, mas tu o alivia de sobre nós;{S} assim lhe falarás:{S} Meu dedo mínimo é mais grosso do que os lombos de meu pai.
+11 Assim que, se meu pai vos carregou de um jugo pesado, eu ainda aumentarei o vosso jugo;{S} meu pai vos castigou com açoites;{S} eu, porém, vos castigarei com escorpiões.
+12 Veio, pois, Jeroboão com todo o povo a Roboão ao terceiro dia, como o rei havia ordenado, dizendo:{S} Voltai a mim ao terceiro dia.
+13 E o rei respondeu ao povo asperamente e, deixando o conselho que os anciãos lhe haviam dado,
+14 falou-lhe conforme o conselho dos mancebos, dizendo:{S} Meu pai agravou o vosso jugo, porém eu ainda o aumentarei;{S} meu pai vos castigou com açoites, porém eu vos castigarei com escorpiões.
+15 O rei, pois, não deu ouvidos ao povo;{S} porque esta mudança vinha do <PESSOA>Senhor</PESSOA>, para confirmar a palavra que o <PESSOA>Senhor</PESSOA> dissera por intermédio de Aías, o silonita, a 
+is_father( Nebate,Jeroboão).
+is_pessoa(Jeroboão).
+is_pessoa( Nebate).
+.
+16 Vendo, pois, todo o Israel que o rei não lhe dava ouvidos, respondeu-lhe, dizendo:{S} Que parte temos nós em<LOCAL> Davi</LOCAL>?{S} Não temos herança no filho de<PESSOA> Jessé</PESSOA>.{S} Às tuas tendas, ó Israel!{S} Agora olha por tua casa, ó Davi!{S} Então Israel se foi para as suas tendas.
+17 (Mas quanto aos filhos de<PESSOA> Israel</PESSOA> que habitavam nas cidades de<PESSOA> Judá</PESSOA>, sobre eles reinou Roboão.)
+18 Então o <PESSOA>rei Roboão</PESSOA> enviou-lhes Adorão, que estava sobre a leva de tributários servis;{S} e todo o Israel o apedrejou, e ele morreu.{S} Pelo que o <PESSOA>rei Roboão</PESSOA> se apressou a subir ao seu carro e fugiu para<PESSOA> Jerusalém</PESSOA>.
+19 Assim Israel se rebelou contra a casa de<PESSOA> Davi</PESSOA> até o dia de hoje.
+20 Sucedeu então que, ouvindo todo o Israel que Jeroboão tinha voltado, mandaram chamá-lo para a congregação, e o fizeram rei sobre todo o Israel;{S} e não houve ninguém que seguisse a casa de<PESSOA> Davi</PESSOA>, senão somente a tribo de<PESSOA> Judá</PESSOA>.
+21 Tendo Roboão chegado a Jerusalém, convocou toda a casa de<PESSOA> Judá</PESSOA> e a tribo de Benjamim, cento e oitenta mil homens escolhidos, destros para a guerra, para pelejarem contra a casa de<PESSOA> Israel</PESSOA> a fim de restituírem o reino a 
+is_father(  Salomão ,Roboão).
+is_pessoa(Roboão).
+is_pessoa(  Salomão ).
+.
+22 Veio, porém, a palavra de<PESSOA> Deus</PESSOA> a Semaías, homem de<PESSOA> Deus</PESSOA>, dizendo:
+23 Fala a 
+is_father(  Salomão ,Roboão).
+is_pessoa(Roboão).
+is_pessoa(  Salomão ).
+, rei de<PESSOA> Judá</PESSOA>, e a toda a casa de<PESSOA> Judá</PESSOA> e de Benjamim, e ao resto do povo, dizendo:
+24 Assim diz o <PESSOA>Senhor</PESSOA>:{S} Não subireis, nem pelejareis contra vossos irmãos, os filhos de<PESSOA> Israel</PESSOA>;{S} volte cada um para a sua casa, porque de mim proveio isto.{S} E ouviram a palavra do <PESSOA>Senhor</PESSOA>, e voltaram segundo o seu mandado.
+25 Jeroboão edificou Siquém, na região montanhosa de Efraim, e habitou ali;{S} depois, saindo de ali, edificou Penuel.
+26 Disse<PESSOA> Jeroboão</PESSOA> no seu coração:{S} Agora tornará o reino para a casa de<PESSOA> Davi</PESSOA>.
+27 Se este povo subir para fazer sacrifícios na casa do <PESSOA>Senhor</PESSOA>, em<LOCAL> Jerusalém</LOCAL>, o seu coração se tornará para o seu senhor, Roboão, rei de<PESSOA> Judá</PESSOA>;{S} e, matando-me, voltarão para Roboão, rei de<PESSOA> Judá</PESSOA>.
+28 Pelo que o rei, tendo tomado conselho, fez dois bezerros de ouro, e disse ao povo:{S} Basta de subires a Jerusalém;{S} eis aqui teus deuses, ó<PESSOA> Israel</PESSOA>, que te fizeram subir da terra do<PESSOA> Egito</PESSOA>.
+29 E pôs um em<LOCAL> Betel</LOCAL>, e o outro em<LOCAL> Dã</LOCAL>.
+30 Ora, isto se tornou em pecado;{S} pois que o povo ia até<LOCAL> Dã</LOCAL> para adorar o ídolo.
+31 Também fez casas nos altos, e constituiu sacerdotes dentre o povo, que não eram dos filhos de<PESSOA> Levi</PESSOA>.
+32 E Jeroboão ordenou uma festa no oitavo mês, no dia décimo quinto do mês, como a festa que se celebrava em<LOCAL> Judá</LOCAL>, e sacrificou no altar.{S} Semelhantemente fez em<LOCAL> Betel</LOCAL>, sacrificando aos bezerros que tinha feito;{S} também em<LOCAL> Betel</LOCAL> estabeleceu os sacerdotes dos altos que fizera.
+33 Sacrificou, pois, no altar, que fizera em<LOCAL> Betel</LOCAL>, no dia décimo quinto do oitavo mês, mês que ele tinha escolhido a seu bel prazer;{S} assim ordenou uma festa para os filhos de<PESSOA> Israel</PESSOA>, e sacrificou no altar, queimando incenso.

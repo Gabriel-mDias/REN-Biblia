@@ -1,0 +1,6 @@
+is_pessoa(Hamã).
+is_pessoa(Hamedata).
+is_pessoa(Hamã).
+is_pessoa(Hamedata).
+is_father(Hamedata,Hamã).
+is_father(Hamedata,Hamã).

@@ -1,0 +1,11 @@
+
+1<PESSOA> Paulo</PESSOA>,<PESSOA> Silvano</PESSOA> e<PESSOA> Timóteo</PESSOA>, à igreja dos tessalonicenses, em<LOCAL> Deus Pai</LOCAL> e no<LOCAL> Senhor Jesus Cristo</LOCAL>:{S} Graça e paz vos sejam dadas.
+2 Sempre damos graças a Deus por vós todos, fazendo menção de vós em nossas orações,
+3 lembrando-nos sem cessar da vossa obra de fé, do vosso trabalho de amor e da vossa firmeza de esperança em nosso <PESSOA>Senhor  Jesus Cristo </PESSOA>, diante de nosso<PESSOA> Deus</PESSOA> e <PESSOA>Pai</PESSOA>,
+4 conhecendo, irmãos, amados de<PESSOA> Deus</PESSOA>, a vossa eleição;{S}
+5 porque o nosso evangelho não foi a vós somente em palavras, mas também em poder, e no<LOCAL> Espírito Santo</LOCAL> e em plena convicção, como bem sabeis quais fomos entre vós por amor de vós.
+6 E vós vos tornastes imitadores nossos e do <PESSOA>Senhor</PESSOA>, tendo recebido a palavra em muita tribulação, com gozo do Espírito Santo.
+7 De sorte que vos tornastes modelo para todos os crentes na<LOCAL> Macedônia</LOCAL> e na<LOCAL> Acaia</LOCAL>.
+8 Porque, partindo de vós fez-se ouvir a palavra do <PESSOA>Senhor</PESSOA>, não somente na<LOCAL> Macedônia</LOCAL> e na<LOCAL> Acaia</LOCAL>, mas também em todos os lugares a vossa fé para com<PESSOA> Deus</PESSOA> se divulgou, de tal maneira que não temos necessidade de falar coisa alguma;{S}
+9 porque eles mesmos anunciam de nós qual a entrada que tivemos entre vós, e como vos convertestes dos ídolos a Deus, para servirdes ao Deus vivo e verdadeiro,
+10 e esperardes dos céus a seu <PESSOA>Filho</PESSOA>, a quem ele ressuscitou dentre os mortos, a saber, Jesus, que nos livra da ira vindoura.

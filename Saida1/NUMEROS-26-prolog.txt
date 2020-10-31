@@ -1,0 +1,6 @@
+is_pessoa(Zelofeade).
+is_pessoa(Hefer).
+is_pessoa(Calebe).
+is_pessoa(Jefoné).
+is_father(Hefer,Zelofeade).
+is_father(Jefoné,Calebe).

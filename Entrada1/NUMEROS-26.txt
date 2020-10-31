@@ -1,0 +1,66 @@
+
+1 Depois daquela praga disse o <PESSOA>Senhor</PESSOA> a Moisés e a Eleazar, filho do sacerdote Arão:
+2 Tomai a soma de toda a congregação dos filhos de<PESSOA> Israel</PESSOA>, da idade de <VALOR>vinte anos</VALOR> para cima, segundo as casas e seus pais, todos os que em<LOCAL> Israel</LOCAL> podem sair à guerra.
+3 Falaram-lhes, pois,<PESSOA> Moisés</PESSOA> e<PESSOA> Eleazar</PESSOA> o sacerdote, nas planícies de Moabe, junto ao Jordão, na altura de<PESSOA> Jericó</PESSOA>, dizendo:
+4 Contai o povo da idade de <VALOR>vinte anos</VALOR> para cima;{S} como o <PESSOA>Senhor</PESSOA> ordenara a Moisés e aos filhos de<PESSOA> Israel</PESSOA> que saíram da terra do<PESSOA> Egito</PESSOA>.
+5 Rúben, o primogênito de<PESSOA> Israel</PESSOA>;{S} os filhos de Rúben: de Hanoque, a família dos hanoquitas;{S} de Palu, a família dos paluítas;{S}
+6 de Hezrom, a família dos hezronitas;{S} de Carmi, a família dos carmitas.
+7 Estas são as famílias dos rubenitas;{S} os que foram deles contados eram quarenta e três mil setecentos e trinta.
+8 E o filho de Palu:{S} Eliabe.
+<VALOR>9</VALOR> Os filhos de Eliabe:{S} Nemuel, Dato e Abirão.{S} Estes são aqueles Datã e Abirão que foram chamados da congregação, os quais contenderam contra<PESSOA> Moisés</PESSOA> e contra<PESSOA> Arão</PESSOA> na companhia de<ORGANIZACAO> Corá</ORGANIZACAO>, quando contenderam contra o <PESSOA>Senhor</PESSOA>,
+10 e a terra abriu a boca, e os tragou juntamente com Corá, quando pereceu aquela companhia;{S} quando o fogo devorou duzentos e cinqüenta homens, os quais serviram de advertência.
+11 Todavia os filhos de Corá não morreram.
+<VALOR>12</VALOR> Os filhos de<PESSOA> Simeão</PESSOA>, segundo as suas famílias: de Nemuel, a família dos nemuelitas;{S} de Jamim, a família dos jaminitas;{S} de Jaquim, a família dos jaquinitas;{S}
+13 de Zerá, a família dos zeraítas;{S} de<PESSOA> Saul</PESSOA>, a família dos saulitas.
+14 Estas são as famílias dos simeonitas, vinte e dois mil e duzentos.
+<VALOR>15</VALOR> Os filhos de Gade, segundo as suas famílias: de Zefom, a família dos zefonitas;{S} de Hagui, a família dos haguitas;{S} de Suni, a família dos sunitas;{S}
+16 de Ozni, a família dos oznitas;{S} de Eri, a família dos eritas;{S}
+17 de Arode, a família dos aroditas;{S} de Areli, a família dos arelitas.
+18 Estas são as famílias dos filhos de Gade, segundo os que foram deles contados, quarenta mil e quinhentos.
+<VALOR>19</VALOR> Os filhos de Judá:{S} Er e Onã;{S} mas Er e Onã morreram na terra de<PESSOA> Canaã</PESSOA>.
+20 Assim os filhos de<PESSOA> Judá</PESSOA>, segundo as suas famílias, eram: de Selá, a família dos selanitas;{S} de<PESSOA> Pérez</PESSOA>, a família dos perezitas;{S} de Zerá, a família dos zeraítas.
+21 E os filhos de<PESSOA> Pérez</PESSOA> eram: de Hezrom, a família dos hezronitas;{S} de Hamul, a família dos hamulitas.
+22 Estas são as famílias de<PESSOA> Judá</PESSOA>, segundo os que foram deles contados, setenta e seis mil e quinhentos.
+<VALOR>23</VALOR> Os filhos de Issacar, segundo as suas famílias: de Tola, a família dos tolaítas;{S} de Puva, a família dos puvitas;{S}
+24 de Jasube, a família dos jasubitas;{S} de Sinrom, a família dos sinronitas.
+25 Estas são as famílias de Issacar, segundo os que foram deles contados, sessenta e quatro mil e trezentos:
+<VALOR>26</VALOR> Os filhos de Zebulom, segundo as suas famílias: de Serede, a família dos sereditas;{S} de Elom, a família dos elonitas;{S} de Jaleel, a família dos jaleelitas.
+27 Estas são as famílias dos zebulonitas, segundo os que foram deles contados, sessenta mil e quinhentos.
+<VALOR>28</VALOR> Os filhos de<PESSOA> José</PESSOA>, segundo as suas famílias:{S} Manassés e Efraim.
+<VALOR>29</VALOR> Os filhos de Manassés: de Maquir, a família dos maquiritas;{S} e Maquir gerou a Gileade;{S} de Gileade, a família dos gileaditas.
+<VALOR>30</VALOR> Estes são os filhos de Gileade: de Iezer, a família dos iezritas;{S} de Heleque, a família dos helequitas;{S}
+31 de Asriel, a família dos asrielitas;{S} de Siquém, a família dos siquemitas;{S}
+32 e de Semida, a família dos semidaítas;{S} e de Hefer, a família dos heferitas.
+33 Ora, <PESSOA>Zelofeade</PESSOA>, filho de<PESSOA> Hefer</PESSOA>, não tinha filhos, senão filhas;{S} e as filhas de Zelofeade chamavam-se Macla, Noa, Hogla, Milca e Tirza.
+34 Estas são as famílias de Manassés;{S} os que foram deles contados, eram cinqüenta e dois mil e setecentos.
+<VALOR>35</VALOR> Estes são os filhos de Efraim, segundo as suas famílias: de Sutela, a família dos sutelaítas;{S} de Bequer, a família dos bequeritas;{S} de Taã, a família dos taanitas.
+36 E estes são os filhos de Sutela: de Erã, a família dos eranitas.
+37 Estas são as famílias dos filhos de Efraim, segundo os que foram deles contados, trinta e dois mil e quinhentos.{S} Estes são os filhos de<PESSOA> José</PESSOA>, segundo as suas famílias.
+<VALOR>38</VALOR> Os filhos de Benjamim, segundo as suas famílias: de Belá, a família dos belaítas;{S} de Asbel, a família dos asbelitas;{S} de Airão, a família dos airamitas;{S}
+39 de Sefufã, a família dos sufamitas;{S} de Hufão, a família dos hufamitas.
+40 E os filhos de Belá eram Arde e Naamã: de Arde a família dos arditas;{S} de Naamã, a família dos naamitas.
+<VALOR>41</VALOR> Estes são os filhos de Benjamim, segundo as suas famílias;{S} os que foram deles contados, eram quarenta e cinco mil e seiscentos.
+<VALOR>42</VALOR> Estes são os filhos de Dã, segundo as suas famílias: de Suão a família dos suamitas.{S} Estas são as famílias de Dã, segundo as suas famílias.
+<VALOR>43</VALOR> Todas as famílias dos suamitas, segundo os que foram deles contados, eram sessenta e quatro mil e quatrocentos.
+<VALOR>44</VALOR> Os filhos de Aser, segundo as suas famílias: de Imná, a família dos imnitas;{S} de Isvi, a família dos isvitas;{S} de Berias, a família dos beritas.
+45 Dos filhos de Berias: de Heber, a família dos heberitas;{S} de Malquiel, a família dos malquielitas.
+46 E a filha de Aser chamava-se Sera.
+47 Estas são as famílias dos filhos de Aser, segundo os que foram deles contados, cinqüenta e três mil e quatrocentos.
+<VALOR>48</VALOR> Os filhos de Naftali, segundo as suas famílias: de Jazeel, a família dos jazeelitas;{S} de Guni, a família dos gunitas;{S}
+49 de Jezer, a família dos jezeritas;{S} de Silém, a família dos silemitas.
+50 Estas são as famílias de Naftali, segundo as suas famílias;{S} os que foram deles contados, eram quarenta e cinco mil e quatrocentos.
+<VALOR>51</VALOR> Estes são os que foram contados dos filhos de<PESSOA> Israel</PESSOA>, seiscentos e um mil setecentos e trinta.
+52 Disse mais o senhor a Moisés:
+53 A estes se repartirá a terra em herança segundo o número dos nomes.
+54 À tribo de muitos darás herança maior, e à de poucos darás herança menor;{S} a cada qual se dará a sua herança segundo os que foram deles contados.
+55 Todavia a terra se repartirá por sortes;{S} segundo os nomes das tribos de seus pais a herdarão.
+56 Segundo sair a sorte, se repartirá a herança deles entre as tribos de muitos e as de poucos.
+57 Também estes são os que foram contados dos levitas, segundo as suas famílias: de<PESSOA> Gérson</PESSOA>, a família dos gersonitas;{S} de Coate, a família dos coatitas;{S} de Merári, a família os meraritas.
+58 Estas são as famílias de Levi: a família dos libnitas, a família dos hebronitas, a família dos malitas, a família dos musitas, a família dos coraítas.{S} Ora, Coate gerou a Anrão.
+59 E a mulher de Anrão chamava-se Joquebede, filha de<PESSOA> Levi</PESSOA>, a qual nasceu a Levi no<LOCAL> Egito</LOCAL>;{S} e de Anrão ela teve<PESSOA> Arão</PESSOA> e<PESSOA> Moisés</PESSOA>, e Miriã, irmã deles.
+60 E a <PESSOA>Arão</PESSOA> nasceram<PESSOA>  Nadabe </PESSOA> e<PESSOA>  Abiú </PESSOA>, Eleazar e<PESSOA> Itamar</PESSOA>.
+61 Mas Nadabe e Abiú morreram quando ofereceram fogo estranho perante o <PESSOA>Senhor</PESSOA>.
+62 E os que foram deles contados eram vinte e três mil, todos os homens da idade de um mês para cima;{S} porque não foram contados entre os filhos de<PESSOA> Israel</PESSOA>, porquanto não lhes foi dada herança entre os filhos de<PESSOA> Israel</PESSOA>.
+<VALOR>63</VALOR> Esses são os que foram contados por<PESSOA> Moisés</PESSOA> e<PESSOA> Eleazar</PESSOA>, o sacerdote, que contaram os filhos de<PESSOA> Israel</PESSOA> nas planícies de Moabe, junto ao Jordão, na altura de<PESSOA> Jericó</PESSOA>.
+64 Entre esses, porém, não se achava nenhum daqueles que tinham sido contados por<PESSOA> Moisés</PESSOA> e<PESSOA> Arão</PESSOA>, o sacerdote, quando contaram os filhos de<PESSOA> Israel</PESSOA> no deserto de<PESSOA> Sinai</PESSOA>.
+65 Porque o senhor dissera deles:{S} Certamente morrerão no deserto;{S} pelo que nenhum deles ficou, senão <PESSOA>Calebe</PESSOA>, filho de<PESSOA> Jefoné</PESSOA>, e<PESSOA> Josué</PESSOA>, filho de em um.

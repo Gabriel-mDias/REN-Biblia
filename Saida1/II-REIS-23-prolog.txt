@@ -1,0 +1,9 @@
+is_pessoa(Jeroboão).
+is_pessoa(Nebate).
+is_pessoa(Jeoacaz).
+is_pessoa(Josias).
+is_pessoa(Eliaquim).
+is_pessoa(Josias).
+is_father(Nebate,Jeroboão).
+is_father(Josias,Jeoacaz).
+is_father(Josias,Eliaquim).

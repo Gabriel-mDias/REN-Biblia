@@ -1,0 +1,6 @@
+is_pessoa(Zedequias).
+is_pessoa(Josias).
+is_pessoa(Jeconias).
+is_pessoa(Jeoiaquim).
+is_father(Josias,Zedequias).
+is_father(Jeoiaquim,Jeconias).

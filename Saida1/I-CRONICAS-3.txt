@@ -1,0 +1,33 @@
+
+<VALOR>1</VALOR> Estes foram os filhos de<PESSOA> Davi</PESSOA> que lhe nasceram em<LOCAL> Hebrom</LOCAL>: o primogênito Amnom, de Ainoã, a jizreelita;{S} o segundo Daniel, de<PESSOA> Abigail</PESSOA>, a carmelita;{S}
+2 O terceiro 
+is_father( Maacá,Absalão).
+is_pessoa(Absalão).
+is_pessoa( Maacá).
+, filha de Talmai, rei de Gesur;{S} o quarto 
+is_father( Hagite,Adonias).
+is_pessoa(Adonias).
+is_pessoa( Hagite).
+;{S}
+3 O quinto Sefatias, de Abital;{S} o sexto Itreão, de Eglá, sua mulher.
+<VALOR>4</VALOR> Seis lhe nasceram em<LOCAL> Hebrom</LOCAL>, onde reinou <VALOR>sete anos</VALOR> e seis meses;{S} e reinou <VALOR>trinta e três anos</VALOR> em<LOCAL> Jerusalém</LOCAL>.
+<VALOR>5</VALOR> Estes lhe nasceram em<LOCAL> Jerusalém</LOCAL>:{S} <PESSOA>Siméia</PESSOA>,<PESSOA> Sobabe</PESSOA>,<PESSOA> Natã</PESSOA> e<PESSOA> Salomão</PESSOA>;{S} estes quatro lhe nasceram de Bate-Sua, filha de Amiel.
+6 Nasceram-lhe mais:{S} Ibar, Elisama, Elifelete,
+7 Nogá, Nefegue, Jafia,
+8 Elisama, Eliadá e Elifelete, nove.
+<VALOR>9</VALOR> Todos estes foram filhos de<PESSOA> Davi</PESSOA>, afora os filhos das concubinas;{S} e Tamar foi irmã deles.
+10 <PESSOA>Filho de Salomão</PESSOA> foi Roboão, de quem foi <PESSOA>filho Abias</PESSOA>, de quem foi <PESSOA>filho Asa</PESSOA>, de quem foi <PESSOA>filho Jeosafá</PESSOA>,
+11 de quem foi <PESSOA>filho Jorão</PESSOA>, de quem foi <PESSOA>filho Acazias</PESSOA>, de quem foi <PESSOA>filho Joás</PESSOA>,
+12 de quem foi <PESSOA>filho Amazias</PESSOA>, de quem foi <PESSOA>filho Jotão</PESSOA>,
+13 de quem foi <PESSOA>filho Acaz</PESSOA>, de quem foi <PESSOA>filho Ezequias</PESSOA>, de quem foi <PESSOA>filho Manassés</PESSOA>,
+14 de quem foi <PESSOA>filho Amom</PESSOA>, e de quem foi <PESSOA>filho Josias</PESSOA>.
+<VALOR>15</VALOR> Os filhos de Josias: o primogênito Joanã, o segundo Jeoiaquim, o terceiro Zedequias, o quarto Salum.
+<VALOR>16</VALOR> Os filhos de Jeoiaquim:{S} Jeconias, seu filho, e Zedequias, seu filho.
+<VALOR>17</VALOR> Os filhos de Jeconias, o deportado:{S} Sealtiel, seu filho,
+18 Malquirão, Pedaías, Senazar, Jecamias, Hosama e Nedabias.
+<VALOR>19</VALOR> Os filhos de Pedaías:{S} Zorobabel e Simei;{S} e os filhos de Zorobabel:{S} Mesulão e Hananias, e Selomite, irmã destes;{S}
+20 e Hasubá, Oel, Berequias, Hasadias e Jusabe-Hesede, cinco.
+21 Hananias foi pai de Pelatias;{S} Pelatias de Jesaías;{S} Jesaías de Refaías;{S} Refaías de Arnã;{S} Arnã de Obadias;{S} e Obadias de Secanias.
+<VALOR>22</VALOR> Os filhos de Secanias:{S} Semaías e os filhos deste:{S} Hatus, Igal, Bariá, Nearias e Safate, seis.
+<VALOR>23</VALOR> Os filhos de Nearias:{S} Elioenai, Ezequias e Azricão, três.
+24 E os filhos de Elioenai:{S} Hodavias, Eliasibe, Pelaías, Acube, Joanã, Delaías e Anani, sete.

@@ -1,0 +1,15 @@
+is_pessoa(Acã).
+is_pessoa(Carmi).
+is_pessoa(Zabdi).
+is_pessoa(Zerá).
+is_pessoa(Acã).
+is_pessoa(Carmi).
+is_pessoa(Zabdi).
+is_pessoa(Zerá).
+is_pessoa(Acã).
+is_pessoa(Zerá).
+is_father(Carmi,Acã).
+is_father(Zerá,Zabdi).
+is_father(Carmi,Acã).
+is_father(Zerá,Zabdi).
+is_father(Zerá,Acã).

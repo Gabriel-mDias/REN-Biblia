@@ -1,0 +1,19 @@
+
+<VALOR>1</VALOR> Palavras do pregador, filho de<PESSOA> Davi</PESSOA>, rei em<LOCAL> Jerusalém</LOCAL>.
+2 Vaidade de vaidades, diz o pregador;{S} vaidade de vaidades, tudo é vaidade.
+3 Que proveito tem o homem, de todo o seu trabalho, com que se afadiga debaixo do sol?
+4 Uma geração vai-se, e outra geração vem, mas a terra permanece para sempre.
+5 O sol nasce, e o sol se põe, e corre de volta ao seu lugar de onde nasce.
+6 O vento vai para o sul, e faz o seu giro vai para o norte;{S} volve-se e revolve-se na sua carreira, e retoma os seus circuitos.
+<VALOR>7</VALOR> Todos os ribeiros vão para o mar, e contudo o mar não se enche;{S} ao lugar para onde os rios correm, para ali continuam a correr.
+<VALOR>8</VALOR> Todas as coisas estão cheias de cansaço;{S} ninguém o pode exprimir: os olhos não se fartam de ver, nem os ouvidos se enchem de ouvir.
+9 O que tem sido, isso é o que há de ser;{S} e o que se tem feito, isso se tornará a fazer;{S} nada há que seja novo debaixo do sol.
+10 Há alguma coisa de que se possa dizer:{S} Voê, isto é novo? ela já existiu nos séculos que foram antes de nós.
+11 Já não há lembrança das gerações passadas;{S} nem das gerações futuras haverá lembrança entre os que virão depois delas.
+12 Eu, o pregador, fui rei sobre<PESSOA> Israel</PESSOA> em<LOCAL> Jerusalém</LOCAL>.
+13 E apliquei o meu coração a inquirir e a investigar com sabedoria a respeito de tudo quanto se faz debaixo do céu;{S} essa enfadonha ocupação deu<PESSOA> Deus</PESSOA> aos filhos dos homens para nela se exercitarem.
+14 Atentei para todas as obras que se e fazem debaixo do sol;{S} e eis que tudo era vaidade e desejo vão.
+15 O que é torto não se pode endireitar;{S} o que falta não se pode enumerar.
+16 Falei comigo mesmo, dizendo:{S} Eis que eu me engrandeci, e sobrepujei em sabedoria a todos os que houve antes de mim em<LOCAL> Jerusalém</LOCAL>;{S} na verdade, tenho tido larga experiência da sabedoria e do conhecimento.
+17 E apliquei o coração a conhecer a sabedoria e a conhecer os desvarios e as loucuras;{S} e vim a saber que também isso era desejo vão.
+18 Porque na muita sabedoria há muito enfado;{S} e o que aumenta o conhecimento aumenta a tristeza.

@@ -1,0 +1,9 @@
+is_pessoa(Joanã).
+is_pessoa(Careá).
+is_pessoa(Jezanias).
+is_pessoa(Hosaías).
+is_pessoa(Joanã).
+is_pessoa(Careá).
+is_father(Careá,Joanã).
+is_father(Hosaías,Jezanias).
+is_father(Careá,Joanã).

@@ -1,0 +1,44 @@
+
+1 Outra vez entrou em uma sinagoga, e estava ali um homem que tinha uma das mãos atrofiada.
+2 E observavam-no para ver se no sábado curaria o homem, a fim de o acusarem.
+3 E disse<PESSOA> Jesus</PESSOA> ao homem que tinha a mão atrofiada:{S} Levanta-te e vem para o meio.
+4 Então lhes perguntou:{S} É lícito no sábado fazer bem, ou fazer mal? salvar a vida ou matar?{S} Eles, porém, se calaram.
+5 E olhando em redor para eles com indignação, condoendo-se da dureza dos seus corações, disse ao homem:{S} Estende a tua mão.{S} Ele estendeu, e lhe foi restabelecida.
+6 E os fariseus, saindo de ali, entraram logo em conselho com os herodianos contra ele, para o matarem.
+7<PESSOA> Jesus</PESSOA>, porém, se retirou com os seus discípulos para a beira do mar;{S} e uma grande multidão dos da<ORGANIZACAO> Galiléia</ORGANIZACAO> o seguiu;{S} também da<ORGANIZACAO> Judéia</ORGANIZACAO>,
+8 e de<PESSOA> Jerusalém</PESSOA>, da<ORGANIZACAO> Iduméia</ORGANIZACAO> e de além do<PESSOA> Jordão</PESSOA>, e das regiões de Tiro e de Sidom, grandes multidões, ouvindo falar de tudo quanto fazia, vieram ter com ele.
+9 Recomendou, pois, a seus discípulos que se lhe preparasse um barquinho, por causa da multidão, para que não o apertasse;{S}
+10 porque tinha curado a muitos, de modo que todos quantos tinham algum mal arrojavam-se a ele para lhe tocarem.
+11 E os espíritos imundos, quando o viam, prostravam-se diante dele e clamavam, dizendo:{S} Tu és o <PESSOA>Filho de Deus</PESSOA>.
+12 E ele lhes advertia com insistência que não o dessem a conhecer.
+13 Depois subiu ao monte, e chamou a si os que ele mesmo queria;{S} e vieram a ele.
+14 Então designou doze para que estivessem com ele, e os mandasse a pregar;{S}
+15 e para que tivessem autoridade de expulsar os demônios.
+16 Designou, pois, os doze, a saber:{S} Simão, a quem pôs o nome de<PESSOA> Pedro</PESSOA>;{S}
+17
+is_father( Zebedeu,  Tiago ).
+is_pessoa(  Tiago ).
+is_pessoa( Zebedeu).
+, e<PESSOA> João</PESSOA>, irmão de<PESSOA> Tiago</PESSOA>, aos quais pôs o nome de Boanerges, que significa:{S} <PESSOA>Filhos</PESSOA> do trovão;{S}
+18<PESSOA> André</PESSOA>,<PESSOA> Filipe</PESSOA>,<PESSOA> Bartolomeu</PESSOA>,<PESSOA> Mateus</PESSOA>,<PESSOA> Tomé</PESSOA>,
+is_father(  Alfeu ,  Tiago ).
+is_pessoa(  Tiago ).
+is_pessoa(  Alfeu ).
+,<PESSOA> Tadeu</PESSOA>,<PESSOA> Simão</PESSOA>, o cananeu,
+19 e <PESSOA>Judas Iscariotes</PESSOA>, aquele que o traiu.
+20 Depois entrou em uma casa.{S} E afluiu outra vez a multidão, de tal modo que nem podiam comer.
+21 Quando os seus ouviram isso, saíram para o prender;{S} porque diziam:{S} Ele está fora de si.
+22 E os escribas que tinham descido de<PESSOA> Jerusalém</PESSOA> diziam:{S} Ele está possesso de<PESSOA> Belzebu</PESSOA>;{S} e:{S} É pelo príncipe dos demônios que expulsa os demônios.
+23 Então Jesus os chamou e lhes disse por parábolas:{S} Como pode Satanás expulsar Satanás?
+24 Pois, se um reino se dividir contra si mesmo, tal reino não pode subsistir;{S}
+25 ou, se uma casa se dividir contra si mesma, tal casa não poderá subsistir;{S}
+26 e se Satanás se tem levantado contra si mesmo, e está dividido, tampouco pode ele subsistir;{S} antes tem fim.
+27 Pois ninguém pode entrar na casa do valente e roubar-lhe os bens, se primeiro não amarrar o valente;{S} e então lhe saqueará a casa.
+28 Em verdade vos digo:{S} Todos os pecados serão perdoados aos filhos dos homens, bem como todas as blasfêmias que proferirem;{S}
+29 mas aquele que blasfemar contra o Espírito Santo, nunca mais terá perdão, mas será réu de pecado eterno.
+30 Porquanto eles diziam:{S} Está possesso de um espírito imundo.
+31 Chegaram então sua mãe e seus irmãos e, ficando da parte de fora, mandaram chamá-lo.
+32 E a multidão estava sentada ao redor dele, e disseram-lhe:{S} Eis que tua mãe e teus irmãos estão lá fora e te procuram.
+33 Respondeu-lhes<PESSOA> Jesus</PESSOA>, dizendo:{S} Quem é minha mãe e meus irmãos!
+34 E olhando em redor para os que estavam sentados à roda de si, disse:{S} Eis aqui minha mãe e meus irmãos!
+35 Pois aquele que fizer a vontade de<PESSOA> Deus</PESSOA>, esse é meu irmão, irmã e mãe.

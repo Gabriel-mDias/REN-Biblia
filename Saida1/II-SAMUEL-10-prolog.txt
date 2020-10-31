@@ -1,0 +1,3 @@
+is_pessoa(Hanum).
+is_pessoa(Naás).
+is_father(Naás,Hanum).

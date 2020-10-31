@@ -1,0 +1,3 @@
+is_pessoa(Eliaquim).
+is_pessoa(Hilquias).
+is_father(Hilquias,Eliaquim).

@@ -1,0 +1,44 @@
+
+1 Fez também o altar do holocausto de madeira de acácia;{S} de cinco côvados era o seu comprimento e de cinco côvados a sua largura, quadrado, e de três côvados a sua altura.
+2 E fez-lhe pontas nos seus quatro cantos;{S} as suas pontas formavam uma só peça com ele;{S} e cobriu-o de bronze.
+3 Fez também todos os utensílios do altar: os cinzeiros, as pás, as bacias, os garfos e os braseiros;{S} todos os seus utensílios fez de bronze.
+4 Fez também para o altar um crivo de bronze em forma de rede, em baixo da borda ao redor, chegando ele até o meio do altar.
+5 E fundiu quatro argolas para as quatro extremidades do crivo de bronze, como lugares dos varais.
+6 E fez os varais de madeira de acácia, e os cobriu de bronze.
+7 E meteu os varais pelas argolas aos lados do altar, para com eles se levar o altar;{S} fê-lo oco, de tábuas.
+8 Fez também a pia de bronze com a sua base de bronze, dos espelhos das mulheres que se reuniam e ministravam à porta da tenda da revelação.
+9 Fez também o átrio.{S} Para o lado meridional as cortinas eram de linho fino torcido, de cem côvados de comprimento.
+<VALOR>10</VALOR> As suas colunas eram vinte, e vinte as suas bases, todas de bronze;{S} os colchetes das colunas e as suas faixas eram de prata.
+11 Para o lado setentrional as cortinas eram de cem côvados;{S} as suas colunas eram vinte, e vinte as suas bases, todas de bronze;{S} os colchetes das colunas e as suas faixas eram de prata.
+12 Para o lado ocidental as cortinas eram de cinqüenta côvados;{S} as suas colunas eram dez, e as suas bases dez;{S} os colchetes das colunas e as suas faixas eram de prata.
+13 E para o lado oriental eram as cortinas de cinqüenta côvados.
+<VALOR>14</VALOR> As cortinas para um lado da porta eram de quinze côvados;{S} as suas colunas eram três e as suas bases três.
+15 Do mesmo modo para o outro lado;{S} de um e de outro lado da porta do átrio havia cortinas de quinze côvados;{S} as suas colunas eram três e as suas bases três.
+<VALOR>16</VALOR> Todas as cortinas do átrio ao redor eram de linho fino torcido.
+<VALOR>17</VALOR> As bases das colunas eram de bronze;{S} os colchetes das colunas e as suas faixas eram de prata;{S} o revestimento dos seus capitéis era de prata;{S} e todas as colunas do átrio eram cingidas de faixas de prata.
+18 O reposteiro da porta do átrio era de azul, púrpura, carmesim e linho fino torcido, obra de bordador;{S} o comprimento era de vinte côvados, e a altura, na largura, de cinco côvados, conforme a altura das cortinas do átrio.
+<VALOR>19</VALOR> As suas colunas eram quatro, e quatro as suas bases, todas de bronze;{S} os seus colchetes eram de prata, como também o revestimento dos capitéis, e as suas faixas.
+20 E todas as estacas do tabernáculo e do átrio ao redor eram de bronze.
+21 Esta é a enumeração das coisas para o tabernáculo, a saber, o tabernáculo do testemunho, que por ordem de<PESSOA> Moisés</PESSOA> foram contadas para o ministério dos levitas, por intermédio de
+is_father(  Arão ,  Itamar ).
+is_pessoa(  Itamar ).
+is_pessoa(  Arão ).
+, o sacerdote.
+22 Fez, pois, 
+is_father( Uri,Bezalel).
+is_pessoa(Bezalel).
+is_pessoa( Uri).
+, filho de Hur, da tribo de<PESSOA> Judá</PESSOA>, tudo quanto o <PESSOA>Senhor</PESSOA> tinha ordenado a Moisés;{S}
+23 e com ele 
+is_father( Aisamaque,Aoliabe).
+is_pessoa(Aoliabe).
+is_pessoa( Aisamaque).
+, da tribo de Dã, gravador, desenhista, e bordador em azul, púrpura, carmesim e linho fino.
+24 Todo o ouro gasto na obra, em toda a obra do santuário, a saber, o ouro da oferta, foi vinte e nove talentos e setecentos e trinta siclos, conforme o siclo do santuário.
+25 A prata dos arrolados da congregação montou em cem talentos e mil setecentos setenta e cinco siclos, conforme o siclo do santuário;{S}
+26 um beca para cada cabeça, isto é, meio siclo, conforme o siclo do santuário, de todo aquele que passava para os arrolados, da idade de <VALOR>vinte anos</VALOR> e acima, que foram seiscentos e três mil quinhentos e cinqüenta.
+27 E houve cem talentos de prata para fundir as bases do santuário e as bases do véu;{S} para cem bases eram cem talentos, um talento para cada base.
+28 Mas dos mil setecentos e setenta e cinco siclos, fez colchetes para as colunas, e cobriu os seus capitéis e fez-lhes as faixas.
+29 E o bronze da oferta foi setenta talentos e dois mil e quatrocentos siclos.
+30 Dele fez as bases da porta da tenda da revelação, o altar de bronze, e o crivo de bronze para ele, todos os utensílios do altar,
+<VALOR>31</VALOR> as bases do átrio ao redor e as bases da porta do átrio, todas as estacas do tabernáculo e todas as estacas do átrio ao redor.

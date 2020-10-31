@@ -1,0 +1,24 @@
+is_pessoa(Elifaz).
+is_pessoa(Ada).
+is_pessoa(Reuel).
+is_pessoa(Basemate).
+is_pessoa(Elifaz).
+is_pessoa(Esaú).
+is_pessoa(Reuel).
+is_pessoa(Esaú).
+is_pessoa(Jobabe).
+is_pessoa(Zerá de Bozra).
+is_pessoa(Hadade).
+is_pessoa(Bedade).
+is_pessoa(Hanã).
+is_pessoa(Acbor).
+is_pessoa(Hanã).
+is_pessoa(Acbor).
+is_father(Ada,Elifaz).
+is_father(Basemate,Reuel).
+is_father(Esaú,Elifaz).
+is_father(Esaú,Reuel).
+is_father(Zerá de Bozra,Jobabe).
+is_father(Bedade,Hadade).
+is_father(Acbor,Hanã).
+is_father(Acbor,Hanã).

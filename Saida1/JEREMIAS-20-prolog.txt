@@ -1,0 +1,3 @@
+is_pessoa(Pasur).
+is_pessoa(Imer).
+is_father(Imer,Pasur).

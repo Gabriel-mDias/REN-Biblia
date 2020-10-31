@@ -1,0 +1,12 @@
+is_pessoa(Jaaziel).
+is_pessoa(Zacarias).
+is_pessoa(Benaías).
+is_pessoa(Jeiel).
+is_pessoa(Jeú).
+is_pessoa(Hanâni).
+is_pessoa(Eliézer).
+is_pessoa(Dodavaú).
+is_father(Zacarias,Jaaziel).
+is_father(Jeiel,Benaías).
+is_father(Hanâni,Jeú).
+is_father(Dodavaú,Eliézer).

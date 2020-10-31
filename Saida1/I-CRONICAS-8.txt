@@ -1,0 +1,41 @@
+
+1 Benjamim foi pai de Belá, seu primogênito, de Asbel o segundo, e de Aará o terceiro,
+2 de Noá o quarto, e de Rafa o quinto.
+3 Belá teve estes filhos:{S} Adar, Gêra, Abiúde,
+4 Abisua, Naamã, Aoá,
+5 Gêra, Sefufã e Hurão.
+<VALOR>6</VALOR> Estes foram os filhos de Eúde, que foram os chefes das casas paternas dos habitantes de Geba, e que foram levados cativos para Manaate;{S}
+7 Naamã, Aías e Gêra;{S} este os transportou;{S} foi ele pai de Uzá e Aiúde.
+8 Saaraim teve filhos na terra de Moabe, depois que despedira Husim e Baara, suas mulheres.
+9 E de Hodes, sua mulher, teve Jobabe, Zíbia, Messa, Malcã,
+10 Jeuz, Saquias e Mirma;{S} esses foram seus filhos:, chefes de casas paternas:
+11 De Husim teve Abitube e Elpaal.
+<VALOR>12</VALOR> Os filhos de Elpaal:{S} Eber, Misã, Semede (este edificou Ono e Lode e suas aldeias),
+l3 Berias e Sema (estes foram chefes de casas paternas dos habitantes de Aijalom, os quais afugentaram os habitantes de Gatel ,
+14 Aiô, Sasaque e Jerimote.
+15 Zebadias, Arade, Eder,
+16 Micael, Ispá e Joá foram filhos de Berias;{S}
+17 Zebadias, Mesulão, Hizqui, Heber,
+18 Ismerai, Izlias e Jobabe foram filhos de Elpaal;{S}
+19 Jaquim, Zicri, Zabdi,
+20 Elienai, Ziletai, Eliel,
+21 Adaías, Beraías e Sinrate foram filhos de Simei;{S}
+22 Ispã, Eber, Eliel,
+23 Abdom, Zicri, Hanã,
+24 Hananias, Elão, Antotias,
+25 Ifdéias e Penuel foram filhos de Sasaque;{S}
+26 Sanserai, Searias, Atalias,
+27 <PESSOA>Jaaresias</PESSOA>,<PESSOA> Elias</PESSOA> e<PESSOA> Zicri</PESSOA> foram filhos de Jeroão.
+<VALOR>28</VALOR> Estes foram chefes de casas paternas, segundo as suas gerações, homens principais;{S} e habitaram em<LOCAL> Jerusalém</LOCAL>.
+29 E em<LOCAL> Gibeão</LOCAL> habitaram o pai de Gibeão, cuja mulher se chamava<ABSTRACCAO> Maacá</ABSTRACCAO>,
+30 e seu filho primogênito Abdom, depois Zur, Quiz, Baal, Nadabe,
+31 Gedor, Aiô, Zequer e Miclote.
+32 Miclote foi pai de Siméia;{S} também estes habitaram em<LOCAL> Jerusalém</LOCAL> defronte de seus irmãos.
+33 Ner foi pai de Quis, e Quis de<PESSOA> Saul</PESSOA>;S<PESSOA> Saul</PESSOA> foi pai de Jônatas, Malquisua, Abinadabe e Es-Baal.
+34 <PESSOA>Filho de Jônatas</PESSOA> foi Meribe-Baal;{S} e Meribe-Baal foi pai de Mica.
+<VALOR>35</VALOR> Os filhos de Mica foram:{S} Pitom, Meleque, Tareá e Acaz.
+36 Acaz foi pai de Jeoada;{S} Jeoada foi pai de Alemete, Azmavete e Zinri;{S} Zinri foi pai de Moza;{S}
+37 Moza foi pai de Bineá, de quem foi <PESSOA>filho Rafa</PESSOA>, de quem foi <PESSOA>filho Eleasá</PESSOA>, de quem foi <PESSOA>filho Azel</PESSOA>.
+38 Azel teve seis filhos, cujos nomes foram:{S} Azricão, Bocru, Ismael, Searias, Obadias e Hanã;{S} todos estes foram filhos de Azel.
+<VALOR>39</VALOR> Os filhos de Eseque, seu irmão:{S} Ulão, seu primogênito, Jeús o segundo, e Elifelete o terceiro.
+<VALOR>40</VALOR> Os filhos de Ulão foram homens heróis, valentes, e flecheiros destros;{S} e tiveram muitos filhos, e filhos de filhos, cento e cinqüenta.{S} Todos estes foram dos filhos de Benjamim.

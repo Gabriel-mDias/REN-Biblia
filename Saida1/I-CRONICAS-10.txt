@@ -1,0 +1,19 @@
+
+1 Ora, os filisteus pelejaram contra<PESSOA> Israel</PESSOA>;{S} e os homens de<PESSOA> Israel</PESSOA>, fugindo de diante dos filisteus, caíram mortos no monte Gilboa.
+<VALOR>2</VALOR> Os filisteus perseguiram a Saul e seus filhos, e mataram Jônatas, Abinadabe e Malquisua, filhos de<PESSOA> Saul</PESSOA>.
+3 A peleja se agravou contra<PESSOA> Saul</PESSOA>, e os flecheiros o alcançaram, e ele foi ferido pelos flecheiros.
+4 Então disse<PESSOA> Saul</PESSOA>:{S} Arranca a tua espada, e atravessa-me com ela, para que não venham estes incircuncisos e escarneçam de mim.{S} Mas o seu escudeiro não quis, porque temia muito;{S} então tomou<PESSOA> Saul</PESSOA> a sua espada, e se lançou sobre ela.
+5 Vendo, pois, o seu escudeiro que<PESSOA> Saul</PESSOA> estava morto, lançou-se também sobre sua espada, e morreu.
+6 Assim morreram<PESSOA> Saul</PESSOA> e seus três filhos;{S} morreu toda a sua casa juntamente.
+7 Quando todos os homens de<PESSOA> Israel</PESSOA> que estavam no vale viram que<PESSOA> Israel</PESSOA> havia fugido, e que<PESSOA> Saul</PESSOA> eram mortos, abandonaram as suas cidades e fugiram, e vindo os filisteus, habitaram nelas.
+8 No dia seguinte, quando os filisteus vieram para despojar os mortos acharam<PESSOA> Saul</PESSOA> e seus filhos estirados no monte Gilboa.
+9 Então o despojaram, tomaram a sua cabeça e as suas armas, e enviaram mensageiros pela terra dos filisteus em redor, para levarem a boa nova a seus ídolos e ao povo.
+10 Puseram as armas dele na casa de seus deuses, e pregaram-lhe a cabeça na casa de Dagom.
+11 Quando, pois, toda a Jabes-Gileade ouviu tudo quanto os filisteus haviam feito a Saul,
+<VALOR>12</VALOR> todos os homens valentes se levantaram e, tomando o corpo de<PESSOA> Saul</PESSOA> e os corpos de seus filhos, trouxeram-nos: a Jabes;{S} e sepultaram os seus ossos debaixo o terebinto em<LOCAL> Jabes</LOCAL>, e jejuaram sete dias.
+13 Assim morreu<PESSOA> Saul</PESSOA> por causa da sua infidelidade para com o <PESSOA>Senhor</PESSOA>, porque não havia guardado a palavra do <PESSOA>Senhor</PESSOA>;{S} e também porque buscou a adivinhadora para a consultar,
+14 e não buscou ao <PESSOA>Senhor</PESSOA>;{S} pelo que ele o matou, e transferiu o reino a 
+is_father(  Jessé ,Davi).
+is_pessoa(Davi).
+is_pessoa(  Jessé ).
+.

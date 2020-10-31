@@ -1,0 +1,6 @@
+is_pessoa(Abiatar).
+is_pessoa(Aimeleque).
+is_pessoa(Jônatas).
+is_pessoa(Saul).
+is_father(Aimeleque,Abiatar).
+is_father(Saul,Jônatas).

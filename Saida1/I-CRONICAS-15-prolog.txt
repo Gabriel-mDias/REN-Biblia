@@ -1,0 +1,9 @@
+is_pessoa(Hemã).
+is_pessoa(Joel).
+is_pessoa(Asafe).
+is_pessoa(Berequias).
+is_pessoa(Etã).
+is_pessoa(Cusaías).
+is_father(Joel,Hemã).
+is_father(Berequias,Asafe).
+is_father(Cusaías,Etã).

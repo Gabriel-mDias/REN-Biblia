@@ -1,0 +1,37 @@
+0000000002
+-1 9-AcaoRealizadaPor
+: 3 1 
+: 8 2 
+: 9 3 
+: -2 4 
+: 10 5 
+: 1 6 
+: 4 7 
+: 4 8 
+: 7 7 6 7 5 7 4 8 2 9 
+t 
+f 
+-2 Nao-Pessoa
+: 15 1 4 0 
+: 4 2 
+: 10 3 
+: 11 4 
+t 
+f 
+%<E>
+%<E>/{
+%<E>/,.PESSOA}
+%<V>
+%<FIRST>
+%<PREPOSICAO>
+%<ABREVIACOES>
+%da
+%por
+%$![0
+%$]
+%<A>
+%<PALAVRAS_MINUSCULAS_HAREM>
+%$![1
+%$[2
+%$[3
+f

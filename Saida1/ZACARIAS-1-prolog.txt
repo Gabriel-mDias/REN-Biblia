@@ -1,0 +1,6 @@
+is_pessoa(Zacarias).
+is_pessoa(Berequias).
+is_pessoa(Zacarias).
+is_pessoa(Berequias).
+is_father(Berequias,Zacarias).
+is_father(Berequias,Zacarias).

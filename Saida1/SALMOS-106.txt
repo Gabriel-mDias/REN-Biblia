@@ -1,0 +1,49 @@
+
+1 Louvai ao <PESSOA>Senhor</PESSOA>.{S} Louvai ao <PESSOA>Senhor</PESSOA>, porque ele é bom;{S} porque a sua benignidade dura para sempre.
+2 Quem pode referir os poderosos feitos do <PESSOA>Senhor</PESSOA>, ou anunciar todo o seu louvor?
+3 Bem-aventurados os que observam o direito, que praticam a justiça em todos os tempos.
+4 Lembra-te de mim, <PESSOA>Senhor</PESSOA>, quando mostrares favor ao teu povo;{S} visita-me com a tua salvação,
+5 para que eu veja a prosperidade dos teus escolhidos, para que me alegre com a alegria da tua nação, e me glorie juntamente com a tua herança.
+<VALOR>6</VALOR> Nós pecamos, como nossos pais;{S} cometemos a iniqüidade, andamos perversamente.
+<VALOR>7</VALOR> Nossos pais não atentaram para as tuas maravilhas no<LOCAL> Egito</LOCAL>, não se lembraram da multidão das tuas benignidades;{S} antes foram rebeldes contra o Altíssimo junto ao Mar Vermelho.
+8 Não obstante, ele os salvou por amor do seu nome, para fazer conhecido o seu poder.
+9 Pois repreendeu o Mar Vermelho e este se secou;{S} e os fez caminhar pelos abismos como pelo deserto.
+10 Salvou-os da mão do adversário, livrou-os do poder do inimigo.
+<VALOR>11</VALOR> As águas, porém, cobriram os seus adversários;{S} nem um só deles ficou.
+12 Então creram nas palavras dele e cantaram-lhe louvor.
+13 Cedo, porém, se esqueceram das suas obras;{S} não esperaram pelo seu conselho;{S}
+14 mas deixaram-se levar pela cobiça no deserto, e tentaram a Deus no ermo.
+15 E ele lhes deu o que pediram, mas fê-los definhar de doença.
+16 Tiveram inveja de<PESSOA> Moisés</PESSOA> no acampamento, e de<PESSOA> Arão</PESSOA>, o santo do <PESSOA>Senhor</PESSOA>.
+17 Abriu-se a terra, e engoliu a Datã, e cobriu a companhia de<ORGANIZACAO> Abirão</ORGANIZACAO>;{S}
+18 ateou-se um fogo no meio da congregação;{S} e chama abrasou os ímpios.
+19 Fizeram um bezerro em<LOCAL> Horebe</LOCAL>, e adoraram uma imagem de fundição.
+20 Assim trocaram a sua glória pela figura de um boi que come erva.
+21 Esqueceram-se de<PESSOA> Deus</PESSOA> seu Salvador, que fizera grandes coisas no<LOCAL> Egito</LOCAL>,
+<VALOR>22</VALOR> maravilhas na terra de Cão, coisas tremendas junto ao Mar Vermelho.
+23 Pelo que os teria destruído, como dissera, se<PESSOA> Moisés</PESSOA>, seu escolhido, não se tivesse interposto diante dele, para desviar a sua indignação, a fim de que não os destruísse.
+24 Também desprezaram a terra aprazível;{S} não confiaram na sua promessa;{S}
+25 antes murmuraram em suas tendas e não deram ouvidos à voz do <PESSOA>Senhor</PESSOA>.
+26 Pelo que levantou a sua mão contra eles, afirmando que os faria cair no deserto;{S}
+27 que dispersaria também a sua descendência entre as nações, e os espalharia pelas terras.
+28 Também se apegaram a Baal-Peor, e comeram sacrifícios oferecidos aos mortos.
+29 Assim o provocaram à ira com as suas ações;{S} e uma praga rebentou entre eles.
+30 Então se levantou Finéias, que executou o juízo;{S} e cessou aquela praga.
+31 E isto lhe foi imputado como justiça, de geração em geração, para sempre.
+32 Indignaram-no também junto às águas de Meribá, de sorte que sucedeu mal a Moisés por causa deles;{S}
+33 porque amarguraram o seu espírito;{S} e ele falou imprudentemente com seus lábios.
+34 Não destruíram os povos, como o <PESSOA>Senhor</PESSOA> lhes ordenara;{S}
+35 antes se misturaram com as nações, e aprenderam as suas obras.
+36 Serviram aos seus ídolos, que vieram a ser-lhes um laço;{S}
+37 sacrificaram seus filhos e suas filhas aos demônios;{S}
+38 e derramaram sangue inocente, o sangue de seus filhos e de suas filhas, que eles sacrificaram aos ídolos de<PESSOA> Canaã</PESSOA>;{S} e a terra foi manchada com sangue.
+39 Assim se contaminaram com as suas obras, e se prostituíram pelos seus feitos.
+40 Pelo que se acendeu a ira do <PESSOA>Senhor</PESSOA> contra o seu povo, de modo que abominou a sua herança;{S}
+41 entregou-os nas mãos das nações, e aqueles que os odiavam dominavam sobre eles.
+<VALOR>42</VALOR> Os seus inimigos os oprimiram, e debaixo das mãos destes foram eles humilhados.
+<VALOR>43</VALOR> Muitas vezes os livrou;{S} mas eles foram rebeldes nos seus desígnios, e foram abatidos pela sua iniqüidade.
+44 Contudo, atentou para a sua aflição, quando ouviu o seu clamor;{S}
+45 e a favor deles lembrou-se do seu pacto, e aplacou-se, segundo a abundância da sua benignidade.
+46 Por isso fez com que obtivessem compaixão da parte daqueles que os levaram cativos.
+47 Salva-nos, <PESSOA>Senhor</PESSOA>, nosso<PESSOA> Deus</PESSOA>, e congrega-nos dentre as nações, para que louvemos o teu santo nome, e nos gloriemos no teu louvor.
+48 Bendito seja o <PESSOA>Senhor</PESSOA>,<PESSOA>  Deus de Israel </PESSOA>, de eternidade em eternidade!{S} E diga todo o povo:{S} Amém.{S} Louvai ao <PESSOA>Senhor</PESSOA>.

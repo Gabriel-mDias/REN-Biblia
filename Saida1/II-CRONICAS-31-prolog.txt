@@ -1,0 +1,3 @@
+is_pessoa(Coré).
+is_pessoa(Imná).
+is_father(Imná,Coré).

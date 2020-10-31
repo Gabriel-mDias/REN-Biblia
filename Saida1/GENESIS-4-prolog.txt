@@ -1,0 +1,3 @@
+is_pessoa(Irade).
+is_pessoa(Enoque).
+is_father(Enoque,Irade).

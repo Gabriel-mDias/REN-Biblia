@@ -1,0 +1,3 @@
+is_pessoa(Siquém).
+is_pessoa(Hamor).
+is_father(Hamor,Siquém).

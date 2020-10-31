@@ -1,0 +1,6 @@
+is_pessoa(Bezalel).
+is_pessoa(Uri).
+is_pessoa(Aoliabe).
+is_pessoa(Aisamaque).
+is_father(Uri,Bezalel).
+is_father(Aisamaque,Aoliabe).

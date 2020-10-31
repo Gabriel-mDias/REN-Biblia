@@ -1,0 +1,9 @@
+is_pessoa(Manassés).
+is_pessoa(José).
+is_pessoa(Hefer).
+is_pessoa(Gileade).
+is_pessoa(Maquir).
+is_pessoa(Manassés).
+is_father(José,Manassés).
+is_father(Gileade,Hefer).
+is_father(Manassés,Maquir).

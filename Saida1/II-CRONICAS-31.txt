@@ -1,0 +1,26 @@
+
+1 Acabado tudo isso, todos os israelitas que ali estavam saíram às cidades de<PESSOA> Judá</PESSOA> e despedaçaram as colunas, cortaram os aserins, e derrubaram os altos e altares por toda a Judá e Benjamim, como também em<LOCAL> Efraim</LOCAL> e<LOCAL> Manassés</LOCAL>, até os destruírem de todo.{S} Depois voltaram todos os filhos de<PESSOA> Israel</PESSOA> para as suas cidades, cada um para sua possessão.
+2 E Ezequias estabeleceu as turmas dos sacerdotes e levitas, turma por turma, cada um segundo o seu serviço, tanto os sacerdotes como os levitas, para os holocaustos e as ofertas pacíficas, para ministrarem, renderem ações de graças e cantarem louvores nas portas do arraial do <PESSOA>Senhor</PESSOA>.
+3 A contribuição da fazenda do rei foi designada para os holocaustos: os holocaustos da manhã e da tarde, e os holocaustos dos sábados, das luas novas e das festas fixas, como está escrito na lei do <PESSOA>Senhor</PESSOA>.
+4 Além de isso ordenou ao povo que morava em<LOCAL> Jerusalém</LOCAL> que desse a porção pertencente aos sacerdotes e aos levitas, para que eles se dedicassem à lei do <PESSOA>Senhor</PESSOA>.
+5 Logo que esta ordem se divulgou, os filhos de<PESSOA> Israel</PESSOA> trouxeram em abundância as primícias de trigo, mosto, azeite, mel e todo produto do campo;{S} também trouxeram em abundância o dízimo de tudo.
+<VALOR>6</VALOR> Os filhos de<PESSOA> Israel</PESSOA> e de<PESSOA> Judá</PESSOA> que habitavam nas cidades de<PESSOA> Judá</PESSOA> também trouxeram o dízimo de bois e de ovelhas, e o dízimo das coisas dedicadas que foram consagradas ao <PESSOA>Senhor</PESSOA> seu<PESSOA> Deus</PESSOA>, e depositaram-nos em montões.
+7 No terceiro mês começaram a formar os montões, e no sétimo mês acabaram.
+8 Vindo, pois, Ezequias e os príncipes, e vendo aqueles montões, bendisseram ao <PESSOA>Senhor</PESSOA> e ao seu povo<PESSOA> Israel</PESSOA>.
+9 Então perguntou Ezequias aos sacerdotes e aos levitas acerca daqueles montões.
+10 Respondeu-lhe Azarias, o sumo sacerdote, que era da casa de Zadoque, dizendo:{S} Desde que o povo começou a trazer as ofertas para a casa do <PESSOA>Senhor</PESSOA>, tem havido o que comer e de que se fartar, e ainda nos tem sobejado bastante, porque o <PESSOA>Senhor</PESSOA> abençoou ao seu povo;{S} e os sobejos constituem esta abastança.
+11 Então ordenou Ezequias que se preparassem câmaras na casa do <PESSOA>Senhor</PESSOA>;{S} e as prepararam.
+12 Ali recolheram fielmente as ofertas, os dízimos e as coisas dedicadas;{S} e tinha o cargo disto o levita Conanias, e depois dele Simei, seu irmão.
+13 E Jeiel, Azazias, Naate, Asael, Jerimote, Jozabade, Eliel, Ismaquias, Maate e Benaías eram superintendentes sob a direção de Conanias e de Simei, seu irmão, por decreto do <PESSOA>rei Ezequias</PESSOA> e de Azarias, o chefe da casa de<PESSOA> Deus</PESSOA>.
+14 E o levita 
+is_father( Imná,Coré).
+is_pessoa(Coré).
+is_pessoa( Imná).
+, e guarda da porta oriental, estava encarregado das ofertas voluntárias que se faziam a Deus, para distribuir as ofertas do <PESSOA>Senhor</PESSOA> e as coisas santíssimas.
+15 E debaixo das suas ordens estavam Edem, Miniamim, Jesuá, Semaías, Amarias e Secanias, nas cidades dos sacerdotes, para fazerem com fidelidade a distribuição a seus irmãos, segundo as suas turmas, tanto aos pequenos como aos grandes,
+16 exceto os que estavam contados pelas genealogias, varões da idade de <VALOR>três anos</VALOR> para cima, todos os que entravam na casa do <PESSOA>Senhor</PESSOA>, para o seu serviço diário nos seus cargos segundo as suas turmas.
+17 Quanto ao registro dos sacerdotes, era feito segundo as suas casas paternas;{S} e o dos levitas da idade de <VALOR>vinte anos</VALOR> para cima era feito segundo os seus cargos nas suas turmas.
+<VALOR>18</VALOR> Os sacerdotes eram arrolados com todos os seus pequeninos, suas mulheres, seus filhos e suas filhas, por toda a congregação;{S} porque estes se dedicavam fielmente às coisas consagradas.
+19 Também para os filhos de<PESSOA> Arão</PESSOA> os sacerdotes que estavam nos campos dos arrabaldes das suas cidades, em cada cidade, havia homens designados por nome para distribuírem porções a todo homem entre os sacerdotes e a todos os arrolados entre os levitas.
+20 Assim fez Ezequias em todo o Judá;{S} e fez o que era bom, e reto, e fiel perante o <PESSOA>Senhor</PESSOA> seu<PESSOA> Deus</PESSOA>.
+21 E toda a obra que empreendeu no serviço da casa de<PESSOA> Deus</PESSOA>, e de acordo com a lei e os mandamentos, para buscar a seu<PESSOA> Deus</PESSOA>, ele a fez de todo o seu coração e foi bem sucedido.

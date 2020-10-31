@@ -1,0 +1,3 @@
+is_pessoa(Eliseu).
+is_pessoa(Safate).
+is_father(Safate,Eliseu).

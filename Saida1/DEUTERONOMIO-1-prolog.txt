@@ -1,0 +1,3 @@
+is_pessoa(Calebe).
+is_pessoa(Jefoné).
+is_father(Jefoné,Calebe).

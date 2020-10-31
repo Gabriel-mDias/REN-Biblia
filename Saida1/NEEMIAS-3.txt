@@ -1,0 +1,149 @@
+
+1 Então se levantou Eliasibe, o sumo sacerdote, juntamente com os seus irmãos, os sacerdotes, e edificaram a porta das ovelhas, a qual consagraram, e lhe assentaram os batentes.{S} Consagraram-na até a torre dos cem, até a torre de<LOCAL> Henanel</LOCAL>.
+2 E junto a ele edificaram os homens de<PESSOA> Jericó</PESSOA>;{S} também ao lado destes edificou Zacur, o filho de Inri.
+<VALOR>3</VALOR> Os filhos de Hassenaá edificaram a porta dos peixes, colocaram-lhe as vigas, e lhe assentaram os batentes, com seus ferrolhos e trancas.
+4 Ao seu lado fez os reparos 
+is_father(  Urias ,Meremote).
+is_pessoa(Meremote).
+is_pessoa(  Urias ).
+, filho de Hacoz;{S} ao seu lado 
+is_father( Berequias,Mesulão).
+is_pessoa(Mesulão).
+is_pessoa( Berequias).
+, filho de Mesezabel;{S} ao seu lado 
+is_father( Baaná,Zadoque).
+is_pessoa(Zadoque).
+is_pessoa( Baaná).
+;{S}
+5 ao lado destes repararam os tecoítas;{S} porém os seus nobres não meteram o pescoço os serviço do <PESSOA>Senhor</PESSOA>.
+6 
+is_father( Paséia,Joiada).
+is_pessoa(Joiada).
+is_pessoa( Paséia).
+, e 
+is_father( Besodéias,Mesulão).
+is_pessoa(Mesulão).
+is_pessoa( Besodéias).
+, repararam a porta velha, colocaram-lhe as vigas, e lhe assentaram os batentes com seus ferrolhos e trancas.
+7 Junto deles fizeram os reparos Melatias, o gibeonita, e Jadom, o meronotita, homens de Gibeão e de Mizpá, que pertenciam ao domínio do governador dalém do Rio;{S}
+8 ao seu lado 
+is_father( Haraías,Uziel).
+is_pessoa(Uziel).
+is_pessoa( Haraías).
+, um dos ourives;{S} ao lado dele Hananias, um dos perfumistas;{S} e fortificaram<PESSOA> Jerusalém</PESSOA> até o muro largo.
+9 Ao seu lado fez os reparos 
+is_father( Hur,Refaías).
+is_pessoa(Refaías).
+is_pessoa( Hur).
+, governador da metade do <LOCAL>distrito de Jerusalém</LOCAL>;{S}
+10 ao seu lado 
+is_father( Harumafe,Jedaías).
+is_pessoa(Jedaías).
+is_pessoa( Harumafe).
+, defronte de sua casa;{S} ao seu lado 
+is_father( Hasabnéias,Hatus).
+is_pessoa(Hatus).
+is_pessoa( Hasabnéias).
+.
+11 
+is_father( Harim,Malquias).
+is_pessoa(Malquias).
+is_pessoa( Harim).
+, e 
+is_father( Paate,Hassube).
+is_pessoa(Hassube).
+is_pessoa( Paate).
+-Moabe, repararam outra parte, como também a torre dos fornos;{S}
+12 e ao seu lado 
+is_father( Haloés,Salum).
+is_pessoa(Salum).
+is_pessoa( Haloés).
+, governador da outra metade do <LOCAL>distrito de Jerusalém</LOCAL>, ele e as suas filhas.
+13 A porta do vale, repararam-na<LOCAL> Hanum</LOCAL> e os moradores de Zanoa;{S} estes a edificaram, e lhe assentaram os batentes, com seus ferrolhos e trancas, como também mil côvados de muro até a porto do monturo.
+14 A porta do monturo, reparou-a 
+is_father( Recabe,Malquias).
+is_pessoa(Malquias).
+is_pessoa( Recabe).
+, governador do distrito Bete-Haquerem;{S} este a edificou, e lhe assentou os batentes com seus ferrolhos e trancas.
+15 A porta da fonte, reparou-a 
+is_father( Col,Salum).
+is_pessoa(Salum).
+is_pessoa( Col).
+-Hoze, governador do <LOCAL>distrito de Mizpá</LOCAL>;{S} edificou-a e a cobriu, e lhe assentou os batentes, com seus ferrolhos e trancas;{S} edificou também o muro da piscina de Selá, do jardim do rei, até os degraus que descem da <LOCAL>cidade de Davi</LOCAL>.
+16 Depois dele 
+is_father( Azbuque,Neemias).
+is_pessoa(Neemias).
+is_pessoa( Azbuque).
+, governador da metade do <LOCAL>distrito de Bete</LOCAL>-Zur, fez os reparos até defronte dos sepulcros de<PESSOA> Davi</PESSOA>, até a piscina artificial, e até a casa dos homens poderosos.
+17 Depois dele fizeram os reparos os levitas:{S} 
+is_father( Bani,Reum).
+is_pessoa(Reum).
+is_pessoa( Bani).
+, e ao seu lado, Hasabias, governador da metade do <LOCAL>distrito de Queila</LOCAL>, por seu distrito;{S}
+18 depois dele seus irmãos, 
+is_father( Henadade,Bavai).
+is_pessoa(Bavai).
+is_pessoa( Henadade).
+, governador da outra metade do <LOCAL>distrito de Queila</LOCAL>.
+19 Ao seu lado 
+is_father( Jesuá,Ézer).
+is_pessoa(Ézer).
+is_pessoa( Jesuá).
+, governador de Mizpá, reparou outra parte, defronte da subida para a casa das armas, no ângulo.
+20 Depois dele reparou 
+is_father( Zabai,Baruque).
+is_pessoa(Baruque).
+is_pessoa( Zabai).
+, outra parte, desde o ângulo até a porta da casa de Eliasibe, o sumo sacerdote.
+21 Depois dele reparou 
+is_father(  Urias ,Meremote).
+is_pessoa(Meremote).
+is_pessoa(  Urias ).
+, filho de Hacoz, outra parte, deste a porta da casa de Eliasibe até a extremidade da mesma.
+22 Depois dele fizeram os reparos os sacerdotes que habitavam na campina;{S}
+23 depois Benjamim e Hassube, defronte da sua casa;{S} depois deles 
+is_father( Maaséias,Azarias).
+is_pessoa(Azarias).
+is_pessoa( Maaséias).
+. 
+is_father( Ananias, Maaséias).
+is_pessoa( Maaséias).
+is_pessoa( Ananias).
+., junto à sua casa.
+24 Depois dele reparou 
+is_father( Henadade,Binuí).
+is_pessoa(Binuí).
+is_pessoa( Henadade).
+, outra porte, desde a casa de Azarias até o ângulo e até a esquina.
+25 
+is_father( Uzai,Palal).
+is_pessoa(Palal).
+is_pessoa( Uzai).
+, reparou defronte do ângulo, e a torre que se projeta da casa real superior, que está junto ao átrio da guarda;{S} depois dele 
+is_father( Parós,Pedaías).
+is_pessoa(Pedaías).
+is_pessoa( Parós).
+.
+26 (Ora, os netinins habitavam em<LOCAL> Ofel</LOCAL>, até defronte da porta das águas, para o oriente, e até a torre que se projeta.)
+27 Depois repararam os tecoítas outra parte, defronte da grande torre que se projeta, e até o muro de Ofel.
+28 Para cima da porta dos cavalos fizeram os reparos os sacerdotes, cada um defronte da sua casa;{S}
+29 depois dele 
+is_father( Imer,Zadoque).
+is_pessoa(Zadoque).
+is_pessoa( Imer).
+, defronte de sua casa;{S} e depois dele 
+is_father( Secanias,Semaías).
+is_pessoa(Semaías).
+is_pessoa( Secanias).
+, guarda da porta oriental.
+30 Depois dele repararam outra parte 
+is_father( Selemias,Hananias).
+is_pessoa(Hananias).
+is_pessoa( Selemias).
+, e Hanum, o sexto filho de Zalafe.{S} Depois dele reparou 
+is_father( Berequias,Mesulão).
+is_pessoa(Mesulão).
+is_pessoa( Berequias).
+, uma parte defronte da sua câmara.
+31 Depois dele reparou Malquias, um dos ourives, uma parte até a casa dos netinins e dos mercadores, defronte da porta da guarda, e até a câmara superior da esquina.
+32 E entre a câmara da esquina e a porta das ovelhas repararam os ourives e os mercadores.

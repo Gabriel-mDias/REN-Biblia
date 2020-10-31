@@ -1,0 +1,6 @@
+is_pessoa(Elcana).
+is_pessoa(Jeroão).
+is_pessoa(Eliú).
+is_pessoa(Toú).
+is_father(Jeroão,Elcana).
+is_father(Toú,Eliú).

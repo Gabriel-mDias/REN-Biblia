@@ -1,0 +1,3 @@
+is_pessoa(Azarias).
+is_pessoa(Odede).
+is_father(Odede,Azarias).

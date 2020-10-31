@@ -1,0 +1,9 @@
+is_pessoa(Jaazanias).
+is_pessoa(Azur).
+is_pessoa(Pelatias).
+is_pessoa(Benaías).
+is_pessoa(Pelatias).
+is_pessoa(Benaías).
+is_father(Azur,Jaazanias).
+is_father(Benaías,Pelatias).
+is_father(Benaías,Pelatias).

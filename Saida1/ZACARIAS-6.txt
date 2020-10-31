@@ -1,0 +1,28 @@
+
+1 De novo levantei os meus olhos, e olhei, e eis quatro carros que saíam dentre dois montes, e estes montes eram montes de bronze.
+2 No primeiro carro eram cavalos vermelhos, no segundo carro cavalos pretos,
+3 no terceiro carro cavalos brancos, e no quarto carro cavalos baios com malhas.
+4 Então, dirigindo-me ao anjo que falava comigo, perguntei:{S} Que são estes, meu senhor?
+5 Respondeu-me o anjo:{S} Estes estão saindo aos quatro ventos do céu, depois de se apresentarem perante o <PESSOA>Senhor</PESSOA> de toda a terra.
+6 O carro em que estão os cavalos pretos sai para a terra do norte, os brancos são para o oeste, e os malhados para a terra do sul;{S}
+7 e os cavalos baios saíam, e procuravam ir por diante, para percorrerem a terra.{S} E ele disse:{S} Ide, percorrei a terra.{S} E eles a percorriam.
+8 Então clamou para mim, dizendo:{S} Eis que aqueles que saíram para a terra do norte fazem repousar na terra do norte o meu Espírito.
+9 Ainda me veio a palavra do <PESSOA>Senhor</PESSOA>, dizendo:
+10 Recebe dos que foram levados cativos, a saber, de Heldai, de<PESSOA> Tobias</PESSOA>, e de Jedaías, e vem tu no mesmo dia, e entra na casa de 
+is_father( Sofonias,Josias).
+is_pessoa(Josias).
+is_pessoa( Sofonias).
+, para a qual vieram de Babilônia;{S}
+11 recebe, digo, prata e ouro, e faze coroas, e põe-nas na cabeça do sumo sacerdote
+is_father( Jeozadaque,  Josué ).
+is_pessoa(  Josué ).
+is_pessoa( Jeozadaque).
+;{S}
+12 e fala-lhe, dizendo:{S} Assim diz o <PESSOA>Senhor</PESSOA> dos exércitos:{S} Eis aqui o homem cujo nome é Renovo;{S} ele brotará do seu lugar, e edificará o templo do <PESSOA>Senhor</PESSOA>.
+13 Ele mesmo edificará o templo do <PESSOA>Senhor</PESSOA>;{S} receberá a honra real, assentar-se-á no seu trono, e dominará.{S} E Josué, o sacerdote, ficará à sua direita;{S} e haverá entre os dois o conselho de paz.
+14 Essas coroas servirão a Helem, e a Tobias, e a Jedaías, e a 
+is_father( Sofonias,Hem).
+is_pessoa(Hem).
+is_pessoa( Sofonias).
+, de memorial no templo do <PESSOA>Senhor</PESSOA>.
+15 E aqueles que estão longe virão, e ajudarão a edificar o templo do <PESSOA>Senhor</PESSOA>;{S} e vós sabereis que o <PESSOA>Senhor</PESSOA> dos exércitos me tem enviado a vós;{S} e isso sucederá, se diligentemente obedecerdes a voz do <PESSOA>Senhor</PESSOA> vosso<PESSOA> Deus</PESSOA>.

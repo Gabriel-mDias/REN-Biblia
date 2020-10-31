@@ -1,0 +1,47 @@
+
+1 Então Jesus tornou a falar-lhes por parábolas, dizendo:
+2 O reino dos céus é semelhante a um rei que celebrou as bodas de seu filho.
+3 Enviou os seus servos a chamar os convidados para as bodas, e estes não quiseram vir.
+4 Depois enviou outros servos, ordenando:{S} Dizei aos convidados:{S} Eis que tenho o meu jantar preparado;{S} os meus bois e cevados já estão mortos, e tudo está pronto;{S} vinde às bodas.
+<VALOR>5</VALOR> Eles, porém, não fazendo caso, foram, um para o seu campo, outro para o seu negócio;{S}
+6 e os outros, apoderando-se dos servos, os ultrajaram e mataram.
+7 Mas o rei encolerizou-se;{S} e enviando os seus exércitos, destruiu aqueles homicidas, e incendiou a sua cidade.
+8 Então disse aos seus servos:{S} As bodas, na verdade, estão preparadas, mas os convidados não eram dignos.
+9 Ide, pois, pelas encruzilhadas dos caminhos, e a quantos encontrardes, convidai-os para as bodas.
+10 E saíram aqueles servos pelos caminhos, e ajuntaram todos quantos encontraram, tanto maus como bons;{S} e encheu-se de convivas a sala nupcial.
+11 Mas, quando o rei entrou para ver os convivas, viu ali um homem que não trajava veste nupcial;{S}
+12 e perguntou-lhe:{S} Amigo, como entraste aqui, sem teres veste nupcial?{S} Ele, porém, emudeceu.
+13 Ordenou então o rei aos servos:{S} Amarrai-o de pés e mãos, e lançai-o nas trevas exteriores;{S} ali haverá choro e ranger de dentes.
+14 Porque muitos são chamados, mas poucos escolhidos.
+15 Então os fariseus se retiraram e consultaram entre si como o apanhariam em alguma palavra;{S}
+16 e enviaram-lhe os seus discípulos, juntamente com os herodianos, a dizer;{S} <PESSOA>Mestre</PESSOA>, sabemos que és verdadeiro, e que ensinas segundo a verdade o caminho de<PESSOA> Deus</PESSOA>, e de ninguém se te dá, porque não olhas a aparência dos homens.
+17 Dize-nos, pois, que te parece?{S} É lícito pagar tributo a César, ou não?
+18<PESSOA> Jesus</PESSOA>, porém, percebendo a sua malícia, respondeu:{S} Por que me experimentais, hipócritas?
+19 Mostrai-me a moeda do tributo.{S} E eles lhe apresentaram um denário.
+20 Perguntou-lhes ele:{S} De quem é esta imagem e inscrição?
+21 Responderam:{S} De César.{S} Então lhes disse:{S} Dai, pois, a César o que é de<PESSOA> César</PESSOA>, e a Deus o que é de<PESSOA> Deus</PESSOA>.
+22 Ao ouvirem isso, ficaram admirados;{S} e, deixando-o, se retiraram.
+23 No mesmo dia vieram alguns saduceus, que dizem não haver ressurreição, e o interrogaram, dizendo:
+24 <PESSOA>Mestre</PESSOA>,<PESSOA>  Moisés </PESSOA> disse:{S} Se morrer alguém, não tendo filhos, seu irmão casará com a mulher dele, e suscitará descendência a seu irmão.
+25 Ora, havia entre nós sete irmãos: o primeiro, tendo casado, morreu: e, não tendo descendência, deixou sua mulher a seu irmão;{S}
+26 da mesma sorte também o segundo, o terceiro, até o sétimo.
+27 depois de todos, morreu também a mulher.
+28 Portanto, na ressurreição, de qual dos sete será ela esposa, pois todos a tiveram?
+29<PESSOA> Jesus</PESSOA>, porém, lhes respondeu:{S} Errais, não compreendendo as Escrituras nem o poder de<PESSOA> Deus</PESSOA>;{S}
+30 pois na ressurreição nem se casam nem se dão em casamento;{S} mas serão como os anjos no céu.
+31 E, quanto à ressurreição dos mortos, não lestes o que foi dito por Deus:
+32 Eu sou o <PESSOA>Deus de Abraão</PESSOA>, o <PESSOA>Deus de Isaque</PESSOA>, e o <PESSOA>Deus de Jacó</PESSOA>?{S} Ora, ele não é<PESSOA> Deus</PESSOA> de mortos, mas de vivos.
+33 E as multidões, ouvindo isso, se maravilhavam da sua doutrina.
+<VALOR>34</VALOR> Os fariseus, quando souberam, que ele fizera emudecer os saduceus, reuniram-se todos;{S}
+35 e um deles, doutor da lei, para o experimentar, interrogou-o, dizendo:
+36 <PESSOA>Mestre</PESSOA>, qual é o grande mandamento na lei?
+37 Respondeu-lhe Jesus:{S} Amarás ao <PESSOA>Senhor</PESSOA> teu<PESSOA> Deus</PESSOA> de todo o teu coração, de toda a tua alma, e de todo o teu entendimento.
+38 Este é o grande e primeiro mandamento.
+39 E o segundo, semelhante a este, é:{S} Amarás ao teu próximo como a ti mesmo.
+40 Destes dois mandamentos dependem toda a lei e os profetas.
+41 Ora, enquanto os fariseus estavam reunidos, interrogou-os Jesus, dizendo:
+42 Que pensais vós do <PESSOA>Cristo</PESSOA>?{S} De quem é filho?{S} Responderam-lhe:{S} De Davi.
+43 Replicou-lhes ele:{S} Como é então que<PESSOA> Davi</PESSOA>, no<LOCAL> Espírito</LOCAL>, lhe chama<ABSTRACCAO> Senhor</ABSTRACCAO>, dizendo:
+44 Disse o <PESSOA>Senhor</PESSOA> ao meu <PESSOA>Senhor</PESSOA>:{S} Assenta-te à minha direita, até que eu ponha os teus inimigos de baixo dos teus pés?
+45 Se Davi, pois, lhe chama<ABSTRACCAO> Senhor</ABSTRACCAO>, como é ele seu filho?
+46 E ninguém podia responder-lhe palavra;{S} nem desde aquele dia jamais ousou alguém interrogá-lo.

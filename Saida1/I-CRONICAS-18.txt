@@ -1,0 +1,42 @@
+
+1 Depois disto Davi derrotou os filisteus, e os subjugou e tomou das mãos deles Gate e as suas aldeias.
+2 Também derrotou os moabitas, e estes lhe ficaram sujeitos, pagando-lhe tributos.
+3<PESSOA> Davi</PESSOA> derrotou também Hadadézer, rei de Zobá, junto a Hamate, quando foi estabelecer o seu domínio junto ao rio<LOCAL> Eufrates</LOCAL>.
+4 E Davi lhe tomou mil carros, sete mil cavaleiros e vinte mil homens de infantaria;{S} e jarretou todos os cavalos dos carros;{S} porém reservou deles para cem carros.
+5 E quando os sírios de<PESSOA> Damasco</PESSOA> vieram para ajudar a Hadadézer, rei de <PESSOA>Zobá</PESSOA>,<PESSOA> Davi</PESSOA> matou deles vinte e dois mil homens.
+6 Então Davi pôs guarnições entre os sírios de<PESSOA> Damasco</PESSOA>, e os sírios lhe ficaram sujeitos, pagando-lhe tributos;{S} e o <PESSOA>Senhor</PESSOA> dava vitória a Davi, por onde quer que ia.
+7<PESSOA> Davi</PESSOA> tomou os escudos de ouro que tinham sido dos servos de Hadadézer, e os trouxe a Jerusalém.
+8 Também de Tibate, e de Cum, cidades de <PESSOA>Hadadézer</PESSOA>,<PESSOA> Davi</PESSOA> tomou muitíssimo bronze, de que<PESSOA> Salomão</PESSOA> fez o mar de bronze, as colunas, e os utensílios de bronze.
+9 Ora, quando Toú, rei de Hamate, ouviu que<PESSOA> Davi</PESSOA> destruíra todo o exército de Hadadézer, rei de Zobá,
+10 mandou seu <PESSOA>filho Hadorão</PESSOA> ao <PESSOA>rei Davi</PESSOA>, para o saudar, e para o felicitar por haver pelejado contra Hadadézer e por tê-lo destruído (porque Hadadézer fazia guerra a Toú).{S} Enviou-lhe também toda sorte de utensílios de ouro, de prata e de bronze. l
+11 A estes também o <PESSOA>rei Davi</PESSOA> consagrou ao <PESSOA>Senhor</PESSOA>, juntamente com a prata e o ouro que trouxera de todas as nações dos edomeus, dos moabitas, dos amonitas, dos filisteus e dos amalequitas.
+12 Além de isso 
+is_father( Zeruia,Abisai).
+is_pessoa(Abisai).
+is_pessoa( Zeruia).
+, matou dezoito mil edomeus no<LOCAL> Vale do Sal</LOCAL>.
+13 E pôs guarnições em<LOCAL> Edom</LOCAL>, e todos os edomeus ficaram sujeitos a Davi;{S} e o <PESSOA>Senhor</PESSOA> dava vitória a Davi, por onde quer que ia.
+14 Dari, pois, reinou sobre todo o Israel;{S} e julgava, e fazia justiça a todo o seu povo.
+15 
+is_father( Zeruia,Joabe).
+is_pessoa(Joabe).
+is_pessoa( Zeruia).
+, tinha o cargo do exército;{S} 
+is_father( Ailude,Jeosafá).
+is_pessoa(Jeosafá).
+is_pessoa( Ailude).
+, era cronista;{S}
+16 
+is_father( Aiuube,Zadoque).
+is_pessoa(Zadoque).
+is_pessoa( Aiuube).
+, e 
+is_father( Abiatar,Abimeleque).
+is_pessoa(Abimeleque).
+is_pessoa( Abiatar).
+, eram sacerdotes;{S} Sarsa era escrivão;{S}
+17 
+is_father( Jeoiada,Benaías).
+is_pessoa(Benaías).
+is_pessoa( Jeoiada).
+, tinha o cargo dos quereteus e peleteus;{S} e os filhos de<PESSOA> Davi</PESSOA> eram os primeiros junto ao rei.

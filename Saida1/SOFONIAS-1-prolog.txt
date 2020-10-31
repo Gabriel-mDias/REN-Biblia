@@ -1,0 +1,9 @@
+is_pessoa(Sofonias).
+is_pessoa(Cuche).
+is_pessoa(Gedalias).
+is_pessoa(Amarias).
+is_pessoa(Josias).
+is_pessoa(Amom).
+is_father(Cuche,Sofonias).
+is_father(Amarias,Gedalias).
+is_father(Amom,Josias).

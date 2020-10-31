@@ -1,0 +1,3 @@
+is_pessoa(Seraías).
+is_pessoa(Nerias).
+is_father(Nerias,Seraías).

@@ -1,0 +1,3 @@
+is_pessoa(Palti).
+is_pessoa(Laís).
+is_father(Laís,Palti).

@@ -1,0 +1,6 @@
+is_pessoa(Jeroboão).
+is_pessoa(Nebate).
+is_pessoa(Jeroboão).
+is_pessoa(Nebate).
+is_father(Nebate,Jeroboão).
+is_father(Nebate,Jeroboão).

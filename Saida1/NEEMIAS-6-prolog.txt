@@ -1,0 +1,9 @@
+is_pessoa(Semaías).
+is_pessoa(Delaías).
+is_pessoa(Secanias).
+is_pessoa(Ará).
+is_pessoa(Mesulão).
+is_pessoa(Berequias).
+is_father(Delaías,Semaías).
+is_father(Ará,Secanias).
+is_father(Berequias,Mesulão).

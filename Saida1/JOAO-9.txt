@@ -1,0 +1,42 @@
+
+1 E passando<PESSOA> Jesus</PESSOA>, viu um homem cego de nascença.
+2 Perguntaram-lhe os seus discípulos:{S} Rabi, quem pecou, este ou seus pais, para que nascesse cego?
+3 Respondeu Jesus:{S} Nem ele pecou nem seus pais;{S} mas foi para que nele se manifestem as obras de<PESSOA> Deus</PESSOA>.
+4 Importa que façamos as obras daquele que me enviou, enquanto é dia;{S} vem a noite, quando ninguém pode trabalhar.
+5 Enquanto estou no mundo, sou a luz do mundo.
+6 Dito isto, cuspiu no chão e com a saliva fez lodo, e untou com lodo os olhos do cego,
+7 e disse-lhe:{S} Vai, lava-te no tanque de Siloé (que significa Enviado).{S} E ele foi, lavou-se, e voltou vendo.
+8 Então os vizinhos e aqueles que antes o tinham visto, quando mendigo, perguntavam:{S} Não é este o mesmo que se sentava a mendigar?
+9 Uns diziam:{S} É ele.{S} E outros:{S} Não é, mas se parece com ele.{S} Ele dizia:{S} Sou eu.
+10 Perguntaram-lhe, pois:{S} Como se te abriram os olhos?
+11 Respondeu ele:{S} O homem que se chama<ABSTRACCAO> Jesus</ABSTRACCAO> fez lodo, untou-me os olhos, e disse-me:{S} Vai a Siloé e lava-te.{S} Fui, pois, lavei-me, e fiquei vendo.
+12 E perguntaram-lhe:{S} Onde está ele?{S} Respondeu:{S} Não sei.
+13 Levaram aos fariseus o que fora cego.
+14 Ora, era sábado o dia em que<PESSOA> Jesus</PESSOA> fez o lodo e lhe abriu os olhos.
+15 Então os fariseus também se puseram a perguntar-lhe como recebera a vista.{S} Respondeu-lhes ele:{S} Pôs-me lodo sobre os olhos, lavei-me e vejo.
+16 Por isso alguns dos fariseus diziam:{S} Este homem não é de<PESSOA> Deus</PESSOA>;{S} pois não guarda o sábado.{S} Diziam outros:{S} Como pode um homem pecador fazer tais sinais?{S} E havia dissensão entre eles.
+17 Tornaram, pois, a perguntar ao cego:{S} Que dizes tu a respeito dele, visto que te abriu os olhos?{S} E ele respondeu:{S} É profeta.
+<VALOR>18</VALOR> Os judeus, porém, não acreditaram que ele tivesse sido cego e recebido a vista, enquanto não chamaram os pais do que fora curado,
+19 e lhes perguntaram:{S} É este o vosso filho, que dizeis ter nascido cego?{S} Como, pois, vê agora?
+20 Responderam seus pais:{S} Sabemos que este é o nosso filho, e que nasceu cego;{S}
+21 mas como agora vê, não sabemos;{S} ou quem lhe abriu os olhos, nós não sabemos;{S} perguntai a ele mesmo;{S} tem idade;{S} ele falará por si mesmo.
+22 Isso disseram seus pais, porque temiam os judeus, porquanto já tinham estes combinado que se alguém confessasse ser<PESSOA> Jesus</PESSOA> o <PESSOA>Cristo</PESSOA>, fosse expulso da sinagoga.
+23 Por isso é que seus pais disseram:{S} Tem idade, perguntai-lho a ele mesmo.
+24 Então chamaram pela segunda vez o homem que fora cego, e lhe disseram:{S} Dá glória a Deus;{S} nós sabemos que esse homem é pecador.
+25 Respondeu ele:{S} Se é pecador, não sei;{S} uma coisa sei: eu era cego, e agora vejo.
+26 Perguntaram-lhe pois:{S} Que foi que te fez?{S} Como te abriu os olhos?
+27 Respondeu-lhes:{S} Já vo-lo disse, e não atendestes;{S} para que o quereis tornar a ouvir?{S} Acaso também vós quereis tornar-vos discípulos dele?
+28 Então o injuriaram, e disseram:{S} Discípulo dele és tu;{S} nós porém, somos discípulos de<PESSOA> Moisés</PESSOA>.
+29 Sabemos que<PESSOA> Deus</PESSOA> falou a Moisés;{S} mas quanto a este, não sabemos de onde é.
+30 Respondeu-lhes o homem:{S} Nisto, pois, está a maravilha: não sabeis de onde ele é, e entretanto ele me abriu os olhos;{S}
+31 sabemos que<PESSOA> Deus</PESSOA> não ouve a pecadores;{S} mas, se alguém for temente a Deus, e fizer a sua vontade, a esse ele ouve.
+32 Desde o princípio do mundo nunca se ouviu que alguém abrisse os olhos a um cego de nascença.
+33 Se este não fosse de<PESSOA> Deus</PESSOA>, nada poderia fazer.
+34 Replicaram-lhe eles:{S} Tu nasceste todo em pecados, e vens nos ensinar a nós?{S} E expulsaram-no.
+35 Soube Jesus que o haviam expulsado;{S} e achando-o perguntou-lhe:{S} Crês tu no<LOCAL> Filho</LOCAL> do homem?
+36 Respondeu ele:{S} Quem é, senhor, para que nele creia?
+37 Disse-lhe Jesus:{S} Já o viste, e é ele quem fala contigo.
+38 Disse o homem:{S} <PESSOA>Creio</PESSOA>, <PESSOA>Senhor</PESSOA>!{S} E o adorou.
+39 Prosseguiu então Jesus:{S} Eu vim a este mundo para juízo, a fim de que os que não vêem vejam, e os que vêem se tornem cegos.
+40 Alguns fariseus que ali estavam com ele, ouvindo isso, perguntaram-lhe:{S} Porventura somos nós também cegos?
+41 Respondeu-lhes Jesus:{S} Se fosseis cegos, não teríeis pecado;{S} mas como agora dizeis:{S} Nós vemos, permanece o vosso pecado.

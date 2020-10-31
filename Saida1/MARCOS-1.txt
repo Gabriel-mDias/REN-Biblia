@@ -1,0 +1,49 @@
+
+1 Princípio do evangelho de <PESSOA> Jesus Cristo </PESSOA>, <PESSOA>Filho de Deus</PESSOA>.
+2 Conforme está escrito no profeta Isaías:{S} Eis que envio ante a tua face o meu mensageiro, que há de preparar o teu caminho;{S}
+3 voz do que clama no deserto:{S} Preparai o caminho do <PESSOA>Senhor</PESSOA>, endireitai as suas veredas;{S}
+4 assim apareceu<PESSOA> João</PESSOA>, o Batista, no deserto, pregando o batismo de arrependimento para remissão dos pecados.
+5 E saíam a ter com ele toda a terra da<ORGANIZACAO> Judéia</ORGANIZACAO>, e todos os moradores de<PESSOA> Jerusalém</PESSOA>;{S} e eram por ele batizados no rio<LOCAL> Jordão</LOCAL>, confessando os seus pecados.
+6 <PESSOA>Ora</PESSOA>,<PESSOA> João</PESSOA> usava uma veste de pêlos de camelo, e um cinto de couro em torno de seus lombos, e comia gafanhotos e mel silvestre.
+7 E pregava, dizendo:{S} Após mim vem aquele que é mais poderoso do que eu, de quem não sou digno de, inclinando-me, desatar a correia das alparcas.
+8 Eu vos batizei em água;{S} ele, porém, vos batizará no<LOCAL> Espírito Santo</LOCAL>.
+9 E aconteceu naqueles dias que veio<LOCAL> Jesus de Nazaré da Galiléia</LOCAL>, e foi batizado por<PESSOA> João</PESSOA> no<LOCAL> Jordão</LOCAL>.
+10 E logo, quando saía da água, viu os céus se abrirem, e o Espírito, qual pomba, a descer sobre ele;{S}
+11 e ouviu-se dos céus esta voz:{S} Tu és meu <PESSOA>Filho</PESSOA> amado;{S} em ti me comprazo.
+12 Imediatamente o Espírito o impeliu para o deserto.
+13 E esteve no deserto quarenta dias sentado tentado por Satanás;{S} estava entre as feras, e os anjos o serviam.
+14 Ora, depois que<PESSOA> João</PESSOA> foi entregue, veio<LOCAL> Jesus</LOCAL> para a Galiléia pregando o evangelho de<PESSOA> Deus</PESSOA> 15 e dizendo:{S} O tempo está cumprido, e é chegado o reino de<PESSOA> Deus</PESSOA>.{S} Arrependei-vos, e crede no evangelho.
+16 E, andando junto do mar da<ORGANIZACAO> Galiléia</ORGANIZACAO>, viu a Simão, e a André, irmão de<PESSOA> Simão</PESSOA>, os quais lançavam a rede ao mar, pois eram pescadores.
+17 Disse-lhes Jesus:{S} Vinde após mim, e eu farei que vos torneis pescadores de homens.
+18 Então eles, deixando imediatamente as suas redes, o seguiram.
+19 E ele, passando um pouco adiante, viu
+is_father( Zebedeu,  Tiago ).
+is_pessoa(  Tiago ).
+is_pessoa( Zebedeu).
+, e<PESSOA> João</PESSOA>, seu irmão, que estavam no barco, consertando as redes,
+20 e logo os chamou;{S} eles, deixando seu <PESSOA>pai Zebedeu</PESSOA> no barco com os empregados, o seguiram.
+21 Entraram em<LOCAL> Cafarnaum</LOCAL>;{S} e, logo no sábado, indo ele à sinagoga, pôs-se a ensinar.
+22 E maravilhavam-se da sua doutrina, porque os ensinava como tendo autoridade, e não como os escribas.
+23 Ora, estava na sinagoga um homem possesso de um espírito imundo, o qual gritou:
+24 Que temos nós contigo, Jesus, nazareno?{S} Vieste destruir-nos?{S} Bem sei quem és: o Santo de<PESSOA> Deus</PESSOA>.
+25 Mas Jesus o repreendeu, dizendo:{S} Cala-te, e sai dele.
+26 Então o espírito imundo, convulsionando-o e clamando com grande voz, saiu dele.
+27 E todos se maravilharam a ponto de perguntarem entre si, dizendo:{S} Que é isto?{S} Uma nova doutrina com autoridade!{S} Pois ele ordena aos espíritos imundos, e eles lhe obedecem!
+28 E logo correu a sua fama por toda a região da<LOCAL> Galiléia</LOCAL>.
+29 Em seguida, saiu da sinagoga e foi a casa de<PESSOA> Simão</PESSOA> e<PESSOA> André</PESSOA> com<PESSOA> Tiago</PESSOA> e<PESSOA> João</PESSOA>.
+30 A sogra de<PESSOA> Simão</PESSOA> estava de cama com febre, e logo lhe falaram a respeito dela.
+31 Então Jesus, chegando-se e tomando-a pela mão, a levantou;{S} e a febre a deixou, e ela os servia.
+32 Sendo já tarde, tendo-se posto o sol, traziam-lhe todos os enfermos, e os endemoninhados;{S}
+33 e toda a cidade estava reunida à porta;{S}
+34 e ele curou muitos doentes atacados de diversas moléstias, e expulsou muitos demônios;{S} mas não permitia que os demônios falassem, porque o conheciam.
+35 De madrugada, ainda bem escuro, levantou-se, saiu e foi a um lugar deserto, e ali orava.
+36 Foram, pois,<PESSOA> Simão</PESSOA> e seus companheiros procurá-lo;{S}
+37 quando o encontraram, disseram-lhe:{S} Todos te buscam.
+38 Respondeu-lhes Jesus:{S} Vamos a outras partes, às povoações vizinhas, para que eu pregue ali também;{S} pois para isso é que vim.
+39 Foi, então, por toda a Galiléia, pregando nas sinagogas deles e expulsando os demônios.
+40 E veio a ele um leproso que, de joelhos, lhe rogava, dizendo:{S} Se quiseres, bem podes tornar-me limpo.
+41<PESSOA> Jesus</PESSOA>, pois, compadecido dele, estendendo a mão, tocou-o e disse-lhe:{S} Quero;{S} sê limpo.
+42 Imediatamente desapareceu dele a lepra e ficou limpo.
+43 E Jesus, advertindo-o secretamente, logo o despediu,
+44 dizendo-lhe:{S} Olha, não digas nada a ninguém;{S} mas vai, mostra-te ao sacerdote e oferece pela tua purificação o que<PESSOA> Moisés</PESSOA> determinou, para lhes servir de testemunho.
+45 Ele, porém, saindo de ali, começou a publicar o caso por toda parte e a divulgá-lo, de modo que<PESSOA> Jesus</PESSOA> já não podia entrar abertamente em uma cidade, mas conservava-se fora em lugares desertos;{S} e de todos os lados iam ter com ele.

@@ -1,0 +1,12 @@
+is_pessoa(Abisai).
+is_pessoa(Zeruia).
+is_pessoa(Aimaaz).
+is_pessoa(Zadoque).
+is_pessoa(Aimaaz).
+is_pessoa(Zadoque).
+is_pessoa(Aimaaz).
+is_pessoa(Zadoque).
+is_father(Zeruia,Abisai).
+is_father(Zadoque,Aimaaz).
+is_father(Zadoque,Aimaaz).
+is_father(Zadoque,Aimaaz).

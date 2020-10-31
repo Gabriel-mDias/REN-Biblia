@@ -1,0 +1,24 @@
+
+1 Lembra-te, <PESSOA>Senhor</PESSOA>, do que nos tem sucedido;{S} considera, e olha para o nosso opróbrio.
+2 A nossa herdade passou a estranhos, e as nossas casas a forasteiros.
+<VALOR>3</VALOR> órfãos somos sem pai, nossas mães são como viuvas.
+4 A nossa água por dinheiro a bebemos, por preço vem a nossa lenha.
+<VALOR>5</VALOR> Os nossos perseguidores estão sobre os nossos pescoços;{S} estamos cansados, e não temos descanso.
+6 Aos egípcios e aos assírios estendemos as mãos, para nos fartarmos de pão.
+<VALOR>7</VALOR> Nossos pais pecaram, e já não existem;{S} e nós levamos as suas iniqüidades.
+<VALOR>8</VALOR> Escravos dominam sobre nós;{S} ninguém há que nos arranque da sua mão.
+9 Com perigo de nossas vidas obtemos o nosso pão, por causa da espada do deserto.
+10 Nossa pele está abraseada como um forno, por causa do ardor da fome.
+11 Forçaram as mulheres em<LOCAL> Sião</LOCAL>, as virgens nas cidades de<PESSOA> Judá</PESSOA>.
+12 <PESSOA>Príncipes</PESSOA> foram enforcados pelas mãos deles;{S} as faces dos anciãos não foram respeitadas.
+<VALOR>13</VALOR> Mancebos levaram a mó;{S} meninos tropeçaram sob fardos de lenha.
+<VALOR>14</VALOR> Os velhos já não se assentam nas portas, os mancebos já não cantam.
+15 Cessou o gozo de nosso coração;{S} converteu-se em lamentação a nossa dança.
+16 Caiu a coroa da nossa cabeça;{S} ai de nós. porque pecamos.
+17 Portanto desmaiou o nosso coração;{S} por isso se escureceram os nossos olhos.
+18 Pelo monte de Sião, que está assolado, andam os chacais.
+19 <PESSOA>Tu</PESSOA>, <PESSOA>Senhor</PESSOA>, permaneces eternamente;{S} e o teu trono subsiste de geração em geração.
+20 Por que te esquecerias de nós para sempre, por que nos desampararias por tanto tempo?
+21 Converte-nos a ti, <PESSOA>Senhor</PESSOA>, e seremos convertidos;{S} renova os nossos dias como dantes;{S}
+22 se é que não nos tens de todo rejeitado, se é que não estás sobremaneira irado contra nos.
+{S}EZEQUIEL

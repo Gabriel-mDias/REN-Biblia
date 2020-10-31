@@ -1,0 +1,3 @@
+is_pessoa(Jeorão).
+is_pessoa(Jeosafá).
+is_father(Jeosafá,Jeorão).

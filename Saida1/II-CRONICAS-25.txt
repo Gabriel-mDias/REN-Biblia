@@ -1,0 +1,45 @@
+
+1 Amazias tinha <VALOR>vinte e cinco anos</VALOR> quando começou a reinar, e reinou <VALOR>vinte e nove anos</VALOR> em<LOCAL> Jerusalém</LOCAL>.{S} E o nome de sua mãe era Jeoadã, de<PESSOA> Jerusalém</PESSOA>.
+2 Ele fez o que era reto aos olhos do <PESSOA>Senhor</PESSOA>, mas não o fez com coração perfeito.
+3 Quando o reino já lhe tinha sido confirmado, ele matou os seus servos que tinham assassinado o rei seu pai.
+4 Contudo não matou os filhos deles mas fez segundo está escrito na lei: no livro de<PESSOA> Moisés</PESSOA>, como o <PESSOA>Senhor</PESSOA> ordenou, dizendo:{S} Não morrerão os pais pelos filhos nem os filhos pelos pais;{S} mas cada um morrerá pelo seu pecado.
+5 Depois Amazias congregou<PESSOA> Judá</PESSOA> e o colocou, segundo as suas casas paternas sob comandantes de milhares e de centenas, por todo o Judá e Benjamim;{S} e os contou de <VALOR>vinte anos</VALOR> para cima, e achou deles trezentos mil escolhidos que podiam ir à guerra e sabiam manejar lança e escudo.
+6 Também de<PESSOA> Israel</PESSOA> tomou a soldo cem mil varões valentes, por cem talentos de prata.
+7 Veio ter com ele, porém, um homem de<PESSOA> Deus</PESSOA>, dizendo:{S} Ó rei, não deixes ir contigo o exército de<PESSOA> Israel</PESSOA>, porque o <PESSOA>Senhor</PESSOA> não é com<PESSOA> Israel</PESSOA>, a saber, com todos os filhos de Efraim.
+8 Mas se julgas que assim serás forte para a peleja,<PESSOA> Deus</PESSOA> te fará cair diante do inimigo;{S} pois<PESSOA> Deus</PESSOA> tem poder para ajudar e para fazer cair.
+9 Então perguntou Amazias ao homem de Deus:{S} Mas que se fará dos cem talentos de prata que dei às tropas de Israel?{S} Respondeu o homem de Deus:{S} Mais tem o <PESSOA>Senhor</PESSOA> que te dar do que isso.
+10 Então Amazias separou as tropas que lhe tinham vindo de Efraim, para que voltassem para a sua terra;{S} pelo que muito se acendeu a ira deles contra<PESSOA> Judá</PESSOA>, e voltaram para a sua terra ardendo em ira.
+11 Amazias, cobrando ânimo, conduziu o seu povo, e foi ao Vale do Sal, onde matou dez mil dos filhos de Seir.
+<VALOR>12</VALOR> Os filhos de<PESSOA> Judá</PESSOA> prenderam vivos outros dez mil, e trazendo-os ao cume da rocha, lançaram-nos de ali abaixo, de modo que todos foram despedaçados.
+13 Mas os homens das tropas que Amazias despedira, não deixando que fossem com ele à batalha, deram sobre as cidades de<PESSOA> Judá</PESSOA>, desde Samária até<LOCAL> Bete</LOCAL>-Horom, e dos seus habitantes mataram três mil, e saquearam grande despojo.
+14 Quando Amazias veio da matança dos edomeus, trouxe consigo os deuses dos filhos de Seir e os elevou para serem os seus deuses, prostrando-se diante deles e queimando-lhes incenso.
+15 Pelo que o <PESSOA>Senhor</PESSOA> se irou contra Amazias e lhe enviou um profeta, que lhe disse:{S} Por que buscaste os deuses deste povo, os quais não livraram o seu próprio povo da tua mão?
+16 Enquanto ele ainda falava com o rei, este lhe respondeu:{S} Fizemos-te conselheiro do rei?{S} Cala-te!{S} Por que haverias de ser morto?{S} Então o profeta calou, havendo dito:{S} Sei que<PESSOA> Deus</PESSOA> resolveu destruir-te, porquanto fizeste isto, e não deste ouvidos a meu conselho.
+17 Tendo Amazias, rei de<PESSOA> Judá</PESSOA>, tomado conselho, mandou dizer a 
+is_father( Jeoacaz,Jeoás).
+is_pessoa(Jeoás).
+is_pessoa( Jeoacaz).
+, filho de Jeú, rei de Israel:{S} Vem, vejamo-nos face a face.
+18 Mas Jeoás, rei de<PESSOA> Israel</PESSOA>, mandou responder a Amazias, rei de Judá:{S} O cardo que estava no<LOCAL> Líbano</LOCAL> mandou dizer ao cedro que estava no<LOCAL> Líbano</LOCAL>:{S} Dá tua filha por mulher a meu filho.{S} Mas uma fera que estava no<LOCAL> Líbano</LOCAL> passou e pisou o cardo.
+19 Tu dizes a ti mesmo:{S} Eis que feri Edom.{S} Assim o teu coração se eleva para te gloriares.{S} Agora, pois, fica em tua casa;{S} por que te meterias no mal, para caíres tu e<PESSOA> Judá</PESSOA> contigo?
+20 Amazias, porém, não lhe deu ouvidos;{S} pois isto vinha de<PESSOA> Deus</PESSOA>, para entregá-los na mão dos seus inimigos, porque buscaram os deuses de Edom.
+21 Subiu, pois, Jeoás, rei de<PESSOA> Israel</PESSOA>;{S} e ele e Amazias, rei de<PESSOA> Judá</PESSOA>, se viram face a face em<LOCAL> Bete</LOCAL>-Semes, que pertence a Judá.
+22 E Judá foi desbaratado diante de<PESSOA> Israel</PESSOA>, e fugiu cada um para a sua tenda.
+23 E Jeoás, rei de<PESSOA> Israel</PESSOA>, prendeu Amazias, rei de
+is_father( Joás,  Judá ).
+is_pessoa(  Judá ).
+is_pessoa( Joás).
+, o filho de Jeoacaz, em<LOCAL> Bete</LOCAL>-Semes, e o levou a Jerusalém;{S} e derrubou o muro de<PESSOA> Jerusalém</PESSOA>, desde a porta de Efraim até a porta da esquina, quatrocentos côvados.
+24 Também tomou todo o ouro, e toda a prata, e todos os utensílios que se acharam na casa de<PESSOA> Deus</PESSOA> com Obede-Edom, e os tesouros da casa do rei, e os reféns, e voltou pura Samária.
+25 E 
+is_father( Joás,Amazias).
+is_pessoa(Amazias).
+is_pessoa( Joás).
+, rei de<PESSOA> Judá</PESSOA>, viveu <VALOR>quinze anos</VALOR> depois da morte de 
+is_father( Jeoacaz,Jeoás).
+is_pessoa(Jeoás).
+is_pessoa( Jeoacaz).
+, rei de<PESSOA> Israel</PESSOA>.
+26 Quanto ao restante dos atos de Amazias, desde os primeiros até os últimos, não estão porventura escritos no livro dos reis de<PESSOA> Judá</PESSOA> e de Israel?
+27 Desde o tempo em que Amazias se desviou do <PESSOA>Senhor</PESSOA>, conspiraram contra ele em<LOCAL> Jerusalém</LOCAL>, e ele fugiu para Laquis;{S} mas perseguiram-no até<LOCAL> Laquis</LOCAL>, e ali o mataram.
+28 E o trouxeram sobre cavalos e o sepultaram junto a seus pais na <LOCAL>cidade de Davi</LOCAL>.

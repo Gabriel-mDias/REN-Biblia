@@ -1,0 +1,157 @@
+
+1 Todo o Israel, pois, foi arrolado por genealogias, que estão inscritas no livro dos reis de<PESSOA> Israel</PESSOA>;{S} e<PESSOA> Judá</PESSOA> foi transportado para Babilônia, por causa da sua infidelidade.
+2 Ora, os primeiros a se restabelecerem nas suas possessões e nas suas cidades foram de<PESSOA> Israel</PESSOA>, os sacerdotes, os levitas, e os netinins.
+3 E alguns dos filhos de<PESSOA> Judá</PESSOA>, de Benjamim, e de Efraim e Manassés, habitaram em<LOCAL> Jerusalém</LOCAL>:
+4 
+is_father( Amiúde,Utai).
+is_pessoa(Utai).
+is_pessoa( Amiúde).
+, filho de 
+is_father( Inri,Onri).
+is_pessoa(Onri).
+is_pessoa( Inri).
+. 
+is_father( Bari, Inri).
+is_pessoa( Inri).
+is_pessoa( Bari).
+., dos filhos de
+is_father(  Judá ,  Pérez ).
+is_pessoa(  Pérez ).
+is_pessoa(  Judá ).
+;{S}
+5 dos silonitas:{S} Asaías o primogênito, e seus filhos;{S}
+6 dos filhos de Zerá:{S} Jeuel e seus irmãos, seiscentos e noventa;{S}
+7 dos filhos de Benjamim:{S} 
+is_father( Mesulão,Salu).
+is_pessoa(Salu).
+is_pessoa( Mesulão).
+, filho de 
+is_father( Hassenua,Hodavias).
+is_pessoa(Hodavias).
+is_pessoa( Hassenua).
+;{S}
+8 
+is_father( Jeroão,Ibnéias).
+is_pessoa(Ibnéias).
+is_pessoa( Jeroão).
+;{S} 
+is_father( Uzi,Elá).
+is_pessoa(Elá).
+is_pessoa( Uzi).
+, filho de Mícri;{S} 
+is_father( Sefatias,Mesulão).
+is_pessoa(Mesulão).
+is_pessoa( Sefatias).
+, filho de 
+is_father( Ibnijas,Reuel).
+is_pessoa(Reuel).
+is_pessoa( Ibnijas).
+;{S}
+9 e seus irmãos, segundo as suas gerações, novecentos e cinqüenta e seis.{S} Todos estes homens foram chefes de casas paternas, segundo as casas de seus pais.
+10 E dos sacerdotes:{S} Jedaías, Jeoiaribe e Jaquim;{S}
+11 
+is_father( Hilquias,Azarias).
+is_pessoa(Azarias).
+is_pessoa( Hilquias).
+, filho de 
+is_father( Zadoque,Mesulão).
+is_pessoa(Mesulão).
+is_pessoa( Zadoque).
+, filho de Meraiote. filho de Aitube, regente da casa de<PESSOA> Deus</PESSOA>;{S}
+12 
+is_father( Jeroão,Adaías).
+is_pessoa(Adaías).
+is_pessoa( Jeroão).
+, filho de 
+is_father( Malquias,Pasur).
+is_pessoa(Pasur).
+is_pessoa( Malquias).
+;{S} 
+is_father( Adiel,Maasai).
+is_pessoa(Maasai).
+is_pessoa( Adiel).
+, filho de 
+is_father( Mesulão,Jazera).
+is_pessoa(Jazera).
+is_pessoa( Mesulão).
+, filho de 
+is_father( Imer,Mesilemite).
+is_pessoa(Mesilemite).
+is_pessoa( Imer).
+;{S}
+13 como também seus irmãos, chefes de suas casas paternas, mil setecentos e sessenta, homens capacitados para o serviço a casa de<PESSOA> Deus</PESSOA>.
+14 E dos levitas:{S} 
+is_father( Hassube,Semaías).
+is_pessoa(Semaías).
+is_pessoa( Hassube).
+, filho de 
+is_father( Hasabias,Azricão).
+is_pessoa(Azricão).
+is_pessoa( Hasabias).
+, dos filhos de Merári:
+15 Baquebacar, Heres, Galal, e 
+is_father( Mica,Matanias).
+is_pessoa(Matanias).
+is_pessoa( Mica).
+, filho de 
+is_father( Asafe,Zicri).
+is_pessoa(Zicri).
+is_pessoa( Asafe).
+;{S}
+16 
+is_father( Semaías,Obadias).
+is_pessoa(Obadias).
+is_pessoa( Semaías).
+, filho de 
+is_father( Jedútun,Galal).
+is_pessoa(Galal).
+is_pessoa( Jedútun).
+;{S} e 
+is_father( Asa,Berequias).
+is_pessoa(Berequias).
+is_pessoa( Asa).
+, filho de Elcana, morador das aldeias dos netofatitas.
+17 Foram porteiros:{S} Salum, Acube, Talmom, Aimã, e seus irmãos, sendo Salum o chefe;{S}
+18 e até aquele tempo estavam de guarda à porta do rei, que ficava ao oriente.{S} Estes foram os porteiros para os arraiais dos filhos de<PESSOA> Levi</PESSOA>.
+19 
+is_father( Coré,Salum).
+is_pessoa(Salum).
+is_pessoa( Coré).
+, filho de 
+is_father( Corá,Ebiasafe).
+is_pessoa(Ebiasafe).
+is_pessoa( Corá).
+, e seus irmãos da casa de seu pai, os coraítas estavam encarregados do serviço como guardas das entradas do tabernáculo, como seus pais também tinham sido encarregados do arraial do <PESSOA>Senhor</PESSOA>, sendo guardas da entrada.
+20 
+is_father( Eleazar,Finéias).
+is_pessoa(Finéias).
+is_pessoa( Eleazar).
+, dantes era guia entre eles;{S} e o <PESSOA>Senhor</PESSOA> era com ele.
+<VALOR>21</VALOR> 
+is_father( Meselemias,Zacarias).
+is_pessoa(Zacarias).
+is_pessoa( Meselemias).
+, guardava a porta da tenda da revelação.
+<VALOR>22</VALOR> Todos estes, escolhidos para serem guardas das entradas, foram duzentos e doze;{S} e foram contados por suas genealogias, nas suas aldeias.S<PESSOA> Davi</PESSOA> e<PESSOA> Samuel</PESSOA>, o vidente, os constituíram nos seus respectivos cargos.
+23 Tinham, pois, eles e seus filhos o cargo das portas da casa do <PESSOA>Senhor</PESSOA>, a saber, da casa da tenda, como guardas.
+<VALOR>24</VALOR> Os porteiros estavam aos quatro lados, ao oriente, ao ocidente, ao norte e ao sul:
+<VALOR>25</VALOR> Seus irmãos, que moravam nas suas aldeias, deviam de tempo em tempo vir por sete dias para servirem com eles.
+26 pois os quatro porteiros principais, que eram levitas, estavam encarregados das câmaras e dos tesouros da casa de<PESSOA> Deus</PESSOA>.
+27 E se alojavam à roda da casa de<PESSOA> Deus</PESSOA>.{S} Porque a sua guarda lhes estava entregue, e tinham o encargo de abri-la cada manhã.
+28 Alguns deles estavam encarregados dos utensílios do serviço, pois estes por conta eram trazidos e por conta eram tirados.
+29 Outros estavam encarregados dos móveis e de todos os utensílios do santuário, como também da flor de farinha, do vinho, do azeite, do incenso e das especiarias.
+<VALOR>30</VALOR> Os que confeccionavam as especiarias eram dos filhos dos sacerdotes.
+31 Matitias, um dos levitas, o primogênito de Salum, o coraíta, estava encarregado de tudo o que se cozia em sertãs.
+32 E seus irmãos, dentre os filhos dos coatitas, alguns tinham o cargo dos pães da proposição, para os prepararem de sábado em sábado.
+<VALOR>33</VALOR> Estes são os cantores, chefes de casas paternas dos levitas, que moravam nas câmaras e estavam isentos de outros serviços, porque de dia e de noite se ocupavam naquele serviço.
+<VALOR>34</VALOR> Estes foram chefes de casas paternas dos levitas, em suas gerações;{S} e estes habitaram em<LOCAL> Jerusalém</LOCAL>.
+35 Em<LOCAL> Gibeão</LOCAL> habitou Jeiel, pai de Hibeão (e era o nome de sua mulher Maacá);{S}
+36 seu filho primogênito foi Abdom;{S} depois Zur, Quis, Baal, Ner, Nadabe,
+37 <PESSOA>Gedor</PESSOA>,<PESSOA> Aiô</PESSOA>,<PESSOA> Zacarias</PESSOA> e<PESSOA> Miclote</PESSOA>.
+38 Miclote foi pai de<PESSOA> Simeão</PESSOA>;{S} também estes habitaram em<LOCAL> Jerusalém</LOCAL> defronte d seus irmãos.
+39 Ner foi pai de Quis;{S} Quis de<PESSOA> Saul</PESSOA>;{S} e <PESSOA> Saul de Jônatas </PESSOA>,<PESSOA> Malquisua</PESSOA>,<PESSOA> Abinadabe</PESSOA> e<PESSOA> Es-Baal</PESSOA>.
+40 <PESSOA>Filho de Jônatas</PESSOA> foi Meribe-Baal;{S} Meribe-Baal foi pai de Mica.
+<VALOR>41</VALOR> Os filhos de Mica:{S} Pitom, Meleque, Tareá, e Acaz.
+42 Acaz foi pai de Jará;{S} Jará foi pai de Alemete, Azmavete e Zinri;{S} Zinri foi pai de Moza;{S}
+43 Moza foi pai de Bineá, de quem foi <PESSOA>filho Refaías</PESSOA>, de quem foi <PESSOA>filho Eleasá</PESSOA>, de quem foi <PESSOA>filho Azel</PESSOA>.
+44 Azel teve seis filhos, cujos nomes são:{S} Azricão, Bocru, Ismael, Searias, Obadias e Hanã;{S} estes foram os filhos de Azel.

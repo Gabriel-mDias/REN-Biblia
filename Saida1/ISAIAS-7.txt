@@ -1,0 +1,34 @@
+
+1 Sucedeu, pois, nos dias de 
+is_father( Jotão,Acaz).
+is_pessoa(Acaz).
+is_pessoa( Jotão).
+, filho de Uzias, rei de<PESSOA> Judá</PESSOA>, que Rezim, rei da<ORGANIZACAO> Síria</ORGANIZACAO>, e 
+is_father( Remalias,Peca).
+is_pessoa(Peca).
+is_pessoa( Remalias).
+, rei de<PESSOA> Israel</PESSOA>, subiram a Jerusalém, para pelejarem contra ela, mas não a puderam conquistar.
+2 Quando deram aviso à casa de<PESSOA> Davi</PESSOA>, dizendo:{S} A Síria fez aliança com Efraim;{S} ficou agitado o coração de Acaz, e o coração do seu povo, como se agitam as árvores do bosque à força do vento.
+3 Então disse o <PESSOA>Senhor</PESSOA> a Isaías: saí agora, tu e teu <PESSOA>filho Sear-Jasube</PESSOA>, ao encontro de Acaz, ao fim do aqueduto da piscina superior, na estrada do campo do lavandeiro,
+4 e dize-lhe:{S} Acautela-te e aquieta-te;{S} não temas, nem te desfaleça o coração por causa destes dois pedaços de tições fumegantes;{S} por causa do ardor da ira de Rezim e da<ORGANIZACAO> Síria</ORGANIZACAO>, e do filho de Remalias.
+5 Porquanto a Síria maquinou o mal contra ti, com Efraim e com o filho de Remalias, dizendo:
+6 Subamos contra<PESSOA> Judá</PESSOA>, e amedrontemo-lo, e demos sobre ele, tomando-o para nós, e façamos reinar no meio dele o filho de Tabeel.
+7 Assim diz o <PESSOA>Senhor Deus</PESSOA>:{S} Isto não subsistirá, nem tampouco acontecerá.
+8 Pois a cabeça da<ORGANIZACAO> Síria</ORGANIZACAO> é<PESSOA> Damasco</PESSOA>, e o cabeça de<PESSOA> Damasco</PESSOA> é Rezim;{S} e dentro de <VALOR>sessenta e cinco anos</VALOR> Efraim será quebrantado, e deixará de ser povo.
+9 Entretanto a cabeça de Efraim será Samária, e o cabeça de Samária o filho de Remalias;{S} se não o crerdes, certamente não haveis de permanecer.
+10 De novo falou o <PESSOA>Senhor</PESSOA> com Acaz, dizendo:
+11 Pede para ti ao <PESSOA>Senhor</PESSOA> teu<PESSOA> Deus</PESSOA> um sinal;{S} pede-o ou em baixo nas profundezas ou em cima nas alturas.
+12 Acaz, porém, respondeu:{S} Não o pedirei nem porei à prova o <PESSOA>Senhor</PESSOA>.
+13 Então disse<PESSOA> Isaías</PESSOA>:{S} Ouvi agora, ó casa de Davi:{S} Pouco vos é afadigardes os homens, que ainda afadigareis também ao meu Deus?
+14 Portanto o <PESSOA>Senhor</PESSOA> mesmo vos dará um sinal: eis que uma virgem conceberá, e dará à luz um filho, e será o seu nome<PESSOA> Emanuel</PESSOA>.
+15 Manteiga e mel comerá, quando ele souber rejeitar o mal e escolher o bem.
+16 Pois antes que o menino saiba rejeitar o mal e escolher o bem, será desolada a terra dos dois reis perante os quais tu tremes de medo.
+17 Mas o <PESSOA>Senhor</PESSOA> fará vir sobre ti, e sobre o teu povo e sobre a casa de teu pai, dias tais, quais nunca vieram, desde o dia em que Efraim se separou de<PESSOA> Judá</PESSOA>, isto é, fará vir o rei da<ORGANIZACAO> Assíria</ORGANIZACAO>.
+18 Naquele dia assobiará o <PESSOA>Senhor</PESSOA> às moscas que há no extremo dos rios do<PESSOA> Egito</PESSOA>, e às abelhas que estão na terra da<ORGANIZACAO> Assíria</ORGANIZACAO>.
+19 E elas virão, e pousarão todas nos vales desertos e nas fendas das rochas, e sobre todos os espinheirais, e sobre todos os prados.
+20 Naquele dia rapará o <PESSOA>Senhor</PESSOA> com uma navalha alugada, que está além do Rio, isto é, com o rei da<ORGANIZACAO> Assíria</ORGANIZACAO>, a cabeça e os cabelos dos pés;{S} e até a barba arrancará.
+21 Sucederá naquele dia que um homem criará uma vaca e duas ovelhas;{S}
+22 e por causa da abundância do leite que elas hão de dar, comerá manteiga;{S} pois manteiga e mel comerá todo aquele que ficar de resto no meio da terra.
+23 Sucederá também naquele dia que todo lugar, em que antes havia mil vides, do valor de mil siclos de prata, será para sarças e para espinheiros.
+24 Com arco e flechas entrarão ali;{S} porque as sarças e os espinheiros cobrirão toda a terra.
+25 Quanto a todos os outeiros que costumavam cavar com enxadas, para ali não chegarás, por medo das sarças e dos espinheiros;{S} mas servirão de pasto para os bois, e serão pisados pelas ovelhas.

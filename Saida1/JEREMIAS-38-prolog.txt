@@ -1,0 +1,12 @@
+is_pessoa(Sefatias).
+is_pessoa(Matã).
+is_pessoa(Gedalias).
+is_pessoa(Pasur).
+is_pessoa(Jeucal).
+is_pessoa(Selemias).
+is_pessoa(Pasur).
+is_pessoa(Malquias).
+is_father(Matã,Sefatias).
+is_father(Pasur,Gedalias).
+is_father(Selemias,Jeucal).
+is_father(Malquias,Pasur).

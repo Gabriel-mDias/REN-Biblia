@@ -1,0 +1,33 @@
+
+<VALOR>1</VALOR> As palavras do <PESSOA>rei Lemuel</PESSOA>, rei de Massá, que lhe ensinou sua mãe.
+2 Que te direi, filho meu? e que te direi, ó filho do meu ventre? e que te direi, ó filho dos meus votos?
+3 Não dês às mulheres a tua força, nem os teus caminhos às que destroem os reis.
+4 Não é dos reis, ó Lemuel, não é dos reis beber vinho, nem dos príncipes desejar bebida forte;{S}
+5 para que não bebam, e se esqueçam da lei, e pervertam o direito de quem anda aflito.
+6 Dai bebida forte ao que está para perecer, e o vinho ao que está em amargura de espírito.
+7 Bebam e se esqueçam da sua pobreza, e da sua miséria não se lembrem mais.
+8 Abre a tua boca a favor do mudo, a favor do direito de todos os desamparados.
+9 Abre a tua boca;{S} julga retamente, e faze justiça aos pobres e aos necessitados.
+10 Álefe.{S} Mulher virtuosa, quem a pode achar?{S} Pois o seu valor muito excede ao de jóias preciosas.
+11 Bete.{S} O coração do seu marido confia nela, e não lhe haverá falta de lucro.
+12 Guímel.{S} Ela lhe faz bem, e não mal, todos os dias da sua vida.
+13 Dálete.{S} Ela busca lã e linho, e trabalha de boa vontade com as mãos.
+14 Hê.{S} É como os navios do negociante;{S} de longe traz o seu pão.
+15 Vave.{S} E quando ainda está escuro, ela se levanta, e dá mantimento à sua casa, e a tarefa às suas servas.
+16 Zaine.{S} Considera um campo, e compra-o;{S} planta uma vinha com o fruto de suas mãos.
+17 Hete.{S} Cinge os seus lombos de força, e fortalece os seus braços.
+18 Tete.{S} Prova e vê que é boa a sua mercadoria;{S} e a sua lâmpada não se apaga de noite.
+19 Iode.{S} Estende as mãos ao fuso, e as suas mãos pegam na roca.
+20 Cafe.{S} Abre a mão para o pobre;{S} sim, ao necessitado estende as suas mãos.
+21 Lâmede.{S} Não tem medo da neve pela sua família;{S} pois todos os da sua casa estão vestidos de escarlate.
+22 Meme.{S} Faz para si cobertas;{S} de linho fino e de púrpura é o seu vestido.
+23 Nune.{S} Conhece-se o seu marido nas portas, quando se assenta entre os anciãos da terra.
+24 Sâmerue.{S} Faz vestidos de linho, e vende-os, e entrega cintas aos mercadores.
+25 Aine.{S} A força e a dignidade são os seus vestidos;{S} e ri-se do tempo vindouro.
+26 Pê.{S} Abre a sua boca com sabedoria, e o ensino da benevolência está na sua língua.
+27 Tsadê.{S} Olha pelo governo de sua casa, e não come o pão da preguiça.
+28 Côfe.{S} Levantam-se seus filhos, e lhe chamam bem-aventurada, como também seu marido, que a louva, dizendo:
+29 Reche.{S} Muitas mulheres têm procedido virtuosamente, mas tu a todas sobrepujas.
+30 Chine.{S} Enganosa é a graça, e vã é a formosura;{S} mas a mulher que teme ao <PESSOA>Senhor</PESSOA>, essa será louvada.
+31 Tau.{S} Dai-lhe do fruto das suas mãos, e louvem-na nas portas as suas obras.
+{S}ECLESIASTES

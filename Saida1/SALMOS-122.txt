@@ -1,0 +1,10 @@
+
+1 Alegrei-me quando me disseram:{S} Vamos à casa do <PESSOA>Senhor</PESSOA>.
+<VALOR>2</VALOR> Os nossos pés estão parados dentro das tuas portas, ó Jerusalém!
+3<PESSOA> Jerusalém</PESSOA>, que és edificada como uma cidade compacta,
+4 aonde sobem as tribos, as tribos do <PESSOA>Senhor</PESSOA>, como testemunho para<PESSOA> Israel</PESSOA>, a fim de darem graças ao nome do <PESSOA>Senhor</PESSOA>.
+5 Pois ali estão postos os tronos de julgamento, os tronos da casa de<PESSOA> Davi</PESSOA>.
+6 Orai pela paz de<PESSOA> Jerusalém</PESSOA>;{S} prosperem aqueles que te amam.
+7 Haja paz dentro de teus muros, e prosperidade dentro dos teus palácios.
+8 Por causa dos meus irmãos e amigos, direi:{S} Haja paz dentro de ti.
+9 Por causa da casa do <PESSOA>Senhor</PESSOA>, nosso<PESSOA> Deus</PESSOA>, buscarei o teu bem.

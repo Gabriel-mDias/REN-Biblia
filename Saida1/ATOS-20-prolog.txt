@@ -1,0 +1,3 @@
+is_pessoa(Sópater de Beréia).
+is_pessoa(Pirro).
+is_father(Pirro,Sópater de Beréia).

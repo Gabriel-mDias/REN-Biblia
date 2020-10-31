@@ -1,0 +1,9 @@
+is_pessoa(Seeanias).
+is_pessoa(Jeiel).
+is_pessoa(Jônatas).
+is_pessoa(Asael).
+is_pessoa(Jesuá).
+is_pessoa(Jozadaque).
+is_father(Jeiel,Seeanias).
+is_father(Asael,Jônatas).
+is_father(Jozadaque,Jesuá).

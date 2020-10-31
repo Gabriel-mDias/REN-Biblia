@@ -1,0 +1,15 @@
+is_pessoa(Elasa).
+is_pessoa(Safã).
+is_pessoa(Gemarias).
+is_pessoa(Hilquias).
+is_pessoa(Acabe).
+is_pessoa(Colaías).
+is_pessoa(Zedequias).
+is_pessoa(Maaséias).
+is_pessoa(Sofonias).
+is_pessoa(Maaséias).
+is_father(Safã,Elasa).
+is_father(Hilquias,Gemarias).
+is_father(Colaías,Acabe).
+is_father(Maaséias,Zedequias).
+is_father(Maaséias,Sofonias).

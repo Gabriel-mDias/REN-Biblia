@@ -1,0 +1,11 @@
+
+1 No ano em que Tartã, enviado por Sargão, rei da<ORGANIZACAO> Assíria</ORGANIZACAO>, veio a Asdode, e guerreou contra Asdode, e a tomou;{S}
+2 falou o <PESSOA>Senhor</PESSOA>, naquele tempo, por intermédio de
+is_father( Amoz,  Isaías ).
+is_pessoa(  Isaías ).
+is_pessoa( Amoz).
+, dizendo:{S} Vai, solta o cilício de teus lombos, e descalça os sapatos dos teus pés.{S} E ele assim o fez, andando nu e descalço.
+3 Então disse o <PESSOA>Senhor</PESSOA>:{S} Assim como o meu servo<PESSOA> Isaías</PESSOA> andou <VALOR>três anos</VALOR> nu e descalço, por sinal e portento contra o Egito e contra a Etiópia,
+4 assim o rei da<ORGANIZACAO> Assíria</ORGANIZACAO> levará em cativeiro os presos do<PESSOA> Egito</PESSOA>, e os exilados da<ORGANIZACAO> Etiópia</ORGANIZACAO>, tanto moços como velhos, nus e descalços, e com as nádegas descobertas, para vergonha do<PESSOA> Egito</PESSOA>.
+5 E assombrar-se-ão, e envergonhar-se-ão por causa da<ORGANIZACAO> Etiópia</ORGANIZACAO>, sua esperança, e do<PESSOA> Egito</PESSOA>, sua glória.
+6 Então os moradores desta região litorânea dirão naquele dia:{S} Vede que tal é a nossa esperança, aquilo que buscamos por socorro, para nos livrarmos do rei da<ORGANIZACAO> Assíria</ORGANIZACAO>!{S} Como pois escaparemos nós?

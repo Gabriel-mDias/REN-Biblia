@@ -1,0 +1,3 @@
+is_pessoa(Manassés).
+is_pessoa(Ezequias).
+is_father(Ezequias,Manassés).

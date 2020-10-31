@@ -1,0 +1,36 @@
+
+1 Diná, filha de Léia, que esta tivera de<PESSOA> Jacó</PESSOA>, saiu para ver as filhas da terra.
+2 Viu-a 
+is_father( Hamor,Siquém).
+is_pessoa(Siquém).
+is_pessoa( Hamor).
+ o heveu, príncipe da terra;{S} e, tomando-a, deitou-se com ela e humilhou-a.
+3 Assim se apegou a sua alma a Diná, filha de<PESSOA> Jacó</PESSOA>, e, amando a donzela, falou-lhe afetuosamente.
+4 Então disse<PESSOA> Siquém</PESSOA> a Hamor seu pai:{S} Consegue-me esta donzela por mulher.
+5 <PESSOA>Ora</PESSOA>,<PESSOA> Jacó</PESSOA> ouviu que Siquém havia contaminado a Diná sua filha.{S} Entretanto, estando seus filhos no campo com o gado, calou-se<PESSOA> Jacó</PESSOA> até que viessem.
+6 Hamor, pai de Siquém, saiu a fim de falar com<PESSOA> Jacó</PESSOA>.
+<VALOR>7</VALOR> Os filhos de<PESSOA> Jacó</PESSOA>, pois, vieram do campo logo que souberam do caso;{S} e entristeceram-se e iraram-se muito, porque Siquém havia cometido uma insensatez em<LOCAL> Israel</LOCAL>, deitando-se com a filha de<PESSOA> Jacó</PESSOA>, coisa que não se devia fazer.
+8 Então falou Hamor com eles, dizendo:{S} A alma de meu <PESSOA>filho Siquém</PESSOA> afeiçoou-se fortemente a vossa filha;{S} dai-lha, peço-vos, por mulher.
+9 Também aparentai-vos conosco;{S} dai-nos as vossas filhas e recebei as nossas.
+10 Assim habitareis conosco;{S} a terra estará diante de vós;{S} habitai e negociai nela, e nela adquiri propriedades.
+11 Depois disse<PESSOA> Siquém</PESSOA> ao pai e aos irmãos dela:{S} Ache eu graça aos vossos olhos, e darei o que me disserdes;{S}
+12 exigi de mim o que quiserdes em dote e presentes, e darei o que me pedirdes;{S} somente dai-me a donzela por mulher.
+13 Então os filhos de<PESSOA> Jacó</PESSOA>, respondendo, falaram enganosamente a Siquém e a Hamor, seu pai, porque Siquém havia contaminado a Diná, sua irmã,
+14 e lhes disseram:{S} Não podemos fazer p isto, dar a nossa irmã a um homem incircunciso;{S} porque isso seria uma vergonha para nós.
+15 Sob esta única condição consentiremos;{S} se vos tornardes como nós, circuncidando-se todo varão entre vós;{S}
+16 então vos daremos nossas filhas a vós, e receberemos vossas filhas para nós;{S} assim habitaremos convosco e nos tornaremos um só povo.
+17 Mas se não nos ouvirdes, e não vos circuncidardes, levaremos nossa filha e nos iremos embora.
+18 E suas palavras agradaram a Hamor e a Siquém, seu filho.
+19 Não tardou, pois, o mancebo em fazer isso, porque se agradava da filha de<PESSOA> Jacó</PESSOA>.{S} Era ele o mais honrado de toda a casa de seu pai.
+20 Vieram, pois, Hamor e Siquém, seu filho, à porta da sua cidade, e falaram aos homens da cidade, dizendo:
+<VALOR>21</VALOR> Estes homens são pacíficos para conosco;{S} portanto habitem na terra e negociem nela, pois é bastante espaçosa para eles.{S} Recebamos por mulheres as suas filhas, e lhes demos as nossas.
+22 Mas sob uma única condição é que consentirão aqueles homens em habitar conosco para nos tornarmos um só povo: se todo varão entre nós se circuncidar, como eles são circuncidados.
+23 O seu gado, as suas aquisições, e todos os seus animais, não serão nossos? consintamos somente com eles, e habitarão conosco.
+24 E deram ouvidos a Hamor e a Siquém, seu filho, todos os que saíam da porta da cidade;{S} e foi circuncidado todo varão, todos os que saíam pela porta da sua cidade.
+25 Ao terceiro dia, quando os homens estavam doridos, dois filhos de<PESSOA> Jacó</PESSOA>,<PESSOA> Simeão</PESSOA> e<PESSOA> Levi</PESSOA>, irmãos de Diná, tomaram cada um a sua espada, entraram na cidade com toda a segurança e mataram todo varão.
+26 Mataram também ao fio da espada a Hamor e a Siquém, seu filho;{S} e, tirando Diná da casa de Siquém, saíram.
+27 Vieram os filhos de<PESSOA> Jacó</PESSOA> aos mortos e saquearam a cidade;{S} porquanto haviam contaminado a sua irmã.
+28 Tomaram-lhes os rebanhos, os bois, os jumentos, e o que havia tanto na cidade como no campo;{S}
+29 e todos os seus bens, e todos os seus pequeninos, e as suas mulheres, levaram por presa;{S} e despojando as casas, levaram tudo o que havia nelas.
+30 Então disse<PESSOA> Jacó</PESSOA> a Simeão e a Levi:{S} Tendes-me perturbado, fazendo-me odioso aos habitantes da terra, aos cananeus e perizeus.{S} Tendo eu pouca gente, eles se ajuntarão e me ferirão;{S} e serei destruído, eu com minha casa.
+31 Ao que responderam:{S} Devia ele tratar a nossa irmã como a uma prostituta?

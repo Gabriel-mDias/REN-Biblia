@@ -1,0 +1,6 @@
+is_pessoa(João).
+is_pessoa(Zacarias).
+is_pessoa(José).
+is_pessoa(Eli).
+is_father(Zacarias,João).
+is_father(Eli,José).

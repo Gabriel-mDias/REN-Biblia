@@ -1,0 +1,27 @@
+
+1 Naqueles dias Ezequias adoeceu e esteve à morte.{S} E veio ter com ele o profeta
+is_father( Amoz,  Isaías ).
+is_pessoa(  Isaías ).
+is_pessoa( Amoz).
+, e lhe disse:{S} Assim diz o <PESSOA>Senhor</PESSOA>:{S} Põe em ordem a tua casa, porque morrerás, e não viverás.
+2 Então virou Ezequias o seu rosto para a parede, e orou ao <PESSOA>Senhor</PESSOA>,
+3 e disse:{S} Lembra-te agora, ó <PESSOA>Senhor</PESSOA>, peço-te, de que modo tenho andado diante de ti em verdade, e com coração perfeito, e tenho feito o que era reto aos teus olhos.{S} E chorou Ezequias amargamente.
+4 Então veio a palavra do <PESSOA>Senhor</PESSOA> a Isaías, dizendo:
+5 Vai e dize a Ezequias:{S} Assim diz o <PESSOA>Senhor</PESSOA>, o <PESSOA>Deus de Davi</PESSOA> teu pai:{S} Ouvi a tua oração, e vi as tuas lágrimas;{S} eis que acrescentarei aos teus dias <VALOR>quinze anos</VALOR>.
+6 Livrar-te-ei das mãos do rei da<ORGANIZACAO> Assíria</ORGANIZACAO>, a ti, e a esta cidade;{S} eu defenderei esta cidade.
+7 E isto te será da parte do <PESSOA>Senhor</PESSOA> como sinal de que o <PESSOA>Senhor</PESSOA> cumprirá esta palavra que falou:
+8 Eis que farei voltar atrás dez graus a sombra no relógio de Acaz, pelos quais já declinou com o sol.{S} Assim recuou o sol dez graus pelos quais já tinha declinado.
+9 O escrito de Ezequias, rei de<PESSOA> Judá</PESSOA>, depois de ter estado doente, e de ter convalescido de sua enfermidade.
+10 Eu disse:{S} Na tranqüilidade de meus dias hei de entrar nas portas do Seol;{S} estou privado do resto de meus anos.
+11 Eu disse:{S} Já não verei mais ao <PESSOA>Senhor</PESSOA> na terra dos viventes;{S} jamais verei o homem com os moradores do mundo.
+12 A minha habitação já foi arrancada e arrebatada de mim, qual tenda de pastor;{S} enrolei como tecelão a minha vida;{S} ele me corta do tear;{S} do dia para a noite tu darás cabo de mim.
+13 Clamei por socorro até a madrugada;{S} como um leão, assim ele quebrou todos os meus ossos;{S} do dia para a noite tu darás cabo de mim.
+14 Como a andorinha, ou o grou, assim eu chilreava;{S} e gemia como a pomba;{S} os meus olhos se cansavam de olhar para cima;{S} ó <PESSOA>Senhor</PESSOA>, ando oprimido! fica por meu fiador.
+15 Que direi? como mo prometeu, assim ele mesmo o cumpriu;{S} assim passarei mansamente por todos os meus anos, por causa da amargura da minha alma.
+16 Ó <PESSOA>Senhor</PESSOA> por estas coisas vivem os homens, e inteiramente nelas está a vida do meu espírito;{S} portanto restabelece-me, e faze-me viver.
+17 Eis que foi para minha paz que eu estive em grande amargura;{S} tu, porém, amando a minha alma, a livraste da cova da corrupção;{S} porque lançaste para trás das tuas costas todos os meus pecados.
+18 Pois não pode louvar-te o Seol, nem a morte cantar-te os louvores;{S} os que descem para a cova não podem esperar na tua verdade.
+19 O vivente, o vivente é que te louva, como eu hoje faço;{S} o pai aos filhos faz notória a tua verdade.
+20 O <PESSOA>Senhor</PESSOA> está prestes a salvar-me;{S} pelo que, tangendo eu meus instrumentos, nós o louvaremos todos os dias de nossa vida na casa do <PESSOA>Senhor</PESSOA>.
+21 Ora Isaías dissera:{S} Tomem uma pasta de figos, e a ponham como cataplasma sobre a úlcera;{S} e Ezequias sarará.
+22 Também dissera Ezequias:{S} Qual será o sinal de que hei de subir à casa do <PESSOA>Senhor</PESSOA>?

@@ -1,0 +1,70 @@
+0000000002
+-1 4-ReconhecePronomesDeTratamento
+: 30 2 29 2 28 2 27 4 23 2 22 3 21 2 20 2 19 2 14 1 
+: 31 7 12 6 11 6 10 5 9 5 8 5 7 5 6 5 5 5 4 5 3 5 1 5 
+: 32 9 24 8 
+: 32 9 24 10 
+: 32 9 24 8 2 2 
+: 2 6 
+: 24 12 13 11 
+: 13 11 
+: 25 13 
+: -2 14 
+: 25 15 
+: 18 7 17 7 16 7 15 16 13 11 
+: 25 17 
+: 26 18 
+: 33 19 
+: 26 2 
+t 
+: 26 7 
+: 32 9 
+: 14 7 
+f 
+-2 Nao-Pessoa
+: 38 1 13 0 
+: 13 2 
+: 33 3 
+: 34 4 
+t 
+f 
+%<E>
+%sr
+%.
+%srs
+%sra
+%sras
+%d
+%dr
+%drs
+%dra
+%dras
+%<PRO+Tra>
+%<FORMASDETRATAMENTO>
+%<FIRST>
+%<E>/{
+%<E>/,.PESSOA}
+%<PREPOSICAO>
+%<ABREVIACOES>
+%da
+%olá
+%ei
+%oi
+%prezado
+%prezada
+%(
+%a
+%)
+%Att
+%Atenciosamente
+%Abraços
+%Abraço
+%<ABREVIACOES><<^D.$>>
+%$![0
+%$]
+%<A>
+%<PALAVRAS_MINUSCULAS_HAREM>
+%$![1
+%$[2
+%$[3
+f

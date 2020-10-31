@@ -1,0 +1,6 @@
+is_pessoa(Oséias).
+is_pessoa(Elá).
+is_pessoa(Jeroboão).
+is_pessoa(Nebate).
+is_father(Elá,Oséias).
+is_father(Nebate,Jeroboão).

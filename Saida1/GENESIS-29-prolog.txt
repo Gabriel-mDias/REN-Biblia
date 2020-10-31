@@ -1,0 +1,3 @@
+is_pessoa(Labão).
+is_pessoa(Naor).
+is_father(Naor,Labão).

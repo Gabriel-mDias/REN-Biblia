@@ -1,0 +1,9 @@
+is_pessoa(Zacarias).
+is_pessoa(Ido).
+is_pessoa(Zorobabel).
+is_pessoa(Sealtiel).
+is_pessoa(Jesuá).
+is_pessoa(Jozadaque).
+is_father(Ido,Zacarias).
+is_father(Sealtiel,Zorobabel).
+is_father(Jozadaque,Jesuá).

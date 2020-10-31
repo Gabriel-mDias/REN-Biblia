@@ -1,0 +1,3 @@
+is_pessoa(Tiago).
+is_pessoa(Zebedeu).
+is_father(Zebedeu,Tiago).

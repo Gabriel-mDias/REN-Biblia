@@ -1,0 +1,33 @@
+
+1 Então disse o <PESSOA>Senhor</PESSOA> a Moisés:{S} Vai a Faraó, e dize-lhe:{S} Assim diz o <PESSOA>Senhor</PESSOA>:{S} Deixa ir o meu povo, para que me sirva.
+2 Mas se recusares deixá-lo ir, eis que ferirei com rãs todos os teus termos.
+3 O rio produzirá rãs em abundância, que subirão e virão à tua casa, e ao teu dormitório, e sobre a tua cama, e às casas dos teus servos, e sobre o teu povo, e aos teus fornos, e às tuas amassadeiras.
+4 Sim, as rãs subirão sobre ti, e sobre o teu povo, e sobre todos os teus servos.
+5 Disse mais o <PESSOA>Senhor</PESSOA> a Moisés:{S} Dize a Arão:{S} Estende a tua mão com a vara sobre as correntes, e sobre os rios, e sobre as lagoas, e faze subir rãs sobre a terra do<PESSOA> Egito</PESSOA>.
+6<PESSOA> Arão</PESSOA>, pois, estendeu a mão sobre as águas do<PESSOA> Egito</PESSOA>, e subiram rãs, que cobriram a terra do<PESSOA> Egito</PESSOA>.
+7 Então os magos fizeram o mesmo com os seus encantamentos, e fizeram subir rãs sobre a terra do<PESSOA> Egito</PESSOA>.
+8 Chamou, pois, Faraó a Moisés e a Arão, e disse:{S} Rogai ao <PESSOA>Senhor</PESSOA> que tire as rãs de mim e do meu povo;{S} depois deixarei ir o povo, para que ofereça sacrifícios ao <PESSOA>Senhor</PESSOA>.
+9 Respondeu Moisés a Faraó:{S} Digna-te dizer-me quando é que hei de rogar por ti, e pelos teus servos, e por teu povo, para tirar as rãs de ti, e das tuas casas, de sorte que fiquem somente no rio?.
+10 Disse<PESSOA> Faraó</PESSOA>:{S} Amanhã.{S} E <PESSOA>Moisés</PESSOA> disse:{S} Seja conforme a tua palavra, para que saibas que ninguém há como o <PESSOA>Senhor</PESSOA> nosso<PESSOA> Deus</PESSOA>.
+<VALOR>11</VALOR> As rãs, pois, se apartarão de ti, e das tuas casas, e dos teus servos, e do teu povo;{S} ficarão somente no rio.
+12 Então saíram<PESSOA> Moisés</PESSOA> e<PESSOA> Arão</PESSOA> da presença de Faraó;{S} e<PESSOA> Moisés</PESSOA> clamou ao <PESSOA>Senhor</PESSOA> por causa das rãs que tinha trazido sobre Faraó.
+13 O <PESSOA>Senhor</PESSOA>, pois, fez conforme a palavra de<PESSOA> Moisés</PESSOA>;{S} e as rãs morreram nas casas, nos pátios, e nos campos.
+14 E ajuntaram-nas em montes, e a terra, cheirou mal.
+15 Mas vendo Faraó que havia descanso, endureceu o seu coração, e não os ouviu, como o <PESSOA>Senhor</PESSOA> tinha dito.
+16 Disse mais o <PESSOA>Senhor</PESSOA> a Moisés:{S} Dize a Arão:{S} Estende a tua vara, e fere o pó da terra, para que se torne em piolhos por toda a terra do<PESSOA> Egito</PESSOA>.
+17 E assim fizeram.S<PESSOA> Arão</PESSOA> estendeu a sua mão com a vara, e feriu o pó da terra, e houve piolhos nos homens e nos animais;{S} todo o pó da terra se tornou em piolhos em toda a terra do<PESSOA> Egito</PESSOA>.
+18 Também os magos fizeram assim com os seus encantamentos para produzirem piolhos, mas não puderam.{S} E havia piolhos, nos homens e nos animais.
+19 Então disseram os magos a Faraó:{S} Isto é o dedo de<PESSOA> Deus</PESSOA>.{S} No entanto o coração de Faraó se endureceu, e não os ouvia, como o <PESSOA>Senhor</PESSOA> tinha dito.
+20 Disse mais o <PESSOA>Senhor</PESSOA> a Moisés: levanta-te pela manhã cedo e põe-te diante de Faraó:;{S} eis que ele sairá às águas;{S} e dize-lhe:{S} Assim diz o <PESSOA>Senhor</PESSOA>:{S} Deixa ir o meu povo, para que me sirva.
+21 Porque se não deixares ir o meu povo., eis que enviarei enxames de moscas sobre ti, e sobre os teus servos, e sobre o teu povo, e nas tuas casas;{S} e as casas dos egípcios se encherão destes enxames, bem como a terra em que eles estiverem.
+22 Mas naquele dia separarei a terra de Gósem em que o meu povo habita, a fim de que nela não haja enxames de moscas, para que saibas que eu sou o <PESSOA>Senhor</PESSOA> no meio desta terra.
+23 Assim farei distinção entre o meu povo e o teu povo;{S} amanhã se fará este milagre.
+24 O <PESSOA>Senhor</PESSOA>, pois, assim fez.{S} Entraram grandes enxames de moscas na casa de Faraó e nas casas dos seus servos;{S} e em toda parte do<PESSOA> Egito</PESSOA> a terra foi assolada pelos enxames de moscas.
+25 Então chamou Faraó a Moisés e a Arão, e disse:{S} Ide, e oferecei sacrifícios ao vosso<PESSOA> Deus</PESSOA> nesta terra.
+26 Respondeu Moisés:{S} Não convém que assim se faça, porque é abominação aos egípcios o que havemos de oferecer ao <PESSOA>Senhor</PESSOA> nosso<PESSOA> Deus</PESSOA>.{S} Sacrificando nós a abominação dos egípcios perante os seus olhos, não nos apedrejarão eles?
+27 Havemos de ir caminho de três dias ao deserto, para que ofereçamos sacrifícios ao <PESSOA>Senhor</PESSOA> nosso<PESSOA> Deus</PESSOA>, como ele nos ordenar.
+28 Então disse<PESSOA> Faraó</PESSOA>:{S} Eu vos deixarei ir, para que ofereçais sacrifícios ao <PESSOA>Senhor</PESSOA> vosso<PESSOA> Deus</PESSOA> no deserto;{S} somente não ireis muito longe;{S} e orai por mim.
+29 Respondeu Moisés:{S} Eis que saio da tua presença e orarei ao <PESSOA>Senhor</PESSOA>, que estes enxames de moscas se apartem amanhã de Faraó, dos seus servos, e do seu povo;{S} somente não torne mais Faraó a proceder dolosamente, não deixando ir o povo para oferecer sacrifícios ao <PESSOA>Senhor</PESSOA>.
+30 Então saiu<PESSOA> Moisés</PESSOA> da presença de Faraó, e orou ao <PESSOA>Senhor</PESSOA>.
+31 E fez o <PESSOA>Senhor</PESSOA> conforme a palavra de<PESSOA> Moisés</PESSOA>, e apartou os enxames de moscas de Faraó, dos seus servos, e do seu povo;{S} não ficou uma sequer.
+32 Mas endureceu Faraó ainda esta vez o seu coração, e não deixou ir o povo.

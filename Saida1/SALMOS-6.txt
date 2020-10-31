@@ -1,0 +1,11 @@
+
+1 <PESSOA>Senhor</PESSOA>, não me repreendas na tua ira, nem me castigues no teu furor.
+2 Tem compaixão de mim, <PESSOA>Senhor</PESSOA>, porque sou fraco;{S} sara-me, <PESSOA>Senhor</PESSOA>, porque os meus ossos estão perturbados.
+3 Também a minha alma está muito perturbada;{S} mas tu, <PESSOA>Senhor</PESSOA>, até quando?...
+4 Volta-te, <PESSOA>Senhor</PESSOA>, livra a minha alma;{S} salva-me por tua misericórdia.
+5 Pois na morte não há lembrança de ti;{S} no<LOCAL> Seol</LOCAL> quem te louvará?
+6 Estou cansado do meu gemido;{S} toda noite faço nadar em lágrimas a minha cama, inundo com elas o meu leito.
+<VALOR>7</VALOR> Os meus olhos estão consumidos pela mágoa, e enfraquecem por causa de todos os meus inimigos.
+8 Apartai-vos de mim todos os que praticais a iniquidade;{S} porque o <PESSOA>Senhor</PESSOA> já ouviu a voz do meu pranto.
+9 O <PESSOA>Senhor</PESSOA> já ouviu a minha súplica, o <PESSOA>Senhor</PESSOA> aceita a minha oração.
+10 Serão envergonhados e grandemente perturbados todos os meus inimigos;{S} tornarão atrás e subitamente serão envergonhados.

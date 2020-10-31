@@ -1,0 +1,12 @@
+is_pessoa(Jônatas).
+is_pessoa(Saul).
+is_pessoa(Aíja).
+is_pessoa(Aitube).
+is_pessoa(Icabô).
+is_pessoa(Finéias).
+is_pessoa(Abner).
+is_pessoa(Ner).
+is_father(Saul,Jônatas).
+is_father(Aitube,Aíja).
+is_father(Finéias,Icabô).
+is_father(Ner,Abner).

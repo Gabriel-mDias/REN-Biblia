@@ -1,0 +1,62 @@
+
+1 Depois os filhos de<PESSOA> Israel</PESSOA> partiram, e acamparam-se nas planícies de Moabe, além do<PESSOA> Jordão</PESSOA>, na altura de<PESSOA> Jericó</PESSOA>.
+2 Ora, 
+is_father( Zipor,Balaque).
+is_pessoa(Balaque).
+is_pessoa( Zipor).
+, viu tudo o que<PESSOA> Israel</PESSOA> fizera aos amorreus.
+3 E Moabe tinha grande medo do povo, porque era muito;{S} e Moabe andava angustiado por causa dos filhos de<PESSOA> Israel</PESSOA>.
+4 Por isso disse aos anciãos de Midiã:{S} Agora esta multidão lamberá tudo quanto houver ao redor de nós, como o boi lambe a erva do campo.{S} Nesse tempo 
+is_father( Zipor,Balaque).
+is_pessoa(Balaque).
+is_pessoa( Zipor).
+, era rei de Moabe.
+5 Ele enviou mensageiros a 
+is_father( Beor,Balaão).
+is_pessoa(Balaão).
+is_pessoa( Beor).
+, a Petor, que está junto ao rio, à terra dos filhos do seu povo, a fim de chamá-lo, dizendo:{S} Eis que saiu do<PESSOA> Egito</PESSOA> um povo, que cobre a face da terra e estaciona defronte de mim.
+6 Vem pois agora, rogo-te, amaldiçoar-me este povo, pois mais poderoso é do que eu;{S} porventura prevalecerei, de modo que o possa ferir e expulsar da terra;{S} porque eu sei que será abençoado aquele a quem tu abençoares, e amaldiçoado aquele a quem tu amaldiçoares.
+7 Foram-se, pois, os anciãos de Moabe e os anciãos de Midiã, com o preço dos encantamentos nas mãos e, chegando a Balaão, referiram-lhe as palavras de Balaque.
+8 Ele lhes respondeu:{S} Passai aqui esta noite, e vos trarei a resposta, como o <PESSOA>Senhor</PESSOA> me falar.{S} Então os príncipes de Moabe ficaram com Balaão.
+9 Então veio<LOCAL> Deus</LOCAL> a Balaão, e perguntou:{S} Quem são estes homens que estão contigo?
+10 Respondeu Balaão a Deus:{S} 
+is_father( Zipor,Balaque).
+is_pessoa(Balaque).
+is_pessoa( Zipor).
+, rei de Moabe, mos enviou, dizendo:
+11 Eis que o povo que saiu do<PESSOA> Egito</PESSOA> cobre a face da terra;{S} vem agora amaldiçoar-mo;{S} porventura poderei pelejar contra ele e expulsá-lo.
+12 E <PESSOA>Deus</PESSOA> disse a Balaão:{S} Não irás com eles;{S} não amaldiçoarás a este povo, porquanto é bendito.
+13 Levantando-se Balaão pela manhã, disse aos príncipes de Balaque:{S} Ide para a vossa terra, porque o <PESSOA>Senhor</PESSOA> recusa deixar-me ir convosco.
+14 Levantaram-se, pois, os príncipes de Moabe, vieram a Balaque e disseram:{S} Balaão recusou vir conosco.
+15 Balaque, porém, tornou a enviar príncipes, em maior número e mais honrados do que aqueles.
+<VALOR>16</VALOR> Estes vieram a Balaão e lhe disseram:{S} Assim diz
+is_father( Zipor,  Balaque ).
+is_pessoa(  Balaque ).
+is_pessoa( Zipor).
+:{S} Rogo-te que não te demores em vir a mim,
+17 porque grandemente te honrarei, e farei tudo o que me disseres;{S} vem pois, rogo-te, amaldiçoar-me este povo.
+18 Respondeu Balaão aos servos de Balaque:{S} Ainda que Balaque me quisesse dar a sua casa cheia de prata e de ouro, eu não poderia ir além da ordem do <PESSOA>Senhor</PESSOA> meu<PESSOA> Deus</PESSOA>, para fazer coisa alguma, nem pequena nem grande.
+19 Agora, pois, rogo-vos que fiqueis aqui ainda esta noite, para que eu saiba o que o <PESSOA>Senhor</PESSOA> me dirá mais.
+20 Veio, pois,<PESSOA> Deus</PESSOA> a Balaão, de noite, e disse-lhe:{S} Já que esses homens te vieram chamar, levanta-te, vai com eles;{S} todavia, farás somente aquilo que eu te disser.
+21 Então levantou-se Balaão pela manhã, albardou a sua jumenta, e partiu com os príncipes de Moabe.
+22 A ira de<PESSOA> Deus</PESSOA> se acendeu, porque ele ia, e o anjo do <PESSOA>Senhor</PESSOA> pôs-se-lhe no caminho por adversário.{S} Ora, ele ia montado na sua jumenta, tendo consigo os seus dois servos.
+23 A jumenta viu o anjo do <PESSOA>Senhor</PESSOA> parado no caminho, com a sua espada desembainhada na mão e, desviando-se do caminho, meteu-se pelo campo;{S} pelo que Balaão espancou a jumenta para fazê-la tornar ao caminho.
+24 Mas o anjo do <PESSOA>Senhor</PESSOA> pôs-se em uma vereda entre as vinhas, havendo uma sebe de um e de outro lado.
+25 Vendo, pois, a jumenta o anjo do <PESSOA>Senhor</PESSOA>, coseu-se com a sebe, e apertou contra a sebe o pé de Balaão;{S} pelo que ele tornou a espancá-la.
+26 Então o anjo do <PESSOA>Senhor</PESSOA> passou mais adiante, e pôs-se em um lugar estreito, onde não havia caminho para se desviar nem para a direita nem para a esquerda.
+27 E, vendo a jumenta o anjo do <PESSOA>Senhor</PESSOA>, deitou-se debaixo de Balaão;{S} e a ira de Balaão se acendeu, e ele espancou a jumenta com o bordão.
+28 em isso abriu o <PESSOA>Senhor</PESSOA> a boca da jumenta, a qual perguntou a Balaão:{S} Que te fiz eu, para que me espancasses estas três vezes?
+29 Respondeu Balaão à jumenta:{S} Porque zombaste de mim;{S} oxalá tivesse eu uma espada na mão, pois agora te mataria.
+30 Tornou a jumenta a Balaão:{S} Porventura não sou a tua jumenta, em que cavalgaste toda a tua vida até hoje?{S} Porventura tem sido o meu costume fazer assim para contigo?{S} E ele respondeu:{S} Não.
+31 Então o <PESSOA>Senhor</PESSOA> abriu os olhos a Balaão, e ele viu o anjo do <PESSOA>Senhor</PESSOA> parado no caminho, e a sua espada desembainhada na mão;{S} pelo que inclinou a cabeça, e prostrou-se com o rosto em terra.
+32 Disse-lhe o anjo do senhor:{S} Por que já três vezes espancaste a tua jumenta?{S} Eis que eu te saí como adversário, porquanto o teu caminho é perverso diante de mim;{S}
+33 a jumenta, porém, me viu, e já três vezes se desviou de diante de mim;{S} se ela não se tivesse desviado de mim, na verdade que eu te haveria matado, deixando a ela com vida.
+34 Respondeu Balaão ao anjo do <PESSOA>Senhor</PESSOA>: pequei, porque não sabia que estavas parado no caminho para te opores a mim;{S} e agora, se parece mal aos teus olhos, voltarei.
+35 Tornou o anjo do <PESSOA>Senhor</PESSOA> a Balaão:{S} Vai com os homens, somente a palavra que eu te disser é que falarás.{S} Assim Balaão seguiu com os príncipes de Balaque:
+36 Tendo, pois, Balaque ouvido que Balaão vinha chegando, saiu-lhe ao encontro até<LOCAL> Ir</LOCAL>-Moabe, cidade fronteira que está à margem do Arnom.
+37 Perguntou Balaque a Balaão:{S} Porventura não te enviei diligentemente mensageiros a chamar-te? por que não vieste a mim? não posso eu, na verdade, honrar-te?
+38 Respondeu Balaão a Balaque:{S} Eis que sou vindo a ti;{S} porventura poderei eu agora, de mim mesmo, falar alguma coisa?{S} A palavra que<PESSOA> Deus</PESSOA> puser na minha boca, essa falarei.
+39 E Balaão foi com Balaque, e chegaram a Quiriate-Huzote.
+40 Então Balaque ofereceu em sacrifício bois e ovelhas, e deles enviou a Balaão e aos príncipes que estavam com ele.
+41 E sucedeu que, pela manhã, Balaque tomou a Balaão, e o levou aos altos de Baal, e viu ele de ali a parte extrema do povo.

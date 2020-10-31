@@ -1,0 +1,33 @@
+
+<VALOR>1</VALOR> Provérbios de<PESSOA> Salomão</PESSOA>.{S} Um filho sábio alegra a seu pai;{S} mas um filho insensato é a tristeza de sua mãe.
+<VALOR>2</VALOR> Os tesouros da impiedade de nada aproveitam;{S} mas a justiça livra da morte.
+3 O <PESSOA>Senhor</PESSOA> não deixa o justo passar fome;{S} mas o desejo dos ímpios ele rechaça.
+4 O que trabalha com mão remissa empobrece;{S} mas a mão do diligente enriquece.
+5 O que ajunta no verão é filho prudente;{S} mas o que dorme na sega é filho que envergonha.
+<VALOR>6</VALOR> Bênçãos caem sobre a cabeça do justo;{S} porém a boca dos ímpios esconde a violência.
+7 A memória do justo é abençoada;{S} mas o nome dos ímpios apodrecerá.
+8 O sábio de coração aceita os mandamentos;{S} mas o insensato palra dor cairá.
+9 Quem anda em integridade anda seguro;{S} mas o que perverte os seus caminhos será conhecido.
+10 O que acena com os olhos dá dores;{S} e o insensato palrador cairá.
+11 A boca do justo é manancial de vida, porém a boca dos ímpios esconde a violência.
+12 O ódio excita contendas;{S} mas o amor cobre todas as transgressões.
+13 Nos lábios do entendido se acha a sabedoria;{S} mas a vara é para as costas do que é falto de entendimento.
+<VALOR>14</VALOR> Os sábios entesouram o conhecimento;{S} porém a boca do insensato é uma destruição iminente.
+<VALOR>15</VALOR> Os bens do rico são a sua cidade forte;{S} a ruína dos pobres é a sua pobreza.
+16 O trabalho do justo conduz à vida;{S} a renda do ímpio, para o pecado.
+17 O que atende à instrução está na vereda da vida;{S} mas o que rejeita a repreensão anda errado.
+18 O que encobre o ódio tem lábios falsos;{S} e o que espalha a calúnia é um insensato.
+19 Na multidão de palavras não falta transgressão;{S} mas o que refreia os seus lábios é prudente.
+20 A língua do justo é prata escolhida;{S} o coração dos ímpios é de pouco valor.
+<VALOR>21</VALOR> Os lábios do justo apascentam a muitos;{S} mas os insensatos, por falta de entendimento, morrem.
+22 A bênção do <PESSOA>Senhor</PESSOA> é que enriquece;{S} e ele não a faz seguir de dor alguma.
+23 E um divertimento para o insensato o praticar a iniqüidade;{S} mas a conduta sábia é o prazer do homem entendido.
+24 O que o ímpio teme, isso virá sobre ele;{S} mas aos justos se lhes concederá o seu desejo.
+25 Como passa a tempestade, assim desaparece o ímpio;{S} mas o justo tem fundamentos eternos.
+26 Como vinagre para os dentes, como fumaça para os olhos, assim é o preguiçoso para aqueles que o mandam.
+27 O temor do <PESSOA>Senhor</PESSOA> aumenta os dias;{S} mas os anos os ímpios serão abreviados.
+28 A esperança dos justos é alegria;{S} mas a expectação dos ímpios perecerá.
+29 O caminho do <PESSOA>Senhor</PESSOA> é fortaleza para os retos;{S} mas é destruição para os que praticam a iniqüidade.
+30 O justo nunca será abalado;{S} mas os ímpios não habitarão a terra.
+31 A boca do justo produz sabedoria;{S} porém a língua perversa será desarraigada.
+<VALOR>32</VALOR> Os lábios do justo sabem o que agrada;{S} porém a boca dos ímpios fala perversidades.

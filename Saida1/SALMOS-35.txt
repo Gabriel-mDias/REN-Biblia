@@ -1,0 +1,29 @@
+
+1 <PESSOA>Contende</PESSOA>, <PESSOA>Senhor</PESSOA>, com aqueles que contendem comigo;{S} combate contra os que me combatem.
+2 Pega do escudo e do pavês, e levanta-te em meu socorro.
+3 Tira da lança e do dardo contra os que me perseguem.{S} Dize à minha alma:{S} Eu sou a tua salvação.
+4 Sejam envergonhados e confundidos os que buscam a minha vida;{S} voltem atrás e se confudam os que contra mim intentam o mal.
+5 Sejam como a moinha diante do vento, e o anjo do <PESSOA>Senhor</PESSOA> os faça fugir.
+6 Seja o seu caminho tenebroso e escorregadio, e o anjo do <PESSOA>Senhor</PESSOA> os persiga.
+7 Pois sem causa me armaram ocultamente um laço;{S} sem razão cavaram uma cova para a minha vida.
+8 Sobrevenha-lhes inesperadamente a destruição, e prenda-os o laço que ocultaram;{S} caiam eles nessa mesma destruição.
+9 Então minha alma se regozijará no<LOCAL> Senhor</LOCAL>;{S} exultará na sua salvação.
+<VALOR>10</VALOR> Todos os meus ossos dirão:{S} Ó <PESSOA>Senhor</PESSOA>, quem é como tu, que livras o fraco daquele que é mais forte do que ele? sim, o pobre e o necessitado, daquele que o rouba.
+11 Levantam-se testemunhas maliciosas;{S} interrogam-me sobre coisas que eu ignoro.
+12 Tornam-me o mal pelo bem, causando-me luto na alma.
+13 Mas, quanto a mim, estando eles enfermos, vestia-me de cilício, humilhava-me com o jejum, e orava de cabeça sobre o peito.
+14 Portava-me como o faria por meu amigo ou meu irmão;{S} eu andava encurvado e lamentando-me, como quem chora por sua mãe.
+15 Mas, quando eu tropeçava, eles se alegravam e se congregavam;{S} congregavam-se contra mim, homens miseráveis que eu não conhecia;{S} difamavam-me sem cessar.
+16 Como hipócritas zombadores nas festas, rangiam os dentes contra mim.
+17 Ó <PESSOA>Senhor</PESSOA>, até quando contemplarás isto?{S} Livra-me das suas violências;{S} salva a minha vida dos leões!
+18 Então te darei graças na grande assembléia;{S} entre muitíssimo povo te louvarei.
+19 Não se alegrem sobre mim os que são meus inimigos sem razão, nem pisquem os olhos aqueles que me odeiam sem causa.
+20 Pois não falaram de paz, antes inventam contra os quietos da terra palavras enganosas.
+21 Escancararam contra mim a sua boca, e dizem:{S} Ah!{S} Ah! os nossos olhos o viram.
+22 <PESSOA>Tu</PESSOA>, <PESSOA>Senhor</PESSOA>, o viste, não te cales;{S} <PESSOA>Senhor</PESSOA>, não te alongues de mim.
+23 Acorda e desperta para o meu julgamento, para a minha causa,<PESSOA> Deus</PESSOA> meu, e <PESSOA>Senhor</PESSOA> meu.
+24 Justifica-me segundo a tua justiça, <PESSOA>Senhor Deus</PESSOA> meu, e não se regozijem eles sobre mim.
+25 Não digam em seu coração:{S} Eia! cumpriu-se o nosso desejo!{S} Não digam:{S} Nós o havemos devorado.
+26 Envergonhem-se e confundam-se à uma os que se alegram com o meu mal;{S} vistam-se de vergonha e de confusão os que se engrandecem contra mim.
+27 Bradem de júbilo e se alegrem os que desejam a minha justificação, e digam a minha justificação, e digam continuamente:{S} Seja engrandecido o <PESSOA>Senhor</PESSOA>, que se deleita na prosperidade do seu servo.
+28 Então a minha língua falará da tua justiça e do teu louvor o dia todo.

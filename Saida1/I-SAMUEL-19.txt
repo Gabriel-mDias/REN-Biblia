@@ -1,0 +1,29 @@
+
+1 Falou, pois,<PESSOA> Saul</PESSOA> a Jônatas, seu filho, e a todos os seus servos, para que matassem a Davi.{S} Porém 
+is_father(  Saul ,Jônatas).
+is_pessoa(Jônatas).
+is_pessoa(  Saul ).
+, estava muito afeiçoado a Davi.
+2 Pelo que Jônatas o anunciou a Davi, dizendo:{S} Saul, meu pai, procura matar-te;{S} portanto, guarda-te amanhã pela manhã, fica em um lugar oculto e esconde-te;{S}
+3 eu sairei e me porei ao lado de meu pai no campo em que estiveres;{S} falarei acerca de ti a meu pai, verei o que há, e to anunciarei.
+4 Então Jônatas falou bem de<PESSOA> Davi</PESSOA> a Saul, seu pai, e disse-lhe:{S} Não peque o rei contra seu servo<PESSOA> Davi</PESSOA>, porque ele não pecou contra ti, e porque os seus feitos para contigo têm sido muito bons.
+5 Porque expôs a sua vida e matou o filisteu, e o <PESSOA>Senhor</PESSOA> fez um grande livramento para todo o Israel.{S} Tu mesmo o viste, e te alegraste;{S} por que, pois, pecarias contra o sangue inocente, matando sem causa a Davi?
+6 E Saul deu ouvidos à voz de Jônatas, e jurou:{S} Como vive o <PESSOA>Senhor</PESSOA>,<PESSOA> Davi</PESSOA> não morrera.
+7 Jônatas, pois, chamou a Davi, contou-lhe todas estas palavras, e o levou a Saul;{S} e<PESSOA> Davi</PESSOA> o assistia como dantes.
+8 Depois tornou a haver guerra;{S} e saindo<PESSOA> Davi</PESSOA>, pelejou contra os filisteus, e os feriu com grande matança, e eles fugiram diante dele.
+9 Então o espírito maligno da parte do <PESSOA>Senhor</PESSOA> veio sobre<PESSOA> Saul</PESSOA>, estando ele sentado em sua casa, e tendo na mão a sua lança;{S} e<PESSOA> Davi</PESSOA> estava tocando a harpa.
+10 E Saul procurou encravar a Davi na parede, porém ele se desviou de diante de<PESSOA> Saul</PESSOA>, que fincou a lança na parede.{S} Então Davi fugiu, e escapou naquela mesma noite.
+11 Mas Saul mandou mensageiros à casa de<PESSOA> Davi</PESSOA>, para que o vigiassem, e o matassem pela manhã;{S} porém Mical, mulher de<PESSOA> Davi</PESSOA>, o avisou, dizendo:{S} Se não salvares a tua vida esta noite, amanhã te matarão.
+12 Então Mical desceu<PESSOA> Davi</PESSOA> por uma janela, e ele se foi e, fugindo, escapou.
+13 Mical tomou uma estátua, deitou-a na cama, pôs-lhe à cabeceira uma pele de cabra, e a cobriu com uma capa.
+14 Quando Saul enviou mensageiros para prenderem a Davi, ela disse:{S} Está doente.
+15 Tornou Saul a enviá-los, para que vissem a Davi, dizendo-lhes:{S} Trazei-mo na cama, para que eu o mate.
+16 Vindo, pois, os mensageiros, eis que estava a estátua na cama, e a pele de cabra à sua cabeceira.
+17 Então perguntou<PESSOA> Saul</PESSOA> a Mical:{S} Por que assim me enganaste, e deixaste o meu inimigo ir e escapar?{S} Respondeu Mical a Saul:{S} Porque ele me disse:{S} Deixa-me ir!{S} Por que hei de matar-te?
+18 Assim Davi fugiu e escapou;{S} e indo ter com<PESSOA> Samuel</PESSOA>, em<LOCAL> Ramá</LOCAL>, contou-lhe tudo quanto<PESSOA> Saul</PESSOA> lhe fizera;{S} foram, pois, ele e<PESSOA> Samuel</PESSOA>, e ficaram em<LOCAL> Naiote</LOCAL>.
+19 E foi dito a Saul:{S} Eis que<PESSOA> Davi</PESSOA> está em<LOCAL> Naiote</LOCAL>, em<LOCAL> Ramá</LOCAL>.
+20 Então enviou<PESSOA> Saul</PESSOA> mensageiros para prenderem a Davi;{S} quando eles viram a congregação de profetas profetizando, e<PESSOA> Samuel</PESSOA> a presidi-los, o Espírito de<PESSOA> Deus</PESSOA> veio sobre os mensageiros de<PESSOA> Saul</PESSOA>, e também eles profetizaram.
+21 Avisado de isso,<PESSOA> Saul</PESSOA> enviou outros mensageiros, e também estes profetizaram.{S} Ainda terceira vez enviou<PESSOA> Saul</PESSOA> mensageiros, os quais também profetizaram.
+22 Então foi ele mesmo a Rama e, chegando ao poço grande que estava em<LOCAL> Sécu</LOCAL>, perguntou:{S} Onde estão<PESSOA> Samuel</PESSOA> e<PESSOA> Davi</PESSOA>?{S} Responderam-lhe:{S} Eis que estão em<LOCAL> Naiote</LOCAL>, em<LOCAL> Ramá</LOCAL>.
+23 Foi, pois, para Naiote, em<LOCAL> Ramá</LOCAL>;{S} e o Espírito de<PESSOA> Deus</PESSOA> veio também sobre ele, e ele ia caminhando e profetizando, até chegar a Naiote, em<LOCAL> Ramá</LOCAL>.
+24 E despindo as suas vestes, ele também profetizou diante de<PESSOA> Samuel</PESSOA>;{S} e esteve nu por terra todo aquele dia e toda aquela noite.{S} Pelo que se diz:{S} Está também<PESSOA> Saul</PESSOA> entre os profetas?

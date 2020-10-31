@@ -1,0 +1,6 @@
+is_pessoa(Banique).
+is_pessoa(Nerias).
+is_pessoa(Jeoiaquim).
+is_pessoa(Josias).
+is_father(Nerias,Banique).
+is_father(Josias,Jeoiaquim).

@@ -1,0 +1,23 @@
+
+1 A palavra que veio a Jeremias da parte do <PESSOA>Senhor</PESSOA>, quando o <PESSOA>rei Zedequias</PESSOA> lhe enviou 
+is_father( Malquias,Pasur).
+is_pessoa(Pasur).
+is_pessoa( Malquias).
+, e 
+is_father( Maaséias,Sofonias).
+is_pessoa(Sofonias).
+is_pessoa( Maaséias).
+, o sacerdote, dizendo:
+2 Pergunta agora por nós ao <PESSOA>Senhor</PESSOA>, por que Nabucodonosor, rei de Babilônia, guerreia contra nós;{S} porventura o <PESSOA>Senhor</PESSOA> nos tratará segundo todas as suas maravilhas, e fará que o rei se retire de nós.
+3 Então Jeremias lhes respondeu:{S} Assim direis a Zedequias:
+4 Assim diz o <PESSOA>Senhor</PESSOA>, o <PESSOA>Deus de Israel</PESSOA>:{S} Eis que virarei contra vos as armas de guerra, que estão nas vossas mãos, com que vós pelejais contra o rei de Babilônia e contra os caldeus, que vos estão sitiando ao redor dos muros, e ajuntá-los-ei no meio desta cidade.
+5 E eu mesmo pelejarei contra vós com mão estendida, e com braço forte, e em ira, e em furor, e em grande indignação.
+6 E ferirei os habitantes desta cidade, tanto os homens como os animais;{S} de grande peste morrerão.
+7 E depois de isso, diz o <PESSOA>Senhor</PESSOA>, entregarei Zedequias, rei de<PESSOA> Judá</PESSOA>, e seus servos, e o povo, e os que desta cidade restarem da peste, e da espada, e da fome, sim entregá-los-ei na mão de Nabucodonosor, rei de Babilônia, e na mão de seus inimigos, e na mão dos que procuram tirar-lhes a vida;{S} e ele os passará ao fio da espada;{S} não os poupará, nem se compadecerá, nem terá misericórdia.
+8 E a este povo dirás:{S} Assim diz o <PESSOA>Senhor</PESSOA>:{S} Eis que ponho diante de vós o caminho da vida e o caminho da morte.
+9 O que ficar nesta cidade há de morrer à espada, ou de fome, ou de peste;{S} mas o que sair, e se render aos caldeus, que vos cercam, viverá, e terá a sua vida por despojo.
+10 Porque pus o meu rosto contra esta cidade para mal, e não para bem, diz o <PESSOA>Senhor</PESSOA>;{S} na mão do rei de Babilônia se entregará, e ele a queimará a fogo.
+11 E à casa do rei de<PESSOA> Judá</PESSOA> dirás:{S} Ouvi a palavra do <PESSOA>Senhor</PESSOA>:
+12 O casa de<PESSOA> Davi</PESSOA>, assim diz o <PESSOA>Senhor</PESSOA>:{S} Executai justiça pela manhã, e livrai o espoliado da mão do opressor, para que não saia o meu furor como fogo, e se acenda, sem que haja quem o apague, por causa da maldade de vossas ações.
+13 Eis que eu sou contra ti, ó moradora do vale, ó rocha da campina, diz o <PESSOA>Senhor</PESSOA>;{S} contra vós que dizeis:{S} Quem descerá contra nós? ou:{S} Quem entrará nas nossas moradas?
+14 E eu vos castigarei segundo o fruto das vossas ações, diz o <PESSOA>Senhor</PESSOA>;{S} e no seu bosque acenderei fogo que consumirá a tudo o que está em redor dela.

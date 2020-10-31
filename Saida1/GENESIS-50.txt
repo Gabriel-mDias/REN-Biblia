@@ -1,0 +1,32 @@
+
+1 Então José se lançou sobre o rosto de seu pai, chorou sobre ele e o beijou.
+2 E José ordenou a seus servos, os médicos, que embalsamassem a seu pai;{S} e os médicos embalsamaram a Israel.
+3 Cumpriram-se-lhe quarenta dias, porque assim se cumprem os dias de embalsamação;{S} e os egípcios o choraram setenta dias.
+<VALOR>4</VALOR> Passados, pois, os dias de seu choro, disse<PESSOA> José</PESSOA> à casa de Faraó:{S} Se agora tenho achado graça aos vossos olhos, rogo-vos que faleis aos ouvidos de Faraó, dizendo:
+5 Meu pai me fez jurar, dizendo:{S} Eis que eu morro;{S} em meu sepulcro, que cavei para mim na terra de<PESSOA> Canaã</PESSOA>, ali me sepultarás.{S} Agora, pois, deixa-me subir, peço-te, e sepultar meu pai;{S} então voltarei.
+6 Respondeu Faraó:{S} Sobe, e sepulta teu pai, como ele te fez jurar.
+7 Subiu, pois,<PESSOA> José</PESSOA> para sepultar a seu pai;{S} e com ele subiram todos os servos de Faraó, os anciãos da sua casa, e todos os anciãos da terra do<PESSOA> Egito</PESSOA>,
+8 como também toda a casa de<PESSOA> José</PESSOA>, e seus irmãos, e a casa de seu pai;{S} somente deixaram na terra de Gósen os seus pequeninos, os seus rebanhos e o seu gado.
+9 E subiram com ele tanto carros como gente a cavalo;{S} de modo que o concurso foi mui grande.
+10 Chegando eles à eira de Atade, que está além do<PESSOA> Jordão</PESSOA>, fizeram ali um grande e forte pranto;{S} assim fez<PESSOA> José</PESSOA> por seu pai um grande pranto por sete dias.
+<VALOR>11</VALOR> Os moradores da terra, os cananeus, vendo o pranto na eira de Atade, disseram:{S} Grande pranto é este dos egípcios;{S} pelo que o lugar foi chamado<ABSTRACCAO> Abel</ABSTRACCAO>-Mizraim, o qual está além do<PESSOA> Jordão</PESSOA>.
+12 Assim os filhos de<PESSOA> Jacó</PESSOA> lhe fizeram como ele lhes ordenara;{S}
+13 pois o levaram para a terra de<PESSOA> Canaã</PESSOA>, e o sepultaram na cova do campo de Macpela, que<PESSOA> Abraão</PESSOA> tinha comprado com o campo, como propriedade de sepultura, a Efrom, o heteu, em frente de Manre.
+14 Depois de haver sepultado seu pai,<PESSOA> José</PESSOA> voltou para o Egito, ele, seus irmãos, e todos os que com ele haviam subido para sepultar seu pai.
+15 Vendo os irmãos de<PESSOA> José</PESSOA> que seu pai estava morto, disseram:{S} Porventura José nos odiará e nos retribuirá todo o mal que lhe fizemos.
+16 Então mandaram dizer a José:{S} Teu pai, antes da sua morte, nos ordenou:
+17 Assim direis a José:{S} Perdoa a transgressão de teus irmãos, e o seu pecado, porque te fizeram mal.{S} Agora, pois, rogamos-te que perdoes a transgressão dos servos do<PESSOA> Deus</PESSOA> de teu pai.{S} E José chorou quando eles lhe falavam.
+18 Depois vieram também seus irmãos, prostraram-se diante dele e disseram:{S} Eis que nós somos teus servos.
+19 Respondeu-lhes José:{S} Não temais;{S} acaso estou eu em lugar de Deus?
+20 Vós, na verdade, intentastes o mal contra mim;{S} Deus, porém, o intentou para o bem, para fazer o que se vê neste dia, isto é, conservar muita gente com vida.
+21 Agora, pois, não temais;{S} eu vos sustentarei, a vós e a vossos filhinhos.{S} Assim ele os consolou, e lhes falou ao coração.
+22<PESSOA> José</PESSOA>, pois, habitou no<LOCAL> Egito</LOCAL>, ele e a casa de seu pai;{S} e viveu <VALOR>cento e dez anos</VALOR>.
+23 E viu<PESSOA> José</PESSOA> os filhos de Efraim, da terceira geração;{S} também os filhos de 
+is_father( Manassés,Maquir).
+is_pessoa(Maquir).
+is_pessoa( Manassés).
+, nasceram sobre os joelhos de<PESSOA> José</PESSOA>.
+24 Depois disse<PESSOA> José</PESSOA> a seus irmãos:{S} Eu morro;{S} mas<PESSOA> Deus</PESSOA> certamente vos visitará, e vos fará subir desta terra para a terra que jurou a Abraão, a Isaque e a Jacó.
+25 E José fez jurar os filhos de<PESSOA> Israel</PESSOA>, dizendo:{S} Certamente Deus vos visitará, e fareis transportar de aqui os meus ossos.
+26 Assim morreu<PESSOA> José</PESSOA>, tendo <VALOR>cento e dez anos</VALOR> de idade;{S} e o embalsamaram e o puseram em um caixão no<LOCAL> Egito</LOCAL>.
+{S}ÊXODO

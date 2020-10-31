@@ -1,0 +1,6 @@
+is_pessoa(Hanã).
+is_pessoa(Jair).
+is_pessoa(Jônatas).
+is_pessoa(Siméia).
+is_father(Jair,Hanã).
+is_father(Siméia,Jônatas).

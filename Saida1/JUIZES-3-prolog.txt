@@ -1,0 +1,12 @@
+is_pessoa(Otniel).
+is_pessoa(Quenaz).
+is_pessoa(Otniel).
+is_pessoa(Quenaz).
+is_pessoa(Eúde).
+is_pessoa(Gêra).
+is_pessoa(Sangar).
+is_pessoa(Anate).
+is_father(Quenaz,Otniel).
+is_father(Quenaz,Otniel).
+is_father(Gêra,Eúde).
+is_father(Anate,Sangar).

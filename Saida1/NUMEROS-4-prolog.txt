@@ -1,0 +1,9 @@
+is_pessoa(Eleazar).
+is_pessoa(Arão).
+is_pessoa(Itamar).
+is_pessoa(Arão).
+is_pessoa(Itamar).
+is_pessoa(Arão).
+is_father(Arão,Eleazar).
+is_father(Arão,Itamar).
+is_father(Arão,Itamar).

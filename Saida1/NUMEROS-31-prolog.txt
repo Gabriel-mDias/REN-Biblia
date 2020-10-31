@@ -1,0 +1,6 @@
+is_pessoa(Finéias).
+is_pessoa(Eleazar).
+is_pessoa(Balaão).
+is_pessoa(Beor).
+is_father(Eleazar,Finéias).
+is_father(Beor,Balaão).

@@ -1,0 +1,35 @@
+
+1 Então disse o <PESSOA>Senhor</PESSOA> a Moisés:{S} Agora verás o que hei de fazer a Faraó;{S} pois por uma poderosa mão os deixará ir, sim, por uma poderosa mão os lançará de sua terra.
+2 Falou mais<PESSOA> Deus</PESSOA> a Moisés, e disse-lhe:{S} Eu sou<PESSOA> Jeová</PESSOA>.
+3 Apareci a Abraão, a Isaque e a Jacó, como o <PESSOA>Deus Todo</PESSOA>-Poderoso;{S} mas pelo meu nome<PESSOA> Jeová</PESSOA>, não lhes fui conhecido.
+4 Estabeleci o meu pacto com eles para lhes dar a terra de<PESSOA> Canaã</PESSOA>, a terra de suas peregrinações, na qual foram peregrinos.
+5 Ademais, tenho ouvido o gemer dos filhos de<PESSOA> Israel</PESSOA>, aos quais os egípcios vêm escravizando;{S} e lembrei-me do meu pacto.
+6 Portanto dize aos filhos de Israel:{S} Eu sou<PESSOA> Jeová</PESSOA>;{S} eu vos tirarei de debaixo das cargas dos egípcios, livrar-vos-ei da sua servidão, e vos resgatarei com braço estendido e com grandes juízos.
+7 Eu vos tomarei por meu povo e serei vosso<PESSOA> Deus</PESSOA>;{S} e vós sabereis que eu sou<PESSOA> Jeová</PESSOA> vosso Deus, que vos tiro de debaixo das cargas dos egípcios.
+8 Eu vos introduzirei na terra que jurei dar a Abraão, a Isaque e a Jacó;{S} e vo-la darei por herança.{S} Eu sou<PESSOA> Jeová</PESSOA>.
+9 Assim falou<PESSOA> Moisés</PESSOA> aos filhos de<PESSOA> Israel</PESSOA>, mas eles não lhe deram ouvidos, por causa da angústia de espírito e da dura servidão.
+10 Falou mais o <PESSOA>Senhor</PESSOA> a Moisés, dizendo:
+11 Vai, fala a Faraó, rei do<PESSOA> Egito</PESSOA>, que deixe sair os filhos de<PESSOA> Israel</PESSOA> da sua terra.
+12<PESSOA> Moisés</PESSOA>, porém, respondeu perante o <PESSOA>Senhor</PESSOA>, dizendo:{S} Eis que os filhos de<PESSOA> Israel</PESSOA> não me têm ouvido: como, pois, me ouvirá Faraó a mim, que sou incircunciso de lábios?
+13 Todavia o <PESSOA>Senhor</PESSOA> falou a Moisés e a Arão, e deu-lhes mandamento para os filhos de<PESSOA> Israel</PESSOA>, e para Faraó, rei do<PESSOA> Egito</PESSOA>, a fim de tirarem os filhos de<PESSOA> Israel</PESSOA> da terra do<PESSOA> Egito</PESSOA>..
+<VALOR>14</VALOR> Estes são os cabeças das casas de seus pais:{S} Os filhos de Rúben o primogênito de Israel:{S} Hanoque e Palu, Hezrom e Carmi;{S} estas são as famílias de Rúben.
+15 E os filhos de Simeão:{S} <PESSOA>Jemuel</PESSOA>,<PESSOA> Jamim</PESSOA>,<PESSOA> Oade</PESSOA>,<PESSOA> Jaquim</PESSOA>,<PESSOA> Zoar</PESSOA> e<PESSOA> Saul</PESSOA>, filho de uma cananéia;{S} estas são as famílias de<PESSOA> Simeão</PESSOA>.
+16 E estes são os nomes dos filhos de<PESSOA> Levi</PESSOA>, segundo as suas gerações:{S} Gérson, Coate e Merári;{S} e os anos da vida de<PESSOA> Levi</PESSOA> foram <VALOR>cento e trinta e sete anos</VALOR>.
+<VALOR>17</VALOR> Os filhos de Gérson:{S} Líbni e Simei, segundo as suas famílias.
+<VALOR>18</VALOR> Os filhos de Coate:{S} Anrão, Izar, Hebrom e Uziel;{S} e os anos da vida de Coate foram <VALOR>cento e trinta e três anos</VALOR>.
+<VALOR>19</VALOR> Os filhos de Merari:{S} Mali e Musi;{S} estas são as famílias de<PESSOA> Levi</PESSOA>, segundo as suas gerações.
+20 Ora, Anrão tomou por mulher a Joquebede, sua tia;{S} e ela lhe deu<PESSOA> Arão</PESSOA> e<PESSOA> Moisés</PESSOA>;{S} e os anos da vida de Anrão foram <VALOR>cento e trinta e sete anos</VALOR>.
+<VALOR>21</VALOR> Os filhos de Izar:{S} Corá, Nofegue e Zicri.
+<VALOR>22</VALOR> Os filhos de Uziel:{S} Misael, Elzafã e Sitri.
+23<PESSOA> Arão</PESSOA> tomou por mulher a Eliseba, filha de Aminadabe, irmã de Nasom;{S} e ela lhe deu <PESSOA>Nadabe</PESSOA>,<PESSOA> Abiú</PESSOA>,<PESSOA> Eleazar</PESSOA> e<PESSOA> Itamar</PESSOA>.
+<VALOR>24</VALOR> Os filhos de Corá:{S} Assir, Elcana e Abiasafe;{S} estas são as famílias dos coraítas.
+25 
+is_father(  Arão ,Eleazar).
+is_pessoa(Eleazar).
+is_pessoa(  Arão ).
+, tomou por mulher uma das filhas de Putiel;{S} e ela lhe deu Finéias;{S} estes são os chefes das casa, paternas dos levitas, segundo as suas famílias.
+<VALOR>26</VALOR> Estes são<PESSOA> Arão</PESSOA> e<PESSOA> Moisés</PESSOA>, aos quais o <PESSOA>Senhor</PESSOA> disse:{S} Tirai os filhos de<PESSOA> Israel</PESSOA> da terra do<PESSOA> Egito</PESSOA>, segundo os seus exércitos.
+27 Foram eles os que falaram a Faraó, rei do<PESSOA> Egito</PESSOA>, a fim de tirarem do<PESSOA> Egito</PESSOA> os filhos de<PESSOA> Israel</PESSOA>;{S} este<PESSOA> Moisés</PESSOA> e este<PESSOA> Arão</PESSOA>.
+28 No dia em que o <PESSOA>Senhor</PESSOA> falou a Moisés na terra do<PESSOA> Egito</PESSOA>,
+29 disse o <PESSOA>Senhor</PESSOA> a Moisés:{S} Eu sou<PESSOA> Jeová</PESSOA>;{S} dize a Faraó, rei do<PESSOA> Egito</PESSOA>, tudo quanto eu te digo.
+30 Respondeu Moisés perante o <PESSOA>Senhor</PESSOA>:{S} Eis que eu sou incircunciso de lábios;{S} como, pois, me ouvirá Faraó;{S}
